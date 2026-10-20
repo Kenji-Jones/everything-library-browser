@@ -1,0 +1,10 @@
+.DS_Store
+*.blend1
+*.part
+_test_out/
+_canvas_stage/
+_canvas_test/
+
+# Source packs aren't needed to run the site; restore them only to rebuild (see README).
+itchSourceFiles/
+canvasSourceFiles/**/*.glb

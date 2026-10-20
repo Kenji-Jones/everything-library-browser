@@ -1,0 +1,4707 @@
+[
+ {
+  "id": "trees-broadleaf-trees-umbrella-tree",
+  "name": "Umbrella Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-umbrella-tree/trees-broadleaf-trees-umbrella-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-umbrella-tree/trees-broadleaf-trees-umbrella-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-umbrella-tree/trees-broadleaf-trees-umbrella-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-umbrella-tree_v1.webp",
+    "dims": [
+     4.44,
+     4.462,
+     10.0
+    ],
+    "tris": 1260,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "0.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-conifers-cypress-sapling",
+  "name": "Cypress Sapling",
+  "category": "Trees",
+  "subcategory": "Conifers",
+  "tags": [],
+  "blend": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling_v1.glb",
+    "fbx": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling_v1.fbx",
+    "thumb": "thumbs/trees-conifers-cypress-sapling_v1.webp",
+    "dims": [
+     0.3815,
+     0.3807,
+     3.0
+    ],
+    "tris": 1152,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling_v2.glb",
+    "fbx": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling_v2.fbx",
+    "thumb": "thumbs/trees-conifers-cypress-sapling_v2.webp",
+    "dims": [
+     0.4362,
+     0.4164,
+     3.0
+    ],
+    "tris": 1794,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling_v3.glb",
+    "fbx": "models/trees/trees-conifers-cypress-sapling/trees-conifers-cypress-sapling_v3.fbx",
+    "thumb": "thumbs/trees-conifers-cypress-sapling_v3.webp",
+    "dims": [
+     0.4359,
+     0.3525,
+     3.0
+    ],
+    "tris": 1778,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "1.glb",
+   "2.glb",
+   "3.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-conifers-cypress-tree",
+  "name": "Cypress Tree",
+  "category": "Trees",
+  "subcategory": "Conifers",
+  "tags": [],
+  "blend": "models/trees/trees-conifers-cypress-tree/trees-conifers-cypress-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-conifers-cypress-tree/trees-conifers-cypress-tree_v1.glb",
+    "fbx": "models/trees/trees-conifers-cypress-tree/trees-conifers-cypress-tree_v1.fbx",
+    "thumb": "thumbs/trees-conifers-cypress-tree_v1.webp",
+    "dims": [
+     2.654,
+     2.639,
+     15.0
+    ],
+    "tris": 1698,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-cypress-tree/trees-conifers-cypress-tree_v2.glb",
+    "fbx": "models/trees/trees-conifers-cypress-tree/trees-conifers-cypress-tree_v2.fbx",
+    "thumb": "thumbs/trees-conifers-cypress-tree_v2.webp",
+    "dims": [
+     4.834,
+     4.777,
+     15.0
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "4.glb",
+   "6.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-bare-sapling",
+  "name": "Bare Sapling",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-bare-sapling/trees-dead-trees-wood-bare-sapling.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-bare-sapling/trees-dead-trees-wood-bare-sapling_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-bare-sapling/trees-dead-trees-wood-bare-sapling_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-bare-sapling_v1.webp",
+    "dims": [
+     0.3258,
+     0.4033,
+     3.0
+    ],
+    "tris": 1538,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-bare-sapling/trees-dead-trees-wood-bare-sapling_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-bare-sapling/trees-dead-trees-wood-bare-sapling_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-bare-sapling_v2.webp",
+    "dims": [
+     0.4567,
+     0.4202,
+     3.0
+    ],
+    "tris": 750,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "5.glb",
+   "42.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-conifers-fir-tree",
+  "name": "Fir Tree",
+  "category": "Trees",
+  "subcategory": "Conifers",
+  "tags": [],
+  "blend": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v1.glb",
+    "fbx": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v1.fbx",
+    "thumb": "thumbs/trees-conifers-fir-tree_v1.webp",
+    "dims": [
+     7.456,
+     8.025,
+     15.0
+    ],
+    "tris": 2496,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v2.glb",
+    "fbx": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v2.fbx",
+    "thumb": "thumbs/trees-conifers-fir-tree_v2.webp",
+    "dims": [
+     7.961,
+     7.758,
+     15.0
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v3.glb",
+    "fbx": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v3.fbx",
+    "thumb": "thumbs/trees-conifers-fir-tree_v3.webp",
+    "dims": [
+     6.564,
+     5.902,
+     15.0
+    ],
+    "tris": 1675,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v4.glb",
+    "fbx": "models/trees/trees-conifers-fir-tree/trees-conifers-fir-tree_v4.fbx",
+    "thumb": "thumbs/trees-conifers-fir-tree_v4.webp",
+    "dims": [
+     6.13,
+     6.58,
+     15.0
+    ],
+    "tris": 1685,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "7.glb",
+   "8.glb",
+   "9.glb",
+   "10.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-birch-tree",
+  "name": "Birch Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-birch-tree_v1.webp",
+    "dims": [
+     6.303,
+     11.62,
+     15.0
+    ],
+    "tris": 1695,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-birch-tree_v2.webp",
+    "dims": [
+     7.879,
+     9.26,
+     15.0
+    ],
+    "tris": 1545,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v3.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v3.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-birch-tree_v3.webp",
+    "dims": [
+     8.862,
+     9.422,
+     15.0
+    ],
+    "tris": 1486,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v4.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-birch-tree/trees-broadleaf-trees-birch-tree_v4.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-birch-tree_v4.webp",
+    "dims": [
+     8.324,
+     11.17,
+     15.0
+    ],
+    "tris": 1145,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "11.glb",
+   "12.glb",
+   "13.glb",
+   "14.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-round-leafy-tree",
+  "name": "Round Leafy Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-round-leafy-tree/trees-broadleaf-trees-round-leafy-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-round-leafy-tree/trees-broadleaf-trees-round-leafy-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-round-leafy-tree/trees-broadleaf-trees-round-leafy-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-round-leafy-tree_v1.webp",
+    "dims": [
+     8.593,
+     8.289,
+     10.0
+    ],
+    "tris": 1322,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-round-leafy-tree/trees-broadleaf-trees-round-leafy-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-round-leafy-tree/trees-broadleaf-trees-round-leafy-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-round-leafy-tree_v2.webp",
+    "dims": [
+     6.183,
+     6.354,
+     10.0
+    ],
+    "tris": 1997,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "15.glb",
+   "16.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-spreading-leafy-tree",
+  "name": "Spreading Leafy Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-spreading-leafy-tree/trees-broadleaf-trees-spreading-leafy-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-spreading-leafy-tree/trees-broadleaf-trees-spreading-leafy-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-spreading-leafy-tree/trees-broadleaf-trees-spreading-leafy-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-spreading-leafy-tree_v1.webp",
+    "dims": [
+     7.771,
+     7.683,
+     10.0
+    ],
+    "tris": 812,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-spreading-leafy-tree/trees-broadleaf-trees-spreading-leafy-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-spreading-leafy-tree/trees-broadleaf-trees-spreading-leafy-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-spreading-leafy-tree_v2.webp",
+    "dims": [
+     8.464,
+     8.076,
+     10.0
+    ],
+    "tris": 1674,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "17.glb",
+   "18.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-oak-tree",
+  "name": "Oak Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-oak-tree_v1.webp",
+    "dims": [
+     9.338,
+     9.705,
+     15.0
+    ],
+    "tris": 2189,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-oak-tree_v2.webp",
+    "dims": [
+     9.903,
+     10.12,
+     15.0
+    ],
+    "tris": 1948,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v3.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v3.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-oak-tree_v3.webp",
+    "dims": [
+     8.734,
+     8.661,
+     15.0
+    ],
+    "tris": 1292,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v4.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-oak-tree/trees-broadleaf-trees-oak-tree_v4.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-oak-tree_v4.webp",
+    "dims": [
+     8.215,
+     7.714,
+     15.0
+    ],
+    "tris": 1240,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "19.glb",
+   "20.glb",
+   "21.glb",
+   "22.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-aspen-tree",
+  "name": "Aspen Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-aspen-tree_v1.webp",
+    "dims": [
+     7.217,
+     8.031,
+     12.0
+    ],
+    "tris": 3025,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-aspen-tree_v2.webp",
+    "dims": [
+     6.679,
+     7.391,
+     12.0
+    ],
+    "tris": 3437,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v3.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v3.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-aspen-tree_v3.webp",
+    "dims": [
+     7.554,
+     6.646,
+     12.0
+    ],
+    "tris": 2612,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v4.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-aspen-tree/trees-broadleaf-trees-aspen-tree_v4.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-aspen-tree_v4.webp",
+    "dims": [
+     7.24,
+     7.126,
+     12.0
+    ],
+    "tris": 3392,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "23.glb",
+   "24.glb",
+   "25.glb",
+   "26.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-elm-tree",
+  "name": "Elm Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-elm-tree_v1.webp",
+    "dims": [
+     11.33,
+     10.8,
+     15.0
+    ],
+    "tris": 2072,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-elm-tree_v2.webp",
+    "dims": [
+     9.911,
+     8.798,
+     15.0
+    ],
+    "tris": 2296,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v3.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v3.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-elm-tree_v3.webp",
+    "dims": [
+     10.13,
+     9.566,
+     15.0
+    ],
+    "tris": 2408,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v4.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v4.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-elm-tree_v4.webp",
+    "dims": [
+     10.33,
+     8.271,
+     15.0
+    ],
+    "tris": 2920,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v5.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-elm-tree/trees-broadleaf-trees-elm-tree_v5.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-elm-tree_v5.webp",
+    "dims": [
+     13.43,
+     12.79,
+     15.0
+    ],
+    "tris": 3032,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "27.glb",
+   "28.glb",
+   "29.glb",
+   "30.glb",
+   "31.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-conifers-pine-tree",
+  "name": "Pine Tree",
+  "category": "Trees",
+  "subcategory": "Conifers",
+  "tags": [],
+  "blend": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v1.glb",
+    "fbx": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v1.fbx",
+    "thumb": "thumbs/trees-conifers-pine-tree_v1.webp",
+    "dims": [
+     5.115,
+     5.32,
+     18.0
+    ],
+    "tris": 2238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v2.glb",
+    "fbx": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v2.fbx",
+    "thumb": "thumbs/trees-conifers-pine-tree_v2.webp",
+    "dims": [
+     5.143,
+     5.344,
+     18.0
+    ],
+    "tris": 2178,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v3.glb",
+    "fbx": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v3.fbx",
+    "thumb": "thumbs/trees-conifers-pine-tree_v3.webp",
+    "dims": [
+     5.193,
+     5.401,
+     18.0
+    ],
+    "tris": 2514,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v4.glb",
+    "fbx": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v4.fbx",
+    "thumb": "thumbs/trees-conifers-pine-tree_v4.webp",
+    "dims": [
+     5.878,
+     5.53,
+     18.0
+    ],
+    "tris": 2202,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v5.glb",
+    "fbx": "models/trees/trees-conifers-pine-tree/trees-conifers-pine-tree_v5.fbx",
+    "thumb": "thumbs/trees-conifers-pine-tree_v5.webp",
+    "dims": [
+     5.223,
+     5.432,
+     18.0
+    ],
+    "tris": 2170,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "32.glb",
+   "33.glb",
+   "34.glb",
+   "35.glb",
+   "36.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-tall-bushy-tree",
+  "name": "Tall Bushy Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-tall-bushy-tree_v1.webp",
+    "dims": [
+     3.233,
+     3.577,
+     10.0
+    ],
+    "tris": 2016,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-tall-bushy-tree_v2.webp",
+    "dims": [
+     3.477,
+     3.431,
+     10.0
+    ],
+    "tris": 2424,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v3.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v3.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-tall-bushy-tree_v3.webp",
+    "dims": [
+     3.452,
+     3.462,
+     10.0
+    ],
+    "tris": 1998,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v4.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v4.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-tall-bushy-tree_v4.webp",
+    "dims": [
+     3.57,
+     3.475,
+     10.0
+    ],
+    "tris": 2142,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v5.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-tall-bushy-tree/trees-broadleaf-trees-tall-bushy-tree_v5.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-tall-bushy-tree_v5.webp",
+    "dims": [
+     3.359,
+     3.508,
+     10.0
+    ],
+    "tris": 2388,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "37.glb",
+   "38.glb",
+   "39.glb",
+   "40.glb",
+   "41.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-poplar-tree",
+  "name": "Poplar Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-poplar-tree/trees-broadleaf-trees-poplar-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-poplar-tree/trees-broadleaf-trees-poplar-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-poplar-tree/trees-broadleaf-trees-poplar-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-poplar-tree_v1.webp",
+    "dims": [
+     5.75,
+     5.75,
+     15.0
+    ],
+    "tris": 694,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "43.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-conifers-japanese-pine-tree",
+  "name": "Japanese Pine Tree",
+  "category": "Trees",
+  "subcategory": "Conifers",
+  "tags": [],
+  "blend": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v1.glb",
+    "fbx": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v1.fbx",
+    "thumb": "thumbs/trees-conifers-japanese-pine-tree_v1.webp",
+    "dims": [
+     2.422,
+     2.099,
+     6.0
+    ],
+    "tris": 1466,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v2.glb",
+    "fbx": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v2.fbx",
+    "thumb": "thumbs/trees-conifers-japanese-pine-tree_v2.webp",
+    "dims": [
+     2.175,
+     2.447,
+     6.0
+    ],
+    "tris": 1530,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v3.glb",
+    "fbx": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v3.fbx",
+    "thumb": "thumbs/trees-conifers-japanese-pine-tree_v3.webp",
+    "dims": [
+     2.329,
+     2.617,
+     6.0
+    ],
+    "tris": 1836,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v4.glb",
+    "fbx": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v4.fbx",
+    "thumb": "thumbs/trees-conifers-japanese-pine-tree_v4.webp",
+    "dims": [
+     2.097,
+     2.529,
+     6.0
+    ],
+    "tris": 1478,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v5.glb",
+    "fbx": "models/trees/trees-conifers-japanese-pine-tree/trees-conifers-japanese-pine-tree_v5.fbx",
+    "thumb": "thumbs/trees-conifers-japanese-pine-tree_v5.webp",
+    "dims": [
+     2.053,
+     2.266,
+     6.0
+    ],
+    "tris": 1542,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "44.glb",
+   "45.glb",
+   "46.glb",
+   "47.glb",
+   "48.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-acacia-tree",
+  "name": "Acacia Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-acacia-tree_v1.webp",
+    "dims": [
+     7.146,
+     10.0,
+     9.063
+    ],
+    "tris": 2362,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-acacia-tree_v2.webp",
+    "dims": [
+     10.0,
+     7.902,
+     9.743
+    ],
+    "tris": 2242,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v3.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v3.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-acacia-tree_v3.webp",
+    "dims": [
+     7.419,
+     9.972,
+     10.0
+    ],
+    "tris": 2648,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v4.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-acacia-tree/trees-broadleaf-trees-acacia-tree_v4.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-acacia-tree_v4.webp",
+    "dims": [
+     9.154,
+     10.0,
+     9.221
+    ],
+    "tris": 2126,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "49.glb",
+   "50.glb",
+   "51.glb",
+   "52.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-broadleaf-trees-baobab-tree",
+  "name": "Baobab Tree",
+  "category": "Trees",
+  "subcategory": "Broadleaf Trees",
+  "tags": [],
+  "blend": "models/trees/trees-broadleaf-trees-baobab-tree/trees-broadleaf-trees-baobab-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-broadleaf-trees-baobab-tree/trees-broadleaf-trees-baobab-tree_v1.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-baobab-tree/trees-broadleaf-trees-baobab-tree_v1.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-baobab-tree_v1.webp",
+    "dims": [
+     9.933,
+     10.32,
+     20.0
+    ],
+    "tris": 3408,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-broadleaf-trees-baobab-tree/trees-broadleaf-trees-baobab-tree_v2.glb",
+    "fbx": "models/trees/trees-broadleaf-trees-baobab-tree/trees-broadleaf-trees-baobab-tree_v2.fbx",
+    "thumb": "thumbs/trees-broadleaf-trees-baobab-tree_v2.webp",
+    "dims": [
+     11.2,
+     11.26,
+     20.0
+    ],
+    "tris": 3250,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "53.glb",
+   "54.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-plants-saplings-tree-sapling",
+  "name": "Tree Sapling",
+  "category": "Trees",
+  "subcategory": "Plants & Saplings",
+  "tags": [],
+  "blend": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling_v1.glb",
+    "fbx": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling_v1.fbx",
+    "thumb": "thumbs/trees-plants-saplings-tree-sapling_v1.webp",
+    "dims": [
+     0.6348,
+     0.7533,
+     1.0
+    ],
+    "tris": 332,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling_v2.glb",
+    "fbx": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling_v2.fbx",
+    "thumb": "thumbs/trees-plants-saplings-tree-sapling_v2.webp",
+    "dims": [
+     0.6767,
+     0.6306,
+     1.0
+    ],
+    "tris": 330,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling_v3.glb",
+    "fbx": "models/trees/trees-plants-saplings-tree-sapling/trees-plants-saplings-tree-sapling_v3.fbx",
+    "thumb": "thumbs/trees-plants-saplings-tree-sapling_v3.webp",
+    "dims": [
+     0.6645,
+     0.5149,
+     1.0
+    ],
+    "tris": 422,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "55.glb",
+   "56.glb",
+   "57.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-plants-saplings-pine-sapling",
+  "name": "Pine Sapling",
+  "category": "Trees",
+  "subcategory": "Plants & Saplings",
+  "tags": [],
+  "blend": "models/trees/trees-plants-saplings-pine-sapling/trees-plants-saplings-pine-sapling.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-plants-saplings-pine-sapling/trees-plants-saplings-pine-sapling_v1.glb",
+    "fbx": "models/trees/trees-plants-saplings-pine-sapling/trees-plants-saplings-pine-sapling_v1.fbx",
+    "thumb": "thumbs/trees-plants-saplings-pine-sapling_v1.webp",
+    "dims": [
+     0.3142,
+     0.3026,
+     0.6
+    ],
+    "tris": 2044,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-pine-sapling/trees-plants-saplings-pine-sapling_v2.glb",
+    "fbx": "models/trees/trees-plants-saplings-pine-sapling/trees-plants-saplings-pine-sapling_v2.fbx",
+    "thumb": "thumbs/trees-plants-saplings-pine-sapling_v2.webp",
+    "dims": [
+     0.2214,
+     0.2363,
+     0.6
+    ],
+    "tris": 856,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "58.glb",
+   "59.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-chestnut",
+  "name": "Chestnut",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-chestnut/trees-seeds-nuts-chestnut.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-chestnut/trees-seeds-nuts-chestnut_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-chestnut/trees-seeds-nuts-chestnut_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-chestnut_v1.webp",
+    "dims": [
+     0.03,
+     0.02761,
+     0.01984
+    ],
+    "tris": 196,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "60.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-acorn",
+  "name": "Acorn",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-acorn/trees-seeds-nuts-acorn.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-acorn/trees-seeds-nuts-acorn_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-acorn/trees-seeds-nuts-acorn_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-acorn_v1.webp",
+    "dims": [
+     0.01659,
+     0.025,
+     0.01659
+    ],
+    "tris": 864,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "61.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-maple-seed",
+  "name": "Maple Seed",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-maple-seed/trees-seeds-nuts-maple-seed.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-maple-seed/trees-seeds-nuts-maple-seed_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-maple-seed/trees-seeds-nuts-maple-seed_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-maple-seed_v1.webp",
+    "dims": [
+     0.05,
+     0.006508,
+     0.0279
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-maple-seed/trees-seeds-nuts-maple-seed_v2.glb",
+    "fbx": "models/trees/trees-seeds-nuts-maple-seed/trees-seeds-nuts-maple-seed_v2.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-maple-seed_v2.webp",
+    "dims": [
+     0.05,
+     0.006508,
+     0.0279
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "62.glb",
+   "63.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-pine-cone",
+  "name": "Pine Cone",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-pine-cone/trees-seeds-nuts-pine-cone.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-pine-cone/trees-seeds-nuts-pine-cone_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-pine-cone/trees-seeds-nuts-pine-cone_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-pine-cone_v1.webp",
+    "dims": [
+     0.06178,
+     0.08,
+     0.06172
+    ],
+    "tris": 2062,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "64.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-dried-pea",
+  "name": "Dried Pea",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-dried-pea_v1.webp",
+    "dims": [
+     0.7197,
+     0.8,
+     0.5773
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v2.glb",
+    "fbx": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v2.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-dried-pea_v2.webp",
+    "dims": [
+     0.6637,
+     0.8,
+     0.5805
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v3.glb",
+    "fbx": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v3.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-dried-pea_v3.webp",
+    "dims": [
+     0.7772,
+     0.8,
+     0.6826
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v4.glb",
+    "fbx": "models/trees/trees-seeds-nuts-dried-pea/trees-seeds-nuts-dried-pea_v4.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-dried-pea_v4.webp",
+    "dims": [
+     0.6655,
+     0.8,
+     0.6798
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "65.glb",
+   "66.glb",
+   "67.glb",
+   "68.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-sunflower-seed",
+  "name": "Sunflower Seed",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-sunflower-seed_v1.webp",
+    "dims": [
+     0.005439,
+     0.012,
+     0.002918
+    ],
+    "tris": 784,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed_v2.glb",
+    "fbx": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed_v2.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-sunflower-seed_v2.webp",
+    "dims": [
+     0.006138,
+     0.012,
+     0.003067
+    ],
+    "tris": 786,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed_v3.glb",
+    "fbx": "models/trees/trees-seeds-nuts-sunflower-seed/trees-seeds-nuts-sunflower-seed_v3.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-sunflower-seed_v3.webp",
+    "dims": [
+     0.006113,
+     0.012,
+     0.003055
+    ],
+    "tris": 780,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "69.glb",
+   "70.glb",
+   "71.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-wheat-grain",
+  "name": "Wheat Grain",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-wheat-grain_v1.webp",
+    "dims": [
+     0.2949,
+     0.7,
+     0.2195
+    ],
+    "tris": 512,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain_v2.glb",
+    "fbx": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain_v2.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-wheat-grain_v2.webp",
+    "dims": [
+     0.3387,
+     0.7,
+     0.2104
+    ],
+    "tris": 512,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain_v3.glb",
+    "fbx": "models/trees/trees-seeds-nuts-wheat-grain/trees-seeds-nuts-wheat-grain_v3.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-wheat-grain_v3.webp",
+    "dims": [
+     0.2978,
+     0.7,
+     0.2104
+    ],
+    "tris": 512,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "72.glb",
+   "73.glb",
+   "74.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-oat-grain",
+  "name": "Oat Grain",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-oat-grain_v1.webp",
+    "dims": [
+     0.004194,
+     0.012,
+     0.003062
+    ],
+    "tris": 616,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain_v2.glb",
+    "fbx": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain_v2.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-oat-grain_v2.webp",
+    "dims": [
+     0.004359,
+     0.012,
+     0.003182
+    ],
+    "tris": 596,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain_v3.glb",
+    "fbx": "models/trees/trees-seeds-nuts-oat-grain/trees-seeds-nuts-oat-grain_v3.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-oat-grain_v3.webp",
+    "dims": [
+     0.004128,
+     0.012,
+     0.003012
+    ],
+    "tris": 596,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "75.glb",
+   "76.glb",
+   "77.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-seeds-nuts-poppy-seed",
+  "name": "Poppy Seed",
+  "category": "Trees",
+  "subcategory": "Seeds & Nuts",
+  "tags": [],
+  "blend": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v1.glb",
+    "fbx": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v1.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-poppy-seed_v1.webp",
+    "dims": [
+     0.1,
+     0.08452,
+     0.09007
+    ],
+    "tris": 2684,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v2.glb",
+    "fbx": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v2.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-poppy-seed_v2.webp",
+    "dims": [
+     0.09804,
+     0.1,
+     0.0996
+    ],
+    "tris": 2684,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v3.glb",
+    "fbx": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v3.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-poppy-seed_v3.webp",
+    "dims": [
+     0.1,
+     0.07905,
+     0.08266
+    ],
+    "tris": 2684,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v4.glb",
+    "fbx": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v4.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-poppy-seed_v4.webp",
+    "dims": [
+     0.1,
+     0.07817,
+     0.07822
+    ],
+    "tris": 2684,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v5.glb",
+    "fbx": "models/trees/trees-seeds-nuts-poppy-seed/trees-seeds-nuts-poppy-seed_v5.fbx",
+    "thumb": "thumbs/trees-seeds-nuts-poppy-seed_v5.webp",
+    "dims": [
+     0.08683,
+     0.07827,
+     0.1
+    ],
+    "tris": 2684,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "78.glb",
+   "79.glb",
+   "80.glb",
+   "81.glb",
+   "82.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-plants-saplings-potted-tree",
+  "name": "Potted Tree",
+  "category": "Trees",
+  "subcategory": "Plants & Saplings",
+  "tags": [],
+  "blend": "models/trees/trees-plants-saplings-potted-tree/trees-plants-saplings-potted-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-plants-saplings-potted-tree/trees-plants-saplings-potted-tree_v1.glb",
+    "fbx": "models/trees/trees-plants-saplings-potted-tree/trees-plants-saplings-potted-tree_v1.fbx",
+    "thumb": "thumbs/trees-plants-saplings-potted-tree_v1.webp",
+    "dims": [
+     0.7327,
+     0.7327,
+     1.2
+    ],
+    "tris": 562,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "83.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-conifers-christmas-tree",
+  "name": "Christmas Tree",
+  "category": "Trees",
+  "subcategory": "Conifers",
+  "tags": [],
+  "blend": "models/trees/trees-conifers-christmas-tree/trees-conifers-christmas-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-conifers-christmas-tree/trees-conifers-christmas-tree_v1.glb",
+    "fbx": "models/trees/trees-conifers-christmas-tree/trees-conifers-christmas-tree_v1.fbx",
+    "thumb": "thumbs/trees-conifers-christmas-tree_v1.webp",
+    "dims": [
+     1.454,
+     1.454,
+     2.0
+    ],
+    "tris": 1078,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "84.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-plants-saplings-potted-plant",
+  "name": "Potted Plant",
+  "category": "Trees",
+  "subcategory": "Plants & Saplings",
+  "tags": [],
+  "blend": "models/trees/trees-plants-saplings-potted-plant/trees-plants-saplings-potted-plant.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-plants-saplings-potted-plant/trees-plants-saplings-potted-plant_v1.glb",
+    "fbx": "models/trees/trees-plants-saplings-potted-plant/trees-plants-saplings-potted-plant_v1.fbx",
+    "thumb": "thumbs/trees-plants-saplings-potted-plant_v1.webp",
+    "dims": [
+     0.6,
+     0.5471,
+     0.4546
+    ],
+    "tris": 744,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "85.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-plants-saplings-boxed-plant",
+  "name": "Boxed Plant",
+  "category": "Trees",
+  "subcategory": "Plants & Saplings",
+  "tags": [],
+  "blend": "models/trees/trees-plants-saplings-boxed-plant/trees-plants-saplings-boxed-plant.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-plants-saplings-boxed-plant/trees-plants-saplings-boxed-plant_v1.glb",
+    "fbx": "models/trees/trees-plants-saplings-boxed-plant/trees-plants-saplings-boxed-plant_v1.fbx",
+    "thumb": "thumbs/trees-plants-saplings-boxed-plant_v1.webp",
+    "dims": [
+     0.6215,
+     0.5454,
+     0.8
+    ],
+    "tris": 344,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "86.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-leaves-maple-leaf",
+  "name": "Maple Leaf",
+  "category": "Trees",
+  "subcategory": "Leaves",
+  "tags": [],
+  "blend": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf_v1.glb",
+    "fbx": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf_v1.fbx",
+    "thumb": "thumbs/trees-leaves-maple-leaf_v1.webp",
+    "dims": [
+     0.1252,
+     0.15,
+     0.02117
+    ],
+    "tris": 66,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf_v2.glb",
+    "fbx": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf_v2.fbx",
+    "thumb": "thumbs/trees-leaves-maple-leaf_v2.webp",
+    "dims": [
+     0.07571,
+     0.15,
+     0.04514
+    ],
+    "tris": 66,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf_v3.glb",
+    "fbx": "models/trees/trees-leaves-maple-leaf/trees-leaves-maple-leaf_v3.fbx",
+    "thumb": "thumbs/trees-leaves-maple-leaf_v3.webp",
+    "dims": [
+     0.1164,
+     0.15,
+     0.03927
+    ],
+    "tris": 66,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "87.glb",
+   "88.glb",
+   "89.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-leaves-chestnut-leaf",
+  "name": "Chestnut Leaf",
+  "category": "Trees",
+  "subcategory": "Leaves",
+  "tags": [],
+  "blend": "models/trees/trees-leaves-chestnut-leaf/trees-leaves-chestnut-leaf.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-leaves-chestnut-leaf/trees-leaves-chestnut-leaf_v1.glb",
+    "fbx": "models/trees/trees-leaves-chestnut-leaf/trees-leaves-chestnut-leaf_v1.fbx",
+    "thumb": "thumbs/trees-leaves-chestnut-leaf_v1.webp",
+    "dims": [
+     0.25,
+     0.2247,
+     0.03363
+    ],
+    "tris": 97,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-chestnut-leaf/trees-leaves-chestnut-leaf_v2.glb",
+    "fbx": "models/trees/trees-leaves-chestnut-leaf/trees-leaves-chestnut-leaf_v2.fbx",
+    "thumb": "thumbs/trees-leaves-chestnut-leaf_v2.webp",
+    "dims": [
+     0.25,
+     0.2438,
+     0.05717
+    ],
+    "tris": 97,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "90.glb",
+   "91.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-leaves-leaf-cluster",
+  "name": "Leaf Cluster",
+  "category": "Trees",
+  "subcategory": "Leaves",
+  "tags": [],
+  "blend": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v1.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v1.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v1.webp",
+    "dims": [
+     0.1213,
+     0.15,
+     0.03561
+    ],
+    "tris": 346,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v2.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v2.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v2.webp",
+    "dims": [
+     0.15,
+     0.1499,
+     0.06555
+    ],
+    "tris": 334,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v3.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v3.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v3.webp",
+    "dims": [
+     0.1163,
+     0.15,
+     0.05645
+    ],
+    "tris": 421,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v4.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v4.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v4.webp",
+    "dims": [
+     0.1024,
+     0.15,
+     0.081
+    ],
+    "tris": 382,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v5.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v5.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v5.webp",
+    "dims": [
+     0.1142,
+     0.15,
+     0.05334
+    ],
+    "tris": 343,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v6.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v6.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v6.webp",
+    "dims": [
+     0.1359,
+     0.15,
+     0.0522
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v7.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v7.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v7.webp",
+    "dims": [
+     0.15,
+     0.1412,
+     0.05143
+    ],
+    "tris": 367,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v8.glb",
+    "fbx": "models/trees/trees-leaves-leaf-cluster/trees-leaves-leaf-cluster_v8.fbx",
+    "thumb": "thumbs/trees-leaves-leaf-cluster_v8.webp",
+    "dims": [
+     0.1079,
+     0.15,
+     0.0731
+    ],
+    "tris": 390,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "92.glb",
+   "93.glb",
+   "94.glb",
+   "95.glb",
+   "96.glb",
+   "97.glb",
+   "98.glb",
+   "99.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-leaves-crumpled-leaf",
+  "name": "Crumpled Leaf",
+  "category": "Trees",
+  "subcategory": "Leaves",
+  "tags": [],
+  "blend": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v1.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v1.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v1.webp",
+    "dims": [
+     0.1025,
+     0.12,
+     0.0383
+    ],
+    "tris": 425,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v2.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v2.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v2.webp",
+    "dims": [
+     0.1097,
+     0.12,
+     0.0525
+    ],
+    "tris": 366,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v3.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v3.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v3.webp",
+    "dims": [
+     0.07782,
+     0.12,
+     0.07074
+    ],
+    "tris": 474,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v4.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v4.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v4.webp",
+    "dims": [
+     0.12,
+     0.09192,
+     0.02393
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v5.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v5.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v5.webp",
+    "dims": [
+     0.09207,
+     0.12,
+     0.06427
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v6.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v6.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v6.webp",
+    "dims": [
+     0.1177,
+     0.12,
+     0.03838
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v7.glb",
+    "fbx": "models/trees/trees-leaves-crumpled-leaf/trees-leaves-crumpled-leaf_v7.fbx",
+    "thumb": "thumbs/trees-leaves-crumpled-leaf_v7.webp",
+    "dims": [
+     0.1016,
+     0.12,
+     0.05915
+    ],
+    "tris": 360,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "100.glb",
+   "101.glb",
+   "102.glb",
+   "103.glb",
+   "104.glb",
+   "105.glb",
+   "106.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-leaves-elm-leaf",
+  "name": "Elm Leaf",
+  "category": "Trees",
+  "subcategory": "Leaves",
+  "tags": [],
+  "blend": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v1.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v1.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v1.webp",
+    "dims": [
+     0.07726,
+     0.1,
+     0.03562
+    ],
+    "tris": 258,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v2.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v2.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v2.webp",
+    "dims": [
+     0.04896,
+     0.1,
+     0.02151
+    ],
+    "tris": 234,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v3.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v3.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v3.webp",
+    "dims": [
+     0.04946,
+     0.1,
+     0.02292
+    ],
+    "tris": 248,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v4.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v4.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v4.webp",
+    "dims": [
+     0.05463,
+     0.1,
+     0.02102
+    ],
+    "tris": 245,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v5.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v5.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v5.webp",
+    "dims": [
+     0.06609,
+     0.1,
+     0.01827
+    ],
+    "tris": 242,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v6.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v6.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v6.webp",
+    "dims": [
+     0.07407,
+     0.1,
+     0.03694
+    ],
+    "tris": 268,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v7.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v7.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v7.webp",
+    "dims": [
+     0.06226,
+     0.1,
+     0.02737
+    ],
+    "tris": 225,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v8.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v8.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v8.webp",
+    "dims": [
+     0.04789,
+     0.1,
+     0.02218
+    ],
+    "tris": 165,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v9.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v9.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v9.webp",
+    "dims": [
+     0.05445,
+     0.1,
+     0.0202
+    ],
+    "tris": 163,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v10.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v10.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v10.webp",
+    "dims": [
+     0.06198,
+     0.1,
+     0.01323
+    ],
+    "tris": 162,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v11.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v11.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v11.webp",
+    "dims": [
+     0.06187,
+     0.1,
+     0.02461
+    ],
+    "tris": 244,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v12.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v12.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v12.webp",
+    "dims": [
+     0.04894,
+     0.1,
+     0.0284
+    ],
+    "tris": 154,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v13.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v13.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v13.webp",
+    "dims": [
+     0.06274,
+     0.1,
+     0.02564
+    ],
+    "tris": 163,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v14.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v14.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v14.webp",
+    "dims": [
+     0.05549,
+     0.1,
+     0.02242
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v15.glb",
+    "fbx": "models/trees/trees-leaves-elm-leaf/trees-leaves-elm-leaf_v15.fbx",
+    "thumb": "thumbs/trees-leaves-elm-leaf_v15.webp",
+    "dims": [
+     0.03844,
+     0.1,
+     0.02574
+    ],
+    "tris": 162,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "107.glb",
+   "108.glb",
+   "109.glb",
+   "110.glb",
+   "111.glb",
+   "112.glb",
+   "113.glb",
+   "114.glb",
+   "115.glb",
+   "116.glb",
+   "117.glb",
+   "118.glb",
+   "119.glb",
+   "120.glb",
+   "121.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-leaves-oak-leaf",
+  "name": "Oak Leaf",
+  "category": "Trees",
+  "subcategory": "Leaves",
+  "tags": [],
+  "blend": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v1.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v1.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v1.webp",
+    "dims": [
+     0.08088,
+     0.12,
+     0.02235
+    ],
+    "tris": 396,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v2.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v2.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v2.webp",
+    "dims": [
+     0.05706,
+     0.12,
+     0.02919
+    ],
+    "tris": 351,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v3.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v3.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v3.webp",
+    "dims": [
+     0.08142,
+     0.12,
+     0.03226
+    ],
+    "tris": 333,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v4.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v4.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v4.webp",
+    "dims": [
+     0.06871,
+     0.12,
+     0.0279
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v5.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v5.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v5.webp",
+    "dims": [
+     0.09506,
+     0.12,
+     0.04402
+    ],
+    "tris": 314,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v6.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v6.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v6.webp",
+    "dims": [
+     0.0867,
+     0.12,
+     0.03227
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v7.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v7.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v7.webp",
+    "dims": [
+     0.0848,
+     0.12,
+     0.03571
+    ],
+    "tris": 356,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v8.glb",
+    "fbx": "models/trees/trees-leaves-oak-leaf/trees-leaves-oak-leaf_v8.fbx",
+    "thumb": "thumbs/trees-leaves-oak-leaf_v8.webp",
+    "dims": [
+     0.06378,
+     0.12,
+     0.03561
+    ],
+    "tris": 397,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "122.glb",
+   "123.glb",
+   "124.glb",
+   "125.glb",
+   "126.glb",
+   "127.glb",
+   "128.glb",
+   "129.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-driftwood",
+  "name": "Driftwood",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-driftwood_v1.webp",
+    "dims": [
+     1.5,
+     0.3013,
+     0.2048
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-driftwood_v2.webp",
+    "dims": [
+     1.5,
+     0.2554,
+     0.1441
+    ],
+    "tris": 204,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-driftwood/trees-dead-trees-wood-driftwood_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-driftwood_v3.webp",
+    "dims": [
+     1.5,
+     0.3732,
+     0.1738
+    ],
+    "tris": 262,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "130.glb",
+   "131.glb",
+   "132.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-bare-bush",
+  "name": "Bare Bush",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-bare-bush_v1.webp",
+    "dims": [
+     1.447,
+     0.9387,
+     1.5
+    ],
+    "tris": 956,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-bare-bush_v2.webp",
+    "dims": [
+     1.135,
+     0.9912,
+     1.5
+    ],
+    "tris": 932,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-bare-bush/trees-dead-trees-wood-bare-bush_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-bare-bush_v3.webp",
+    "dims": [
+     0.8024,
+     0.5778,
+     1.5
+    ],
+    "tris": 1030,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "133.glb",
+   "134.glb",
+   "135.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-tree-stump",
+  "name": "Tree Stump",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-tree-stump_v1.webp",
+    "dims": [
+     0.5876,
+     0.8,
+     0.7831
+    ],
+    "tris": 414,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-tree-stump_v2.webp",
+    "dims": [
+     0.6532,
+     0.8,
+     0.5204
+    ],
+    "tris": 432,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-tree-stump_v3.webp",
+    "dims": [
+     0.6724,
+     0.8,
+     0.6026
+    ],
+    "tris": 458,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v4.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v4.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-tree-stump_v4.webp",
+    "dims": [
+     0.473,
+     0.5305,
+     0.8
+    ],
+    "tris": 520,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v5.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-tree-stump/trees-dead-trees-wood-tree-stump_v5.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-tree-stump_v5.webp",
+    "dims": [
+     0.6651,
+     0.8,
+     0.394
+    ],
+    "tris": 472,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "136.glb",
+   "137.glb",
+   "138.glb",
+   "139.glb",
+   "140.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-dead-tree",
+  "name": "Dead Tree",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-tree_v1.webp",
+    "dims": [
+     4.122,
+     3.806,
+     6.0
+    ],
+    "tris": 2116,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-tree_v2.webp",
+    "dims": [
+     3.215,
+     1.662,
+     6.0
+    ],
+    "tris": 894,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-tree_v3.webp",
+    "dims": [
+     2.366,
+     1.737,
+     6.0
+    ],
+    "tris": 624,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v4.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v4.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-tree_v4.webp",
+    "dims": [
+     2.405,
+     3.165,
+     6.0
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v5.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v5.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-tree_v5.webp",
+    "dims": [
+     1.432,
+     1.371,
+     6.0
+    ],
+    "tris": 424,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v6.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-tree/trees-dead-trees-wood-dead-tree_v6.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-tree_v6.webp",
+    "dims": [
+     1.051,
+     1.381,
+     6.0
+    ],
+    "tris": 418,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "141.glb",
+   "142.glb",
+   "143.glb",
+   "144.glb",
+   "145.glb",
+   "146.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-cut-log",
+  "name": "Cut Log",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-cut-log_v1.webp",
+    "dims": [
+     1.5,
+     0.4997,
+     0.503
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-cut-log_v2.webp",
+    "dims": [
+     1.5,
+     0.469,
+     0.3323
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-cut-log/trees-dead-trees-wood-cut-log_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-cut-log_v3.webp",
+    "dims": [
+     1.5,
+     0.3683,
+     0.3656
+    ],
+    "tris": 92,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "147.glb",
+   "148.glb",
+   "149.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-plants-saplings-green-stem",
+  "name": "Green Stem",
+  "category": "Trees",
+  "subcategory": "Plants & Saplings",
+  "tags": [],
+  "blend": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v1.glb",
+    "fbx": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v1.fbx",
+    "thumb": "thumbs/trees-plants-saplings-green-stem_v1.webp",
+    "dims": [
+     0.3303,
+     0.2565,
+     0.5
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v2.glb",
+    "fbx": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v2.fbx",
+    "thumb": "thumbs/trees-plants-saplings-green-stem_v2.webp",
+    "dims": [
+     0.5,
+     0.1505,
+     0.2135
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v3.glb",
+    "fbx": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v3.fbx",
+    "thumb": "thumbs/trees-plants-saplings-green-stem_v3.webp",
+    "dims": [
+     0.2959,
+     0.4398,
+     0.5
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v4.glb",
+    "fbx": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v4.fbx",
+    "thumb": "thumbs/trees-plants-saplings-green-stem_v4.webp",
+    "dims": [
+     0.5,
+     0.4237,
+     0.3039
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v5.glb",
+    "fbx": "models/trees/trees-plants-saplings-green-stem/trees-plants-saplings-green-stem_v5.fbx",
+    "thumb": "thumbs/trees-plants-saplings-green-stem_v5.webp",
+    "dims": [
+     0.05281,
+     0.4605,
+     0.5
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "150.glb",
+   "151.glb",
+   "152.glb",
+   "153.glb",
+   "154.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-wood-splinter",
+  "name": "Wood Splinter",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v1.webp",
+    "dims": [
+     0.3,
+     0.234,
+     0.07532
+    ],
+    "tris": 305,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v2.webp",
+    "dims": [
+     0.2592,
+     0.3,
+     0.2359
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v3.webp",
+    "dims": [
+     0.3,
+     0.1342,
+     0.04804
+    ],
+    "tris": 450,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v4.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v4.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v4.webp",
+    "dims": [
+     0.01179,
+     0.1499,
+     0.3
+    ],
+    "tris": 275,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v5.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v5.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v5.webp",
+    "dims": [
+     0.1026,
+     0.3,
+     0.1194
+    ],
+    "tris": 426,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v6.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v6.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v6.webp",
+    "dims": [
+     0.1016,
+     0.2391,
+     0.3
+    ],
+    "tris": 538,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v7.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v7.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v7.webp",
+    "dims": [
+     0.1103,
+     0.3,
+     0.1104
+    ],
+    "tris": 401,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v8.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v8.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v8.webp",
+    "dims": [
+     0.3,
+     0.2534,
+     0.287
+    ],
+    "tris": 1638,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v9.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-wood-splinter/trees-dead-trees-wood-wood-splinter_v9.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-wood-splinter_v9.webp",
+    "dims": [
+     0.3,
+     0.04007,
+     0.2753
+    ],
+    "tris": 490,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "155.glb",
+   "156.glb",
+   "157.glb",
+   "158.glb",
+   "159.glb",
+   "160.glb",
+   "161.glb",
+   "162.glb",
+   "163.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-dead-trees-wood-dead-branch",
+  "name": "Dead Branch",
+  "category": "Trees",
+  "subcategory": "Dead Trees & Wood",
+  "tags": [],
+  "blend": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v1.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v1.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v1.webp",
+    "dims": [
+     1.5,
+     0.08674,
+     0.1236
+    ],
+    "tris": 565,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v2.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v2.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v2.webp",
+    "dims": [
+     1.5,
+     0.1137,
+     0.07531
+    ],
+    "tris": 2004,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v3.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v3.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v3.webp",
+    "dims": [
+     1.5,
+     0.08411,
+     0.1015
+    ],
+    "tris": 1931,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v4.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v4.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v4.webp",
+    "dims": [
+     1.5,
+     0.122,
+     0.1494
+    ],
+    "tris": 1891,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v5.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v5.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v5.webp",
+    "dims": [
+     1.5,
+     0.1428,
+     0.09738
+    ],
+    "tris": 1516,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v6.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v6.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v6.webp",
+    "dims": [
+     1.5,
+     0.1388,
+     0.1469
+    ],
+    "tris": 1849,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v7.glb",
+    "fbx": "models/trees/trees-dead-trees-wood-dead-branch/trees-dead-trees-wood-dead-branch_v7.fbx",
+    "thumb": "thumbs/trees-dead-trees-wood-dead-branch_v7.webp",
+    "dims": [
+     1.5,
+     0.07429,
+     0.08734
+    ],
+    "tris": 1029,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "164.glb",
+   "165.glb",
+   "166.glb",
+   "167.glb",
+   "168.glb",
+   "169.glb",
+   "170.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-bushy-palm",
+  "name": "Bushy Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-bushy-palm/trees-palms-ferns-bushy-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-bushy-palm/trees-palms-ferns-bushy-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-bushy-palm/trees-palms-ferns-bushy-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-bushy-palm_v1.webp",
+    "dims": [
+     3.357,
+     3.275,
+     8.0
+    ],
+    "tris": 1052,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-bushy-palm/trees-palms-ferns-bushy-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-bushy-palm/trees-palms-ferns-bushy-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-bushy-palm_v2.webp",
+    "dims": [
+     3.762,
+     3.84,
+     8.0
+    ],
+    "tris": 968,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "171.glb",
+   "172.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-palm-tree",
+  "name": "Palm Tree",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-palm-tree_v1.webp",
+    "dims": [
+     6.011,
+     5.081,
+     12.0
+    ],
+    "tris": 1004,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-palm-tree_v2.webp",
+    "dims": [
+     6.203,
+     6.394,
+     12.0
+    ],
+    "tris": 1004,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-palm-tree/trees-palms-ferns-palm-tree_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-palm-tree_v3.webp",
+    "dims": [
+     5.695,
+     6.271,
+     12.0
+    ],
+    "tris": 872,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "173.glb",
+   "174.glb",
+   "175.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-coconut-palm",
+  "name": "Coconut Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-coconut-palm_v1.webp",
+    "dims": [
+     8.368,
+     8.275,
+     15.0
+    ],
+    "tris": 1464,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-coconut-palm_v2.webp",
+    "dims": [
+     8.148,
+     7.945,
+     15.0
+    ],
+    "tris": 1362,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-coconut-palm_v3.webp",
+    "dims": [
+     7.044,
+     7.65,
+     15.0
+    ],
+    "tris": 1224,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v4.glb",
+    "fbx": "models/trees/trees-palms-ferns-coconut-palm/trees-palms-ferns-coconut-palm_v4.fbx",
+    "thumb": "thumbs/trees-palms-ferns-coconut-palm_v4.webp",
+    "dims": [
+     7.807,
+     8.134,
+     15.0
+    ],
+    "tris": 1554,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "176.glb",
+   "177.glb",
+   "178.glb",
+   "179.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-tall-palm",
+  "name": "Tall Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-tall-palm_v1.webp",
+    "dims": [
+     6.675,
+     7.968,
+     20.0
+    ],
+    "tris": 888,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-tall-palm_v2.webp",
+    "dims": [
+     7.352,
+     7.876,
+     20.0
+    ],
+    "tris": 888,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-tall-palm/trees-palms-ferns-tall-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-tall-palm_v3.webp",
+    "dims": [
+     7.312,
+     7.129,
+     20.0
+    ],
+    "tris": 888,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "180.glb",
+   "181.glb",
+   "182.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-sago-palm",
+  "name": "Sago Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-sago-palm_v1.webp",
+    "dims": [
+     2.0,
+     1.712,
+     1.961
+    ],
+    "tris": 2342,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-sago-palm_v2.webp",
+    "dims": [
+     1.874,
+     2.0,
+     1.722
+    ],
+    "tris": 2119,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-sago-palm/trees-palms-ferns-sago-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-sago-palm_v3.webp",
+    "dims": [
+     1.806,
+     2.0,
+     1.622
+    ],
+    "tris": 2119,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "183.glb",
+   "184.glb",
+   "185.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-blue-fan-palm",
+  "name": "Blue Fan Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-blue-fan-palm_v1.webp",
+    "dims": [
+     3.0,
+     2.897,
+     2.407
+    ],
+    "tris": 1312,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-blue-fan-palm_v2.webp",
+    "dims": [
+     2.611,
+     3.0,
+     2.519
+    ],
+    "tris": 1220,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-blue-fan-palm/trees-palms-ferns-blue-fan-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-blue-fan-palm_v3.webp",
+    "dims": [
+     2.734,
+     3.0,
+     2.724
+    ],
+    "tris": 1312,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "186.glb",
+   "187.glb",
+   "188.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-drooping-palm",
+  "name": "Drooping Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-drooping-palm_v1.webp",
+    "dims": [
+     5.648,
+     7.614,
+     10.0
+    ],
+    "tris": 1448,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-drooping-palm_v2.webp",
+    "dims": [
+     7.741,
+     6.78,
+     10.0
+    ],
+    "tris": 1448,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-drooping-palm/trees-palms-ferns-drooping-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-drooping-palm_v3.webp",
+    "dims": [
+     4.278,
+     5.277,
+     10.0
+    ],
+    "tris": 1430,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "189.glb",
+   "190.glb",
+   "191.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-date-palm",
+  "name": "Date Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-date-palm_v1.webp",
+    "dims": [
+     7.274,
+     8.0,
+     7.479
+    ],
+    "tris": 1390,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-date-palm_v2.webp",
+    "dims": [
+     8.0,
+     7.759,
+     5.862
+    ],
+    "tris": 1390,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-date-palm/trees-palms-ferns-date-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-date-palm_v3.webp",
+    "dims": [
+     7.444,
+     6.486,
+     8.0
+    ],
+    "tris": 1390,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "192.glb",
+   "193.glb",
+   "194.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-fan-palm",
+  "name": "Fan Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-fan-palm/trees-palms-ferns-fan-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-fan-palm/trees-palms-ferns-fan-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-fan-palm/trees-palms-ferns-fan-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-fan-palm_v1.webp",
+    "dims": [
+     1.612,
+     1.933,
+     3.0
+    ],
+    "tris": 900,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-fan-palm/trees-palms-ferns-fan-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-fan-palm/trees-palms-ferns-fan-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-fan-palm_v2.webp",
+    "dims": [
+     2.193,
+     2.325,
+     3.0
+    ],
+    "tris": 940,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "195.glb",
+   "196.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-bottle-palm",
+  "name": "Bottle Palm",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-bottle-palm_v1.webp",
+    "dims": [
+     4.0,
+     3.005,
+     3.845
+    ],
+    "tris": 620,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-bottle-palm_v2.webp",
+    "dims": [
+     3.74,
+     3.656,
+     4.0
+    ],
+    "tris": 668,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-bottle-palm/trees-palms-ferns-bottle-palm_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-bottle-palm_v3.webp",
+    "dims": [
+     3.345,
+     3.085,
+     4.0
+    ],
+    "tris": 668,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "197.glb",
+   "198.glb",
+   "199.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-palms-ferns-tree-fern",
+  "name": "Tree Fern",
+  "category": "Trees",
+  "subcategory": "Palms & Ferns",
+  "tags": [],
+  "blend": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern_v1.glb",
+    "fbx": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern_v1.fbx",
+    "thumb": "thumbs/trees-palms-ferns-tree-fern_v1.webp",
+    "dims": [
+     2.948,
+     3.197,
+     5.0
+    ],
+    "tris": 1374,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern_v2.glb",
+    "fbx": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern_v2.fbx",
+    "thumb": "thumbs/trees-palms-ferns-tree-fern_v2.webp",
+    "dims": [
+     3.221,
+     2.911,
+     5.0
+    ],
+    "tris": 1060,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern_v3.glb",
+    "fbx": "models/trees/trees-palms-ferns-tree-fern/trees-palms-ferns-tree-fern_v3.fbx",
+    "thumb": "thumbs/trees-palms-ferns-tree-fern_v3.webp",
+    "dims": [
+     2.976,
+     2.985,
+     5.0
+    ],
+    "tris": 1208,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "200.glb",
+   "201.glb",
+   "202.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-dry-grass-blades",
+  "name": "Dry Grass Blades",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v1.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v1.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v1.webp",
+    "dims": [
+     0.2775,
+     0.3752,
+     0.6
+    ],
+    "tris": 144,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v2.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v2.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v2.webp",
+    "dims": [
+     0.1718,
+     0.26,
+     0.6
+    ],
+    "tris": 108,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v3.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v3.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v3.webp",
+    "dims": [
+     0.1323,
+     0.1534,
+     0.6
+    ],
+    "tris": 60,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v4.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v4.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v4.webp",
+    "dims": [
+     0.2419,
+     0.08921,
+     0.6
+    ],
+    "tris": 102,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v5.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v5.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v5.webp",
+    "dims": [
+     0.09936,
+     0.1178,
+     0.6
+    ],
+    "tris": 114,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v6.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v6.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v6.webp",
+    "dims": [
+     0.1921,
+     0.2249,
+     0.6
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v7.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v7.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v7.webp",
+    "dims": [
+     0.1046,
+     0.2175,
+     0.6
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v8.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v8.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v8.webp",
+    "dims": [
+     0.1714,
+     0.2337,
+     0.6
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v9.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v9.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v9.webp",
+    "dims": [
+     0.09064,
+     0.2114,
+     0.6
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v10.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v10.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v10.webp",
+    "dims": [
+     0.144,
+     0.274,
+     0.6
+    ],
+    "tris": 102,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v11.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v11.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v11.webp",
+    "dims": [
+     0.1095,
+     0.3191,
+     0.6
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v12.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v12.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v12.webp",
+    "dims": [
+     0.3135,
+     0.1734,
+     0.6
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v13.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v13.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v13.webp",
+    "dims": [
+     0.2856,
+     0.1873,
+     0.6
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v14.glb",
+    "fbx": "models/trees/trees-grasses-dry-grass-blades/trees-grasses-dry-grass-blades_v14.fbx",
+    "thumb": "thumbs/trees-grasses-dry-grass-blades_v14.webp",
+    "dims": [
+     0.1032,
+     0.1508,
+     0.6
+    ],
+    "tris": 138,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "203.glb",
+   "204.glb",
+   "205.glb",
+   "206.glb",
+   "207.glb",
+   "208.glb",
+   "209.glb",
+   "210.glb",
+   "211.glb",
+   "212.glb",
+   "213.glb",
+   "214.glb",
+   "215.glb",
+   "216.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-ornamental-grass",
+  "name": "Ornamental Grass",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v1.glb",
+    "fbx": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v1.fbx",
+    "thumb": "thumbs/trees-grasses-ornamental-grass_v1.webp",
+    "dims": [
+     0.469,
+     0.473,
+     0.6
+    ],
+    "tris": 876,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v2.glb",
+    "fbx": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v2.fbx",
+    "thumb": "thumbs/trees-grasses-ornamental-grass_v2.webp",
+    "dims": [
+     0.4544,
+     0.4625,
+     0.6
+    ],
+    "tris": 872,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v3.glb",
+    "fbx": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v3.fbx",
+    "thumb": "thumbs/trees-grasses-ornamental-grass_v3.webp",
+    "dims": [
+     0.4601,
+     0.4489,
+     0.6
+    ],
+    "tris": 936,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v4.glb",
+    "fbx": "models/trees/trees-grasses-ornamental-grass/trees-grasses-ornamental-grass_v4.fbx",
+    "thumb": "thumbs/trees-grasses-ornamental-grass_v4.webp",
+    "dims": [
+     0.4438,
+     0.4924,
+     0.6
+    ],
+    "tris": 918,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "217.glb",
+   "218.glb",
+   "219.glb",
+   "220.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-grey-grass-tuft",
+  "name": "Grey Grass Tuft",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft_v1.glb",
+    "fbx": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft_v1.fbx",
+    "thumb": "thumbs/trees-grasses-grey-grass-tuft_v1.webp",
+    "dims": [
+     0.3644,
+     0.4,
+     0.301
+    ],
+    "tris": 348,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft_v2.glb",
+    "fbx": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft_v2.fbx",
+    "thumb": "thumbs/trees-grasses-grey-grass-tuft_v2.webp",
+    "dims": [
+     0.3102,
+     0.4,
+     0.2373
+    ],
+    "tris": 396,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft_v3.glb",
+    "fbx": "models/trees/trees-grasses-grey-grass-tuft/trees-grasses-grey-grass-tuft_v3.fbx",
+    "thumb": "thumbs/trees-grasses-grey-grass-tuft_v3.webp",
+    "dims": [
+     0.4,
+     0.3984,
+     0.271
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "221.glb",
+   "222.glb",
+   "223.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-spiky-grass-tuft",
+  "name": "Spiky Grass Tuft",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft_v1.glb",
+    "fbx": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft_v1.fbx",
+    "thumb": "thumbs/trees-grasses-spiky-grass-tuft_v1.webp",
+    "dims": [
+     0.4,
+     0.3934,
+     0.2201
+    ],
+    "tris": 427,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft_v2.glb",
+    "fbx": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft_v2.fbx",
+    "thumb": "thumbs/trees-grasses-spiky-grass-tuft_v2.webp",
+    "dims": [
+     0.4,
+     0.3697,
+     0.2152
+    ],
+    "tris": 378,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft_v3.glb",
+    "fbx": "models/trees/trees-grasses-spiky-grass-tuft/trees-grasses-spiky-grass-tuft_v3.fbx",
+    "thumb": "thumbs/trees-grasses-spiky-grass-tuft_v3.webp",
+    "dims": [
+     0.4,
+     0.3904,
+     0.2367
+    ],
+    "tris": 420,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "224.glb",
+   "225.glb",
+   "226.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-grass-clump",
+  "name": "Grass Clump",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v1.glb",
+    "fbx": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v1.fbx",
+    "thumb": "thumbs/trees-grasses-grass-clump_v1.webp",
+    "dims": [
+     0.2992,
+     0.4,
+     0.3539
+    ],
+    "tris": 280,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v2.glb",
+    "fbx": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v2.fbx",
+    "thumb": "thumbs/trees-grasses-grass-clump_v2.webp",
+    "dims": [
+     0.3691,
+     0.3233,
+     0.4
+    ],
+    "tris": 227,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v3.glb",
+    "fbx": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v3.fbx",
+    "thumb": "thumbs/trees-grasses-grass-clump_v3.webp",
+    "dims": [
+     0.4,
+     0.3772,
+     0.3828
+    ],
+    "tris": 161,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v4.glb",
+    "fbx": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v4.fbx",
+    "thumb": "thumbs/trees-grasses-grass-clump_v4.webp",
+    "dims": [
+     0.308,
+     0.3642,
+     0.4
+    ],
+    "tris": 261,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v5.glb",
+    "fbx": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v5.fbx",
+    "thumb": "thumbs/trees-grasses-grass-clump_v5.webp",
+    "dims": [
+     0.3568,
+     0.3221,
+     0.4
+    ],
+    "tris": 235,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v6.glb",
+    "fbx": "models/trees/trees-grasses-grass-clump/trees-grasses-grass-clump_v6.fbx",
+    "thumb": "thumbs/trees-grasses-grass-clump_v6.webp",
+    "dims": [
+     0.2676,
+     0.3313,
+     0.4
+    ],
+    "tris": 198,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "227.glb",
+   "228.glb",
+   "229.glb",
+   "230.glb",
+   "231.glb",
+   "232.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-flowering-grass",
+  "name": "Flowering Grass",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass_v1.glb",
+    "fbx": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass_v1.fbx",
+    "thumb": "thumbs/trees-grasses-flowering-grass_v1.webp",
+    "dims": [
+     0.07161,
+     0.07129,
+     0.8
+    ],
+    "tris": 369,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass_v2.glb",
+    "fbx": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass_v2.fbx",
+    "thumb": "thumbs/trees-grasses-flowering-grass_v2.webp",
+    "dims": [
+     0.07219,
+     0.06733,
+     0.8
+    ],
+    "tris": 363,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass_v3.glb",
+    "fbx": "models/trees/trees-grasses-flowering-grass/trees-grasses-flowering-grass_v3.fbx",
+    "thumb": "thumbs/trees-grasses-flowering-grass_v3.webp",
+    "dims": [
+     0.06104,
+     0.06733,
+     0.8
+    ],
+    "tris": 363,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "233.glb",
+   "234.glb",
+   "235.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-grass-stalk",
+  "name": "Grass Stalk",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v1.glb",
+    "fbx": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v1.fbx",
+    "thumb": "thumbs/trees-grasses-grass-stalk_v1.webp",
+    "dims": [
+     0.189,
+     0.137,
+     0.8
+    ],
+    "tris": 491,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v2.glb",
+    "fbx": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v2.fbx",
+    "thumb": "thumbs/trees-grasses-grass-stalk_v2.webp",
+    "dims": [
+     0.1532,
+     0.1519,
+     0.8
+    ],
+    "tris": 491,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v3.glb",
+    "fbx": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v3.fbx",
+    "thumb": "thumbs/trees-grasses-grass-stalk_v3.webp",
+    "dims": [
+     0.06784,
+     0.1842,
+     0.8
+    ],
+    "tris": 478,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v4.glb",
+    "fbx": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v4.fbx",
+    "thumb": "thumbs/trees-grasses-grass-stalk_v4.webp",
+    "dims": [
+     0.1502,
+     0.2427,
+     0.8
+    ],
+    "tris": 559,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v5.glb",
+    "fbx": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v5.fbx",
+    "thumb": "thumbs/trees-grasses-grass-stalk_v5.webp",
+    "dims": [
+     0.1636,
+     0.1333,
+     0.8
+    ],
+    "tris": 546,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v6.glb",
+    "fbx": "models/trees/trees-grasses-grass-stalk/trees-grasses-grass-stalk_v6.fbx",
+    "thumb": "thumbs/trees-grasses-grass-stalk_v6.webp",
+    "dims": [
+     0.2034,
+     0.1744,
+     0.8
+    ],
+    "tris": 559,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "236.glb",
+   "237.glb",
+   "238.glb",
+   "239.glb",
+   "240.glb",
+   "241.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-grass-blade",
+  "name": "Grass Blade",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade_v1.glb",
+    "fbx": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade_v1.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blade_v1.webp",
+    "dims": [
+     0.04123,
+     0.02092,
+     0.3
+    ],
+    "tris": 9,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade_v2.glb",
+    "fbx": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade_v2.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blade_v2.webp",
+    "dims": [
+     0.04878,
+     0.0368,
+     0.3
+    ],
+    "tris": 9,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade_v3.glb",
+    "fbx": "models/trees/trees-grasses-grass-blade/trees-grasses-grass-blade_v3.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blade_v3.webp",
+    "dims": [
+     0.02153,
+     0.01502,
+     0.3
+    ],
+    "tris": 7,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "242.glb",
+   "243.glb",
+   "244.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-tall-grass",
+  "name": "Tall Grass",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v1.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v1.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v1.webp",
+    "dims": [
+     0.1537,
+     0.164,
+     0.5
+    ],
+    "tris": 49,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v2.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v2.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v2.webp",
+    "dims": [
+     0.2558,
+     0.2847,
+     0.5
+    ],
+    "tris": 97,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v3.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v3.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v3.webp",
+    "dims": [
+     0.2256,
+     0.3158,
+     0.5
+    ],
+    "tris": 154,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v4.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v4.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v4.webp",
+    "dims": [
+     0.2902,
+     0.2195,
+     0.5
+    ],
+    "tris": 93,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v5.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v5.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v5.webp",
+    "dims": [
+     0.207,
+     0.1864,
+     0.5
+    ],
+    "tris": 27,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v6.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v6.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v6.webp",
+    "dims": [
+     0.2991,
+     0.1503,
+     0.5
+    ],
+    "tris": 41,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v7.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v7.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v7.webp",
+    "dims": [
+     0.2169,
+     0.1509,
+     0.5
+    ],
+    "tris": 30,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v8.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v8.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v8.webp",
+    "dims": [
+     0.2255,
+     0.1857,
+     0.5
+    ],
+    "tris": 33,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v9.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v9.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v9.webp",
+    "dims": [
+     0.2835,
+     0.2163,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v10.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v10.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v10.webp",
+    "dims": [
+     0.2897,
+     0.3673,
+     0.5
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v11.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v11.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v11.webp",
+    "dims": [
+     0.1946,
+     0.211,
+     0.5
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v12.glb",
+    "fbx": "models/trees/trees-grasses-tall-grass/trees-grasses-tall-grass_v12.fbx",
+    "thumb": "thumbs/trees-grasses-tall-grass_v12.webp",
+    "dims": [
+     0.1895,
+     0.2238,
+     0.5
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "245.glb",
+   "246.glb",
+   "247.glb",
+   "248.glb",
+   "249.glb",
+   "250.glb",
+   "251.glb",
+   "252.glb",
+   "253.glb",
+   "254.glb",
+   "255.glb",
+   "256.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "trees-grasses-grass-blades",
+  "name": "Grass Blades",
+  "category": "Trees",
+  "subcategory": "Grasses",
+  "tags": [],
+  "blend": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades.blend",
+  "variants": [
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v1.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v1.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v1.webp",
+    "dims": [
+     0.1366,
+     0.1126,
+     0.3
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v2.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v2.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v2.webp",
+    "dims": [
+     0.05497,
+     0.1308,
+     0.3
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v3.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v3.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v3.webp",
+    "dims": [
+     0.05458,
+     0.04169,
+     0.3
+    ],
+    "tris": 76,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v4.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v4.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v4.webp",
+    "dims": [
+     0.1623,
+     0.1559,
+     0.3
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v5.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v5.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v5.webp",
+    "dims": [
+     0.2372,
+     0.1563,
+     0.3
+    ],
+    "tris": 124,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v6.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v6.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v6.webp",
+    "dims": [
+     0.09149,
+     0.1606,
+     0.3
+    ],
+    "tris": 88,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v7.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v7.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v7.webp",
+    "dims": [
+     0.2584,
+     0.1736,
+     0.3
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v8.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v8.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v8.webp",
+    "dims": [
+     0.1587,
+     0.1611,
+     0.3
+    ],
+    "tris": 76,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v9.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v9.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v9.webp",
+    "dims": [
+     0.05689,
+     0.07144,
+     0.3
+    ],
+    "tris": 40,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v10.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v10.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v10.webp",
+    "dims": [
+     0.1217,
+     0.1683,
+     0.3
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v11.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v11.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v11.webp",
+    "dims": [
+     0.07727,
+     0.1244,
+     0.3
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v12.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v12.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v12.webp",
+    "dims": [
+     0.05515,
+     0.06631,
+     0.3
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v13.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v13.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v13.webp",
+    "dims": [
+     0.1072,
+     0.03915,
+     0.3
+    ],
+    "tris": 68,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v14.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v14.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v14.webp",
+    "dims": [
+     0.04529,
+     0.04825,
+     0.3
+    ],
+    "tris": 76,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v15.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v15.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v15.webp",
+    "dims": [
+     0.08939,
+     0.1022,
+     0.3
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v16.glb",
+    "fbx": "models/trees/trees-grasses-grass-blades/trees-grasses-grass-blades_v16.fbx",
+    "thumb": "thumbs/trees-grasses-grass-blades_v16.webp",
+    "dims": [
+     0.0468,
+     0.09841,
+     0.3
+    ],
+    "tris": 112,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "257.glb",
+   "258.glb",
+   "259.glb",
+   "260.glb",
+   "261.glb",
+   "262.glb",
+   "263.glb",
+   "264.glb",
+   "265.glb",
+   "266.glb",
+   "267.glb",
+   "268.glb",
+   "269.glb",
+   "270.glb",
+   "271.glb",
+   "272.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]

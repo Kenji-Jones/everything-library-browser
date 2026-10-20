@@ -1,0 +1,2441 @@
+{
+ "0": {
+  "name": "Red Umbrella Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "1": {
+  "name": "Red Umbrella Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "2": {
+  "name": "Red Umbrella Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "3": {
+  "name": "Red Umbrella Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "4": {
+  "name": "Red Umbrella Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "5": {
+  "name": "Teal Globe Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "6": {
+  "name": "Teal Globe Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "7": {
+  "name": "Teal Globe Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "8": {
+  "name": "Teal Globe Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "9": {
+  "name": "Teal Globe Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "10": {
+  "name": "Gray Leaf Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "11": {
+  "name": "Gray Leaf Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "12": {
+  "name": "Gray Leaf Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "13": {
+  "name": "Gray Leaf Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "14": {
+  "name": "Gray Leaf Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "15": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "16": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "17": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "18": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "19": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "20": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "21": {
+  "name": "Tiered Red Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 6
+ },
+ "22": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "23": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "24": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "25": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "26": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "27": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "28": {
+  "name": "Red Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 5
+ },
+ "29": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "30": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "31": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "32": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "33": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "34": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "35": {
+  "name": "Grass Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 2.5
+ },
+ "36": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "37": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "38": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "39": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "40": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "41": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "42": {
+  "name": "Leafy Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "43": {
+  "name": "Dry Stalk",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.8
+ },
+ "44": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "45": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "46": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "47": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "48": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "49": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "50": {
+  "name": "Teal Cluster Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "51": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "52": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "53": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "54": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "55": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "56": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "57": {
+  "name": "Spiky Sapling",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "58": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "59": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "60": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "61": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "62": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "63": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "64": {
+  "name": "Tall Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "65": {
+  "name": "Ball Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "66": {
+  "name": "Ball Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "67": {
+  "name": "Ball Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "68": {
+  "name": "Ridged Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "69": {
+  "name": "Ridged Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "70": {
+  "name": "Ridged Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "71": {
+  "name": "Horn Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.2
+ },
+ "72": {
+  "name": "Horn Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.2
+ },
+ "73": {
+  "name": "Horn Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.2
+ },
+ "74": {
+  "name": "Horn Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.2
+ },
+ "75": {
+  "name": "Lumpy Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "76": {
+  "name": "Lumpy Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "77": {
+  "name": "Lumpy Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "78": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "79": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "80": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "81": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "82": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "83": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "84": {
+  "name": "Fan Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "85": {
+  "name": "Gray Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "86": {
+  "name": "Gray Bulb",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.2
+ },
+ "87": {
+  "name": "Gray Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "88": {
+  "name": "Gray Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "89": {
+  "name": "Bud Stalk",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "90": {
+  "name": "Bromeliad",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "91": {
+  "name": "Bromeliad",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "92": {
+  "name": "Bromeliad",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "93": {
+  "name": "Bromeliad",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "94": {
+  "name": "Bromeliad",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "95": {
+  "name": "Spiky Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.6
+ },
+ "96": {
+  "name": "Spiky Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.6
+ },
+ "97": {
+  "name": "Spiky Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.6
+ },
+ "98": {
+  "name": "Spiky Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.6
+ },
+ "99": {
+  "name": "Ruffled Fungus",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2
+ },
+ "100": {
+  "name": "Ruffled Fungus",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2
+ },
+ "101": {
+  "name": "Ruffled Fungus",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2
+ },
+ "102": {
+  "name": "Grass Tuft",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "103": {
+  "name": "Grass Tuft",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "104": {
+  "name": "Grass Tuft",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "105": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "106": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "107": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "108": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "109": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "110": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "111": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "112": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "113": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.4
+ },
+ "114": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "115": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "116": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "117": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "118": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "119": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "120": {
+  "name": "Forked Stalk",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "121": {
+  "name": "Spiral Sprout",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "122": {
+  "name": "Spiral Sprout",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "123": {
+  "name": "Spiral Sprout",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "124": {
+  "name": "Spiral Sprout",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "125": {
+  "name": "Spiral Sprout",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "126": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "127": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "128": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "129": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "130": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "131": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "132": {
+  "name": "Thorny Tendril",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.5
+ },
+ "133": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "134": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "135": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "136": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "137": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "138": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "139": {
+  "name": "Bare Twig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.6
+ },
+ "140": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "141": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "142": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "143": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "144": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "145": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "146": {
+  "name": "Leafy Bulb",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.4
+ },
+ "147": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "148": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "149": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "150": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "151": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "152": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "153": {
+  "name": "Silver Sprig",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.4
+ },
+ "154": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "155": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "156": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "157": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "158": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "159": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "160": {
+  "name": "Red Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "161": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "162": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "163": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "164": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "165": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "166": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "167": {
+  "name": "Green Flower Bud",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "168": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "169": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "170": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "171": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "172": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "173": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "174": {
+  "name": "Bare Shrub",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "175": {
+  "name": "Black Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "176": {
+  "name": "Black Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "177": {
+  "name": "Black Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "178": {
+  "name": "Pale Blue Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "179": {
+  "name": "Pale Blue Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "180": {
+  "name": "Pale Blue Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "181": {
+  "name": "Puffball",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "182": {
+  "name": "Puffball",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "183": {
+  "name": "Puffball",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "184": {
+  "name": "Puffball",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "185": {
+  "name": "Puffball",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "186": {
+  "name": "Curly Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "187": {
+  "name": "Curly Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "188": {
+  "name": "Curly Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "189": {
+  "name": "Curly Sprout",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "190": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "191": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "192": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "193": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "194": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "195": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "196": {
+  "name": "Pink Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.25
+ },
+ "197": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "198": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "199": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "200": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "201": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "202": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "203": {
+  "name": "Thorny Purple Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "204": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "205": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "206": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "207": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "208": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "209": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "210": {
+  "name": "Baby Toes",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "211": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "212": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "213": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "214": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "215": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "216": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "217": {
+  "name": "Red Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "218": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "219": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "220": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "221": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "222": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "223": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "224": {
+  "name": "Teal Bell Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "225": {
+  "name": "Red Star Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "226": {
+  "name": "Red Star Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "227": {
+  "name": "Red Star Flower",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "228": {
+  "name": "Blue Flower Spike",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "229": {
+  "name": "Blue Flower Spike",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "230": {
+  "name": "Blue Flower Spike",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "231": {
+  "name": "Blue Flower Spike",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "232": {
+  "name": "Blue Flower Spike",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "233": {
+  "name": "Spiky Grass",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.6
+ },
+ "234": {
+  "name": "Spiky Grass",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.6
+ },
+ "235": {
+  "name": "Spiky Grass",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 0.6
+ },
+ "236": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "237": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "238": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "239": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "240": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "241": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "242": {
+  "name": "Agave",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.2
+ },
+ "243": {
+  "name": "Column Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "244": {
+  "name": "Column Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "245": {
+  "name": "Column Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "246": {
+  "name": "Parlor Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "247": {
+  "name": "Parlor Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "248": {
+  "name": "Parlor Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "249": {
+  "name": "Parlor Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.0
+ },
+ "250": {
+  "name": "Fan Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.5
+ },
+ "251": {
+  "name": "Fan Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.5
+ },
+ "252": {
+  "name": "Fan Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.5
+ },
+ "253": {
+  "name": "Fan Palm",
+  "subcategory": "Trees & Palms",
+  "size_m": 1.5
+ },
+ "254": {
+  "name": "Yucca",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "255": {
+  "name": "Yucca",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "256": {
+  "name": "Yucca",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "257": {
+  "name": "Yucca",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "258": {
+  "name": "Yucca",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "259": {
+  "name": "Yucca",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "260": {
+  "name": "Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 8
+ },
+ "261": {
+  "name": "Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 8
+ },
+ "262": {
+  "name": "Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 8
+ },
+ "263": {
+  "name": "Palm Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 8
+ },
+ "264": {
+  "name": "Yucca Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 3
+ },
+ "265": {
+  "name": "Yucca Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 3
+ },
+ "266": {
+  "name": "Yucca Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 3
+ },
+ "267": {
+  "name": "Yucca Tree",
+  "subcategory": "Trees & Palms",
+  "size_m": 3
+ },
+ "268": {
+  "name": "Dragon Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8,
+  "aka": "Dracaena"
+ },
+ "269": {
+  "name": "Dragon Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8,
+  "aka": "Dracaena"
+ },
+ "270": {
+  "name": "Dragon Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8,
+  "aka": "Dracaena"
+ },
+ "271": {
+  "name": "Heart Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "272": {
+  "name": "Round Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "273": {
+  "name": "Round Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "274": {
+  "name": "Round Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "275": {
+  "name": "Round Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "276": {
+  "name": "Prickly Pear",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.0
+ },
+ "277": {
+  "name": "Prickly Pear",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.0
+ },
+ "278": {
+  "name": "Prickly Pear",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.0
+ },
+ "279": {
+  "name": "Barrel Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.5
+ },
+ "280": {
+  "name": "Barrel Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.5
+ },
+ "281": {
+  "name": "Barrel Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.5
+ },
+ "282": {
+  "name": "Blue Echeveria",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.2
+ },
+ "283": {
+  "name": "Blue Echeveria",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.2
+ },
+ "284": {
+  "name": "Blue Echeveria",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.2
+ },
+ "285": {
+  "name": "Blue Echeveria",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.2
+ },
+ "286": {
+  "name": "Pole Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "287": {
+  "name": "Pole Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "288": {
+  "name": "Pole Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "289": {
+  "name": "Pole Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "290": {
+  "name": "Pole Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "291": {
+  "name": "Pole Cactus",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 1.5
+ },
+ "292": {
+  "name": "Cactus Cluster",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.4
+ },
+ "293": {
+  "name": "Cactus Cluster",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.4
+ },
+ "294": {
+  "name": "Cactus Cluster",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.4
+ },
+ "295": {
+  "name": "Tumbleweed",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 0.8
+ },
+ "296": {
+  "name": "Red Spiky Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "297": {
+  "name": "Red Spiky Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "298": {
+  "name": "Red Spiky Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "299": {
+  "name": "Wild Garlic",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "300": {
+  "name": "Wild Garlic",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "301": {
+  "name": "Wild Garlic",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "302": {
+  "name": "Bluebell",
+  "subcategory": "Flowers",
+  "size_m": 0.35
+ },
+ "303": {
+  "name": "Bluebell",
+  "subcategory": "Flowers",
+  "size_m": 0.35
+ },
+ "304": {
+  "name": "Bluebell",
+  "subcategory": "Flowers",
+  "size_m": 0.35
+ },
+ "305": {
+  "name": "Bluebell",
+  "subcategory": "Flowers",
+  "size_m": 0.35
+ },
+ "306": {
+  "name": "Purple Bellflower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "307": {
+  "name": "Purple Bellflower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "308": {
+  "name": "Purple Bellflower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "309": {
+  "name": "Purple Bellflower",
+  "subcategory": "Flowers",
+  "size_m": 0.7
+ },
+ "310": {
+  "name": "Dandelion",
+  "subcategory": "Flowers",
+  "size_m": 0.3
+ },
+ "311": {
+  "name": "Buttercup",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "312": {
+  "name": "Buttercup",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "313": {
+  "name": "Buttercup",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "314": {
+  "name": "Buttercup",
+  "subcategory": "Flowers",
+  "size_m": 0.4
+ },
+ "315": {
+  "name": "Foxglove",
+  "subcategory": "Flowers",
+  "size_m": 1.2
+ },
+ "316": {
+  "name": "Foxglove",
+  "subcategory": "Flowers",
+  "size_m": 1.2
+ },
+ "317": {
+  "name": "Foxglove",
+  "subcategory": "Flowers",
+  "size_m": 1.2
+ },
+ "318": {
+  "name": "Foxglove",
+  "subcategory": "Flowers",
+  "size_m": 1.2
+ },
+ "319": {
+  "name": "Lily of the Valley",
+  "subcategory": "Flowers",
+  "size_m": 0.25
+ },
+ "320": {
+  "name": "Lily of the Valley",
+  "subcategory": "Flowers",
+  "size_m": 0.25
+ },
+ "321": {
+  "name": "Lily of the Valley",
+  "subcategory": "Flowers",
+  "size_m": 0.25
+ },
+ "322": {
+  "name": "Lily of the Valley",
+  "subcategory": "Flowers",
+  "size_m": 0.25
+ },
+ "323": {
+  "name": "Lupine",
+  "subcategory": "Flowers",
+  "size_m": 0.9
+ },
+ "324": {
+  "name": "Lupine",
+  "subcategory": "Flowers",
+  "size_m": 0.9
+ },
+ "325": {
+  "name": "Lupine",
+  "subcategory": "Flowers",
+  "size_m": 0.9
+ },
+ "326": {
+  "name": "Poppy",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "327": {
+  "name": "Poppy",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "328": {
+  "name": "Poppy",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "329": {
+  "name": "Poppy",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "330": {
+  "name": "Poppy",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "331": {
+  "name": "Calla Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "332": {
+  "name": "Calla Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "333": {
+  "name": "Calla Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "334": {
+  "name": "Calla Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.6
+ },
+ "335": {
+  "name": "White Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.9
+ },
+ "336": {
+  "name": "White Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.9
+ },
+ "337": {
+  "name": "White Lily",
+  "subcategory": "Flowers",
+  "size_m": 0.9
+ },
+ "338": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "339": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "340": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "341": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "342": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "343": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "344": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "345": {
+  "name": "Daisy",
+  "subcategory": "Flowers",
+  "size_m": 0.5
+ },
+ "346": {
+  "name": "Sunflower",
+  "subcategory": "Flowers",
+  "size_m": 2.0
+ },
+ "347": {
+  "name": "Sunflower",
+  "subcategory": "Flowers",
+  "size_m": 2.0
+ },
+ "348": {
+  "name": "Sunflower",
+  "subcategory": "Flowers",
+  "size_m": 2.0
+ },
+ "349": {
+  "name": "Sunflower",
+  "subcategory": "Flowers",
+  "size_m": 2.0
+ },
+ "350": {
+  "name": "Brown Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "351": {
+  "name": "Brown Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "352": {
+  "name": "Brown Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "353": {
+  "name": "White Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "354": {
+  "name": "White Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "355": {
+  "name": "White Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "356": {
+  "name": "Bell Cap Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "357": {
+  "name": "Bell Cap Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "358": {
+  "name": "Bell Cap Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "359": {
+  "name": "Funnel Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "360": {
+  "name": "Funnel Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "361": {
+  "name": "Funnel Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "362": {
+  "name": "Gray Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "363": {
+  "name": "Gray Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "364": {
+  "name": "Gray Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "365": {
+  "name": "Red Cap Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "366": {
+  "name": "Red Cap Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "367": {
+  "name": "Red Cap Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.1
+ },
+ "368": {
+  "name": "Porcini Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2,
+  "aka": "Porcini"
+ },
+ "369": {
+  "name": "Porcini Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2,
+  "aka": "Porcini"
+ },
+ "370": {
+  "name": "Porcini Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2,
+  "aka": "Porcini"
+ },
+ "371": {
+  "name": "Toadstool",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2,
+  "aka": "Fly Agaric"
+ },
+ "372": {
+  "name": "Toadstool",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2,
+  "aka": "Fly Agaric"
+ },
+ "373": {
+  "name": "Toadstool",
+  "subcategory": "Mushrooms",
+  "size_m": 0.2,
+  "aka": "Fly Agaric"
+ },
+ "374": {
+  "name": "Oyster Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "375": {
+  "name": "Oyster Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "376": {
+  "name": "Oyster Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.15
+ },
+ "377": {
+  "name": "Cone Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "378": {
+  "name": "Cone Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "379": {
+  "name": "Cone Mushroom",
+  "subcategory": "Mushrooms",
+  "size_m": 0.12
+ },
+ "380": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "381": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "382": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "383": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "384": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "385": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "386": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "387": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "388": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "389": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "390": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "391": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "392": {
+  "name": "Broadleaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.6
+ },
+ "393": {
+  "name": "Corn Stalk",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 2.0
+ },
+ "394": {
+  "name": "Corn Stalk",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 2.0
+ },
+ "395": {
+  "name": "Corn Stalk",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 2.0
+ },
+ "396": {
+  "name": "Corn Stalk",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 2.0
+ },
+ "397": {
+  "name": "Reed",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "398": {
+  "name": "Reed",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "399": {
+  "name": "Reed",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "400": {
+  "name": "Reed",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "401": {
+  "name": "Reed",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "402": {
+  "name": "Cattail",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "403": {
+  "name": "Cattail",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "404": {
+  "name": "Cattail",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "405": {
+  "name": "Cattail",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "406": {
+  "name": "Cattail",
+  "subcategory": "Grasses & Reeds",
+  "size_m": 1.5
+ },
+ "407": {
+  "name": "Rubber Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "408": {
+  "name": "Rubber Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "409": {
+  "name": "Rubber Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "410": {
+  "name": "Rubber Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "411": {
+  "name": "Rubber Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "412": {
+  "name": "Leaf Rosette",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "413": {
+  "name": "Leaf Rosette",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "414": {
+  "name": "Leaf Rosette",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "415": {
+  "name": "Leaf Rosette",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "416": {
+  "name": "Leaf Rosette",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "417": {
+  "name": "Pointed Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "418": {
+  "name": "Pointed Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "419": {
+  "name": "Pointed Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "420": {
+  "name": "Pointed Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "421": {
+  "name": "Pointed Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "422": {
+  "name": "Drooping Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "423": {
+  "name": "Drooping Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "424": {
+  "name": "Drooping Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "425": {
+  "name": "Drooping Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "426": {
+  "name": "Drooping Leaf Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.5
+ },
+ "427": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "428": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "429": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "430": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "431": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "432": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "433": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "434": {
+  "name": "Clover",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.15
+ },
+ "435": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "436": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "437": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "438": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "439": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "440": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "441": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "442": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "443": {
+  "name": "Round Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "444": {
+  "name": "Low Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "445": {
+  "name": "Low Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "446": {
+  "name": "Low Bush",
+  "subcategory": "Bushes & Twigs",
+  "size_m": 1.0
+ },
+ "447": {
+  "name": "Nettle",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "448": {
+  "name": "Nettle",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "449": {
+  "name": "Nettle",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.8
+ },
+ "450": {
+  "name": "Elephant Ear",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "451": {
+  "name": "Elephant Ear",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "452": {
+  "name": "Elephant Ear",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.0
+ },
+ "453": {
+  "name": "Cannabis",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.5
+ },
+ "454": {
+  "name": "Cannabis",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.5
+ },
+ "455": {
+  "name": "Cannabis",
+  "subcategory": "Leafy Plants",
+  "size_m": 1.5
+ },
+ "456": {
+  "name": "Strawberry Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.25
+ },
+ "457": {
+  "name": "Strawberry Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.25
+ },
+ "458": {
+  "name": "Strawberry Plant",
+  "subcategory": "Leafy Plants",
+  "size_m": 0.25
+ },
+ "459": {
+  "name": "Burro's Tail",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "460": {
+  "name": "Burro's Tail",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "461": {
+  "name": "Burro's Tail",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "462": {
+  "name": "Plump Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "463": {
+  "name": "Plump Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "464": {
+  "name": "Plump Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "465": {
+  "name": "Jade Plant",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "466": {
+  "name": "Jade Plant",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "467": {
+  "name": "Jade Plant",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "468": {
+  "name": "Teal Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "469": {
+  "name": "Teal Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "470": {
+  "name": "Teal Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "471": {
+  "name": "Purple Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "472": {
+  "name": "Purple Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "473": {
+  "name": "Purple Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "474": {
+  "name": "Paddle Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "475": {
+  "name": "Paddle Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "476": {
+  "name": "Paddle Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "477": {
+  "name": "Green Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "478": {
+  "name": "Green Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "479": {
+  "name": "Green Rosette",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "480": {
+  "name": "Pastel Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "481": {
+  "name": "Pastel Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "482": {
+  "name": "Pastel Succulent",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.15
+ },
+ "483": {
+  "name": "Aloe",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "484": {
+  "name": "Aloe",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ },
+ "485": {
+  "name": "Aloe",
+  "subcategory": "Cacti & Succulents",
+  "size_m": 0.3
+ }
+}

@@ -1,0 +1,4133 @@
+[
+ {
+  "id": "space-planets-moons-ice-planet",
+  "name": "Ice Planet",
+  "category": "Space",
+  "subcategory": "Planets & Moons",
+  "tags": [],
+  "blend": "models/space/space-planets-moons-ice-planet/space-planets-moons-ice-planet.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-planets-moons-ice-planet/space-planets-moons-ice-planet_v1.glb",
+    "fbx": "models/space/space-planets-moons-ice-planet/space-planets-moons-ice-planet_v1.fbx",
+    "thumb": "thumbs/space-planets-moons-ice-planet_v1.webp",
+    "dims": [
+     0.4999,
+     0.4999,
+     0.5
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "0.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-planets-moons-moon",
+  "name": "Moon",
+  "category": "Space",
+  "subcategory": "Planets & Moons",
+  "tags": [],
+  "blend": "models/space/space-planets-moons-moon/space-planets-moons-moon.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-planets-moons-moon/space-planets-moons-moon_v1.glb",
+    "fbx": "models/space/space-planets-moons-moon/space-planets-moons-moon_v1.fbx",
+    "thumb": "thumbs/space-planets-moons-moon_v1.webp",
+    "dims": [
+     0.5,
+     0.496,
+     0.4943
+    ],
+    "tris": 474,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "1.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-planets-moons-alien-planet",
+  "name": "Alien Planet",
+  "category": "Space",
+  "subcategory": "Planets & Moons",
+  "tags": [],
+  "blend": "models/space/space-planets-moons-alien-planet/space-planets-moons-alien-planet.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-planets-moons-alien-planet/space-planets-moons-alien-planet_v1.glb",
+    "fbx": "models/space/space-planets-moons-alien-planet/space-planets-moons-alien-planet_v1.fbx",
+    "thumb": "thumbs/space-planets-moons-alien-planet_v1.webp",
+    "dims": [
+     0.4999,
+     0.5,
+     0.4999
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-planets-moons-alien-planet/space-planets-moons-alien-planet_v2.glb",
+    "fbx": "models/space/space-planets-moons-alien-planet/space-planets-moons-alien-planet_v2.fbx",
+    "thumb": "thumbs/space-planets-moons-alien-planet_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "2.glb",
+   "145.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-planets-moons-green-planet",
+  "name": "Green Planet",
+  "category": "Space",
+  "subcategory": "Planets & Moons",
+  "tags": [],
+  "blend": "models/space/space-planets-moons-green-planet/space-planets-moons-green-planet.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-planets-moons-green-planet/space-planets-moons-green-planet_v1.glb",
+    "fbx": "models/space/space-planets-moons-green-planet/space-planets-moons-green-planet_v1.fbx",
+    "thumb": "thumbs/space-planets-moons-green-planet_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 3072,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "3.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-planets-moons-blue-planet",
+  "name": "Blue Planet",
+  "category": "Space",
+  "subcategory": "Planets & Moons",
+  "tags": [],
+  "blend": "models/space/space-planets-moons-blue-planet/space-planets-moons-blue-planet.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-planets-moons-blue-planet/space-planets-moons-blue-planet_v1.glb",
+    "fbx": "models/space/space-planets-moons-blue-planet/space-planets-moons-blue-planet_v1.fbx",
+    "thumb": "thumbs/space-planets-moons-blue-planet_v1.webp",
+    "dims": [
+     0.4993,
+     0.5,
+     0.492
+    ],
+    "tris": 1226,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-planets-moons-blue-planet/space-planets-moons-blue-planet_v2.glb",
+    "fbx": "models/space/space-planets-moons-blue-planet/space-planets-moons-blue-planet_v2.fbx",
+    "thumb": "thumbs/space-planets-moons-blue-planet_v2.webp",
+    "dims": [
+     0.4993,
+     0.5,
+     0.492
+    ],
+    "tris": 1226,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "4.glb",
+   "5.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-satellites-satellite",
+  "name": "Satellite",
+  "category": "Space",
+  "subcategory": "Satellites",
+  "tags": [],
+  "blend": "models/space/space-satellites-satellite/space-satellites-satellite.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v1.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v1.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v1.webp",
+    "dims": [
+     8.0,
+     3.669,
+     2.699
+    ],
+    "tris": 1615,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v2.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v2.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v2.webp",
+    "dims": [
+     8.0,
+     1.503,
+     2.024
+    ],
+    "tris": 1432,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v3.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v3.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v3.webp",
+    "dims": [
+     3.035,
+     6.068,
+     8.0
+    ],
+    "tris": 1932,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v4.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v4.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v4.webp",
+    "dims": [
+     8.0,
+     3.102,
+     5.431
+    ],
+    "tris": 1982,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v5.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v5.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v5.webp",
+    "dims": [
+     8.0,
+     3.079,
+     2.91
+    ],
+    "tris": 1186,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v6.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v6.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v6.webp",
+    "dims": [
+     8.0,
+     1.995,
+     1.404
+    ],
+    "tris": 1226,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v7.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v7.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v7.webp",
+    "dims": [
+     8.0,
+     8.0,
+     4.827
+    ],
+    "tris": 1025,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v8.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v8.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v8.webp",
+    "dims": [
+     8.0,
+     3.294,
+     3.969
+    ],
+    "tris": 1823,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v9.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v9.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v9.webp",
+    "dims": [
+     8.0,
+     1.718,
+     1.061
+    ],
+    "tris": 1980,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v10.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v10.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v10.webp",
+    "dims": [
+     8.0,
+     0.8632,
+     0.8695
+    ],
+    "tris": 1881,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v11.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v11.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v11.webp",
+    "dims": [
+     8.0,
+     7.616,
+     1.843
+    ],
+    "tris": 1815,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v12.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v12.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v12.webp",
+    "dims": [
+     5.52,
+     3.272,
+     8.0
+    ],
+    "tris": 1980,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v13.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v13.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v13.webp",
+    "dims": [
+     7.889,
+     5.323,
+     8.0
+    ],
+    "tris": 1740,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v14.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v14.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v14.webp",
+    "dims": [
+     8.0,
+     3.807,
+     3.04
+    ],
+    "tris": 1392,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v15.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v15.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v15.webp",
+    "dims": [
+     8.0,
+     1.524,
+     3.091
+    ],
+    "tris": 1528,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-satellite/space-satellites-satellite_v16.glb",
+    "fbx": "models/space/space-satellites-satellite/space-satellites-satellite_v16.fbx",
+    "thumb": "thumbs/space-satellites-satellite_v16.webp",
+    "dims": [
+     8.0,
+     2.589,
+     3.083
+    ],
+    "tris": 1122,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "6.glb",
+   "7.glb",
+   "8.glb",
+   "9.glb",
+   "10.glb",
+   "11.glb",
+   "13.glb",
+   "20.glb",
+   "21.glb",
+   "22.glb",
+   "23.glb",
+   "25.glb",
+   "27.glb",
+   "31.glb",
+   "32.glb",
+   "33.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-spacecraft-space-probe",
+  "name": "Space Probe",
+  "category": "Space",
+  "subcategory": "Spacecraft",
+  "tags": [
+   "Pioneer Probe",
+   "Voyager Probe"
+  ],
+  "blend": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v1.glb",
+    "fbx": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v1.fbx",
+    "thumb": "thumbs/space-spacecraft-space-probe_v1.webp",
+    "dims": [
+     6.0,
+     2.336,
+     4.572
+    ],
+    "tris": 1512,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v2.glb",
+    "fbx": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v2.fbx",
+    "thumb": "thumbs/space-spacecraft-space-probe_v2.webp",
+    "dims": [
+     5.956,
+     8.485,
+     13.0
+    ],
+    "tris": 1972,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v3.glb",
+    "fbx": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v3.fbx",
+    "thumb": "thumbs/space-spacecraft-space-probe_v3.webp",
+    "dims": [
+     3.847,
+     7.0,
+     2.164
+    ],
+    "tris": 1911,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v4.glb",
+    "fbx": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v4.fbx",
+    "thumb": "thumbs/space-spacecraft-space-probe_v4.webp",
+    "dims": [
+     6.0,
+     3.891,
+     4.315
+    ],
+    "tris": 2290,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v5.glb",
+    "fbx": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v5.fbx",
+    "thumb": "thumbs/space-spacecraft-space-probe_v5.webp",
+    "dims": [
+     6.0,
+     5.823,
+     4.569
+    ],
+    "tris": 524,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v6.glb",
+    "fbx": "models/space/space-spacecraft-space-probe/space-spacecraft-space-probe_v6.fbx",
+    "thumb": "thumbs/space-spacecraft-space-probe_v6.webp",
+    "dims": [
+     6.0,
+     4.537,
+     2.638
+    ],
+    "tris": 1952,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "12.glb",
+   "18.glb",
+   "19.glb",
+   "26.glb",
+   "29.glb",
+   "30.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-satellites-communications-satellite",
+  "name": "Communications Satellite",
+  "category": "Space",
+  "subcategory": "Satellites",
+  "tags": [],
+  "blend": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite_v1.glb",
+    "fbx": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite_v1.fbx",
+    "thumb": "thumbs/space-satellites-communications-satellite_v1.webp",
+    "dims": [
+     12.0,
+     9.498,
+     2.699
+    ],
+    "tris": 1803,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite_v2.glb",
+    "fbx": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite_v2.fbx",
+    "thumb": "thumbs/space-satellites-communications-satellite_v2.webp",
+    "dims": [
+     12.0,
+     3.272,
+     7.389
+    ],
+    "tris": 1931,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite_v3.glb",
+    "fbx": "models/space/space-satellites-communications-satellite/space-satellites-communications-satellite_v3.fbx",
+    "thumb": "thumbs/space-satellites-communications-satellite_v3.webp",
+    "dims": [
+     12.0,
+     4.46,
+     4.891
+    ],
+    "tris": 918,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "14.glb",
+   "15.glb",
+   "24.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-satellites-small-satellite",
+  "name": "Small Satellite",
+  "category": "Space",
+  "subcategory": "Satellites",
+  "tags": [],
+  "blend": "models/space/space-satellites-small-satellite/space-satellites-small-satellite.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-satellites-small-satellite/space-satellites-small-satellite_v1.glb",
+    "fbx": "models/space/space-satellites-small-satellite/space-satellites-small-satellite_v1.fbx",
+    "thumb": "thumbs/space-satellites-small-satellite_v1.webp",
+    "dims": [
+     3.0,
+     2.69,
+     1.597
+    ],
+    "tris": 1860,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-satellites-small-satellite/space-satellites-small-satellite_v2.glb",
+    "fbx": "models/space/space-satellites-small-satellite/space-satellites-small-satellite_v2.fbx",
+    "thumb": "thumbs/space-satellites-small-satellite_v2.webp",
+    "dims": [
+     3.0,
+     2.343,
+     2.769
+    ],
+    "tris": 1755,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "16.glb",
+   "17.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-satellites-science-satellite",
+  "name": "Science Satellite",
+  "category": "Space",
+  "subcategory": "Satellites",
+  "tags": [],
+  "blend": "models/space/space-satellites-science-satellite/space-satellites-science-satellite.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-satellites-science-satellite/space-satellites-science-satellite_v1.glb",
+    "fbx": "models/space/space-satellites-science-satellite/space-satellites-science-satellite_v1.fbx",
+    "thumb": "thumbs/space-satellites-science-satellite_v1.webp",
+    "dims": [
+     2.449,
+     4.0,
+     1.628
+    ],
+    "tris": 868,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "28.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-satellites-space-telescope",
+  "name": "Space Telescope",
+  "category": "Space",
+  "subcategory": "Satellites",
+  "tags": [],
+  "blend": "models/space/space-satellites-space-telescope/space-satellites-space-telescope.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-satellites-space-telescope/space-satellites-space-telescope_v1.glb",
+    "fbx": "models/space/space-satellites-space-telescope/space-satellites-space-telescope_v1.fbx",
+    "thumb": "thumbs/space-satellites-space-telescope_v1.webp",
+    "dims": [
+     2.651,
+     2.663,
+     5.0
+    ],
+    "tris": 1328,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "34.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-spacecraft-solar-sail",
+  "name": "Solar Sail",
+  "category": "Space",
+  "subcategory": "Spacecraft",
+  "tags": [],
+  "blend": "models/space/space-spacecraft-solar-sail/space-spacecraft-solar-sail.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-spacecraft-solar-sail/space-spacecraft-solar-sail_v1.glb",
+    "fbx": "models/space/space-spacecraft-solar-sail/space-spacecraft-solar-sail_v1.fbx",
+    "thumb": "thumbs/space-spacecraft-solar-sail_v1.webp",
+    "dims": [
+     20.0,
+     8.749,
+     20.0
+    ],
+    "tris": 2231,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-solar-sail/space-spacecraft-solar-sail_v2.glb",
+    "fbx": "models/space/space-spacecraft-solar-sail/space-spacecraft-solar-sail_v2.fbx",
+    "thumb": "thumbs/space-spacecraft-solar-sail_v2.webp",
+    "dims": [
+     20.0,
+     9.063,
+     20.0
+    ],
+    "tris": 1831,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "35.glb",
+   "36.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-spacecraft-flying-saucer",
+  "name": "Flying Saucer",
+  "category": "Space",
+  "subcategory": "Spacecraft",
+  "tags": [],
+  "blend": "models/space/space-spacecraft-flying-saucer/space-spacecraft-flying-saucer.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-spacecraft-flying-saucer/space-spacecraft-flying-saucer_v1.glb",
+    "fbx": "models/space/space-spacecraft-flying-saucer/space-spacecraft-flying-saucer_v1.fbx",
+    "thumb": "thumbs/space-spacecraft-flying-saucer_v1.webp",
+    "dims": [
+     15.0,
+     15.0,
+     5.746
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-spacecraft-flying-saucer/space-spacecraft-flying-saucer_v2.glb",
+    "fbx": "models/space/space-spacecraft-flying-saucer/space-spacecraft-flying-saucer_v2.fbx",
+    "thumb": "thumbs/space-spacecraft-flying-saucer_v2.webp",
+    "dims": [
+     15.0,
+     15.0,
+     5.746
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "37.glb",
+   "38.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-spacecraft-rocket",
+  "name": "Rocket",
+  "category": "Space",
+  "subcategory": "Spacecraft",
+  "tags": [],
+  "blend": "models/space/space-spacecraft-rocket/space-spacecraft-rocket.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-spacecraft-rocket/space-spacecraft-rocket_v1.glb",
+    "fbx": "models/space/space-spacecraft-rocket/space-spacecraft-rocket_v1.fbx",
+    "thumb": "thumbs/space-spacecraft-rocket_v1.webp",
+    "dims": [
+     7.884,
+     50.0,
+     7.884
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "39.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-space-stations-space-station",
+  "name": "Space Station",
+  "category": "Space",
+  "subcategory": "Space Stations",
+  "tags": [
+   "Mir Station"
+  ],
+  "blend": "models/space/space-space-stations-space-station/space-space-stations-space-station.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-space-stations-space-station/space-space-stations-space-station_v1.glb",
+    "fbx": "models/space/space-space-stations-space-station/space-space-stations-space-station_v1.fbx",
+    "thumb": "thumbs/space-space-stations-space-station_v1.webp",
+    "dims": [
+     109.0,
+     65.42,
+     67.24
+    ],
+    "tris": 2066,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-space-stations-space-station/space-space-stations-space-station_v2.glb",
+    "fbx": "models/space/space-space-stations-space-station/space-space-stations-space-station_v2.fbx",
+    "thumb": "thumbs/space-space-stations-space-station_v2.webp",
+    "dims": [
+     18.55,
+     25.63,
+     31.0
+    ],
+    "tris": 1682,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "40.glb",
+   "41.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-spacecraft-space-capsule",
+  "name": "Space Capsule",
+  "category": "Space",
+  "subcategory": "Spacecraft",
+  "tags": [],
+  "blend": "models/space/space-spacecraft-space-capsule/space-spacecraft-space-capsule.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-spacecraft-space-capsule/space-spacecraft-space-capsule_v1.glb",
+    "fbx": "models/space/space-spacecraft-space-capsule/space-spacecraft-space-capsule_v1.fbx",
+    "thumb": "thumbs/space-spacecraft-space-capsule_v1.webp",
+    "dims": [
+     1.919,
+     3.0,
+     1.919
+    ],
+    "tris": 940,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "42.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-spacecraft-lunar-lander",
+  "name": "Lunar Lander",
+  "category": "Space",
+  "subcategory": "Spacecraft",
+  "tags": [],
+  "blend": "models/space/space-spacecraft-lunar-lander/space-spacecraft-lunar-lander.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-spacecraft-lunar-lander/space-spacecraft-lunar-lander_v1.glb",
+    "fbx": "models/space/space-spacecraft-lunar-lander/space-spacecraft-lunar-lander_v1.fbx",
+    "thumb": "thumbs/space-spacecraft-lunar-lander_v1.webp",
+    "dims": [
+     4.0,
+     2.994,
+     2.136
+    ],
+    "tris": 2289,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "43.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-nebulae-nebula",
+  "name": "Nebula",
+  "category": "Space",
+  "subcategory": "Nebulae",
+  "tags": [],
+  "blend": "models/space/space-nebulae-nebula/space-nebulae-nebula.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v1.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v1.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v1.webp",
+    "dims": [
+     0.3048,
+     0.5,
+     0.1398
+    ],
+    "tris": 142,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v2.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v2.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v2.webp",
+    "dims": [
+     0.4274,
+     0.5,
+     0.4373
+    ],
+    "tris": 392,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v3.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v3.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v3.webp",
+    "dims": [
+     0.4025,
+     0.5,
+     0.4134
+    ],
+    "tris": 263,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v4.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v4.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v4.webp",
+    "dims": [
+     0.5,
+     0.4583,
+     0.435
+    ],
+    "tris": 266,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v5.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v5.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v5.webp",
+    "dims": [
+     0.5,
+     0.4496,
+     0.4798
+    ],
+    "tris": 557,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v6.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v6.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v6.webp",
+    "dims": [
+     0.3581,
+     0.5,
+     0.252
+    ],
+    "tris": 149,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v7.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v7.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v7.webp",
+    "dims": [
+     0.3225,
+     0.5,
+     0.4471
+    ],
+    "tris": 88,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v8.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v8.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v8.webp",
+    "dims": [
+     0.468,
+     0.5,
+     0.4972
+    ],
+    "tris": 258,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v9.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v9.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v9.webp",
+    "dims": [
+     0.3796,
+     0.5,
+     0.2309
+    ],
+    "tris": 161,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v10.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v10.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v10.webp",
+    "dims": [
+     0.5,
+     0.3728,
+     0.4259
+    ],
+    "tris": 50,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v11.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v11.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v11.webp",
+    "dims": [
+     0.5,
+     0.4872,
+     0.4426
+    ],
+    "tris": 167,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v12.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v12.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v12.webp",
+    "dims": [
+     0.4154,
+     0.5,
+     0.2852
+    ],
+    "tris": 113,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v13.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v13.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v13.webp",
+    "dims": [
+     0.4789,
+     0.5,
+     0.4808
+    ],
+    "tris": 385,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v14.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v14.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v14.webp",
+    "dims": [
+     0.4952,
+     0.4777,
+     0.5
+    ],
+    "tris": 519,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v15.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v15.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v15.webp",
+    "dims": [
+     0.4235,
+     0.5,
+     0.3956
+    ],
+    "tris": 257,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v16.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v16.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v16.webp",
+    "dims": [
+     0.5,
+     0.4552,
+     0.4065
+    ],
+    "tris": 267,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v17.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v17.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v17.webp",
+    "dims": [
+     0.4166,
+     0.3911,
+     0.5
+    ],
+    "tris": 466,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v18.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v18.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v18.webp",
+    "dims": [
+     0.3573,
+     0.3554,
+     0.5
+    ],
+    "tris": 138,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v19.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v19.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v19.webp",
+    "dims": [
+     0.5,
+     0.3234,
+     0.4603
+    ],
+    "tris": 170,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v20.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v20.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v20.webp",
+    "dims": [
+     0.3301,
+     0.5,
+     0.3868
+    ],
+    "tris": 137,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v21.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v21.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v21.webp",
+    "dims": [
+     0.3997,
+     0.3335,
+     0.5
+    ],
+    "tris": 54,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v22.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v22.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v22.webp",
+    "dims": [
+     0.4136,
+     0.485,
+     0.5
+    ],
+    "tris": 252,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v23.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v23.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v23.webp",
+    "dims": [
+     0.4165,
+     0.5,
+     0.3116
+    ],
+    "tris": 28,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v24.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v24.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v24.webp",
+    "dims": [
+     0.492,
+     0.5,
+     0.3434
+    ],
+    "tris": 353,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v25.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v25.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v25.webp",
+    "dims": [
+     0.5,
+     0.3951,
+     0.465
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v26.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v26.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v26.webp",
+    "dims": [
+     0.4623,
+     0.4813,
+     0.5
+    ],
+    "tris": 385,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v27.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v27.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v27.webp",
+    "dims": [
+     0.4694,
+     0.5,
+     0.4621
+    ],
+    "tris": 386,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v28.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v28.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v28.webp",
+    "dims": [
+     0.4084,
+     0.5,
+     0.1469
+    ],
+    "tris": 478,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v29.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v29.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v29.webp",
+    "dims": [
+     0.5,
+     0.3291,
+     0.1518
+    ],
+    "tris": 228,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v30.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v30.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v30.webp",
+    "dims": [
+     0.4883,
+     0.5,
+     0.3849
+    ],
+    "tris": 499,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v31.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v31.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v31.webp",
+    "dims": [
+     0.4095,
+     0.5,
+     0.4294
+    ],
+    "tris": 422,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v32.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v32.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v32.webp",
+    "dims": [
+     0.5,
+     0.4596,
+     0.1817
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v33.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v33.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v33.webp",
+    "dims": [
+     0.4504,
+     0.5,
+     0.2532
+    ],
+    "tris": 305,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v34.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v34.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v34.webp",
+    "dims": [
+     0.5,
+     0.408,
+     0.3922
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v35.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v35.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v35.webp",
+    "dims": [
+     0.5,
+     0.4329,
+     0.4555
+    ],
+    "tris": 122,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v36.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v36.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v36.webp",
+    "dims": [
+     0.5,
+     0.469,
+     0.3567
+    ],
+    "tris": 288,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v37.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v37.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v37.webp",
+    "dims": [
+     0.4606,
+     0.5,
+     0.4107
+    ],
+    "tris": 214,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v38.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v38.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v38.webp",
+    "dims": [
+     0.5,
+     0.4988,
+     0.3456
+    ],
+    "tris": 490,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v39.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v39.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v39.webp",
+    "dims": [
+     0.5,
+     0.4913,
+     0.4653
+    ],
+    "tris": 512,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v40.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v40.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v40.webp",
+    "dims": [
+     0.3119,
+     0.2551,
+     0.5
+    ],
+    "tris": 149,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v41.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v41.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v41.webp",
+    "dims": [
+     0.4797,
+     0.5,
+     0.1226
+    ],
+    "tris": 333,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v42.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v42.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v42.webp",
+    "dims": [
+     0.3932,
+     0.5,
+     0.08941
+    ],
+    "tris": 255,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v43.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v43.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v43.webp",
+    "dims": [
+     0.5,
+     0.4482,
+     0.0777
+    ],
+    "tris": 462,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v44.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v44.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v44.webp",
+    "dims": [
+     0.4631,
+     0.5,
+     0.03353
+    ],
+    "tris": 340,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v45.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v45.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v45.webp",
+    "dims": [
+     0.5,
+     0.3944,
+     0.1146
+    ],
+    "tris": 504,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v46.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v46.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v46.webp",
+    "dims": [
+     0.5,
+     0.2612,
+     0.1561
+    ],
+    "tris": 112,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v47.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v47.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v47.webp",
+    "dims": [
+     0.5,
+     0.3389,
+     0.3198
+    ],
+    "tris": 228,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v48.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v48.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v48.webp",
+    "dims": [
+     0.5,
+     0.3416,
+     0.2911
+    ],
+    "tris": 322,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v49.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v49.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v49.webp",
+    "dims": [
+     0.3153,
+     0.5,
+     0.4182
+    ],
+    "tris": 205,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v50.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v50.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v50.webp",
+    "dims": [
+     0.2648,
+     0.5,
+     0.2963
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v51.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v51.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v51.webp",
+    "dims": [
+     0.4936,
+     0.5,
+     0.458
+    ],
+    "tris": 98,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v52.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v52.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v52.webp",
+    "dims": [
+     0.2393,
+     0.5,
+     0.315
+    ],
+    "tris": 54,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v53.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v53.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v53.webp",
+    "dims": [
+     0.275,
+     0.5,
+     0.2112
+    ],
+    "tris": 163,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v54.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v54.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v54.webp",
+    "dims": [
+     0.3441,
+     0.5,
+     0.1657
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v55.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v55.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v55.webp",
+    "dims": [
+     0.1188,
+     0.5,
+     0.2747
+    ],
+    "tris": 31,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v56.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v56.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v56.webp",
+    "dims": [
+     0.4931,
+     0.5,
+     0.2716
+    ],
+    "tris": 299,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v57.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v57.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v57.webp",
+    "dims": [
+     0.2446,
+     0.5,
+     0.3843
+    ],
+    "tris": 147,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v58.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v58.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v58.webp",
+    "dims": [
+     0.3091,
+     0.5,
+     0.2381
+    ],
+    "tris": 282,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v59.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v59.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v59.webp",
+    "dims": [
+     0.3064,
+     0.5,
+     0.3711
+    ],
+    "tris": 333,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v60.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v60.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v60.webp",
+    "dims": [
+     0.3952,
+     0.5,
+     0.2538
+    ],
+    "tris": 69,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v61.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v61.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v61.webp",
+    "dims": [
+     0.4056,
+     0.5,
+     0.2897
+    ],
+    "tris": 105,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v62.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v62.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v62.webp",
+    "dims": [
+     0.4302,
+     0.5,
+     0.4002
+    ],
+    "tris": 458,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v63.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v63.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v63.webp",
+    "dims": [
+     0.2776,
+     0.5,
+     0.2763
+    ],
+    "tris": 398,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v64.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v64.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v64.webp",
+    "dims": [
+     0.5,
+     0.3004,
+     0.3285
+    ],
+    "tris": 458,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v65.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v65.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v65.webp",
+    "dims": [
+     0.3778,
+     0.5,
+     0.256
+    ],
+    "tris": 92,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v66.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v66.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v66.webp",
+    "dims": [
+     0.4234,
+     0.5,
+     0.46
+    ],
+    "tris": 56,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-nebula/space-nebulae-nebula_v67.glb",
+    "fbx": "models/space/space-nebulae-nebula/space-nebulae-nebula_v67.fbx",
+    "thumb": "thumbs/space-nebulae-nebula_v67.webp",
+    "dims": [
+     0.5,
+     0.4602,
+     0.4069
+    ],
+    "tris": 276,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "44.glb",
+   "45.glb",
+   "46.glb",
+   "47.glb",
+   "49.glb",
+   "51.glb",
+   "52.glb",
+   "53.glb",
+   "55.glb",
+   "56.glb",
+   "58.glb",
+   "59.glb",
+   "60.glb",
+   "61.glb",
+   "62.glb",
+   "63.glb",
+   "65.glb",
+   "66.glb",
+   "67.glb",
+   "68.glb",
+   "78.glb",
+   "110.glb",
+   "111.glb",
+   "114.glb",
+   "118.glb",
+   "119.glb",
+   "120.glb",
+   "123.glb",
+   "124.glb",
+   "126.glb",
+   "127.glb",
+   "131.glb",
+   "132.glb",
+   "135.glb",
+   "136.glb",
+   "137.glb",
+   "138.glb",
+   "142.glb",
+   "143.glb",
+   "144.glb",
+   "155.glb",
+   "156.glb",
+   "163.glb",
+   "172.glb",
+   "178.glb",
+   "185.glb",
+   "187.glb",
+   "189.glb",
+   "193.glb",
+   "196.glb",
+   "197.glb",
+   "198.glb",
+   "200.glb",
+   "202.glb",
+   "204.glb",
+   "207.glb",
+   "210.glb",
+   "211.glb",
+   "213.glb",
+   "214.glb",
+   "217.glb",
+   "219.glb",
+   "221.glb",
+   "222.glb",
+   "224.glb",
+   "228.glb",
+   "229.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-asteroids-crystal-asteroid",
+  "name": "Crystal Asteroid",
+  "category": "Space",
+  "subcategory": "Asteroids",
+  "tags": [],
+  "blend": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v1.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v1.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v1.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v2.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v2.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v2.webp",
+    "dims": [
+     100.0,
+     100.0,
+     100.0
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v3.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v3.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v3.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v4.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v4.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v4.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v5.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v5.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v5.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v6.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v6.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v6.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v7.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v7.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v7.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v8.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v8.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v8.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v9.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v9.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v9.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v10.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v10.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v10.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v11.glb",
+    "fbx": "models/space/space-asteroids-crystal-asteroid/space-asteroids-crystal-asteroid_v11.fbx",
+    "thumb": "thumbs/space-asteroids-crystal-asteroid_v11.webp",
+    "dims": [
+     100.0,
+     100.0,
+     71.78
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "48.glb",
+   "50.glb",
+   "54.glb",
+   "57.glb",
+   "64.glb",
+   "133.glb",
+   "139.glb",
+   "149.glb",
+   "161.glb",
+   "171.glb",
+   "177.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-galaxies-spiral-galaxy",
+  "name": "Spiral Galaxy",
+  "category": "Space",
+  "subcategory": "Galaxies",
+  "tags": [],
+  "blend": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v1.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v1.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v1.webp",
+    "dims": [
+     0.4634,
+     0.5,
+     0.02647
+    ],
+    "tris": 174,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v2.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v2.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v2.webp",
+    "dims": [
+     0.4873,
+     0.5,
+     0.03058
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v3.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v3.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v3.webp",
+    "dims": [
+     0.3453,
+     0.5,
+     0.04839
+    ],
+    "tris": 280,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v4.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v4.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v4.webp",
+    "dims": [
+     0.5,
+     0.4561,
+     0.03288
+    ],
+    "tris": 324,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v5.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v5.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v5.webp",
+    "dims": [
+     0.5,
+     0.3583,
+     0.02544
+    ],
+    "tris": 108,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v6.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v6.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v6.webp",
+    "dims": [
+     0.5,
+     0.3507,
+     0.0335
+    ],
+    "tris": 108,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v7.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v7.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v7.webp",
+    "dims": [
+     0.5,
+     0.4228,
+     0.05847
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v8.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v8.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v8.webp",
+    "dims": [
+     0.488,
+     0.5,
+     0.03251
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v9.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v9.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v9.webp",
+    "dims": [
+     0.4884,
+     0.5,
+     0.1044
+    ],
+    "tris": 334,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v10.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v10.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v10.webp",
+    "dims": [
+     0.5,
+     0.408,
+     0.04473
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v11.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v11.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v11.webp",
+    "dims": [
+     0.5,
+     0.383,
+     0.04659
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v12.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v12.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v12.webp",
+    "dims": [
+     0.4666,
+     0.5,
+     0.04917
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v13.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v13.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v13.webp",
+    "dims": [
+     0.3828,
+     0.5,
+     0.04658
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v14.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v14.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v14.webp",
+    "dims": [
+     0.5,
+     0.4081,
+     0.04496
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v15.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v15.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v15.webp",
+    "dims": [
+     0.4981,
+     0.5,
+     0.04264
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v16.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v16.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v16.webp",
+    "dims": [
+     0.5,
+     0.4575,
+     0.01054
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v17.glb",
+    "fbx": "models/space/space-galaxies-spiral-galaxy/space-galaxies-spiral-galaxy_v17.fbx",
+    "thumb": "thumbs/space-galaxies-spiral-galaxy_v17.webp",
+    "dims": [
+     0.5,
+     0.4725,
+     0.04795
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "69.glb",
+   "70.glb",
+   "74.glb",
+   "82.glb",
+   "83.glb",
+   "84.glb",
+   "87.glb",
+   "90.glb",
+   "94.glb",
+   "95.glb",
+   "96.glb",
+   "97.glb",
+   "98.glb",
+   "99.glb",
+   "102.glb",
+   "107.glb",
+   "108.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-galaxies-galaxy",
+  "name": "Galaxy",
+  "category": "Space",
+  "subcategory": "Galaxies",
+  "tags": [],
+  "blend": "models/space/space-galaxies-galaxy/space-galaxies-galaxy.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v1.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v1.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.09104
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v2.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v2.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.08509
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v3.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v3.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.07804
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v4.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v4.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v4.webp",
+    "dims": [
+     0.5,
+     0.4995,
+     0.08767
+    ],
+    "tris": 607,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v5.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v5.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.02294
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v6.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v6.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v6.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.02294
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v7.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v7.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v7.webp",
+    "dims": [
+     0.4998,
+     0.5,
+     0.02294
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v8.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v8.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v8.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.05413
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v9.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v9.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v9.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.1797
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v10.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v10.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v10.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.1345
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v11.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v11.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v11.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.05478
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v12.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v12.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v12.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.05478
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v13.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v13.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v13.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.05478
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v14.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v14.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v14.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.1797
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v15.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v15.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v15.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v16.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v16.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v16.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v17.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v17.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v17.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v18.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v18.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v18.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v19.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v19.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v19.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v20.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v20.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v20.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v21.glb",
+    "fbx": "models/space/space-galaxies-galaxy/space-galaxies-galaxy_v21.fbx",
+    "thumb": "thumbs/space-galaxies-galaxy_v21.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.04359
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "71.glb",
+   "79.glb",
+   "85.glb",
+   "86.glb",
+   "88.glb",
+   "92.glb",
+   "101.glb",
+   "113.glb",
+   "116.glb",
+   "121.glb",
+   "122.glb",
+   "130.glb",
+   "134.glb",
+   "141.glb",
+   "146.glb",
+   "153.glb",
+   "158.glb",
+   "165.glb",
+   "169.glb",
+   "175.glb",
+   "180.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-galaxies-irregular-galaxy",
+  "name": "Irregular Galaxy",
+  "category": "Space",
+  "subcategory": "Galaxies",
+  "tags": [],
+  "blend": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v1.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v1.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v1.webp",
+    "dims": [
+     0.5,
+     0.4074,
+     6.637e-08
+    ],
+    "tris": 222,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v2.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v2.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v2.webp",
+    "dims": [
+     0.5,
+     0.2977,
+     8.212e-08
+    ],
+    "tris": 148,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v3.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v3.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v3.webp",
+    "dims": [
+     0.4145,
+     0.5,
+     0.03127
+    ],
+    "tris": 257,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v4.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v4.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v4.webp",
+    "dims": [
+     0.4602,
+     0.5,
+     0.05251
+    ],
+    "tris": 269,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v5.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v5.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v5.webp",
+    "dims": [
+     0.5,
+     0.4822,
+     0.1148
+    ],
+    "tris": 243,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v6.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v6.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v6.webp",
+    "dims": [
+     0.5,
+     0.4958,
+     0.1684
+    ],
+    "tris": 442,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v7.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v7.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v7.webp",
+    "dims": [
+     0.5,
+     0.3733,
+     0.03651
+    ],
+    "tris": 131,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v8.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v8.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v8.webp",
+    "dims": [
+     0.5,
+     0.495,
+     0.09451
+    ],
+    "tris": 313,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v9.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v9.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v9.webp",
+    "dims": [
+     0.5,
+     0.3906,
+     0.07302
+    ],
+    "tris": 206,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v10.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v10.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v10.webp",
+    "dims": [
+     0.4419,
+     0.5,
+     0.132
+    ],
+    "tris": 108,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v11.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v11.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v11.webp",
+    "dims": [
+     0.3117,
+     0.5,
+     0.1235
+    ],
+    "tris": 264,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v12.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v12.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v12.webp",
+    "dims": [
+     0.5,
+     0.4556,
+     0.08217
+    ],
+    "tris": 215,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v13.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v13.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v13.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.07151
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v14.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v14.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v14.webp",
+    "dims": [
+     0.5,
+     0.4408,
+     0.116
+    ],
+    "tris": 95,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v15.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v15.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v15.webp",
+    "dims": [
+     0.4663,
+     0.5,
+     0.1118
+    ],
+    "tris": 95,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v16.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v16.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v16.webp",
+    "dims": [
+     0.5,
+     0.4505,
+     1.151e-07
+    ],
+    "tris": 161,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v17.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v17.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v17.webp",
+    "dims": [
+     0.5,
+     0.4346,
+     1.172e-07
+    ],
+    "tris": 56,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v18.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v18.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v18.webp",
+    "dims": [
+     0.3538,
+     0.5,
+     0.009955
+    ],
+    "tris": 87,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v19.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v19.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v19.webp",
+    "dims": [
+     0.4365,
+     0.5,
+     0.0241
+    ],
+    "tris": 234,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v20.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v20.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v20.webp",
+    "dims": [
+     0.5,
+     0.1816,
+     0.02657
+    ],
+    "tris": 34,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v21.glb",
+    "fbx": "models/space/space-galaxies-irregular-galaxy/space-galaxies-irregular-galaxy_v21.fbx",
+    "thumb": "thumbs/space-galaxies-irregular-galaxy_v21.webp",
+    "dims": [
+     0.4671,
+     0.5,
+     0.07956
+    ],
+    "tris": 356,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "72.glb",
+   "73.glb",
+   "75.glb",
+   "76.glb",
+   "77.glb",
+   "80.glb",
+   "81.glb",
+   "89.glb",
+   "93.glb",
+   "103.glb",
+   "104.glb",
+   "105.glb",
+   "106.glb",
+   "109.glb",
+   "128.glb",
+   "150.glb",
+   "151.glb",
+   "167.glb",
+   "168.glb",
+   "173.glb",
+   "183.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-stars-star",
+  "name": "Star",
+  "category": "Space",
+  "subcategory": "Stars",
+  "tags": [],
+  "blend": "models/space/space-stars-star/space-stars-star.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v1.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v1.fbx",
+    "thumb": "thumbs/space-stars-star_v1.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.4999
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v2.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v2.fbx",
+    "thumb": "thumbs/space-stars-star_v2.webp",
+    "dims": [
+     0.4998,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v3.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v3.fbx",
+    "thumb": "thumbs/space-stars-star_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v4.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v4.fbx",
+    "thumb": "thumbs/space-stars-star_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v5.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v5.fbx",
+    "thumb": "thumbs/space-stars-star_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v6.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v6.fbx",
+    "thumb": "thumbs/space-stars-star_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v7.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v7.fbx",
+    "thumb": "thumbs/space-stars-star_v7.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v8.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v8.fbx",
+    "thumb": "thumbs/space-stars-star_v8.webp",
+    "dims": [
+     0.4261,
+     0.4261,
+     0.5
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v9.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v9.fbx",
+    "thumb": "thumbs/space-stars-star_v9.webp",
+    "dims": [
+     0.3203,
+     0.3203,
+     0.5
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v10.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v10.fbx",
+    "thumb": "thumbs/space-stars-star_v10.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v11.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v11.fbx",
+    "thumb": "thumbs/space-stars-star_v11.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v12.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v12.fbx",
+    "thumb": "thumbs/space-stars-star_v12.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v13.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v13.fbx",
+    "thumb": "thumbs/space-stars-star_v13.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star/space-stars-star_v14.glb",
+    "fbx": "models/space/space-stars-star/space-stars-star_v14.fbx",
+    "thumb": "thumbs/space-stars-star_v14.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "91.glb",
+   "100.glb",
+   "148.glb",
+   "160.glb",
+   "230.glb",
+   "231.glb",
+   "232.glb",
+   "233.glb",
+   "234.glb",
+   "235.glb",
+   "236.glb",
+   "237.glb",
+   "238.glb",
+   "239.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-galaxies-elliptical-galaxy",
+  "name": "Elliptical Galaxy",
+  "category": "Space",
+  "subcategory": "Galaxies",
+  "tags": [],
+  "blend": "models/space/space-galaxies-elliptical-galaxy/space-galaxies-elliptical-galaxy.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-galaxies-elliptical-galaxy/space-galaxies-elliptical-galaxy_v1.glb",
+    "fbx": "models/space/space-galaxies-elliptical-galaxy/space-galaxies-elliptical-galaxy_v1.fbx",
+    "thumb": "thumbs/space-galaxies-elliptical-galaxy_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.3193
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-elliptical-galaxy/space-galaxies-elliptical-galaxy_v2.glb",
+    "fbx": "models/space/space-galaxies-elliptical-galaxy/space-galaxies-elliptical-galaxy_v2.fbx",
+    "thumb": "thumbs/space-galaxies-elliptical-galaxy_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.2686
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "112.glb",
+   "129.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-stars-pink-star",
+  "name": "Pink Star",
+  "category": "Space",
+  "subcategory": "Stars",
+  "tags": [],
+  "blend": "models/space/space-stars-pink-star/space-stars-pink-star.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-stars-pink-star/space-stars-pink-star_v1.glb",
+    "fbx": "models/space/space-stars-pink-star/space-stars-pink-star_v1.fbx",
+    "thumb": "thumbs/space-stars-pink-star_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4661
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "115.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-stars-star-cluster",
+  "name": "Star Cluster",
+  "category": "Space",
+  "subcategory": "Stars",
+  "tags": [],
+  "blend": "models/space/space-stars-star-cluster/space-stars-star-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v1.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v1.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v1.webp",
+    "dims": [
+     0.4321,
+     0.5,
+     0.3616
+    ],
+    "tris": 292,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v2.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v2.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v2.webp",
+    "dims": [
+     0.5,
+     0.3082,
+     0.1351
+    ],
+    "tris": 276,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v3.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v3.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v3.webp",
+    "dims": [
+     0.5,
+     0.3604,
+     0.3177
+    ],
+    "tris": 660,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v4.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v4.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v4.webp",
+    "dims": [
+     0.5,
+     0.3813,
+     0.3007
+    ],
+    "tris": 544,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v5.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v5.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v5.webp",
+    "dims": [
+     0.2865,
+     0.5,
+     0.3254
+    ],
+    "tris": 212,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v6.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v6.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v6.webp",
+    "dims": [
+     0.245,
+     0.5,
+     0.355
+    ],
+    "tris": 400,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v7.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v7.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v7.webp",
+    "dims": [
+     0.4084,
+     0.3258,
+     0.5
+    ],
+    "tris": 148,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v8.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v8.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v8.webp",
+    "dims": [
+     0.2334,
+     0.5,
+     0.2838
+    ],
+    "tris": 1104,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v9.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v9.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v9.webp",
+    "dims": [
+     0.3105,
+     0.5,
+     0.1752
+    ],
+    "tris": 172,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v10.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v10.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v10.webp",
+    "dims": [
+     0.1885,
+     0.5,
+     0.164
+    ],
+    "tris": 696,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v11.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v11.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v11.webp",
+    "dims": [
+     0.1971,
+     0.5,
+     0.1257
+    ],
+    "tris": 516,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v12.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v12.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v12.webp",
+    "dims": [
+     0.4256,
+     0.5,
+     0.3039
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v13.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v13.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v13.webp",
+    "dims": [
+     0.4629,
+     0.5,
+     0.2567
+    ],
+    "tris": 1228,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v14.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v14.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v14.webp",
+    "dims": [
+     0.2123,
+     0.5,
+     0.2799
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v15.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v15.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v15.webp",
+    "dims": [
+     0.1561,
+     0.1596,
+     0.5
+    ],
+    "tris": 412,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v16.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v16.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v16.webp",
+    "dims": [
+     0.2485,
+     0.5,
+     0.2351
+    ],
+    "tris": 562,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v17.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v17.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v17.webp",
+    "dims": [
+     0.399,
+     0.5,
+     0.2818
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v18.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v18.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v18.webp",
+    "dims": [
+     0.2828,
+     0.5,
+     0.2998
+    ],
+    "tris": 1240,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v19.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v19.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v19.webp",
+    "dims": [
+     0.3907,
+     0.5,
+     0.3718
+    ],
+    "tris": 1188,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v20.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v20.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v20.webp",
+    "dims": [
+     0.2678,
+     0.5,
+     0.2483
+    ],
+    "tris": 1216,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v21.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v21.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v21.webp",
+    "dims": [
+     0.5,
+     0.2563,
+     0.2918
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v22.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v22.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v22.webp",
+    "dims": [
+     0.4199,
+     0.5,
+     0.2324
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v23.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v23.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v23.webp",
+    "dims": [
+     0.2269,
+     0.4839,
+     0.5
+    ],
+    "tris": 316,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-stars-star-cluster/space-stars-star-cluster_v24.glb",
+    "fbx": "models/space/space-stars-star-cluster/space-stars-star-cluster_v24.fbx",
+    "thumb": "thumbs/space-stars-star-cluster_v24.webp",
+    "dims": [
+     0.4016,
+     0.5,
+     0.2917
+    ],
+    "tris": 232,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "117.glb",
+   "186.glb",
+   "188.glb",
+   "190.glb",
+   "191.glb",
+   "192.glb",
+   "194.glb",
+   "195.glb",
+   "199.glb",
+   "201.glb",
+   "203.glb",
+   "205.glb",
+   "206.glb",
+   "208.glb",
+   "209.glb",
+   "212.glb",
+   "215.glb",
+   "216.glb",
+   "218.glb",
+   "220.glb",
+   "223.glb",
+   "225.glb",
+   "226.glb",
+   "227.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-planets-moons-gas-giant",
+  "name": "Gas Giant",
+  "category": "Space",
+  "subcategory": "Planets & Moons",
+  "tags": [],
+  "blend": "models/space/space-planets-moons-gas-giant/space-planets-moons-gas-giant.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-planets-moons-gas-giant/space-planets-moons-gas-giant_v1.glb",
+    "fbx": "models/space/space-planets-moons-gas-giant/space-planets-moons-gas-giant_v1.fbx",
+    "thumb": "thumbs/space-planets-moons-gas-giant_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4217
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "125.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-stars-red-giant",
+  "name": "Red Giant",
+  "category": "Space",
+  "subcategory": "Stars",
+  "tags": [],
+  "blend": "models/space/space-stars-red-giant/space-stars-red-giant.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-stars-red-giant/space-stars-red-giant_v1.glb",
+    "fbx": "models/space/space-stars-red-giant/space-stars-red-giant_v1.fbx",
+    "thumb": "thumbs/space-stars-red-giant_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4661
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "140.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-galaxies-ring-galaxy",
+  "name": "Ring Galaxy",
+  "category": "Space",
+  "subcategory": "Galaxies",
+  "tags": [],
+  "blend": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v1.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v1.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01746
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v2.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v2.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01746
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v3.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v3.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.02048
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v4.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v4.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01274
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v5.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v5.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01111
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v6.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v6.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01746
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v7.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v7.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v7.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01746
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v8.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v8.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v8.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01746
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v9.glb",
+    "fbx": "models/space/space-galaxies-ring-galaxy/space-galaxies-ring-galaxy_v9.fbx",
+    "thumb": "thumbs/space-galaxies-ring-galaxy_v9.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.0238
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "147.glb",
+   "154.glb",
+   "159.glb",
+   "162.glb",
+   "166.glb",
+   "170.glb",
+   "176.glb",
+   "181.glb",
+   "182.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-nebulae-ring-nebula",
+  "name": "Ring Nebula",
+  "category": "Space",
+  "subcategory": "Nebulae",
+  "tags": [],
+  "blend": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v1.glb",
+    "fbx": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v1.fbx",
+    "thumb": "thumbs/space-nebulae-ring-nebula_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.02826
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v2.glb",
+    "fbx": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v2.fbx",
+    "thumb": "thumbs/space-nebulae-ring-nebula_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01813
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v3.glb",
+    "fbx": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v3.fbx",
+    "thumb": "thumbs/space-nebulae-ring-nebula_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.01422
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v4.glb",
+    "fbx": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v4.fbx",
+    "thumb": "thumbs/space-nebulae-ring-nebula_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.02826
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v5.glb",
+    "fbx": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v5.fbx",
+    "thumb": "thumbs/space-nebulae-ring-nebula_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.02826
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v6.glb",
+    "fbx": "models/space/space-nebulae-ring-nebula/space-nebulae-ring-nebula_v6.fbx",
+    "thumb": "thumbs/space-nebulae-ring-nebula_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.03865
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "152.glb",
+   "157.glb",
+   "164.glb",
+   "174.glb",
+   "179.glb",
+   "184.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-stars-pulsar",
+  "name": "Pulsar",
+  "category": "Space",
+  "subcategory": "Stars",
+  "tags": [],
+  "blend": "models/space/space-stars-pulsar/space-stars-pulsar.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-stars-pulsar/space-stars-pulsar_v1.glb",
+    "fbx": "models/space/space-stars-pulsar/space-stars-pulsar_v1.fbx",
+    "thumb": "thumbs/space-stars-pulsar_v1.webp",
+    "dims": [
+     0.243,
+     0.243,
+     0.5
+    ],
+    "tris": 2424,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "240.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "space-asteroids-asteroid",
+  "name": "Asteroid",
+  "category": "Space",
+  "subcategory": "Asteroids",
+  "tags": [],
+  "blend": "models/space/space-asteroids-asteroid/space-asteroids-asteroid.blend",
+  "variants": [
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v1.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v1.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v1.webp",
+    "dims": [
+     497.7,
+     499.5,
+     500.0
+    ],
+    "tris": 450,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v2.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v2.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v2.webp",
+    "dims": [
+     489.7,
+     497.8,
+     500.0
+    ],
+    "tris": 234,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v3.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v3.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v3.webp",
+    "dims": [
+     500.0,
+     484.7,
+     480.4
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v4.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v4.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v4.webp",
+    "dims": [
+     481.3,
+     499.5,
+     500.0
+    ],
+    "tris": 222,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v5.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v5.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v5.webp",
+    "dims": [
+     500.0,
+     485.8,
+     481.5
+    ],
+    "tris": 482,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v6.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v6.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v6.webp",
+    "dims": [
+     500.0,
+     492.7,
+     481.4
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v7.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v7.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v7.webp",
+    "dims": [
+     500.0,
+     492.7,
+     481.4
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v8.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v8.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v8.webp",
+    "dims": [
+     500.0,
+     492.7,
+     481.4
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v9.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v9.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v9.webp",
+    "dims": [
+     497.7,
+     499.5,
+     500.0
+    ],
+    "tris": 450,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v10.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v10.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v10.webp",
+    "dims": [
+     492.2,
+     498.9,
+     500.0
+    ],
+    "tris": 114,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v11.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v11.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v11.webp",
+    "dims": [
+     500.0,
+     485.8,
+     481.5
+    ],
+    "tris": 482,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v12.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v12.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v12.webp",
+    "dims": [
+     497.7,
+     499.5,
+     500.0
+    ],
+    "tris": 450,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v13.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v13.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v13.webp",
+    "dims": [
+     500.0,
+     485.8,
+     481.5
+    ],
+    "tris": 482,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v14.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v14.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v14.webp",
+    "dims": [
+     500.0,
+     485.8,
+     481.6
+    ],
+    "tris": 482,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v15.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v15.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v15.webp",
+    "dims": [
+     500.0,
+     484.6,
+     480.4
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v16.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v16.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v16.webp",
+    "dims": [
+     500.0,
+     484.6,
+     480.4
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v17.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v17.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v17.webp",
+    "dims": [
+     497.7,
+     499.5,
+     500.0
+    ],
+    "tris": 450,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v18.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v18.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v18.webp",
+    "dims": [
+     492.2,
+     498.9,
+     500.0
+    ],
+    "tris": 114,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v19.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v19.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v19.webp",
+    "dims": [
+     500.0,
+     484.7,
+     480.4
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v20.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v20.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v20.webp",
+    "dims": [
+     500.0,
+     495.1,
+     483.9
+    ],
+    "tris": 222,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v21.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v21.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v21.webp",
+    "dims": [
+     500.0,
+     485.8,
+     481.5
+    ],
+    "tris": 482,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v22.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v22.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v22.webp",
+    "dims": [
+     500.0,
+     484.7,
+     480.5
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v23.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v23.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v23.webp",
+    "dims": [
+     500.0,
+     484.6,
+     480.4
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v24.glb",
+    "fbx": "models/space/space-asteroids-asteroid/space-asteroids-asteroid_v24.fbx",
+    "thumb": "thumbs/space-asteroids-asteroid_v24.webp",
+    "dims": [
+     500.0,
+     484.6,
+     480.4
+    ],
+    "tris": 238,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "241.glb",
+   "242.glb",
+   "243.glb",
+   "244.glb",
+   "245.glb",
+   "246.glb",
+   "247.glb",
+   "248.glb",
+   "249.glb",
+   "250.glb",
+   "251.glb",
+   "252.glb",
+   "253.glb",
+   "254.glb",
+   "255.glb",
+   "256.glb",
+   "257.glb",
+   "258.glb",
+   "259.glb",
+   "260.glb",
+   "261.glb",
+   "262.glb",
+   "263.glb",
+   "264.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]

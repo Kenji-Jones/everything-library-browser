@@ -1,0 +1,4258 @@
+[
+ {
+  "id": "furnishings-barriers-barbedfence",
+  "name": "BarbedFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-barbedfence/furnishings-barriers-barbedfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-barbedfence/furnishings-barriers-barbedfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-barbedfence/furnishings-barriers-barbedfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-barbedfence_v1.webp",
+    "dims": [
+     3.83,
+     0.291,
+     3.687
+    ],
+    "tris": 886,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-basicfence",
+  "name": "BasicFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-basicfence/furnishings-barriers-basicfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-basicfence/furnishings-barriers-basicfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-basicfence/furnishings-barriers-basicfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-basicfence_v1.webp",
+    "dims": [
+     1.938,
+     0.1559,
+     1.354
+    ],
+    "tris": 116,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-basicroundwoodfence",
+  "name": "BasicRoundWoodFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-basicroundwoodfence/furnishings-barriers-basicroundwoodfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-basicroundwoodfence/furnishings-barriers-basicroundwoodfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-basicroundwoodfence/furnishings-barriers-basicroundwoodfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-basicroundwoodfence_v1.webp",
+    "dims": [
+     1.747,
+     0.1839,
+     1.196
+    ],
+    "tris": 156,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-cordon",
+  "name": "Cordon",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-cordon/furnishings-barriers-cordon.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-cordon/furnishings-barriers-cordon_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-cordon/furnishings-barriers-cordon_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-cordon_v1.webp",
+    "dims": [
+     2.294,
+     0.1549,
+     0.8255
+    ],
+    "tris": 516,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-destroyedwall",
+  "name": "DestroyedWall",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-destroyedwall/furnishings-barriers-destroyedwall.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-destroyedwall/furnishings-barriers-destroyedwall_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-destroyedwall/furnishings-barriers-destroyedwall_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-destroyedwall_v1.webp",
+    "dims": [
+     7.889,
+     0.5775,
+     3.478
+    ],
+    "tris": 3442,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-ironfence",
+  "name": "IronFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-ironfence/furnishings-barriers-ironfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-ironfence/furnishings-barriers-ironfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-ironfence/furnishings-barriers-ironfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-ironfence_v1.webp",
+    "dims": [
+     3.932,
+     0.08365,
+     3.145
+    ],
+    "tris": 216,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-metalbarrier",
+  "name": "MetalBarrier",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-metalbarrier/furnishings-barriers-metalbarrier.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-metalbarrier/furnishings-barriers-metalbarrier_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-metalbarrier/furnishings-barriers-metalbarrier_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-metalbarrier_v1.webp",
+    "dims": [
+     2.349,
+     0.3145,
+     0.8687
+    ],
+    "tris": 368,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-ornatebollard",
+  "name": "OrnateBollard",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-ornatebollard/furnishings-barriers-ornatebollard.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-ornatebollard/furnishings-barriers-ornatebollard_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-ornatebollard/furnishings-barriers-ornatebollard_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-ornatebollard_v1.webp",
+    "dims": [
+     0.2476,
+     0.2462,
+     0.788
+    ],
+    "tris": 898,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-palisade",
+  "name": "Palisade",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-palisade/furnishings-barriers-palisade.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-palisade/furnishings-barriers-palisade_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-palisade/furnishings-barriers-palisade_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-palisade_v1.webp",
+    "dims": [
+     6.413,
+     0.6757,
+     5.259
+    ],
+    "tris": 3530,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-plasticbarrier",
+  "name": "PlasticBarrier",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-plasticbarrier/furnishings-barriers-plasticbarrier.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-plasticbarrier/furnishings-barriers-plasticbarrier_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-plasticbarrier/furnishings-barriers-plasticbarrier_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-plasticbarrier_v1.webp",
+    "dims": [
+     1.778,
+     0.3151,
+     0.8906
+    ],
+    "tris": 796,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-redbrickwall",
+  "name": "RedBrickWall",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-redbrickwall/furnishings-barriers-redbrickwall.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-redbrickwall/furnishings-barriers-redbrickwall_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-redbrickwall/furnishings-barriers-redbrickwall_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-redbrickwall_v1.webp",
+    "dims": [
+     2.62,
+     0.09654,
+     1.304
+    ],
+    "tris": 2692,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-roundedwhitefence",
+  "name": "RoundedWhiteFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-roundedwhitefence/furnishings-barriers-roundedwhitefence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-roundedwhitefence/furnishings-barriers-roundedwhitefence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-roundedwhitefence/furnishings-barriers-roundedwhitefence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-roundedwhitefence_v1.webp",
+    "dims": [
+     3.473,
+     0.189,
+     2.145
+    ],
+    "tris": 956,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-stonewall",
+  "name": "StoneWall",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-stonewall/furnishings-barriers-stonewall.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-stonewall/furnishings-barriers-stonewall_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-stonewall/furnishings-barriers-stonewall_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-stonewall_v1.webp",
+    "dims": [
+     3.524,
+     0.3066,
+     1.866
+    ],
+    "tris": 192,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-thinbollard",
+  "name": "ThinBollard",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-thinbollard/furnishings-barriers-thinbollard.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-thinbollard/furnishings-barriers-thinbollard_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-thinbollard/furnishings-barriers-thinbollard_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-thinbollard_v1.webp",
+    "dims": [
+     0.1517,
+     0.1511,
+     0.8519
+    ],
+    "tris": 600,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-verticalwall",
+  "name": "VerticalWall",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-verticalwall/furnishings-barriers-verticalwall.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-verticalwall/furnishings-barriers-verticalwall_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-verticalwall/furnishings-barriers-verticalwall_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-verticalwall_v1.webp",
+    "dims": [
+     1.918,
+     0.3318,
+     7.36
+    ],
+    "tris": 100,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-whitepicketfence",
+  "name": "WhitePicketFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-whitepicketfence/furnishings-barriers-whitepicketfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-whitepicketfence/furnishings-barriers-whitepicketfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-whitepicketfence/furnishings-barriers-whitepicketfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-whitepicketfence_v1.webp",
+    "dims": [
+     3.401,
+     0.09674,
+     1.848
+    ],
+    "tris": 700,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-woodfence",
+  "name": "WoodFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-woodfence/furnishings-barriers-woodfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-woodfence/furnishings-barriers-woodfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-woodfence/furnishings-barriers-woodfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-woodfence_v1.webp",
+    "dims": [
+     3.49,
+     0.2057,
+     2.203
+    ],
+    "tris": 468,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-barriers-woodenfence",
+  "name": "WoodenFence",
+  "category": "Furnishings",
+  "subcategory": "Barriers",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-barriers-woodenfence/furnishings-barriers-woodenfence.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-barriers-woodenfence/furnishings-barriers-woodenfence_v1.glb",
+    "fbx": "models/furnishings/furnishings-barriers-woodenfence/furnishings-barriers-woodenfence_v1.fbx",
+    "thumb": "thumbs/furnishings-barriers-woodenfence_v1.webp",
+    "dims": [
+     2.212,
+     0.208,
+     1.431
+    ],
+    "tris": 116,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-barriers-woodenfence/furnishings-barriers-woodenfence_v2.glb",
+    "fbx": "models/furnishings/furnishings-barriers-woodenfence/furnishings-barriers-woodenfence_v2.fbx",
+    "thumb": "thumbs/furnishings-barriers-woodenfence_v2.webp",
+    "dims": [
+     2.207,
+     0.1741,
+     1.431
+    ],
+    "tris": 120,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-basicconcretebench",
+  "name": "BasicConcreteBench",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-basicconcretebench/furnishings-chairs-basicconcretebench.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-basicconcretebench/furnishings-chairs-basicconcretebench_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-basicconcretebench/furnishings-chairs-basicconcretebench_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-basicconcretebench_v1.webp",
+    "dims": [
+     2.525,
+     0.7769,
+     0.4945
+    ],
+    "tris": 124,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-bleecher",
+  "name": "Bleecher",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-bleecher/furnishings-chairs-bleecher.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-bleecher/furnishings-chairs-bleecher_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-bleecher/furnishings-chairs-bleecher_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-bleecher_v1.webp",
+    "dims": [
+     5.423,
+     0.6682,
+     0.8477
+    ],
+    "tris": 5444,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-cafechair",
+  "name": "CafeChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-cafechair/furnishings-chairs-cafechair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-cafechair/furnishings-chairs-cafechair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-cafechair/furnishings-chairs-cafechair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-cafechair_v1.webp",
+    "dims": [
+     0.5579,
+     0.667,
+     1.175
+    ],
+    "tris": 476,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-concretebench",
+  "name": "ConcreteBench",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-concretebench/furnishings-chairs-concretebench.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-concretebench/furnishings-chairs-concretebench_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-concretebench/furnishings-chairs-concretebench_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-concretebench_v1.webp",
+    "dims": [
+     1.611,
+     0.5565,
+     0.8179
+    ],
+    "tris": 128,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-foldingchair",
+  "name": "FoldingChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-foldingchair/furnishings-chairs-foldingchair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-foldingchair/furnishings-chairs-foldingchair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-foldingchair/furnishings-chairs-foldingchair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-foldingchair_v1.webp",
+    "dims": [
+     0.4975,
+     0.7043,
+     1.069
+    ],
+    "tris": 96,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-moderncafechair",
+  "name": "ModernCafeChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-moderncafechair/furnishings-chairs-moderncafechair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-moderncafechair/furnishings-chairs-moderncafechair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-moderncafechair/furnishings-chairs-moderncafechair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-moderncafechair_v1.webp",
+    "dims": [
+     0.6062,
+     0.7035,
+     1.234
+    ],
+    "tris": 230,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-officechair",
+  "name": "OfficeChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-officechair/furnishings-chairs-officechair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-officechair/furnishings-chairs-officechair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-officechair/furnishings-chairs-officechair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-officechair_v1.webp",
+    "dims": [
+     0.4942,
+     0.4942,
+     0.9509
+    ],
+    "tris": 392,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-pianoseat",
+  "name": "PianoSeat",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-pianoseat/furnishings-chairs-pianoseat.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-pianoseat/furnishings-chairs-pianoseat_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-pianoseat/furnishings-chairs-pianoseat_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-pianoseat_v1.webp",
+    "dims": [
+     1.725,
+     0.5804,
+     0.5178
+    ],
+    "tris": 492,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-plainsofa",
+  "name": "PlainSofa",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-plainsofa_v1.webp",
+    "dims": [
+     1.937,
+     0.6554,
+     0.8398
+    ],
+    "tris": 570,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v2.glb",
+    "fbx": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v2.fbx",
+    "thumb": "thumbs/furnishings-chairs-plainsofa_v2.webp",
+    "dims": [
+     1.937,
+     0.6554,
+     0.8398
+    ],
+    "tris": 570,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v3.glb",
+    "fbx": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v3.fbx",
+    "thumb": "thumbs/furnishings-chairs-plainsofa_v3.webp",
+    "dims": [
+     1.937,
+     0.6554,
+     0.8398
+    ],
+    "tris": 570,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v4.glb",
+    "fbx": "models/furnishings/furnishings-chairs-plainsofa/furnishings-chairs-plainsofa_v4.fbx",
+    "thumb": "thumbs/furnishings-chairs-plainsofa_v4.webp",
+    "dims": [
+     1.937,
+     0.6554,
+     0.8398
+    ],
+    "tris": 570,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-plainwoodchair",
+  "name": "PlainWoodChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-plainwoodchair/furnishings-chairs-plainwoodchair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-plainwoodchair/furnishings-chairs-plainwoodchair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-plainwoodchair/furnishings-chairs-plainwoodchair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-plainwoodchair_v1.webp",
+    "dims": [
+     0.4671,
+     0.4484,
+     0.9227
+    ],
+    "tris": 96,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-roundedsofa",
+  "name": "RoundedSofa",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-roundedsofa/furnishings-chairs-roundedsofa.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-roundedsofa/furnishings-chairs-roundedsofa_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-roundedsofa/furnishings-chairs-roundedsofa_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-roundedsofa_v1.webp",
+    "dims": [
+     2.223,
+     0.8369,
+     0.6844
+    ],
+    "tris": 486,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-schoolchair",
+  "name": "SchoolChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-schoolchair/furnishings-chairs-schoolchair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-schoolchair/furnishings-chairs-schoolchair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-schoolchair/furnishings-chairs-schoolchair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-schoolchair_v1.webp",
+    "dims": [
+     0.6376,
+     0.6368,
+     1.285
+    ],
+    "tris": 308,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-wheelchair",
+  "name": "Wheelchair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-wheelchair/furnishings-chairs-wheelchair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-wheelchair/furnishings-chairs-wheelchair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-wheelchair/furnishings-chairs-wheelchair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-wheelchair_v1.webp",
+    "dims": [
+     0.7759,
+     1.115,
+     1.175
+    ],
+    "tris": 2014,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-whitewoodbench",
+  "name": "WhiteWoodBench",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-whitewoodbench/furnishings-chairs-whitewoodbench.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-whitewoodbench/furnishings-chairs-whitewoodbench_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-whitewoodbench/furnishings-chairs-whitewoodbench_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-whitewoodbench_v1.webp",
+    "dims": [
+     2.256,
+     0.9518,
+     1.133
+    ],
+    "tris": 624,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-woodbenchbasic",
+  "name": "WoodBenchBasic",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-woodbenchbasic/furnishings-chairs-woodbenchbasic.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-woodbenchbasic/furnishings-chairs-woodbenchbasic_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-woodbenchbasic/furnishings-chairs-woodbenchbasic_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-woodbenchbasic_v1.webp",
+    "dims": [
+     1.81,
+     0.6251,
+     0.9191
+    ],
+    "tris": 104,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-woodchair",
+  "name": "WoodChair",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-woodchair/furnishings-chairs-woodchair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-woodchair/furnishings-chairs-woodchair_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-woodchair/furnishings-chairs-woodchair_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-woodchair_v1.webp",
+    "dims": [
+     0.4145,
+     0.4547,
+     1.122
+    ],
+    "tris": 84,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-chairs-woodenbenchsimple",
+  "name": "WoodenBenchSimple",
+  "category": "Furnishings",
+  "subcategory": "Chairs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-chairs-woodenbenchsimple/furnishings-chairs-woodenbenchsimple.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-chairs-woodenbenchsimple/furnishings-chairs-woodenbenchsimple_v1.glb",
+    "fbx": "models/furnishings/furnishings-chairs-woodenbenchsimple/furnishings-chairs-woodenbenchsimple_v1.fbx",
+    "thumb": "thumbs/furnishings-chairs-woodenbenchsimple_v1.webp",
+    "dims": [
+     2.138,
+     0.7113,
+     0.9973
+    ],
+    "tris": 224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-bedsidetablenlamp",
+  "name": "BedsideTableNLamp",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-bedsidetablenlamp/furnishings-indoor-bedsidetablenlamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-bedsidetablenlamp/furnishings-indoor-bedsidetablenlamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-bedsidetablenlamp/furnishings-indoor-bedsidetablenlamp_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-bedsidetablenlamp_v1.webp",
+    "dims": [
+     0.6451,
+     0.6451,
+     1.159
+    ],
+    "tris": 388,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-bleach",
+  "name": "Bleach",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-bleach/furnishings-indoor-bleach.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-bleach/furnishings-indoor-bleach_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-bleach/furnishings-indoor-bleach_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-bleach_v1.webp",
+    "dims": [
+     0.8659,
+     1.225,
+     2.104
+    ],
+    "tris": 1088,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-bookshelf",
+  "name": "BookShelf",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-bookshelf_v1.webp",
+    "dims": [
+     1.782,
+     0.4335,
+     1.694
+    ],
+    "tris": 1684,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v2.glb",
+    "fbx": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v2.fbx",
+    "thumb": "thumbs/furnishings-indoor-bookshelf_v2.webp",
+    "dims": [
+     1.782,
+     0.4335,
+     1.694
+    ],
+    "tris": 1768,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v3.glb",
+    "fbx": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v3.fbx",
+    "thumb": "thumbs/furnishings-indoor-bookshelf_v3.webp",
+    "dims": [
+     1.782,
+     0.4335,
+     1.694
+    ],
+    "tris": 1600,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v4.glb",
+    "fbx": "models/furnishings/furnishings-indoor-bookshelf/furnishings-indoor-bookshelf_v4.fbx",
+    "thumb": "thumbs/furnishings-indoor-bookshelf_v4.webp",
+    "dims": [
+     1.782,
+     0.4335,
+     1.694
+    ],
+    "tris": 1748,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-ceramicpot",
+  "name": "CeramicPot",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-ceramicpot_v1.webp",
+    "dims": [
+     0.8487,
+     0.8487,
+     0.5141
+    ],
+    "tris": 436,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v2.glb",
+    "fbx": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v2.fbx",
+    "thumb": "thumbs/furnishings-indoor-ceramicpot_v2.webp",
+    "dims": [
+     0.418,
+     0.4159,
+     0.4087
+    ],
+    "tris": 406,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v3.glb",
+    "fbx": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v3.fbx",
+    "thumb": "thumbs/furnishings-indoor-ceramicpot_v3.webp",
+    "dims": [
+     0.8237,
+     0.8237,
+     1.039
+    ],
+    "tris": 478,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v4.glb",
+    "fbx": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v4.fbx",
+    "thumb": "thumbs/furnishings-indoor-ceramicpot_v4.webp",
+    "dims": [
+     0.5079,
+     0.5079,
+     0.1721
+    ],
+    "tris": 316,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v5.glb",
+    "fbx": "models/furnishings/furnishings-indoor-ceramicpot/furnishings-indoor-ceramicpot_v5.fbx",
+    "thumb": "thumbs/furnishings-indoor-ceramicpot_v5.webp",
+    "dims": [
+     0.7874,
+     0.7874,
+     0.3252
+    ],
+    "tris": 312,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-clapperboard",
+  "name": "Clapperboard",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-clapperboard/furnishings-indoor-clapperboard.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-clapperboard/furnishings-indoor-clapperboard_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-clapperboard/furnishings-indoor-clapperboard_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-clapperboard_v1.webp",
+    "dims": [
+     0.2627,
+     0.01853,
+     0.2654
+    ],
+    "tris": 560,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-cocktailumbrella",
+  "name": "CocktailUmbrella",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-cocktailumbrella/furnishings-indoor-cocktailumbrella.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-cocktailumbrella/furnishings-indoor-cocktailumbrella_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-cocktailumbrella/furnishings-indoor-cocktailumbrella_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-cocktailumbrella_v1.webp",
+    "dims": [
+     0.1237,
+     0.1237,
+     0.07982
+    ],
+    "tris": 284,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-deskfan",
+  "name": "Deskfan",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-deskfan/furnishings-indoor-deskfan.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-deskfan/furnishings-indoor-deskfan_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-deskfan/furnishings-indoor-deskfan_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-deskfan_v1.webp",
+    "dims": [
+     0.3944,
+     0.254,
+     0.5084
+    ],
+    "tris": 1955,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-dinnerplate",
+  "name": "DinnerPlate",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-dinnerplate/furnishings-indoor-dinnerplate.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-dinnerplate/furnishings-indoor-dinnerplate_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-dinnerplate/furnishings-indoor-dinnerplate_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-dinnerplate_v1.webp",
+    "dims": [
+     0.9558,
+     0.9558,
+     0.05566
+    ],
+    "tris": 224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-door",
+  "name": "Door",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-door/furnishings-indoor-door.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-door/furnishings-indoor-door_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-door/furnishings-indoor-door_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-door_v1.webp",
+    "dims": [
+     0.6491,
+     0.1756,
+     1.352
+    ],
+    "tris": 432,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-filmreel",
+  "name": "FilmReel",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-filmreel/furnishings-indoor-filmreel.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-filmreel/furnishings-indoor-filmreel_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-filmreel/furnishings-indoor-filmreel_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-filmreel_v1.webp",
+    "dims": [
+     0.06873,
+     0.3601,
+     0.3601
+    ],
+    "tris": 552,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-fourpostbed",
+  "name": "FourPostBed",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-fourpostbed/furnishings-indoor-fourpostbed.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-fourpostbed/furnishings-indoor-fourpostbed_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-fourpostbed/furnishings-indoor-fourpostbed_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-fourpostbed_v1.webp",
+    "dims": [
+     1.589,
+     2.638,
+     1.699
+    ],
+    "tris": 1622,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-fourpostbed/furnishings-indoor-fourpostbed_v2.glb",
+    "fbx": "models/furnishings/furnishings-indoor-fourpostbed/furnishings-indoor-fourpostbed_v2.fbx",
+    "thumb": "thumbs/furnishings-indoor-fourpostbed_v2.webp",
+    "dims": [
+     1.659,
+     2.717,
+     1.699
+    ],
+    "tris": 1684,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-fridge",
+  "name": "Fridge",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-fridge/furnishings-indoor-fridge.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-fridge/furnishings-indoor-fridge_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-fridge/furnishings-indoor-fridge_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-fridge_v1.webp",
+    "dims": [
+     1.019,
+     1.113,
+     2.038
+    ],
+    "tris": 272,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-fulllengthmirror",
+  "name": "FullLengthMirror",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-fulllengthmirror/furnishings-indoor-fulllengthmirror.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-fulllengthmirror/furnishings-indoor-fulllengthmirror_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-fulllengthmirror/furnishings-indoor-fulllengthmirror_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-fulllengthmirror_v1.webp",
+    "dims": [
+     0.881,
+     0.0509,
+     1.405
+    ],
+    "tris": 38,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-ornatebed",
+  "name": "OrnateBed",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-ornatebed/furnishings-indoor-ornatebed.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-ornatebed/furnishings-indoor-ornatebed_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-ornatebed/furnishings-indoor-ornatebed_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-ornatebed_v1.webp",
+    "dims": [
+     2.252,
+     2.723,
+     2.692
+    ],
+    "tris": 4960,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-sink",
+  "name": "Sink",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-sink/furnishings-indoor-sink.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-sink/furnishings-indoor-sink_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-sink/furnishings-indoor-sink_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-sink_v1.webp",
+    "dims": [
+     0.7511,
+     0.5879,
+     0.8464
+    ],
+    "tris": 968,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-sinksquare",
+  "name": "SinkSquare",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-sinksquare/furnishings-indoor-sinksquare.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-sinksquare/furnishings-indoor-sinksquare_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-sinksquare/furnishings-indoor-sinksquare_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-sinksquare_v1.webp",
+    "dims": [
+     0.6217,
+     0.6069,
+     0.813
+    ],
+    "tris": 764,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-steelpipebed",
+  "name": "SteelPipeBed",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-steelpipebed/furnishings-indoor-steelpipebed.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-steelpipebed/furnishings-indoor-steelpipebed_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-steelpipebed/furnishings-indoor-steelpipebed_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-steelpipebed_v1.webp",
+    "dims": [
+     1.385,
+     2.183,
+     1.163
+    ],
+    "tris": 1356,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-trophy",
+  "name": "Trophy",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-trophy/furnishings-indoor-trophy.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-trophy/furnishings-indoor-trophy_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-trophy/furnishings-indoor-trophy_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-trophy_v1.webp",
+    "dims": [
+     0.4061,
+     0.3534,
+     0.4916
+    ],
+    "tris": 880,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-vase",
+  "name": "Vase",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-vase_v1.webp",
+    "dims": [
+     0.4487,
+     0.4487,
+     0.7384
+    ],
+    "tris": 448,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v2.glb",
+    "fbx": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v2.fbx",
+    "thumb": "thumbs/furnishings-indoor-vase_v2.webp",
+    "dims": [
+     0.5068,
+     0.5068,
+     0.7784
+    ],
+    "tris": 624,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v3.glb",
+    "fbx": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v3.fbx",
+    "thumb": "thumbs/furnishings-indoor-vase_v3.webp",
+    "dims": [
+     0.4749,
+     0.4749,
+     0.7457
+    ],
+    "tris": 352,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v4.glb",
+    "fbx": "models/furnishings/furnishings-indoor-vase/furnishings-indoor-vase_v4.fbx",
+    "thumb": "thumbs/furnishings-indoor-vase_v4.webp",
+    "dims": [
+     0.3884,
+     0.3884,
+     0.7561
+    ],
+    "tris": 544,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-washingmachine",
+  "name": "WashingMachine",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-washingmachine/furnishings-indoor-washingmachine.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-washingmachine/furnishings-indoor-washingmachine_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-washingmachine/furnishings-indoor-washingmachine_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-washingmachine_v1.webp",
+    "dims": [
+     0.7262,
+     0.7262,
+     1.021
+    ],
+    "tris": 375,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-indoor-window",
+  "name": "Window",
+  "category": "Furnishings",
+  "subcategory": "Indoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-indoor-window/furnishings-indoor-window.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-indoor-window/furnishings-indoor-window_v1.glb",
+    "fbx": "models/furnishings/furnishings-indoor-window/furnishings-indoor-window_v1.fbx",
+    "thumb": "thumbs/furnishings-indoor-window_v1.webp",
+    "dims": [
+     1.277,
+     0.07076,
+     1.45
+    ],
+    "tris": 78,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-banneredstreetlamp",
+  "name": "BanneredStreetLamp",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-banneredstreetlamp/furnishings-lightsources-banneredstreetlamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-banneredstreetlamp/furnishings-lightsources-banneredstreetlamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-banneredstreetlamp/furnishings-lightsources-banneredstreetlamp_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-banneredstreetlamp_v1.webp",
+    "dims": [
+     2.897,
+     2.003,
+     10.39
+    ],
+    "tris": 1223,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-brickfirepit",
+  "name": "BrickFirePit",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-brickfirepit/furnishings-lightsources-brickfirepit.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-brickfirepit/furnishings-lightsources-brickfirepit_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-brickfirepit/furnishings-lightsources-brickfirepit_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-brickfirepit_v1.webp",
+    "dims": [
+     1.582,
+     1.582,
+     0.3562
+    ],
+    "tris": 700,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-bronzefirepit",
+  "name": "BronzeFirepit",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-bronzefirepit/furnishings-lightsources-bronzefirepit.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-bronzefirepit/furnishings-lightsources-bronzefirepit_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-bronzefirepit/furnishings-lightsources-bronzefirepit_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-bronzefirepit_v1.webp",
+    "dims": [
+     1.66,
+     1.66,
+     0.6077
+    ],
+    "tris": 804,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-bulblamp",
+  "name": "BulbLamp",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-bulblamp/furnishings-lightsources-bulblamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-bulblamp/furnishings-lightsources-bulblamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-bulblamp/furnishings-lightsources-bulblamp_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-bulblamp_v1.webp",
+    "dims": [
+     0.3245,
+     0.3245,
+     1.661
+    ],
+    "tris": 898,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-lightsources-bulblamp/furnishings-lightsources-bulblamp_v2.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-bulblamp/furnishings-lightsources-bulblamp_v2.fbx",
+    "thumb": "thumbs/furnishings-lightsources-bulblamp_v2.webp",
+    "dims": [
+     0.3245,
+     0.3245,
+     0.9337
+    ],
+    "tris": 898,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-campfire",
+  "name": "Campfire",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-campfire/furnishings-lightsources-campfire.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-campfire/furnishings-lightsources-campfire_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-campfire/furnishings-lightsources-campfire_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-campfire_v1.webp",
+    "dims": [
+     1.747,
+     1.683,
+     0.8467
+    ],
+    "tris": 896,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-candle",
+  "name": "Candle",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-candle/furnishings-lightsources-candle.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-candle/furnishings-lightsources-candle_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-candle/furnishings-lightsources-candle_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-candle_v1.webp",
+    "dims": [
+     0.8711,
+     0.8711,
+     3.246
+    ],
+    "tris": 252,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-concretefirepit",
+  "name": "ConcreteFirepit",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-concretefirepit/furnishings-lightsources-concretefirepit.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-concretefirepit/furnishings-lightsources-concretefirepit_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-concretefirepit/furnishings-lightsources-concretefirepit_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-concretefirepit_v1.webp",
+    "dims": [
+     1.682,
+     1.682,
+     0.9059
+    ],
+    "tris": 1024,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-drumlamp",
+  "name": "DrumLamp",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-drumlamp_v1.webp",
+    "dims": [
+     0.5369,
+     0.5359,
+     1.711
+    ],
+    "tris": 1172,
+    "parts": 4
+   },
+   {
+    "glb": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp_v2.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp_v2.fbx",
+    "thumb": "thumbs/furnishings-lightsources-drumlamp_v2.webp",
+    "dims": [
+     0.5369,
+     0.5359,
+     0.7179
+    ],
+    "tris": 1172,
+    "parts": 4
+   },
+   {
+    "glb": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp_v3.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-drumlamp/furnishings-lightsources-drumlamp_v3.fbx",
+    "thumb": "thumbs/furnishings-lightsources-drumlamp_v3.webp",
+    "dims": [
+     0.5369,
+     0.5359,
+     1.088
+    ],
+    "tris": 1172,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-flashlight",
+  "name": "Flashlight",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-flashlight/furnishings-lightsources-flashlight.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-flashlight/furnishings-lightsources-flashlight_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-flashlight/furnishings-lightsources-flashlight_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-flashlight_v1.webp",
+    "dims": [
+     2.739,
+     6.611,
+     2.723
+    ],
+    "tris": 212,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-largesearchlight",
+  "name": "LargeSearchlight",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-largesearchlight/furnishings-lightsources-largesearchlight.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-largesearchlight/furnishings-lightsources-largesearchlight_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-largesearchlight/furnishings-lightsources-largesearchlight_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-largesearchlight_v1.webp",
+    "dims": [
+     18.54,
+     7.336,
+     15.4
+    ],
+    "tris": 1264,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-lightbulb",
+  "name": "LightBulb",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-lightbulb/furnishings-lightsources-lightbulb.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-lightbulb/furnishings-lightsources-lightbulb_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-lightbulb/furnishings-lightsources-lightbulb_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-lightbulb_v1.webp",
+    "dims": [
+     1.01,
+     1.725,
+     1.011
+    ],
+    "tris": 408,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-modernstreetlight",
+  "name": "ModernStreetLight",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-modernstreetlight/furnishings-lightsources-modernstreetlight.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-modernstreetlight/furnishings-lightsources-modernstreetlight_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-modernstreetlight/furnishings-lightsources-modernstreetlight_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-modernstreetlight_v1.webp",
+    "dims": [
+     3.146,
+     5.994,
+     12.39
+    ],
+    "tris": 342,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-oillamp",
+  "name": "OilLamp",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-oillamp/furnishings-lightsources-oillamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-oillamp/furnishings-lightsources-oillamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-oillamp/furnishings-lightsources-oillamp_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-oillamp_v1.webp",
+    "dims": [
+     1.581,
+     1.571,
+     4.591
+    ],
+    "tris": 904,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-oldstreetlamp",
+  "name": "OldStreetLamp",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-oldstreetlamp/furnishings-lightsources-oldstreetlamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-oldstreetlamp/furnishings-lightsources-oldstreetlamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-oldstreetlamp/furnishings-lightsources-oldstreetlamp_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-oldstreetlamp_v1.webp",
+    "dims": [
+     1.625,
+     1.625,
+     5.947
+    ],
+    "tris": 952,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-searchlight",
+  "name": "Searchlight",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-searchlight/furnishings-lightsources-searchlight.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-searchlight/furnishings-lightsources-searchlight_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-searchlight/furnishings-lightsources-searchlight_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-searchlight_v1.webp",
+    "dims": [
+     3.844,
+     7.013,
+     7.207
+    ],
+    "tris": 1020,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-stadiumlights",
+  "name": "StadiumLights",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-stadiumlights/furnishings-lightsources-stadiumlights.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-stadiumlights/furnishings-lightsources-stadiumlights_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-stadiumlights/furnishings-lightsources-stadiumlights_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-stadiumlights_v1.webp",
+    "dims": [
+     7.982,
+     7.67,
+     8.182
+    ],
+    "tris": 7536,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-standingbronzetorch",
+  "name": "StandingBronzeTorch",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-standingbronzetorch/furnishings-lightsources-standingbronzetorch.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-standingbronzetorch/furnishings-lightsources-standingbronzetorch_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-standingbronzetorch/furnishings-lightsources-standingbronzetorch_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-standingbronzetorch_v1.webp",
+    "dims": [
+     0.4108,
+     0.4297,
+     1.68
+    ],
+    "tris": 434,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-standingmetaltorch",
+  "name": "StandingMetalTorch",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-standingmetaltorch/furnishings-lightsources-standingmetaltorch.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-standingmetaltorch/furnishings-lightsources-standingmetaltorch_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-standingmetaltorch/furnishings-lightsources-standingmetaltorch_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-standingmetaltorch_v1.webp",
+    "dims": [
+     0.3127,
+     0.2804,
+     2.473
+    ],
+    "tris": 450,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-streetlamp",
+  "name": "StreetLamp",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-streetlamp/furnishings-lightsources-streetlamp.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-streetlamp/furnishings-lightsources-streetlamp_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-streetlamp/furnishings-lightsources-streetlamp_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-streetlamp_v1.webp",
+    "dims": [
+     2.082,
+     4.106,
+     11.16
+    ],
+    "tris": 210,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-terracottabrazier",
+  "name": "TerracottaBrazier",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-terracottabrazier/furnishings-lightsources-terracottabrazier.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-terracottabrazier/furnishings-lightsources-terracottabrazier_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-terracottabrazier/furnishings-lightsources-terracottabrazier_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-terracottabrazier_v1.webp",
+    "dims": [
+     0.8756,
+     0.8756,
+     0.8719
+    ],
+    "tris": 492,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-lightsources-woodentorch",
+  "name": "WoodenTorch",
+  "category": "Furnishings",
+  "subcategory": "LightSources",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch_v1.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch_v1.fbx",
+    "thumb": "thumbs/furnishings-lightsources-woodentorch_v1.webp",
+    "dims": [
+     0.2162,
+     0.2162,
+     1.658
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch_v2.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch_v2.fbx",
+    "thumb": "thumbs/furnishings-lightsources-woodentorch_v2.webp",
+    "dims": [
+     0.2162,
+     0.2162,
+     1.812
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch_v3.glb",
+    "fbx": "models/furnishings/furnishings-lightsources-woodentorch/furnishings-lightsources-woodentorch_v3.fbx",
+    "thumb": "thumbs/furnishings-lightsources-woodentorch_v3.webp",
+    "dims": [
+     0.2162,
+     0.2162,
+     1.716
+    ],
+    "tris": 224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-atm",
+  "name": "ATM",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-atm/furnishings-outdoor-atm.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-atm/furnishings-outdoor-atm_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-atm/furnishings-outdoor-atm_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-atm_v1.webp",
+    "dims": [
+     0.6083,
+     0.5606,
+     1.954
+    ],
+    "tris": 496,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-cinderblock",
+  "name": "CinderBlock",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-cinderblock/furnishings-outdoor-cinderblock.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-cinderblock/furnishings-outdoor-cinderblock_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-cinderblock/furnishings-outdoor-cinderblock_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-cinderblock_v1.webp",
+    "dims": [
+     0.5988,
+     0.2794,
+     0.2107
+    ],
+    "tris": 172,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-concreteflowerbed",
+  "name": "ConcreteFlowerBed",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-concreteflowerbed/furnishings-outdoor-concreteflowerbed.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-concreteflowerbed/furnishings-outdoor-concreteflowerbed_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-concreteflowerbed/furnishings-outdoor-concreteflowerbed_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-concreteflowerbed_v1.webp",
+    "dims": [
+     1.823,
+     0.7294,
+     0.6293
+    ],
+    "tris": 1484,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-concretegardenbed",
+  "name": "ConcreteGardenBed",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-concretegardenbed_v1.webp",
+    "dims": [
+     2.046,
+     0.7835,
+     0.439
+    ],
+    "tris": 4912,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v2.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v2.fbx",
+    "thumb": "thumbs/furnishings-outdoor-concretegardenbed_v2.webp",
+    "dims": [
+     2.046,
+     0.7835,
+     0.6793
+    ],
+    "tris": 3768,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v3.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v3.fbx",
+    "thumb": "thumbs/furnishings-outdoor-concretegardenbed_v3.webp",
+    "dims": [
+     2.046,
+     0.7835,
+     0.444
+    ],
+    "tris": 5488,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v4.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-concretegardenbed/furnishings-outdoor-concretegardenbed_v4.fbx",
+    "thumb": "thumbs/furnishings-outdoor-concretegardenbed_v4.webp",
+    "dims": [
+     2.046,
+     0.7835,
+     0.4833
+    ],
+    "tris": 1616,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-constructioncone",
+  "name": "ConstructionCone",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-constructioncone/furnishings-outdoor-constructioncone.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-constructioncone/furnishings-outdoor-constructioncone_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-constructioncone/furnishings-outdoor-constructioncone_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-constructioncone_v1.webp",
+    "dims": [
+     0.5478,
+     0.4744,
+     0.8431
+    ],
+    "tris": 96,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-deckchair",
+  "name": "DeckChair",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-deckchair/furnishings-outdoor-deckchair.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-deckchair/furnishings-outdoor-deckchair_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-deckchair/furnishings-outdoor-deckchair_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-deckchair_v1.webp",
+    "dims": [
+     1.426,
+     1.982,
+     1.946
+    ],
+    "tris": 676,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-drumbridge",
+  "name": "DrumBridge",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-drumbridge/furnishings-outdoor-drumbridge.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-drumbridge/furnishings-outdoor-drumbridge_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-drumbridge/furnishings-outdoor-drumbridge_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-drumbridge_v1.webp",
+    "dims": [
+     7.294,
+     15.41,
+     10.85
+    ],
+    "tris": 1984,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-firehydrant",
+  "name": "FireHydrant",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-firehydrant/furnishings-outdoor-firehydrant.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-firehydrant/furnishings-outdoor-firehydrant_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-firehydrant/furnishings-outdoor-firehydrant_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-firehydrant_v1.webp",
+    "dims": [
+     0.3258,
+     0.3793,
+     0.8384
+    ],
+    "tris": 1024,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-flagpole",
+  "name": "Flagpole",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-flagpole/furnishings-outdoor-flagpole.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-flagpole/furnishings-outdoor-flagpole_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-flagpole/furnishings-outdoor-flagpole_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-flagpole_v1.webp",
+    "dims": [
+     0.02029,
+     0.2896,
+     1.471
+    ],
+    "tris": 44,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-gaspipe",
+  "name": "GasPipe",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-gaspipe/furnishings-outdoor-gaspipe.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-gaspipe/furnishings-outdoor-gaspipe_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-gaspipe/furnishings-outdoor-gaspipe_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-gaspipe_v1.webp",
+    "dims": [
+     0.2285,
+     0.5391,
+     0.6678
+    ],
+    "tris": 420,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-gaspump",
+  "name": "GasPump",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-gaspump/furnishings-outdoor-gaspump.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-gaspump/furnishings-outdoor-gaspump_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-gaspump/furnishings-outdoor-gaspump_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-gaspump_v1.webp",
+    "dims": [
+     0.7744,
+     0.483,
+     1.736
+    ],
+    "tris": 598,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-hotdogcart",
+  "name": "HotDogCart",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-hotdogcart/furnishings-outdoor-hotdogcart.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-hotdogcart/furnishings-outdoor-hotdogcart_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-hotdogcart/furnishings-outdoor-hotdogcart_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-hotdogcart_v1.webp",
+    "dims": [
+     1.887,
+     2.32,
+     2.929
+    ],
+    "tris": 1086,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-letterbox",
+  "name": "Letterbox",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-letterbox/furnishings-outdoor-letterbox.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-letterbox/furnishings-outdoor-letterbox_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-letterbox/furnishings-outdoor-letterbox_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-letterbox_v1.webp",
+    "dims": [
+     0.5481,
+     0.4767,
+     1.702
+    ],
+    "tris": 956,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-mailbox",
+  "name": "Mailbox",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-mailbox/furnishings-outdoor-mailbox.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-mailbox/furnishings-outdoor-mailbox_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-mailbox/furnishings-outdoor-mailbox_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-mailbox_v1.webp",
+    "dims": [
+     0.5324,
+     0.506,
+     1.019
+    ],
+    "tris": 406,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-manholecover",
+  "name": "ManholeCover",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-manholecover/furnishings-outdoor-manholecover.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-manholecover/furnishings-outdoor-manholecover_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-manholecover/furnishings-outdoor-manholecover_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-manholecover_v1.webp",
+    "dims": [
+     1.422,
+     1.422,
+     0.1242
+    ],
+    "tris": 1664,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-marblehorse",
+  "name": "MarbleHorse",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-marblehorse/furnishings-outdoor-marblehorse.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-marblehorse/furnishings-outdoor-marblehorse_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-marblehorse/furnishings-outdoor-marblehorse_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-marblehorse_v1.webp",
+    "dims": [
+     1.828,
+     4.772,
+     4.335
+    ],
+    "tris": 1816,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-merrygoround",
+  "name": "MerryGoRound",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-merrygoround/furnishings-outdoor-merrygoround.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-merrygoround/furnishings-outdoor-merrygoround_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-merrygoround/furnishings-outdoor-merrygoround_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-merrygoround_v1.webp",
+    "dims": [
+     2.709,
+     2.709,
+     0.8932
+    ],
+    "tris": 1064,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-moonbridge",
+  "name": "MoonBridge",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-moonbridge/furnishings-outdoor-moonbridge.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-moonbridge/furnishings-outdoor-moonbridge_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-moonbridge/furnishings-outdoor-moonbridge_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-moonbridge_v1.webp",
+    "dims": [
+     5.517,
+     23.25,
+     10.86
+    ],
+    "tris": 1936,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-newspaperstand",
+  "name": "NewspaperStand",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-newspaperstand_v1.webp",
+    "dims": [
+     0.3736,
+     0.3748,
+     0.8209
+    ],
+    "tris": 196,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v2.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v2.fbx",
+    "thumb": "thumbs/furnishings-outdoor-newspaperstand_v2.webp",
+    "dims": [
+     0.3057,
+     0.3057,
+     1.106
+    ],
+    "tris": 208,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v3.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v3.fbx",
+    "thumb": "thumbs/furnishings-outdoor-newspaperstand_v3.webp",
+    "dims": [
+     0.4897,
+     0.4705,
+     1.067
+    ],
+    "tris": 328,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v4.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-newspaperstand/furnishings-outdoor-newspaperstand_v4.fbx",
+    "thumb": "thumbs/furnishings-outdoor-newspaperstand_v4.webp",
+    "dims": [
+     0.6271,
+     0.5944,
+     1.03
+    ],
+    "tris": 208,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-outhouse",
+  "name": "Outhouse",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-outhouse/furnishings-outdoor-outhouse.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-outhouse/furnishings-outdoor-outhouse_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-outhouse/furnishings-outdoor-outhouse_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-outhouse_v1.webp",
+    "dims": [
+     3.119,
+     2.638,
+     4.347
+    ],
+    "tris": 524,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-parktrashcan",
+  "name": "ParkTrashcan",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-parktrashcan/furnishings-outdoor-parktrashcan.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-parktrashcan/furnishings-outdoor-parktrashcan_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-parktrashcan/furnishings-outdoor-parktrashcan_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-parktrashcan_v1.webp",
+    "dims": [
+     0.59,
+     0.59,
+     0.9234
+    ],
+    "tris": 880,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-parkingmeter",
+  "name": "ParkingMeter",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-parkingmeter/furnishings-outdoor-parkingmeter.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-parkingmeter/furnishings-outdoor-parkingmeter_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-parkingmeter/furnishings-outdoor-parkingmeter_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-parkingmeter_v1.webp",
+    "dims": [
+     0.2033,
+     0.1973,
+     1.242
+    ],
+    "tris": 660,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-payphone",
+  "name": "PayPhone",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-payphone/furnishings-outdoor-payphone.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-payphone/furnishings-outdoor-payphone_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-payphone/furnishings-outdoor-payphone_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-payphone_v1.webp",
+    "dims": [
+     0.5048,
+     0.4739,
+     1.925
+    ],
+    "tris": 896,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-phonebox",
+  "name": "PhoneBox",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-phonebox/furnishings-outdoor-phonebox.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-phonebox/furnishings-outdoor-phonebox_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-phonebox/furnishings-outdoor-phonebox_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-phonebox_v1.webp",
+    "dims": [
+     0.9569,
+     0.9218,
+     2.611
+    ],
+    "tris": 738,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-pileofbooks",
+  "name": "PileOfBooks",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-pileofbooks/furnishings-outdoor-pileofbooks.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-pileofbooks/furnishings-outdoor-pileofbooks_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-pileofbooks/furnishings-outdoor-pileofbooks_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-pileofbooks_v1.webp",
+    "dims": [
+     1.976,
+     2.004,
+     0.3454
+    ],
+    "tris": 1552,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-portapotty",
+  "name": "PortaPotty",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-portapotty/furnishings-outdoor-portapotty.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-portapotty/furnishings-outdoor-portapotty_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-portapotty/furnishings-outdoor-portapotty_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-portapotty_v1.webp",
+    "dims": [
+     1.016,
+     0.9531,
+     2.044
+    ],
+    "tris": 628,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-publictoilet",
+  "name": "PublicToilet",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-publictoilet/furnishings-outdoor-publictoilet.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-publictoilet/furnishings-outdoor-publictoilet_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-publictoilet/furnishings-outdoor-publictoilet_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-publictoilet_v1.webp",
+    "dims": [
+     7.667,
+     4.214,
+     3.725
+    ],
+    "tris": 970,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-roundhaybale",
+  "name": "RoundHayBale",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-roundhaybale/furnishings-outdoor-roundhaybale.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-roundhaybale/furnishings-outdoor-roundhaybale_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-roundhaybale/furnishings-outdoor-roundhaybale_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-roundhaybale_v1.webp",
+    "dims": [
+     3.451,
+     3.451,
+     3.451
+    ],
+    "tris": 422,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-seesaw",
+  "name": "Seesaw",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-seesaw/furnishings-outdoor-seesaw.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-seesaw/furnishings-outdoor-seesaw_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-seesaw/furnishings-outdoor-seesaw_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-seesaw_v1.webp",
+    "dims": [
+     0.7747,
+     3.838,
+     1.226
+    ],
+    "tris": 1034,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-shippingcontainer",
+  "name": "ShippingContainer",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-shippingcontainer/furnishings-outdoor-shippingcontainer.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-shippingcontainer/furnishings-outdoor-shippingcontainer_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-shippingcontainer/furnishings-outdoor-shippingcontainer_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-shippingcontainer_v1.webp",
+    "dims": [
+     4.494,
+     10.42,
+     4.449
+    ],
+    "tris": 1338,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-shippingpallet",
+  "name": "ShippingPallet",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-shippingpallet/furnishings-outdoor-shippingpallet.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-shippingpallet/furnishings-outdoor-shippingpallet_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-shippingpallet/furnishings-outdoor-shippingpallet_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-shippingpallet_v1.webp",
+    "dims": [
+     1.295,
+     1.291,
+     0.1391
+    ],
+    "tris": 240,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-simplebridge",
+  "name": "SimpleBridge",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-simplebridge/furnishings-outdoor-simplebridge.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-simplebridge/furnishings-outdoor-simplebridge_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-simplebridge/furnishings-outdoor-simplebridge_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-simplebridge_v1.webp",
+    "dims": [
+     4.936,
+     16.31,
+     4.451
+    ],
+    "tris": 648,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-slide",
+  "name": "Slide",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-slide/furnishings-outdoor-slide.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-slide/furnishings-outdoor-slide_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-slide/furnishings-outdoor-slide_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-slide_v1.webp",
+    "dims": [
+     0.5707,
+     3.287,
+     2.02
+    ],
+    "tris": 460,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-snowman",
+  "name": "Snowman",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-snowman/furnishings-outdoor-snowman.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-snowman/furnishings-outdoor-snowman_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-snowman/furnishings-outdoor-snowman_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-snowman_v1.webp",
+    "dims": [
+     1.462,
+     0.9039,
+     1.799
+    ],
+    "tris": 810,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-squarehaybale",
+  "name": "SquareHayBale",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-squarehaybale/furnishings-outdoor-squarehaybale.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-squarehaybale/furnishings-outdoor-squarehaybale_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-squarehaybale/furnishings-outdoor-squarehaybale_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-squarehaybale_v1.webp",
+    "dims": [
+     0.9901,
+     0.6328,
+     0.4797
+    ],
+    "tris": 300,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-steelribbons",
+  "name": "SteelRibbons",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-steelribbons/furnishings-outdoor-steelribbons.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-steelribbons/furnishings-outdoor-steelribbons_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-steelribbons/furnishings-outdoor-steelribbons_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-steelribbons_v1.webp",
+    "dims": [
+     6.859,
+     4.656,
+     11.89
+    ],
+    "tris": 908,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-swing",
+  "name": "Swing",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-swing/furnishings-outdoor-swing.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-swing/furnishings-outdoor-swing_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-swing/furnishings-outdoor-swing_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-swing_v1.webp",
+    "dims": [
+     2.975,
+     1.719,
+     2.252
+    ],
+    "tris": 1976,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-telephonepole",
+  "name": "TelephonePole",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-telephonepole/furnishings-outdoor-telephonepole.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-telephonepole/furnishings-outdoor-telephonepole_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-telephonepole/furnishings-outdoor-telephonepole_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-telephonepole_v1.webp",
+    "dims": [
+     3.192,
+     20.87,
+     15.47
+    ],
+    "tris": 1368,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-trafficcone",
+  "name": "TrafficCone",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-trafficcone/furnishings-outdoor-trafficcone.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-trafficcone/furnishings-outdoor-trafficcone_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-trafficcone/furnishings-outdoor-trafficcone_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-trafficcone_v1.webp",
+    "dims": [
+     0.6147,
+     0.6058,
+     0.8055
+    ],
+    "tris": 468,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-trafficlight",
+  "name": "TrafficLight",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-trafficlight/furnishings-outdoor-trafficlight.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-trafficlight/furnishings-outdoor-trafficlight_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-trafficlight/furnishings-outdoor-trafficlight_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-trafficlight_v1.webp",
+    "dims": [
+     0.7164,
+     0.5988,
+     6.277
+    ],
+    "tris": 1542,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-trafficlight/furnishings-outdoor-trafficlight_v2.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-trafficlight/furnishings-outdoor-trafficlight_v2.fbx",
+    "thumb": "thumbs/furnishings-outdoor-trafficlight_v2.webp",
+    "dims": [
+     4.776,
+     0.6586,
+     7.813
+    ],
+    "tris": 1740,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-twistingfigures",
+  "name": "TwistingFigures",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-twistingfigures/furnishings-outdoor-twistingfigures.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-twistingfigures/furnishings-outdoor-twistingfigures_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-twistingfigures/furnishings-outdoor-twistingfigures_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-twistingfigures_v1.webp",
+    "dims": [
+     2.69,
+     2.69,
+     4.874
+    ],
+    "tris": 1176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-vendingmachine",
+  "name": "VendingMachine",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-vendingmachine_v1.webp",
+    "dims": [
+     1.527,
+     1.135,
+     2.354
+    ],
+    "tris": 542,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine_v2.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine_v2.fbx",
+    "thumb": "thumbs/furnishings-outdoor-vendingmachine_v2.webp",
+    "dims": [
+     1.583,
+     1.144,
+     2.354
+    ],
+    "tris": 1352,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine_v3.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-vendingmachine/furnishings-outdoor-vendingmachine_v3.fbx",
+    "thumb": "thumbs/furnishings-outdoor-vendingmachine_v3.webp",
+    "dims": [
+     1.611,
+     1.144,
+     2.354
+    ],
+    "tris": 1040,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-wagonwheel-wheel",
+  "name": "WagonWheel_Wheel",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-wagonwheel-wheel/furnishings-outdoor-wagonwheel-wheel.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-wagonwheel-wheel/furnishings-outdoor-wagonwheel-wheel_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-wagonwheel-wheel/furnishings-outdoor-wagonwheel-wheel_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-wagonwheel-wheel_v1.webp",
+    "dims": [
+     0.1382,
+     1.126,
+     1.155
+    ],
+    "tris": 296,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-waterfountain",
+  "name": "WaterFountain",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-waterfountain/furnishings-outdoor-waterfountain.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-waterfountain/furnishings-outdoor-waterfountain_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-waterfountain/furnishings-outdoor-waterfountain_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-waterfountain_v1.webp",
+    "dims": [
+     4.278,
+     4.213,
+     3.255
+    ],
+    "tris": 1818,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-well",
+  "name": "Well",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-well/furnishings-outdoor-well.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-well/furnishings-outdoor-well_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-well/furnishings-outdoor-well_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-well_v1.webp",
+    "dims": [
+     1.181,
+     1.265,
+     2.416
+    ],
+    "tris": 688,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-whiteparasol",
+  "name": "WhiteParasol",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-whiteparasol/furnishings-outdoor-whiteparasol.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-whiteparasol/furnishings-outdoor-whiteparasol_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-whiteparasol/furnishings-outdoor-whiteparasol_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-whiteparasol_v1.webp",
+    "dims": [
+     6.301,
+     6.301,
+     5.119
+    ],
+    "tris": 576,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-woodentreebed",
+  "name": "WoodenTreeBed",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-woodentreebed/furnishings-outdoor-woodentreebed.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-woodentreebed/furnishings-outdoor-woodentreebed_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-woodentreebed/furnishings-outdoor-woodentreebed_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-woodentreebed_v1.webp",
+    "dims": [
+     3.666,
+     3.666,
+     0.8271
+    ],
+    "tris": 170,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-outdoor-yellowtrafficlight",
+  "name": "YellowTrafficLight",
+  "category": "Furnishings",
+  "subcategory": "Outdoor",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v1.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v1.fbx",
+    "thumb": "thumbs/furnishings-outdoor-yellowtrafficlight_v1.webp",
+    "dims": [
+     0.6578,
+     1.361,
+     3.784
+    ],
+    "tris": 1460,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v2.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v2.fbx",
+    "thumb": "thumbs/furnishings-outdoor-yellowtrafficlight_v2.webp",
+    "dims": [
+     1.08,
+     1.225,
+     4.809
+    ],
+    "tris": 1170,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v3.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v3.fbx",
+    "thumb": "thumbs/furnishings-outdoor-yellowtrafficlight_v3.webp",
+    "dims": [
+     0.2538,
+     0.3685,
+     2.604
+    ],
+    "tris": 684,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v4.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v4.fbx",
+    "thumb": "thumbs/furnishings-outdoor-yellowtrafficlight_v4.webp",
+    "dims": [
+     0.9926,
+     0.9428,
+     4.768
+    ],
+    "tris": 1652,
+    "parts": 2
+   },
+   {
+    "glb": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v5.glb",
+    "fbx": "models/furnishings/furnishings-outdoor-yellowtrafficlight/furnishings-outdoor-yellowtrafficlight_v5.fbx",
+    "thumb": "thumbs/furnishings-outdoor-yellowtrafficlight_v5.webp",
+    "dims": [
+     0.4241,
+     1.276,
+     4.474
+    ],
+    "tris": 1158,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-informationsign",
+  "name": "InformationSign",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-informationsign/furnishings-signs-informationsign.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-informationsign/furnishings-signs-informationsign_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-informationsign/furnishings-signs-informationsign_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-informationsign_v1.webp",
+    "dims": [
+     1.234,
+     0.3143,
+     2.644
+    ],
+    "tris": 380,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-moderninformationsign",
+  "name": "ModernInformationSign",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-moderninformationsign/furnishings-signs-moderninformationsign.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-moderninformationsign/furnishings-signs-moderninformationsign_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-moderninformationsign/furnishings-signs-moderninformationsign_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-moderninformationsign_v1.webp",
+    "dims": [
+     1.43,
+     0.286,
+     3.231
+    ],
+    "tris": 624,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-roadsign",
+  "name": "Roadsign",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-roadsign_v1.webp",
+    "dims": [
+     0.6061,
+     0.0712,
+     2.509
+    ],
+    "tris": 350,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v2.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v2.fbx",
+    "thumb": "thumbs/furnishings-signs-roadsign_v2.webp",
+    "dims": [
+     0.603,
+     0.08672,
+     2.599
+    ],
+    "tris": 740,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v3.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v3.fbx",
+    "thumb": "thumbs/furnishings-signs-roadsign_v3.webp",
+    "dims": [
+     0.7747,
+     0.09069,
+     2.567
+    ],
+    "tris": 288,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v4.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v4.fbx",
+    "thumb": "thumbs/furnishings-signs-roadsign_v4.webp",
+    "dims": [
+     0.6061,
+     0.0712,
+     2.509
+    ],
+    "tris": 470,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v5.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v5.fbx",
+    "thumb": "thumbs/furnishings-signs-roadsign_v5.webp",
+    "dims": [
+     0.76,
+     0.08728,
+     2.532
+    ],
+    "tris": 404,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v6.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadsign/furnishings-signs-roadsign_v6.fbx",
+    "thumb": "thumbs/furnishings-signs-roadsign_v6.webp",
+    "dims": [
+     0.7811,
+     0.09069,
+     2.567
+    ],
+    "tris": 408,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-roadworkssign",
+  "name": "RoadworksSign",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-roadworkssign/furnishings-signs-roadworkssign.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-roadworkssign/furnishings-signs-roadworkssign_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-roadworkssign/furnishings-signs-roadworkssign_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-roadworkssign_v1.webp",
+    "dims": [
+     0.7763,
+     0.8839,
+     0.9801
+    ],
+    "tris": 496,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-sidewalksign",
+  "name": "SidewalkSign",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-sidewalksign/furnishings-signs-sidewalksign.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-sidewalksign/furnishings-signs-sidewalksign_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-sidewalksign/furnishings-signs-sidewalksign_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-sidewalksign_v1.webp",
+    "dims": [
+     0.5902,
+     0.59,
+     0.9186
+    ],
+    "tris": 536,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-signpost",
+  "name": "Signpost",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-signpost_v1.webp",
+    "dims": [
+     0.5624,
+     1.783,
+     2.885
+    ],
+    "tris": 466,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v2.glb",
+    "fbx": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v2.fbx",
+    "thumb": "thumbs/furnishings-signs-signpost_v2.webp",
+    "dims": [
+     0.9994,
+     1.149,
+     2.885
+    ],
+    "tris": 402,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v3.glb",
+    "fbx": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v3.fbx",
+    "thumb": "thumbs/furnishings-signs-signpost_v3.webp",
+    "dims": [
+     1.352,
+     1.783,
+     2.885
+    ],
+    "tris": 434,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v4.glb",
+    "fbx": "models/furnishings/furnishings-signs-signpost/furnishings-signs-signpost_v4.fbx",
+    "thumb": "thumbs/furnishings-signs-signpost_v4.webp",
+    "dims": [
+     1.383,
+     1.783,
+     2.885
+    ],
+    "tris": 466,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-signs-woodensignpost",
+  "name": "WoodenSignPost",
+  "category": "Furnishings",
+  "subcategory": "Signs",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-signs-woodensignpost/furnishings-signs-woodensignpost.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-signs-woodensignpost/furnishings-signs-woodensignpost_v1.glb",
+    "fbx": "models/furnishings/furnishings-signs-woodensignpost/furnishings-signs-woodensignpost_v1.fbx",
+    "thumb": "thumbs/furnishings-signs-woodensignpost_v1.webp",
+    "dims": [
+     1.39,
+     1.39,
+     3.234
+    ],
+    "tris": 124,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-signs-woodensignpost/furnishings-signs-woodensignpost_v2.glb",
+    "fbx": "models/furnishings/furnishings-signs-woodensignpost/furnishings-signs-woodensignpost_v2.fbx",
+    "thumb": "thumbs/furnishings-signs-woodensignpost_v2.webp",
+    "dims": [
+     0.2399,
+     1.39,
+     3.234
+    ],
+    "tris": 76,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-cafetable",
+  "name": "CafeTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-cafetable/furnishings-tables-cafetable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-cafetable/furnishings-tables-cafetable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-cafetable/furnishings-tables-cafetable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-cafetable_v1.webp",
+    "dims": [
+     0.8749,
+     0.8749,
+     0.7154
+    ],
+    "tris": 112,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-chesstable",
+  "name": "ChessTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-chesstable/furnishings-tables-chesstable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-chesstable/furnishings-tables-chesstable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-chesstable/furnishings-tables-chesstable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-chesstable_v1.webp",
+    "dims": [
+     1.15,
+     1.15,
+     0.7948
+    ],
+    "tris": 384,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-endtable",
+  "name": "EndTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-endtable/furnishings-tables-endtable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-endtable/furnishings-tables-endtable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-endtable/furnishings-tables-endtable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-endtable_v1.webp",
+    "dims": [
+     0.3109,
+     0.3156,
+     0.6283
+    ],
+    "tris": 348,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-picnictable",
+  "name": "PicnicTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-picnictable/furnishings-tables-picnictable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-picnictable/furnishings-tables-picnictable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-picnictable/furnishings-tables-picnictable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-picnictable_v1.webp",
+    "dims": [
+     0.7801,
+     1.442,
+     0.8264
+    ],
+    "tris": 232,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-schooltable",
+  "name": "SchoolTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-schooltable/furnishings-tables-schooltable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-schooltable/furnishings-tables-schooltable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-schooltable/furnishings-tables-schooltable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-schooltable_v1.webp",
+    "dims": [
+     1.176,
+     0.9575,
+     0.9027
+    ],
+    "tris": 312,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-traditionalwoodtable",
+  "name": "TraditionalWoodTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-traditionalwoodtable_v1.webp",
+    "dims": [
+     1.104,
+     0.6692,
+     0.5498
+    ],
+    "tris": 347,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable_v2.glb",
+    "fbx": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable_v2.fbx",
+    "thumb": "thumbs/furnishings-tables-traditionalwoodtable_v2.webp",
+    "dims": [
+     1.131,
+     0.6842,
+     0.5522
+    ],
+    "tris": 626,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable_v3.glb",
+    "fbx": "models/furnishings/furnishings-tables-traditionalwoodtable/furnishings-tables-traditionalwoodtable_v3.fbx",
+    "thumb": "thumbs/furnishings-tables-traditionalwoodtable_v3.webp",
+    "dims": [
+     1.097,
+     0.6587,
+     0.5577
+    ],
+    "tris": 600,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-woodentable",
+  "name": "WoodenTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-woodentable/furnishings-tables-woodentable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-woodentable/furnishings-tables-woodentable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-woodentable/furnishings-tables-woodentable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-woodentable_v1.webp",
+    "dims": [
+     1.5,
+     0.8995,
+     0.93
+    ],
+    "tris": 180,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-tables-worktable",
+  "name": "WorkTable",
+  "category": "Furnishings",
+  "subcategory": "Tables",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-tables-worktable/furnishings-tables-worktable.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-tables-worktable/furnishings-tables-worktable_v1.glb",
+    "fbx": "models/furnishings/furnishings-tables-worktable/furnishings-tables-worktable_v1.fbx",
+    "thumb": "thumbs/furnishings-tables-worktable_v1.webp",
+    "dims": [
+     3.347,
+     1.353,
+     1.025
+    ],
+    "tris": 154,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-brokenglassshard",
+  "name": "BrokenGlassShard",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-brokenglassshard_v1.webp",
+    "dims": [
+     0.0663,
+     0.1359,
+     0.06009
+    ],
+    "tris": 76,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-brokenglassshard_v2.webp",
+    "dims": [
+     0.05848,
+     0.09411,
+     0.04577
+    ],
+    "tris": 48,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-brokenglassshard/furnishings-trash-brokenglassshard_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-brokenglassshard_v3.webp",
+    "dims": [
+     0.09906,
+     0.04522,
+     0.03461
+    ],
+    "tris": 56,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-candywrapper",
+  "name": "CandyWrapper",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v1.webp",
+    "dims": [
+     0.05691,
+     0.07773,
+     0.05157
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v2.webp",
+    "dims": [
+     0.0459,
+     0.04565,
+     0.04548
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v3.webp",
+    "dims": [
+     0.03726,
+     0.03647,
+     0.03672
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v4.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v4.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v4.webp",
+    "dims": [
+     0.03874,
+     0.05935,
+     0.03929
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v5.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v5.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v5.webp",
+    "dims": [
+     0.03749,
+     0.05518,
+     0.03883
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v6.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v6.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v6.webp",
+    "dims": [
+     0.06433,
+     0.08974,
+     0.05656
+    ],
+    "tris": 428,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v7.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v7.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v7.webp",
+    "dims": [
+     0.05913,
+     0.07837,
+     0.07067
+    ],
+    "tris": 365,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v8.glb",
+    "fbx": "models/furnishings/furnishings-trash-candywrapper/furnishings-trash-candywrapper_v8.fbx",
+    "thumb": "thumbs/furnishings-trash-candywrapper_v8.webp",
+    "dims": [
+     0.03853,
+     0.04793,
+     0.03251
+    ],
+    "tris": 300,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-cigarettebutt",
+  "name": "CigaretteButt",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-cigarettebutt_v1.webp",
+    "dims": [
+     0.03101,
+     0.0551,
+     0.01352
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-cigarettebutt_v2.webp",
+    "dims": [
+     0.01352,
+     0.02532,
+     0.03512
+    ],
+    "tris": 128,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-cigarettebutt_v3.webp",
+    "dims": [
+     0.0433,
+     0.03348,
+     0.0262
+    ],
+    "tris": 128,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v4.glb",
+    "fbx": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v4.fbx",
+    "thumb": "thumbs/furnishings-trash-cigarettebutt_v4.webp",
+    "dims": [
+     0.02499,
+     0.01127,
+     0.02851
+    ],
+    "tris": 128,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v5.glb",
+    "fbx": "models/furnishings/furnishings-trash-cigarettebutt/furnishings-trash-cigarettebutt_v5.fbx",
+    "thumb": "thumbs/furnishings-trash-cigarettebutt_v5.webp",
+    "dims": [
+     0.03537,
+     0.01156,
+     0.02125
+    ],
+    "tris": 112,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-crumplednapkin",
+  "name": "CrumpledNapkin",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-crumplednapkin_v1.webp",
+    "dims": [
+     0.07841,
+     0.07841,
+     0.07841
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-crumplednapkin_v2.webp",
+    "dims": [
+     0.0974,
+     0.1006,
+     0.09166
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-crumplednapkin/furnishings-trash-crumplednapkin_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-crumplednapkin_v3.webp",
+    "dims": [
+     0.09203,
+     0.1073,
+     0.1022
+    ],
+    "tris": 450,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-dumpster",
+  "name": "Dumpster",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-dumpster/furnishings-trash-dumpster.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-dumpster/furnishings-trash-dumpster_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-dumpster/furnishings-trash-dumpster_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-dumpster_v1.webp",
+    "dims": [
+     2.359,
+     1.529,
+     1.754
+    ],
+    "tris": 1352,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-garbagebag",
+  "name": "GarbageBag",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-garbagebag_v1.webp",
+    "dims": [
+     0.7689,
+     0.8075,
+     0.8654
+    ],
+    "tris": 432,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-garbagebag_v2.webp",
+    "dims": [
+     0.701,
+     0.7464,
+     0.8712
+    ],
+    "tris": 432,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-garbagebag/furnishings-trash-garbagebag_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-garbagebag_v3.webp",
+    "dims": [
+     0.8036,
+     0.728,
+     0.8654
+    ],
+    "tris": 432,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-oldnewspaper",
+  "name": "OldNewspaper",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v1.webp",
+    "dims": [
+     0.01032,
+     0.00972,
+     0.009456
+    ],
+    "tris": 234,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v2.webp",
+    "dims": [
+     0.01032,
+     0.00972,
+     0.009456
+    ],
+    "tris": 234,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v3.webp",
+    "dims": [
+     0.008429,
+     0.01041,
+     0.01311
+    ],
+    "tris": 234,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v4.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v4.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v4.webp",
+    "dims": [
+     0.01481,
+     0.02045,
+     0.01153
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v5.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v5.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v5.webp",
+    "dims": [
+     0.009495,
+     0.01007,
+     0.007018
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v6.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v6.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v6.webp",
+    "dims": [
+     0.02016,
+     0.01223,
+     0.008744
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v7.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v7.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v7.webp",
+    "dims": [
+     0.01776,
+     0.0112,
+     0.007593
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v8.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v8.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v8.webp",
+    "dims": [
+     0.008429,
+     0.01041,
+     0.01311
+    ],
+    "tris": 234,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v9.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v9.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v9.webp",
+    "dims": [
+     0.01481,
+     0.02045,
+     0.01153
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v10.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v10.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v10.webp",
+    "dims": [
+     0.009495,
+     0.01007,
+     0.007018
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v11.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v11.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v11.webp",
+    "dims": [
+     0.02016,
+     0.01223,
+     0.008744
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v12.glb",
+    "fbx": "models/furnishings/furnishings-trash-oldnewspaper/furnishings-trash-oldnewspaper_v12.fbx",
+    "thumb": "thumbs/furnishings-trash-oldnewspaper_v12.webp",
+    "dims": [
+     0.01776,
+     0.0112,
+     0.007593
+    ],
+    "tris": 312,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-publictrashcan",
+  "name": "PublicTrashCan",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-publictrashcan/furnishings-trash-publictrashcan.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-publictrashcan/furnishings-trash-publictrashcan_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-publictrashcan/furnishings-trash-publictrashcan_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-publictrashcan_v1.webp",
+    "dims": [
+     0.5057,
+     0.5057,
+     1.069
+    ],
+    "tris": 416,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-skip",
+  "name": "Skip",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-skip/furnishings-trash-skip.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-skip/furnishings-trash-skip_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-skip/furnishings-trash-skip_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-skip_v1.webp",
+    "dims": [
+     2.282,
+     4.301,
+     1.662
+    ],
+    "tris": 1454,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-trashcan",
+  "name": "TrashCan",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-trashcan/furnishings-trash-trashcan.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-trashcan/furnishings-trash-trashcan_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-trashcan/furnishings-trash-trashcan_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-trashcan_v1.webp",
+    "dims": [
+     0.5957,
+     0.6261,
+     0.8376
+    ],
+    "tris": 260,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-usedgum",
+  "name": "UsedGum",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-usedgum_v1.webp",
+    "dims": [
+     0.09875,
+     0.07919,
+     0.02193
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v2.glb",
+    "fbx": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v2.fbx",
+    "thumb": "thumbs/furnishings-trash-usedgum_v2.webp",
+    "dims": [
+     0.09668,
+     0.1095,
+     0.02522
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v3.glb",
+    "fbx": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v3.fbx",
+    "thumb": "thumbs/furnishings-trash-usedgum_v3.webp",
+    "dims": [
+     0.124,
+     0.0945,
+     0.02314
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v4.glb",
+    "fbx": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v4.fbx",
+    "thumb": "thumbs/furnishings-trash-usedgum_v4.webp",
+    "dims": [
+     0.1118,
+     0.08615,
+     0.02493
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v5.glb",
+    "fbx": "models/furnishings/furnishings-trash-usedgum/furnishings-trash-usedgum_v5.fbx",
+    "thumb": "thumbs/furnishings-trash-usedgum_v5.webp",
+    "dims": [
+     0.1259,
+     0.0822,
+     0.02063
+    ],
+    "tris": 336,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "furnishings-trash-wheeliebin",
+  "name": "WheelieBin",
+  "category": "Furnishings",
+  "subcategory": "Trash",
+  "tags": [],
+  "blend": "models/furnishings/furnishings-trash-wheeliebin/furnishings-trash-wheeliebin.blend",
+  "variants": [
+   {
+    "glb": "models/furnishings/furnishings-trash-wheeliebin/furnishings-trash-wheeliebin_v1.glb",
+    "fbx": "models/furnishings/furnishings-trash-wheeliebin/furnishings-trash-wheeliebin_v1.fbx",
+    "thumb": "thumbs/furnishings-trash-wheeliebin_v1.webp",
+    "dims": [
+     0.7887,
+     1.199,
+     1.484
+    ],
+    "tris": 656,
+    "parts": 1
+   }
+  ]
+ }
+]

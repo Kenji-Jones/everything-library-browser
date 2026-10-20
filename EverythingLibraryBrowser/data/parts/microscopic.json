@@ -1,0 +1,4580 @@
+[
+ {
+  "id": "microscopic-bacteria-rod-bacterium",
+  "name": "Rod Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-rod-bacterium_v1.webp",
+    "dims": [
+     0.06109,
+     0.3,
+     0.06374
+    ],
+    "tris": 224,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-rod-bacterium_v2.webp",
+    "dims": [
+     0.09235,
+     0.3,
+     0.1311
+    ],
+    "tris": 224,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-rod-bacterium/microscopic-bacteria-rod-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-rod-bacterium_v3.webp",
+    "dims": [
+     0.1193,
+     0.3,
+     0.04455
+    ],
+    "tris": 224,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "0.glb",
+   "1.glb",
+   "2.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-spiral-bacterium",
+  "name": "Spiral Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-spiral-bacterium_v1.webp",
+    "dims": [
+     0.00665,
+     0.1,
+     0.006678
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-spiral-bacterium_v2.webp",
+    "dims": [
+     0.01248,
+     0.1,
+     0.01223
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-spiral-bacterium/microscopic-bacteria-spiral-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-spiral-bacterium_v3.webp",
+    "dims": [
+     0.006386,
+     0.1,
+     0.006234
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "3.glb",
+   "4.glb",
+   "5.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-cells-dividing-cell",
+  "name": "Dividing Cell",
+  "category": "Microscopic",
+  "subcategory": "Cells",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell_v1.glb",
+    "fbx": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell_v1.fbx",
+    "thumb": "thumbs/microscopic-cells-dividing-cell_v1.webp",
+    "dims": [
+     0.2744,
+     0.8,
+     0.2744
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell_v2.glb",
+    "fbx": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell_v2.fbx",
+    "thumb": "thumbs/microscopic-cells-dividing-cell_v2.webp",
+    "dims": [
+     0.2254,
+     0.8,
+     0.2254
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell_v3.glb",
+    "fbx": "models/microscopic/microscopic-cells-dividing-cell/microscopic-cells-dividing-cell_v3.fbx",
+    "thumb": "thumbs/microscopic-cells-dividing-cell_v3.webp",
+    "dims": [
+     0.3186,
+     0.8,
+     0.3186
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "6.glb",
+   "8.glb",
+   "11.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-paired-bacterium",
+  "name": "Paired Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Diplococcus"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-paired-bacterium_v1.webp",
+    "dims": [
+     0.05215,
+     0.2,
+     0.05215
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-paired-bacterium_v2.webp",
+    "dims": [
+     0.04671,
+     0.2,
+     0.04671
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-paired-bacterium/microscopic-bacteria-paired-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-paired-bacterium_v3.webp",
+    "dims": [
+     0.06194,
+     0.2,
+     0.06194
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "7.glb",
+   "9.glb",
+   "10.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-club-bacterium",
+  "name": "Club Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-club-bacterium_v1.webp",
+    "dims": [
+     0.1158,
+     0.5,
+     0.1158
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-club-bacterium_v2.webp",
+    "dims": [
+     0.121,
+     0.5,
+     0.121
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-club-bacterium/microscopic-bacteria-club-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-club-bacterium_v3.webp",
+    "dims": [
+     0.1483,
+     0.5,
+     0.1483
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "12.glb",
+   "13.glb",
+   "14.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-wavy-bacterium",
+  "name": "Wavy Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-wavy-bacterium_v1.webp",
+    "dims": [
+     0.06137,
+     0.4,
+     0.06002
+    ],
+    "tris": 424,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-wavy-bacterium_v2.webp",
+    "dims": [
+     0.07259,
+     0.4,
+     0.08408
+    ],
+    "tris": 174,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-wavy-bacterium/microscopic-bacteria-wavy-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-wavy-bacterium_v3.webp",
+    "dims": [
+     0.07592,
+     0.4,
+     0.08226
+    ],
+    "tris": 280,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "15.glb",
+   "16.glb",
+   "17.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-capsule-bacterium",
+  "name": "Capsule Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Bacillus"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-capsule-bacterium_v1.webp",
+    "dims": [
+     0.0742,
+     0.5,
+     0.0742
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-capsule-bacterium_v2.webp",
+    "dims": [
+     0.1152,
+     0.5,
+     0.1152
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-capsule-bacterium/microscopic-bacteria-capsule-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-capsule-bacterium_v3.webp",
+    "dims": [
+     0.1092,
+     0.5,
+     0.1092
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "18.glb",
+   "19.glb",
+   "20.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-bumpy-rod-bacterium",
+  "name": "Bumpy Rod Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-bumpy-rod-bacterium_v1.webp",
+    "dims": [
+     0.103,
+     0.4,
+     0.103
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-bumpy-rod-bacterium_v2.webp",
+    "dims": [
+     0.103,
+     0.4,
+     0.103
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-bumpy-rod-bacterium/microscopic-bacteria-bumpy-rod-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-bumpy-rod-bacterium_v3.webp",
+    "dims": [
+     0.103,
+     0.4,
+     0.103
+    ],
+    "tris": 608,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "21.glb",
+   "22.glb",
+   "23.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-tailed-bacterium",
+  "name": "Tailed Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Helicobacter"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-tailed-bacterium/microscopic-bacteria-tailed-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-tailed-bacterium/microscopic-bacteria-tailed-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-tailed-bacterium/microscopic-bacteria-tailed-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-tailed-bacterium_v1.webp",
+    "dims": [
+     0.1326,
+     0.4,
+     0.1399
+    ],
+    "tris": 464,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-tailed-bacterium/microscopic-bacteria-tailed-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-tailed-bacterium/microscopic-bacteria-tailed-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-tailed-bacterium_v2.webp",
+    "dims": [
+     0.1733,
+     0.4,
+     0.088
+    ],
+    "tris": 464,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "24.glb",
+   "25.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-filament-bacterium",
+  "name": "Filament Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-filament-bacterium_v1.webp",
+    "dims": [
+     0.02788,
+     0.2,
+     0.01272
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-filament-bacterium_v2.webp",
+    "dims": [
+     0.01735,
+     0.2,
+     0.02332
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-filament-bacterium/microscopic-bacteria-filament-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-filament-bacterium_v3.webp",
+    "dims": [
+     0.01941,
+     0.2,
+     0.01448
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "26.glb",
+   "27.glb",
+   "28.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-round-bacterium",
+  "name": "Round Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Coccus"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-round-bacterium_v1.webp",
+    "dims": [
+     0.1,
+     0.0961,
+     0.09334
+    ],
+    "tris": 214,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-round-bacterium_v2.webp",
+    "dims": [
+     0.0961,
+     0.1,
+     0.08964
+    ],
+    "tris": 204,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-round-bacterium_v3.webp",
+    "dims": [
+     0.09686,
+     0.1,
+     0.09381
+    ],
+    "tris": 208,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v4.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v4.fbx",
+    "thumb": "thumbs/microscopic-bacteria-round-bacterium_v4.webp",
+    "dims": [
+     0.0961,
+     0.1,
+     0.09307
+    ],
+    "tris": 212,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v5.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-round-bacterium/microscopic-bacteria-round-bacterium_v5.fbx",
+    "thumb": "thumbs/microscopic-bacteria-round-bacterium_v5.webp",
+    "dims": [
+     0.0925,
+     0.1,
+     0.08958
+    ],
+    "tris": 212,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "29.glb",
+   "30.glb",
+   "31.glb",
+   "32.glb",
+   "33.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-twisted-bacterium",
+  "name": "Twisted Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Spirillum"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-twisted-bacterium_v1.webp",
+    "dims": [
+     0.04291,
+     0.2,
+     0.03178
+    ],
+    "tris": 976,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-twisted-bacterium_v2.webp",
+    "dims": [
+     0.01948,
+     0.2,
+     0.02568
+    ],
+    "tris": 960,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-twisted-bacterium/microscopic-bacteria-twisted-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-twisted-bacterium_v3.webp",
+    "dims": [
+     0.02604,
+     0.2,
+     0.02329
+    ],
+    "tris": 836,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "34.glb",
+   "35.glb",
+   "36.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-cluster-bacterium",
+  "name": "Cluster Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Staphylococcus"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-cluster-bacterium_v1.webp",
+    "dims": [
+     0.2773,
+     0.3,
+     0.2008
+    ],
+    "tris": 390,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-cluster-bacterium_v2.webp",
+    "dims": [
+     0.3,
+     0.2173,
+     0.1958
+    ],
+    "tris": 280,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-cluster-bacterium/microscopic-bacteria-cluster-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-cluster-bacterium_v3.webp",
+    "dims": [
+     0.2891,
+     0.3,
+     0.1906
+    ],
+    "tris": 452,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "37.glb",
+   "38.glb",
+   "39.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-chain-bacterium",
+  "name": "Chain Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Streptococcus"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-chain-bacterium_v1.webp",
+    "dims": [
+     0.1058,
+     0.4,
+     0.1058
+    ],
+    "tris": 720,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-chain-bacterium_v2.webp",
+    "dims": [
+     0.2058,
+     0.4,
+     0.2058
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-chain-bacterium/microscopic-bacteria-chain-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-chain-bacterium_v3.webp",
+    "dims": [
+     0.3867,
+     0.4,
+     0.3987
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "40.glb",
+   "41.glb",
+   "42.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-segmented-bacterium",
+  "name": "Segmented Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-segmented-bacterium_v1.webp",
+    "dims": [
+     0.09155,
+     0.8,
+     0.09155
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-segmented-bacterium_v2.webp",
+    "dims": [
+     0.1378,
+     0.8,
+     0.1379
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-segmented-bacterium/microscopic-bacteria-segmented-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-segmented-bacterium_v3.webp",
+    "dims": [
+     0.2709,
+     0.8,
+     0.2709
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "43.glb",
+   "44.glb",
+   "45.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-corkscrew-bacterium",
+  "name": "Corkscrew Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Spirochete"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-corkscrew-bacterium_v1.webp",
+    "dims": [
+     0.01444,
+     0.15,
+     0.01477
+    ],
+    "tris": 944,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-corkscrew-bacterium_v2.webp",
+    "dims": [
+     0.01877,
+     0.15,
+     0.01982
+    ],
+    "tris": 784,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-corkscrew-bacterium/microscopic-bacteria-corkscrew-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-corkscrew-bacterium_v3.webp",
+    "dims": [
+     0.01675,
+     0.15,
+     0.01626
+    ],
+    "tris": 944,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "46.glb",
+   "47.glb",
+   "48.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-comma-bacterium",
+  "name": "Comma Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [
+   "Vibrio"
+  ],
+  "blend": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-comma-bacterium_v1.webp",
+    "dims": [
+     0.06706,
+     0.5,
+     0.08013
+    ],
+    "tris": 262,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-comma-bacterium_v2.webp",
+    "dims": [
+     0.07944,
+     0.5,
+     0.06603
+    ],
+    "tris": 262,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-comma-bacterium/microscopic-bacteria-comma-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-comma-bacterium_v3.webp",
+    "dims": [
+     0.08339,
+     0.5,
+     0.05884
+    ],
+    "tris": 342,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "49.glb",
+   "50.glb",
+   "51.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-lumpy-bacterium",
+  "name": "Lumpy Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-lumpy-bacterium_v1.webp",
+    "dims": [
+     0.2321,
+     0.5,
+     0.2426
+    ],
+    "tris": 712,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-lumpy-bacterium_v2.webp",
+    "dims": [
+     0.2308,
+     0.5,
+     0.2453
+    ],
+    "tris": 720,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-lumpy-bacterium/microscopic-bacteria-lumpy-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-lumpy-bacterium_v3.webp",
+    "dims": [
+     0.239,
+     0.5,
+     0.2355
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "52.glb",
+   "53.glb",
+   "54.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-green-algae-cell",
+  "name": "Green Algae Cell",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [
+   "Chlamydomonas"
+  ],
+  "blend": "models/microscopic/microscopic-protists-green-algae-cell/microscopic-protists-green-algae-cell.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-green-algae-cell/microscopic-protists-green-algae-cell_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-green-algae-cell/microscopic-protists-green-algae-cell_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-green-algae-cell_v1.webp",
+    "dims": [
+     0.03305,
+     0.1,
+     0.02742
+    ],
+    "tris": 492,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-green-algae-cell/microscopic-protists-green-algae-cell_v2.glb",
+    "fbx": "models/microscopic/microscopic-protists-green-algae-cell/microscopic-protists-green-algae-cell_v2.fbx",
+    "thumb": "thumbs/microscopic-protists-green-algae-cell_v2.webp",
+    "dims": [
+     0.0403,
+     0.1,
+     0.03037
+    ],
+    "tris": 492,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "55.glb",
+   "56.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-green-alga",
+  "name": "Green Alga",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-protists-green-alga/microscopic-protists-green-alga.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-green-alga/microscopic-protists-green-alga_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-green-alga/microscopic-protists-green-alga_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-green-alga_v1.webp",
+    "dims": [
+     0.07466,
+     0.07466,
+     0.1
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-green-alga/microscopic-protists-green-alga_v2.glb",
+    "fbx": "models/microscopic/microscopic-protists-green-alga/microscopic-protists-green-alga_v2.fbx",
+    "thumb": "thumbs/microscopic-protists-green-alga_v2.webp",
+    "dims": [
+     0.06724,
+     0.1,
+     0.06724
+    ],
+    "tris": 342,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "57.glb",
+   "59.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-green-swimmer",
+  "name": "Green Swimmer",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [
+   "Euglena"
+  ],
+  "blend": "models/microscopic/microscopic-protists-green-swimmer/microscopic-protists-green-swimmer.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-green-swimmer/microscopic-protists-green-swimmer_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-green-swimmer/microscopic-protists-green-swimmer_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-green-swimmer_v1.webp",
+    "dims": [
+     0.0888,
+     0.5,
+     0.08715
+    ],
+    "tris": 534,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "58.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-amoeba",
+  "name": "Amoeba",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-amoeba_v1.webp",
+    "dims": [
+     0.3,
+     0.2724,
+     0.2354
+    ],
+    "tris": 1184,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v2.glb",
+    "fbx": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v2.fbx",
+    "thumb": "thumbs/microscopic-protists-amoeba_v2.webp",
+    "dims": [
+     0.2483,
+     0.3,
+     0.2147
+    ],
+    "tris": 704,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v3.glb",
+    "fbx": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v3.fbx",
+    "thumb": "thumbs/microscopic-protists-amoeba_v3.webp",
+    "dims": [
+     0.1862,
+     0.3,
+     0.2105
+    ],
+    "tris": 672,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v4.glb",
+    "fbx": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v4.fbx",
+    "thumb": "thumbs/microscopic-protists-amoeba_v4.webp",
+    "dims": [
+     0.1962,
+     0.3,
+     0.1731
+    ],
+    "tris": 768,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v5.glb",
+    "fbx": "models/microscopic/microscopic-protists-amoeba/microscopic-protists-amoeba_v5.fbx",
+    "thumb": "thumbs/microscopic-protists-amoeba_v5.webp",
+    "dims": [
+     0.3,
+     0.2671,
+     0.1248
+    ],
+    "tris": 768,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "60.glb",
+   "61.glb",
+   "62.glb",
+   "63.glb",
+   "64.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-ridged-spore",
+  "name": "Ridged Spore",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-ridged-spore/microscopic-pollen-spores-ridged-spore.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-ridged-spore/microscopic-pollen-spores-ridged-spore_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-ridged-spore/microscopic-pollen-spores-ridged-spore_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-ridged-spore_v1.webp",
+    "dims": [
+     0.2025,
+     0.3,
+     0.2025
+    ],
+    "tris": 800,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "65.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-cells-sperm-cell",
+  "name": "Sperm Cell",
+  "category": "Microscopic",
+  "subcategory": "Cells",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-cells-sperm-cell/microscopic-cells-sperm-cell.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-cells-sperm-cell/microscopic-cells-sperm-cell_v1.glb",
+    "fbx": "models/microscopic/microscopic-cells-sperm-cell/microscopic-cells-sperm-cell_v1.fbx",
+    "thumb": "thumbs/microscopic-cells-sperm-cell_v1.webp",
+    "dims": [
+     0.2065,
+     0.6,
+     0.1969
+    ],
+    "tris": 304,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "66.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-cyst",
+  "name": "Cyst",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-cyst/microscopic-pollen-spores-cyst.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-cyst/microscopic-pollen-spores-cyst_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-cyst/microscopic-pollen-spores-cyst_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-cyst_v1.webp",
+    "dims": [
+     0.2,
+     0.1624,
+     0.1378
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "67.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-spiny-ciliate",
+  "name": "Spiny Ciliate",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-protists-spiny-ciliate/microscopic-protists-spiny-ciliate.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-spiny-ciliate/microscopic-protists-spiny-ciliate_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-spiny-ciliate/microscopic-protists-spiny-ciliate_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-spiny-ciliate_v1.webp",
+    "dims": [
+     0.03629,
+     0.1,
+     0.03568
+    ],
+    "tris": 1148,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "68.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-flagellate",
+  "name": "Flagellate",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-protists-flagellate/microscopic-protists-flagellate.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-flagellate/microscopic-protists-flagellate_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-flagellate/microscopic-protists-flagellate_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-flagellate_v1.webp",
+    "dims": [
+     0.03347,
+     0.3,
+     0.04569
+    ],
+    "tris": 338,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "69.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-spiky-spore",
+  "name": "Spiky Spore",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-spiky-spore_v1.webp",
+    "dims": [
+     0.2997,
+     0.3,
+     0.3
+    ],
+    "tris": 1600,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore_v2.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore_v2.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-spiky-spore_v2.webp",
+    "dims": [
+     0.3,
+     0.2997,
+     0.09925
+    ],
+    "tris": 1280,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore_v3.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-spiky-spore/microscopic-pollen-spores-spiky-spore_v3.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-spiky-spore_v3.webp",
+    "dims": [
+     0.3,
+     0.2804,
+     0.3
+    ],
+    "tris": 1888,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "70.glb",
+   "71.glb",
+   "72.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-oval-spore",
+  "name": "Oval Spore",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-oval-spore/microscopic-pollen-spores-oval-spore.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-oval-spore/microscopic-pollen-spores-oval-spore_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-oval-spore/microscopic-pollen-spores-oval-spore_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-oval-spore_v1.webp",
+    "dims": [
+     0.04228,
+     0.1,
+     0.04228
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "73.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-spiky-protist",
+  "name": "Spiky Protist",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [
+   "Heliozoan"
+  ],
+  "blend": "models/microscopic/microscopic-protists-spiky-protist/microscopic-protists-spiky-protist.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-spiky-protist/microscopic-protists-spiky-protist_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-spiky-protist/microscopic-protists-spiky-protist_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-spiky-protist_v1.webp",
+    "dims": [
+     0.2853,
+     0.5,
+     0.2941
+    ],
+    "tris": 1416,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "74.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-cells-platelet",
+  "name": "Platelet",
+  "category": "Microscopic",
+  "subcategory": "Cells",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet_v1.glb",
+    "fbx": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet_v1.fbx",
+    "thumb": "thumbs/microscopic-cells-platelet_v1.webp",
+    "dims": [
+     0.1893,
+     0.3,
+     0.05959
+    ],
+    "tris": 528,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet_v2.glb",
+    "fbx": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet_v2.fbx",
+    "thumb": "thumbs/microscopic-cells-platelet_v2.webp",
+    "dims": [
+     0.1805,
+     0.3,
+     0.04595
+    ],
+    "tris": 560,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet_v3.glb",
+    "fbx": "models/microscopic/microscopic-cells-platelet/microscopic-cells-platelet_v3.fbx",
+    "thumb": "thumbs/microscopic-cells-platelet_v3.webp",
+    "dims": [
+     0.1776,
+     0.3,
+     0.0511
+    ],
+    "tris": 544,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "75.glb",
+   "77.glb",
+   "79.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-cells-red-blood-cell",
+  "name": "Red Blood Cell",
+  "category": "Microscopic",
+  "subcategory": "Cells",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell_v1.glb",
+    "fbx": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell_v1.fbx",
+    "thumb": "thumbs/microscopic-cells-red-blood-cell_v1.webp",
+    "dims": [
+     0.5368,
+     0.8,
+     0.3024
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell_v2.glb",
+    "fbx": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell_v2.fbx",
+    "thumb": "thumbs/microscopic-cells-red-blood-cell_v2.webp",
+    "dims": [
+     0.5074,
+     0.8,
+     0.2815
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell_v3.glb",
+    "fbx": "models/microscopic/microscopic-cells-red-blood-cell/microscopic-cells-red-blood-cell_v3.fbx",
+    "thumb": "thumbs/microscopic-cells-red-blood-cell_v3.webp",
+    "dims": [
+     0.5082,
+     0.8,
+     0.2829
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "76.glb",
+   "78.glb",
+   "80.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-glass-skeleton-plankton",
+  "name": "Glass Skeleton Plankton",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [
+   "Radiolarian"
+  ],
+  "blend": "models/microscopic/microscopic-plankton-glass-skeleton-plankton/microscopic-plankton-glass-skeleton-plankton.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-glass-skeleton-plankton/microscopic-plankton-glass-skeleton-plankton_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-glass-skeleton-plankton/microscopic-plankton-glass-skeleton-plankton_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-glass-skeleton-plankton_v1.webp",
+    "dims": [
+     0.09978,
+     0.09653,
+     0.1
+    ],
+    "tris": 2460,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "81.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-needle-diatom",
+  "name": "Needle Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-needle-diatom/microscopic-plankton-needle-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-needle-diatom/microscopic-plankton-needle-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-needle-diatom/microscopic-plankton-needle-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-needle-diatom_v1.webp",
+    "dims": [
+     0.004655,
+     0.1,
+     0.004655
+    ],
+    "tris": 592,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "82.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-cells-skin-cell",
+  "name": "Skin Cell",
+  "category": "Microscopic",
+  "subcategory": "Cells",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-cells-skin-cell/microscopic-cells-skin-cell.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-cells-skin-cell/microscopic-cells-skin-cell_v1.glb",
+    "fbx": "models/microscopic/microscopic-cells-skin-cell/microscopic-cells-skin-cell_v1.fbx",
+    "thumb": "thumbs/microscopic-cells-skin-cell_v1.webp",
+    "dims": [
+     0.2866,
+     0.3,
+     0.155
+    ],
+    "tris": 1924,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-skin-cell/microscopic-cells-skin-cell_v2.glb",
+    "fbx": "models/microscopic/microscopic-cells-skin-cell/microscopic-cells-skin-cell_v2.fbx",
+    "thumb": "thumbs/microscopic-cells-skin-cell_v2.webp",
+    "dims": [
+     0.2944,
+     0.3,
+     0.1375
+    ],
+    "tris": 1472,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "83.glb",
+   "84.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-cells-yeast-cell",
+  "name": "Yeast Cell",
+  "category": "Microscopic",
+  "subcategory": "Cells",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v1.glb",
+    "fbx": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v1.fbx",
+    "thumb": "thumbs/microscopic-cells-yeast-cell_v1.webp",
+    "dims": [
+     0.5,
+     0.3874,
+     0.2967
+    ],
+    "tris": 544,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v2.glb",
+    "fbx": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v2.fbx",
+    "thumb": "thumbs/microscopic-cells-yeast-cell_v2.webp",
+    "dims": [
+     0.2213,
+     0.5,
+     0.2013
+    ],
+    "tris": 464,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v3.glb",
+    "fbx": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v3.fbx",
+    "thumb": "thumbs/microscopic-cells-yeast-cell_v3.webp",
+    "dims": [
+     0.5,
+     0.3647,
+     0.3954
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v4.glb",
+    "fbx": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v4.fbx",
+    "thumb": "thumbs/microscopic-cells-yeast-cell_v4.webp",
+    "dims": [
+     0.5,
+     0.2003,
+     0.2003
+    ],
+    "tris": 400,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v5.glb",
+    "fbx": "models/microscopic/microscopic-cells-yeast-cell/microscopic-cells-yeast-cell_v5.fbx",
+    "thumb": "thumbs/microscopic-cells-yeast-cell_v5.webp",
+    "dims": [
+     0.5,
+     0.3514,
+     0.1926
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "85.glb",
+   "86.glb",
+   "87.glb",
+   "88.glb",
+   "89.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-bacteria-dividing-bacterium",
+  "name": "Dividing Bacterium",
+  "category": "Microscopic",
+  "subcategory": "Bacteria",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium_v1.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium_v1.fbx",
+    "thumb": "thumbs/microscopic-bacteria-dividing-bacterium_v1.webp",
+    "dims": [
+     0.1738,
+     0.5,
+     0.1738
+    ],
+    "tris": 416,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium_v2.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium_v2.fbx",
+    "thumb": "thumbs/microscopic-bacteria-dividing-bacterium_v2.webp",
+    "dims": [
+     0.1594,
+     0.5,
+     0.1594
+    ],
+    "tris": 672,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   },
+   {
+    "glb": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium_v3.glb",
+    "fbx": "models/microscopic/microscopic-bacteria-dividing-bacterium/microscopic-bacteria-dividing-bacterium_v3.fbx",
+    "thumb": "thumbs/microscopic-bacteria-dividing-bacterium_v3.webp",
+    "dims": [
+     0.1594,
+     0.5,
+     0.1594
+    ],
+    "tris": 800,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100000
+   }
+  ],
+  "sourceFiles": [
+   "90.glb",
+   "91.glb",
+   "92.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-viruses-virus",
+  "name": "Virus",
+  "category": "Microscopic",
+  "subcategory": "Viruses",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-viruses-virus/microscopic-viruses-virus.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-viruses-virus/microscopic-viruses-virus_v1.glb",
+    "fbx": "models/microscopic/microscopic-viruses-virus/microscopic-viruses-virus_v1.fbx",
+    "thumb": "thumbs/microscopic-viruses-virus_v1.webp",
+    "dims": [
+     0.09559,
+     0.09057,
+     0.1
+    ],
+    "tris": 2328,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   }
+  ],
+  "sourceFiles": [
+   "93.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-viruses-coronavirus",
+  "name": "Coronavirus",
+  "category": "Microscopic",
+  "subcategory": "Viruses",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v1.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v1.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v1.webp",
+    "dims": [
+     0.1172,
+     0.1191,
+     0.12
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v2.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v2.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v2.webp",
+    "dims": [
+     0.1186,
+     0.1132,
+     0.12
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v3.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v3.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v3.webp",
+    "dims": [
+     0.1194,
+     0.12,
+     0.1158
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v4.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v4.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v4.webp",
+    "dims": [
+     0.1143,
+     0.1166,
+     0.12
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v5.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v5.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v5.webp",
+    "dims": [
+     0.12,
+     0.117,
+     0.1196
+    ],
+    "tris": 3300,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v6.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v6.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v6.webp",
+    "dims": [
+     0.12,
+     0.1192,
+     0.114
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v7.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v7.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v7.webp",
+    "dims": [
+     0.12,
+     0.1192,
+     0.114
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v8.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v8.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v8.webp",
+    "dims": [
+     0.1191,
+     0.119,
+     0.12
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   },
+   {
+    "glb": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v9.glb",
+    "fbx": "models/microscopic/microscopic-viruses-coronavirus/microscopic-viruses-coronavirus_v9.fbx",
+    "thumb": "thumbs/microscopic-viruses-coronavirus_v9.webp",
+    "dims": [
+     0.1191,
+     0.119,
+     0.12
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   }
+  ],
+  "sourceFiles": [
+   "94.glb",
+   "95.glb",
+   "96.glb",
+   "97.glb",
+   "98.glb",
+   "99.glb",
+   "100.glb",
+   "101.glb",
+   "102.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-pitted-pollen",
+  "name": "Pitted Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-pitted-pollen/microscopic-pollen-spores-pitted-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-pitted-pollen/microscopic-pollen-spores-pitted-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-pitted-pollen/microscopic-pollen-spores-pitted-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-pitted-pollen_v1.webp",
+    "dims": [
+     0.3958,
+     0.3857,
+     0.4
+    ],
+    "tris": 2276,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "103.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-spiny-pollen",
+  "name": "Spiny Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-spiny-pollen/microscopic-pollen-spores-spiny-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-spiny-pollen/microscopic-pollen-spores-spiny-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-spiny-pollen/microscopic-pollen-spores-spiny-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-spiny-pollen_v1.webp",
+    "dims": [
+     0.2958,
+     0.2923,
+     0.3
+    ],
+    "tris": 476,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "104.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-angular-pollen",
+  "name": "Angular Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-angular-pollen/microscopic-pollen-spores-angular-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-angular-pollen/microscopic-pollen-spores-angular-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-angular-pollen/microscopic-pollen-spores-angular-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-angular-pollen_v1.webp",
+    "dims": [
+     0.2959,
+     0.292,
+     0.3
+    ],
+    "tris": 550,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "105.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-lumpy-pollen",
+  "name": "Lumpy Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-lumpy-pollen/microscopic-pollen-spores-lumpy-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-lumpy-pollen/microscopic-pollen-spores-lumpy-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-lumpy-pollen/microscopic-pollen-spores-lumpy-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-lumpy-pollen_v1.webp",
+    "dims": [
+     0.2511,
+     0.3,
+     0.2558
+    ],
+    "tris": 928,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "106.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-pollen-grain",
+  "name": "Pollen Grain",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-pollen-grain_v1.webp",
+    "dims": [
+     0.1859,
+     0.3,
+     0.1918
+    ],
+    "tris": 928,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain_v2.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain_v2.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-pollen-grain_v2.webp",
+    "dims": [
+     0.2341,
+     0.3,
+     0.2415
+    ],
+    "tris": 928,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain_v3.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-pollen-grain/microscopic-pollen-spores-pollen-grain_v3.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-pollen-grain_v3.webp",
+    "dims": [
+     0.2139,
+     0.3,
+     0.2247
+    ],
+    "tris": 928,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "107.glb",
+   "108.glb",
+   "109.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-sunflower-pollen",
+  "name": "Sunflower Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-sunflower-pollen_v1.webp",
+    "dims": [
+     0.2915,
+     0.3,
+     0.2862
+    ],
+    "tris": 540,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen_v2.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen_v2.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-sunflower-pollen_v2.webp",
+    "dims": [
+     0.2955,
+     0.2886,
+     0.3
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen_v3.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-sunflower-pollen/microscopic-pollen-spores-sunflower-pollen_v3.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-sunflower-pollen_v3.webp",
+    "dims": [
+     0.2872,
+     0.2751,
+     0.3
+    ],
+    "tris": 520,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "110.glb",
+   "111.glb",
+   "112.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-lily-pollen",
+  "name": "Lily Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-lily-pollen/microscopic-pollen-spores-lily-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-lily-pollen/microscopic-pollen-spores-lily-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-lily-pollen/microscopic-pollen-spores-lily-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-lily-pollen_v1.webp",
+    "dims": [
+     0.0413,
+     0.1,
+     0.0413
+    ],
+    "tris": 1664,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "113.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-smooth-pollen",
+  "name": "Smooth Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-smooth-pollen/microscopic-pollen-spores-smooth-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-smooth-pollen/microscopic-pollen-spores-smooth-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-smooth-pollen/microscopic-pollen-spores-smooth-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-smooth-pollen_v1.webp",
+    "dims": [
+     0.2171,
+     0.3,
+     0.1973
+    ],
+    "tris": 768,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "114.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-ragweed-pollen",
+  "name": "Ragweed Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-ragweed-pollen/microscopic-pollen-spores-ragweed-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-ragweed-pollen/microscopic-pollen-spores-ragweed-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-ragweed-pollen/microscopic-pollen-spores-ragweed-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-ragweed-pollen_v1.webp",
+    "dims": [
+     0.1976,
+     0.2,
+     0.1922
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "115.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-netted-pollen",
+  "name": "Netted Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-netted-pollen/microscopic-pollen-spores-netted-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-netted-pollen/microscopic-pollen-spores-netted-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-netted-pollen/microscopic-pollen-spores-netted-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-netted-pollen_v1.webp",
+    "dims": [
+     0.3965,
+     0.3989,
+     0.4
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "116.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-wrinkled-pollen",
+  "name": "Wrinkled Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-wrinkled-pollen/microscopic-pollen-spores-wrinkled-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-wrinkled-pollen/microscopic-pollen-spores-wrinkled-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-wrinkled-pollen/microscopic-pollen-spores-wrinkled-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-wrinkled-pollen_v1.webp",
+    "dims": [
+     0.3,
+     0.2956,
+     0.2998
+    ],
+    "tris": 1716,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "117.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-tiny-animals-mite",
+  "name": "Mite",
+  "category": "Microscopic",
+  "subcategory": "Tiny Animals",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-tiny-animals-mite/microscopic-tiny-animals-mite.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-tiny-animals-mite/microscopic-tiny-animals-mite_v1.glb",
+    "fbx": "models/microscopic/microscopic-tiny-animals-mite/microscopic-tiny-animals-mite_v1.fbx",
+    "thumb": "thumbs/microscopic-tiny-animals-mite_v1.webp",
+    "dims": [
+     0.3112,
+     0.4,
+     0.1975
+    ],
+    "tris": 1212,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "118.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-tiny-animals-scabies-mite",
+  "name": "Scabies Mite",
+  "category": "Microscopic",
+  "subcategory": "Tiny Animals",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-tiny-animals-scabies-mite/microscopic-tiny-animals-scabies-mite.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-tiny-animals-scabies-mite/microscopic-tiny-animals-scabies-mite_v1.glb",
+    "fbx": "models/microscopic/microscopic-tiny-animals-scabies-mite/microscopic-tiny-animals-scabies-mite_v1.fbx",
+    "thumb": "thumbs/microscopic-tiny-animals-scabies-mite_v1.webp",
+    "dims": [
+     0.4,
+     0.3595,
+     0.328
+    ],
+    "tris": 1612,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "119.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-tiny-animals-dust-mite",
+  "name": "Dust Mite",
+  "category": "Microscopic",
+  "subcategory": "Tiny Animals",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-tiny-animals-dust-mite/microscopic-tiny-animals-dust-mite.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-tiny-animals-dust-mite/microscopic-tiny-animals-dust-mite_v1.glb",
+    "fbx": "models/microscopic/microscopic-tiny-animals-dust-mite/microscopic-tiny-animals-dust-mite_v1.fbx",
+    "thumb": "thumbs/microscopic-tiny-animals-dust-mite_v1.webp",
+    "dims": [
+     0.25,
+     0.3,
+     0.1111
+    ],
+    "tris": 2300,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "120.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-tiny-animals-tick",
+  "name": "Tick",
+  "category": "Microscopic",
+  "subcategory": "Tiny Animals",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-tiny-animals-tick/microscopic-tiny-animals-tick.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-tiny-animals-tick/microscopic-tiny-animals-tick_v1.glb",
+    "fbx": "models/microscopic/microscopic-tiny-animals-tick/microscopic-tiny-animals-tick_v1.fbx",
+    "thumb": "thumbs/microscopic-tiny-animals-tick_v1.webp",
+    "dims": [
+     0.222,
+     0.3,
+     0.2121
+    ],
+    "tris": 1920,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "121.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-tiny-animals-louse",
+  "name": "Louse",
+  "category": "Microscopic",
+  "subcategory": "Tiny Animals",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-tiny-animals-louse/microscopic-tiny-animals-louse.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-tiny-animals-louse/microscopic-tiny-animals-louse_v1.glb",
+    "fbx": "models/microscopic/microscopic-tiny-animals-louse/microscopic-tiny-animals-louse_v1.fbx",
+    "thumb": "thumbs/microscopic-tiny-animals-louse_v1.webp",
+    "dims": [
+     0.2088,
+     0.3,
+     0.07305
+    ],
+    "tris": 1860,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "122.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-krill",
+  "name": "Krill",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-krill/microscopic-plankton-krill.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-krill/microscopic-plankton-krill_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-krill/microscopic-plankton-krill_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-krill_v1.webp",
+    "dims": [
+     0.002904,
+     0.02,
+     0.006455
+    ],
+    "tris": 1094,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "123.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-water-flea",
+  "name": "Water Flea",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-water-flea/microscopic-plankton-water-flea.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-water-flea/microscopic-plankton-water-flea_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-water-flea/microscopic-plankton-water-flea_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-water-flea_v1.webp",
+    "dims": [
+     0.1986,
+     0.2,
+     0.109
+    ],
+    "tris": 1632,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "124.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-viruses-phage-virus",
+  "name": "Phage Virus",
+  "category": "Microscopic",
+  "subcategory": "Viruses",
+  "tags": [
+   "Bacteriophage"
+  ],
+  "blend": "models/microscopic/microscopic-viruses-phage-virus/microscopic-viruses-phage-virus.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-viruses-phage-virus/microscopic-viruses-phage-virus_v1.glb",
+    "fbx": "models/microscopic/microscopic-viruses-phage-virus/microscopic-viruses-phage-virus_v1.fbx",
+    "thumb": "thumbs/microscopic-viruses-phage-virus_v1.webp",
+    "dims": [
+     0.1217,
+     0.1103,
+     0.2
+    ],
+    "tris": 716,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000000
+   }
+  ],
+  "sourceFiles": [
+   "125.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-tiny-animals-tardigrade",
+  "name": "Tardigrade",
+  "category": "Microscopic",
+  "subcategory": "Tiny Animals",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-tiny-animals-tardigrade/microscopic-tiny-animals-tardigrade.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-tiny-animals-tardigrade/microscopic-tiny-animals-tardigrade_v1.glb",
+    "fbx": "models/microscopic/microscopic-tiny-animals-tardigrade/microscopic-tiny-animals-tardigrade_v1.fbx",
+    "thumb": "thumbs/microscopic-tiny-animals-tardigrade_v1.webp",
+    "dims": [
+     0.2444,
+     0.5,
+     0.2187
+    ],
+    "tris": 1854,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "126.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-dust-grain",
+  "name": "Dust Grain",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v1.webp",
+    "dims": [
+     0.1929,
+     0.2,
+     0.1963
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v2.webp",
+    "dims": [
+     0.2,
+     0.1635,
+     0.1722
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v3.webp",
+    "dims": [
+     0.2,
+     0.196,
+     0.1768
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v4.webp",
+    "dims": [
+     0.1782,
+     0.1991,
+     0.2
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v5.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v5.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v5.webp",
+    "dims": [
+     0.2,
+     0.1702,
+     0.1788
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v6.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v6.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v6.webp",
+    "dims": [
+     0.188,
+     0.1802,
+     0.2
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v7.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v7.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v7.webp",
+    "dims": [
+     0.2,
+     0.1873,
+     0.168
+    ],
+    "tris": 324,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v8.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v8.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v8.webp",
+    "dims": [
+     0.1928,
+     0.2,
+     0.1851
+    ],
+    "tris": 762,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v9.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v9.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v9.webp",
+    "dims": [
+     0.2,
+     0.1658,
+     0.184
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v10.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v10.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v10.webp",
+    "dims": [
+     0.1602,
+     0.166,
+     0.2
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v11.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-grain/microscopic-dust-particles-dust-grain_v11.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-grain_v11.webp",
+    "dims": [
+     0.2,
+     0.1956,
+     0.1862
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "127.glb",
+   "128.glb",
+   "129.glb",
+   "130.glb",
+   "131.glb",
+   "132.glb",
+   "133.glb",
+   "143.glb",
+   "144.glb",
+   "145.glb",
+   "146.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-dust-clump",
+  "name": "Dust Clump",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-clump_v1.webp",
+    "dims": [
+     0.1,
+     0.0995,
+     0.07565
+    ],
+    "tris": 5244,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-clump_v2.webp",
+    "dims": [
+     0.1,
+     0.09696,
+     0.08088
+    ],
+    "tris": 5244,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-clump_v3.webp",
+    "dims": [
+     0.09875,
+     0.1,
+     0.08354
+    ],
+    "tris": 5244,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-clump_v4.webp",
+    "dims": [
+     0.09096,
+     0.1,
+     0.0894
+    ],
+    "tris": 5244,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v5.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v5.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-clump_v5.webp",
+    "dims": [
+     0.0938,
+     0.1,
+     0.09406
+    ],
+    "tris": 5244,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v6.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-clump/microscopic-dust-particles-dust-clump_v6.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-clump_v6.webp",
+    "dims": [
+     0.09029,
+     0.1,
+     0.09277
+    ],
+    "tris": 5244,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "134.glb",
+   "135.glb",
+   "136.glb",
+   "137.glb",
+   "138.glb",
+   "139.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-glass-shard",
+  "name": "Glass Shard",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-glass-shard_v1.webp",
+    "dims": [
+     0.1378,
+     0.5,
+     0.241
+    ],
+    "tris": 534,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-glass-shard_v2.webp",
+    "dims": [
+     0.5,
+     0.2764,
+     0.4301
+    ],
+    "tris": 232,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-glass-shard/microscopic-dust-particles-glass-shard_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-glass-shard_v3.webp",
+    "dims": [
+     0.2327,
+     0.2907,
+     0.5
+    ],
+    "tris": 170,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "140.glb",
+   "141.glb",
+   "142.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-sand-grain",
+  "name": "Sand Grain",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-sand-grain_v1.webp",
+    "dims": [
+     0.1,
+     0.09169,
+     0.09625
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-sand-grain_v2.webp",
+    "dims": [
+     0.09377,
+     0.1,
+     0.08615
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-sand-grain_v3.webp",
+    "dims": [
+     0.09598,
+     0.09287,
+     0.1
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-sand-grain/microscopic-dust-particles-sand-grain_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-sand-grain_v4.webp",
+    "dims": [
+     0.09769,
+     0.1,
+     0.09914
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "147.glb",
+   "148.glb",
+   "149.glb",
+   "150.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-sponge-spicule",
+  "name": "Sponge Spicule",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-sponge-spicule/microscopic-plankton-sponge-spicule.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-sponge-spicule/microscopic-plankton-sponge-spicule_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-sponge-spicule/microscopic-plankton-sponge-spicule_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-sponge-spicule_v1.webp",
+    "dims": [
+     0.2,
+     0.1076,
+     0.1428
+    ],
+    "tris": 148,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "151.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-microplastic",
+  "name": "Microplastic",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-microplastic/microscopic-dust-particles-microplastic.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-microplastic/microscopic-dust-particles-microplastic_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-microplastic/microscopic-dust-particles-microplastic_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-microplastic_v1.webp",
+    "dims": [
+     0.1,
+     0.05995,
+     0.0907
+    ],
+    "tris": 224,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "152.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-spore",
+  "name": "Spore",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-spore/microscopic-pollen-spores-spore.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-spore/microscopic-pollen-spores-spore_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-spore/microscopic-pollen-spores-spore_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-spore_v1.webp",
+    "dims": [
+     0.1,
+     0.08027,
+     0.06668
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "153.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-disc-diatom",
+  "name": "Disc Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-disc-diatom/microscopic-plankton-disc-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-disc-diatom/microscopic-plankton-disc-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-disc-diatom/microscopic-plankton-disc-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-disc-diatom_v1.webp",
+    "dims": [
+     0.5,
+     0.4849,
+     0.4483
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "154.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-shell-amoeba",
+  "name": "Shell Amoeba",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [
+   "Foraminifera"
+  ],
+  "blend": "models/microscopic/microscopic-plankton-shell-amoeba/microscopic-plankton-shell-amoeba.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-shell-amoeba/microscopic-plankton-shell-amoeba_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-shell-amoeba/microscopic-plankton-shell-amoeba_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-shell-amoeba_v1.webp",
+    "dims": [
+     0.3228,
+     0.4502,
+     0.5
+    ],
+    "tris": 536,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "155.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-drum-diatom",
+  "name": "Drum Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-drum-diatom/microscopic-plankton-drum-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-drum-diatom/microscopic-plankton-drum-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-drum-diatom/microscopic-plankton-drum-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-drum-diatom_v1.webp",
+    "dims": [
+     0.5,
+     0.3681,
+     0.4192
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "156.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-spiral-algae",
+  "name": "Spiral Algae",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [
+   "Spirulina"
+  ],
+  "blend": "models/microscopic/microscopic-plankton-spiral-algae/microscopic-plankton-spiral-algae.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-spiral-algae/microscopic-plankton-spiral-algae_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-spiral-algae/microscopic-plankton-spiral-algae_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-spiral-algae_v1.webp",
+    "dims": [
+     0.1922,
+     0.2662,
+     0.3
+    ],
+    "tris": 1344,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "157.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-spindle-diatom",
+  "name": "Spindle Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-spindle-diatom/microscopic-plankton-spindle-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-spindle-diatom/microscopic-plankton-spindle-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-spindle-diatom/microscopic-plankton-spindle-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-spindle-diatom_v1.webp",
+    "dims": [
+     0.5,
+     0.4883,
+     0.4542
+    ],
+    "tris": 146,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "158.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-protists-algae-colony",
+  "name": "Algae Colony",
+  "category": "Microscopic",
+  "subcategory": "Protists",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony_v1.glb",
+    "fbx": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony_v1.fbx",
+    "thumb": "thumbs/microscopic-protists-algae-colony_v1.webp",
+    "dims": [
+     0.09726,
+     0.09412,
+     0.1
+    ],
+    "tris": 960,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony_v2.glb",
+    "fbx": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony_v2.fbx",
+    "thumb": "thumbs/microscopic-protists-algae-colony_v2.webp",
+    "dims": [
+     0.1,
+     0.09999,
+     0.0994
+    ],
+    "tris": 960,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   },
+   {
+    "glb": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony_v3.glb",
+    "fbx": "models/microscopic/microscopic-protists-algae-colony/microscopic-protists-algae-colony_v3.fbx",
+    "thumb": "thumbs/microscopic-protists-algae-colony_v3.webp",
+    "dims": [
+     0.09543,
+     0.1,
+     0.09566
+    ],
+    "tris": 960,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "159.glb",
+   "160.glb",
+   "161.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-hair-strand",
+  "name": "Hair Strand",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v1.webp",
+    "dims": [
+     0.5,
+     0.3648,
+     0.3771
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v2.webp",
+    "dims": [
+     0.5,
+     0.4524,
+     0.3805
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v3.webp",
+    "dims": [
+     0.5,
+     0.3003,
+     0.2264
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v4.webp",
+    "dims": [
+     0.2657,
+     0.5,
+     0.2179
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v5.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v5.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v5.webp",
+    "dims": [
+     0.4468,
+     0.5,
+     0.1426
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v6.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v6.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v6.webp",
+    "dims": [
+     0.3274,
+     0.5,
+     0.3331
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v7.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v7.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v7.webp",
+    "dims": [
+     0.5,
+     0.4058,
+     0.2845
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v8.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v8.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v8.webp",
+    "dims": [
+     0.396,
+     0.5,
+     0.2963
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v9.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v9.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v9.webp",
+    "dims": [
+     0.3945,
+     0.5,
+     0.4003
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v10.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v10.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v10.webp",
+    "dims": [
+     0.306,
+     0.5,
+     0.265
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v11.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v11.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v11.webp",
+    "dims": [
+     0.5,
+     0.4082,
+     0.2315
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v12.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-hair-strand/microscopic-dust-particles-hair-strand_v12.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-hair-strand_v12.webp",
+    "dims": [
+     0.4901,
+     0.5,
+     0.3467
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "162.glb",
+   "163.glb",
+   "164.glb",
+   "165.glb",
+   "166.glb",
+   "167.glb",
+   "168.glb",
+   "169.glb",
+   "170.glb",
+   "171.glb",
+   "172.glb",
+   "173.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-dust-fiber",
+  "name": "Dust Fiber",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v1.webp",
+    "dims": [
+     0.2,
+     0.08754,
+     0.1215
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v2.webp",
+    "dims": [
+     0.2,
+     0.1459,
+     0.1508
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v3.webp",
+    "dims": [
+     0.2,
+     0.181,
+     0.1522
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v4.webp",
+    "dims": [
+     0.2,
+     0.1201,
+     0.09057
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v5.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v5.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v5.webp",
+    "dims": [
+     0.1063,
+     0.2,
+     0.08715
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v6.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v6.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v6.webp",
+    "dims": [
+     0.1787,
+     0.2,
+     0.05702
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v7.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v7.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v7.webp",
+    "dims": [
+     0.09117,
+     0.2,
+     0.09231
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v8.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v8.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v8.webp",
+    "dims": [
+     0.131,
+     0.2,
+     0.1332
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v9.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v9.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v9.webp",
+    "dims": [
+     0.2,
+     0.1708,
+     0.1152
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v10.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v10.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v10.webp",
+    "dims": [
+     0.1584,
+     0.2,
+     0.1185
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v11.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-dust-fiber/microscopic-dust-particles-dust-fiber_v11.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-dust-fiber_v11.webp",
+    "dims": [
+     0.1578,
+     0.2,
+     0.1601
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 100
+   }
+  ],
+  "sourceFiles": [
+   "174.glb",
+   "175.glb",
+   "176.glb",
+   "177.glb",
+   "178.glb",
+   "179.glb",
+   "180.glb",
+   "181.glb",
+   "182.glb",
+   "183.glb",
+   "184.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-skin-flake",
+  "name": "Skin Flake",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-skin-flake_v1.webp",
+    "dims": [
+     0.2657,
+     0.06908,
+     0.5
+    ],
+    "tris": 382,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-skin-flake_v2.webp",
+    "dims": [
+     0.3987,
+     0.3285,
+     0.5
+    ],
+    "tris": 260,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-skin-flake_v3.webp",
+    "dims": [
+     0.4445,
+     0.08543,
+     0.5
+    ],
+    "tris": 854,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-skin-flake_v4.webp",
+    "dims": [
+     0.3131,
+     0.3129,
+     0.5
+    ],
+    "tris": 528,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v5.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-skin-flake/microscopic-dust-particles-skin-flake_v5.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-skin-flake_v5.webp",
+    "dims": [
+     0.1248,
+     0.2411,
+     0.5
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "185.glb",
+   "186.glb",
+   "187.glb",
+   "188.glb",
+   "189.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-pollen-spores-furrowed-pollen",
+  "name": "Furrowed Pollen",
+  "category": "Microscopic",
+  "subcategory": "Pollen & Spores",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen_v1.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen_v1.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-furrowed-pollen_v1.webp",
+    "dims": [
+     0.4,
+     0.1136,
+     0.3848
+    ],
+    "tris": 780,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen_v2.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen_v2.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-furrowed-pollen_v2.webp",
+    "dims": [
+     0.3579,
+     0.09858,
+     0.4
+    ],
+    "tris": 948,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen_v3.glb",
+    "fbx": "models/microscopic/microscopic-pollen-spores-furrowed-pollen/microscopic-pollen-spores-furrowed-pollen_v3.fbx",
+    "thumb": "thumbs/microscopic-pollen-spores-furrowed-pollen_v3.webp",
+    "dims": [
+     0.3231,
+     0.09171,
+     0.4
+    ],
+    "tris": 944,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "190.glb",
+   "191.glb",
+   "192.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-red-particle",
+  "name": "Red Particle",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-red-particle/microscopic-dust-particles-red-particle.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-red-particle/microscopic-dust-particles-red-particle_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-red-particle/microscopic-dust-particles-red-particle_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-red-particle_v1.webp",
+    "dims": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "193.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-white-particle",
+  "name": "White Particle",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-white-particle/microscopic-dust-particles-white-particle.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-white-particle/microscopic-dust-particles-white-particle_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-white-particle/microscopic-dust-particles-white-particle_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-white-particle_v1.webp",
+    "dims": [
+     0.09705,
+     0.1,
+     0.09783
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "194.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-dust-particles-particle-cluster",
+  "name": "Particle Cluster",
+  "category": "Microscopic",
+  "subcategory": "Dust & Particles",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v1.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v1.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v1.webp",
+    "dims": [
+     0.1485,
+     0.1831,
+     0.2
+    ],
+    "tris": 123,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v2.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v2.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v2.webp",
+    "dims": [
+     0.1849,
+     0.1871,
+     0.2
+    ],
+    "tris": 249,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v3.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v3.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v3.webp",
+    "dims": [
+     0.1904,
+     0.2,
+     0.18
+    ],
+    "tris": 348,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v4.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v4.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v4.webp",
+    "dims": [
+     0.1922,
+     0.2,
+     0.1567
+    ],
+    "tris": 490,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v5.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v5.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v5.webp",
+    "dims": [
+     0.1768,
+     0.1472,
+     0.2
+    ],
+    "tris": 550,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v6.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v6.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v6.webp",
+    "dims": [
+     0.1964,
+     0.1737,
+     0.2
+    ],
+    "tris": 636,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v7.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v7.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v7.webp",
+    "dims": [
+     0.197,
+     0.2,
+     0.1578
+    ],
+    "tris": 694,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v8.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v8.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v8.webp",
+    "dims": [
+     0.1948,
+     0.1707,
+     0.2
+    ],
+    "tris": 777,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v9.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v9.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v9.webp",
+    "dims": [
+     0.2,
+     0.187,
+     0.1996
+    ],
+    "tris": 887,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v10.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v10.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v10.webp",
+    "dims": [
+     0.2,
+     0.1983,
+     0.1636
+    ],
+    "tris": 946,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v11.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v11.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v11.webp",
+    "dims": [
+     0.2,
+     0.1948,
+     0.1495
+    ],
+    "tris": 901,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v12.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v12.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v12.webp",
+    "dims": [
+     0.2,
+     0.1669,
+     0.185
+    ],
+    "tris": 1120,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v13.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v13.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v13.webp",
+    "dims": [
+     0.2,
+     0.1862,
+     0.1648
+    ],
+    "tris": 1131,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v14.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v14.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v14.webp",
+    "dims": [
+     0.1613,
+     0.2,
+     0.1529
+    ],
+    "tris": 1159,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v15.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v15.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v15.webp",
+    "dims": [
+     0.2,
+     0.1894,
+     0.1863
+    ],
+    "tris": 1197,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v16.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v16.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v16.webp",
+    "dims": [
+     0.2,
+     0.187,
+     0.1761
+    ],
+    "tris": 1240,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v17.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v17.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v17.webp",
+    "dims": [
+     0.188,
+     0.1736,
+     0.2
+    ],
+    "tris": 1320,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v18.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v18.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v18.webp",
+    "dims": [
+     0.1991,
+     0.2,
+     0.1929
+    ],
+    "tris": 1339,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v19.glb",
+    "fbx": "models/microscopic/microscopic-dust-particles-particle-cluster/microscopic-dust-particles-particle-cluster_v19.fbx",
+    "thumb": "thumbs/microscopic-dust-particles-particle-cluster_v19.webp",
+    "dims": [
+     0.1743,
+     0.2,
+     0.1734
+    ],
+    "tris": 1338,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "195.glb",
+   "196.glb",
+   "197.glb",
+   "198.glb",
+   "199.glb",
+   "200.glb",
+   "201.glb",
+   "202.glb",
+   "203.glb",
+   "204.glb",
+   "205.glb",
+   "206.glb",
+   "207.glb",
+   "208.glb",
+   "209.glb",
+   "210.glb",
+   "211.glb",
+   "212.glb",
+   "213.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-triangular-diatom",
+  "name": "Triangular Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-triangular-diatom/microscopic-plankton-triangular-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-triangular-diatom/microscopic-plankton-triangular-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-triangular-diatom/microscopic-plankton-triangular-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-triangular-diatom_v1.webp",
+    "dims": [
+     0.458,
+     0.5,
+     0.3394
+    ],
+    "tris": 1328,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "214.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-star-diatom",
+  "name": "Star Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-star-diatom/microscopic-plankton-star-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-star-diatom/microscopic-plankton-star-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-star-diatom/microscopic-plankton-star-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-star-diatom_v1.webp",
+    "dims": [
+     0.09543,
+     0.1,
+     0.02287
+    ],
+    "tris": 1440,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 1000
+   }
+  ],
+  "sourceFiles": [
+   "215.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-centric-diatom",
+  "name": "Centric Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-centric-diatom_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.0288
+    ],
+    "tris": 1024,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom_v2.glb",
+    "fbx": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom_v2.fbx",
+    "thumb": "thumbs/microscopic-plankton-centric-diatom_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.1626
+    ],
+    "tris": 1088,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   },
+   {
+    "glb": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom_v3.glb",
+    "fbx": "models/microscopic/microscopic-plankton-centric-diatom/microscopic-plankton-centric-diatom_v3.fbx",
+    "thumb": "thumbs/microscopic-plankton-centric-diatom_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.09406
+    ],
+    "tris": 448,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "216.glb",
+   "217.glb",
+   "218.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-cylinder-diatom",
+  "name": "Cylinder Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-cylinder-diatom/microscopic-plankton-cylinder-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-cylinder-diatom/microscopic-plankton-cylinder-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-cylinder-diatom/microscopic-plankton-cylinder-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-cylinder-diatom_v1.webp",
+    "dims": [
+     0.3582,
+     0.3582,
+     0.5
+    ],
+    "tris": 832,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "219.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-rod-diatom",
+  "name": "Rod Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-rod-diatom/microscopic-plankton-rod-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-rod-diatom/microscopic-plankton-rod-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-rod-diatom/microscopic-plankton-rod-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-rod-diatom_v1.webp",
+    "dims": [
+     0.151,
+     0.5,
+     0.1374
+    ],
+    "tris": 528,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "220.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-oval-diatom",
+  "name": "Oval Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-oval-diatom/microscopic-plankton-oval-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-oval-diatom/microscopic-plankton-oval-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-oval-diatom/microscopic-plankton-oval-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-oval-diatom_v1.webp",
+    "dims": [
+     0.3207,
+     0.5,
+     0.02771
+    ],
+    "tris": 2512,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "221.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-boat-diatom",
+  "name": "Boat Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-boat-diatom/microscopic-plankton-boat-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-boat-diatom/microscopic-plankton-boat-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-boat-diatom/microscopic-plankton-boat-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-boat-diatom_v1.webp",
+    "dims": [
+     0.5,
+     0.3128,
+     0.1849
+    ],
+    "tris": 1344,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "222.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-horned-diatom",
+  "name": "Horned Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-horned-diatom/microscopic-plankton-horned-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-horned-diatom/microscopic-plankton-horned-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-horned-diatom/microscopic-plankton-horned-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-horned-diatom_v1.webp",
+    "dims": [
+     0.2461,
+     0.2461,
+     0.5
+    ],
+    "tris": 2032,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "223.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-pennate-diatom",
+  "name": "Pennate Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-pennate-diatom/microscopic-plankton-pennate-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-pennate-diatom/microscopic-plankton-pennate-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-pennate-diatom/microscopic-plankton-pennate-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-pennate-diatom_v1.webp",
+    "dims": [
+     0.2544,
+     0.5,
+     0.08291
+    ],
+    "tris": 1136,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "224.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "microscopic-plankton-barrel-diatom",
+  "name": "Barrel Diatom",
+  "category": "Microscopic",
+  "subcategory": "Plankton",
+  "tags": [],
+  "blend": "models/microscopic/microscopic-plankton-barrel-diatom/microscopic-plankton-barrel-diatom.blend",
+  "variants": [
+   {
+    "glb": "models/microscopic/microscopic-plankton-barrel-diatom/microscopic-plankton-barrel-diatom_v1.glb",
+    "fbx": "models/microscopic/microscopic-plankton-barrel-diatom/microscopic-plankton-barrel-diatom_v1.fbx",
+    "thumb": "thumbs/microscopic-plankton-barrel-diatom_v1.webp",
+    "dims": [
+     0.3021,
+     0.5,
+     0.3021
+    ],
+    "tris": 1536,
+    "parts": 1,
+    "size": "estimated",
+    "magnified": 10000
+   }
+  ],
+  "sourceFiles": [
+   "225.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]

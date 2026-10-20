@@ -1,0 +1,2024 @@
+[
+ {
+  "id": "vehicles-aircraft-private-jet",
+  "name": "Private Jet",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-private-jet/vehicles-aircraft-private-jet.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-private-jet/vehicles-aircraft-private-jet_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-private-jet/vehicles-aircraft-private-jet_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-private-jet_v1.webp",
+    "dims": [
+     24.15,
+     30.0,
+     6.537
+    ],
+    "tris": 926,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "0.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-airliner",
+  "name": "Airliner",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-airliner/vehicles-aircraft-airliner.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-airliner/vehicles-aircraft-airliner_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-airliner/vehicles-aircraft-airliner_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-airliner_v1.webp",
+    "dims": [
+     38.8,
+     40.0,
+     13.98
+    ],
+    "tris": 1004,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-airliner/vehicles-aircraft-airliner_v2.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-airliner/vehicles-aircraft-airliner_v2.fbx",
+    "thumb": "thumbs/vehicles-aircraft-airliner_v2.webp",
+    "dims": [
+     33.62,
+     47.0,
+     11.2
+    ],
+    "tris": 1244,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "1.glb",
+   "82.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-small-plane",
+  "name": "Small Plane",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-small-plane/vehicles-aircraft-small-plane.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-small-plane/vehicles-aircraft-small-plane_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-small-plane/vehicles-aircraft-small-plane_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-small-plane_v1.webp",
+    "dims": [
+     9.0,
+     6.796,
+     2.379
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "2.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-biplane",
+  "name": "Biplane",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-biplane/vehicles-aircraft-biplane.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-biplane/vehicles-aircraft-biplane_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-biplane/vehicles-aircraft-biplane_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-biplane_v1.webp",
+    "dims": [
+     7.0,
+     6.374,
+     3.084
+    ],
+    "tris": 1840,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "3.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-fighter-jet",
+  "name": "Fighter Jet",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-fighter-jet/vehicles-aircraft-fighter-jet.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-fighter-jet/vehicles-aircraft-fighter-jet_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-fighter-jet/vehicles-aircraft-fighter-jet_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-fighter-jet_v1.webp",
+    "dims": [
+     13.45,
+     19.0,
+     4.0
+    ],
+    "tris": 412,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "4.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-helicopter",
+  "name": "Helicopter",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-helicopter_v1.webp",
+    "dims": [
+     10.76,
+     13.0,
+     3.186
+    ],
+    "tris": 1094,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter_v2.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter_v2.fbx",
+    "thumb": "thumbs/vehicles-aircraft-helicopter_v2.webp",
+    "dims": [
+     10.32,
+     13.0,
+     3.429
+    ],
+    "tris": 1399,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter_v3.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-helicopter/vehicles-aircraft-helicopter_v3.fbx",
+    "thumb": "thumbs/vehicles-aircraft-helicopter_v3.webp",
+    "dims": [
+     10.55,
+     13.0,
+     3.529
+    ],
+    "tris": 1467,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "5.glb",
+   "6.glb",
+   "7.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-blimp",
+  "name": "Blimp",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-blimp/vehicles-aircraft-blimp.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-blimp/vehicles-aircraft-blimp_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-blimp/vehicles-aircraft-blimp_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-blimp_v1.webp",
+    "dims": [
+     12.82,
+     60.0,
+     13.1
+    ],
+    "tris": 660,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "8.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-hot-air-balloon",
+  "name": "Hot Air Balloon",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v1.webp",
+    "dims": [
+     19.29,
+     19.29,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v2.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v2.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v2.webp",
+    "dims": [
+     19.42,
+     19.42,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v3.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v3.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v3.webp",
+    "dims": [
+     19.25,
+     19.25,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v4.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v4.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v4.webp",
+    "dims": [
+     19.05,
+     19.05,
+     25.0
+    ],
+    "tris": 704,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v5.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v5.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v5.webp",
+    "dims": [
+     19.25,
+     19.25,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v6.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v6.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v6.webp",
+    "dims": [
+     19.25,
+     19.25,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v7.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v7.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v7.webp",
+    "dims": [
+     19.42,
+     19.42,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v8.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v8.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v8.webp",
+    "dims": [
+     19.61,
+     19.61,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v9.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-hot-air-balloon/vehicles-aircraft-hot-air-balloon_v9.fbx",
+    "thumb": "thumbs/vehicles-aircraft-hot-air-balloon_v9.webp",
+    "dims": [
+     18.94,
+     18.94,
+     25.0
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "9.glb",
+   "10.glb",
+   "11.glb",
+   "12.glb",
+   "13.glb",
+   "14.glb",
+   "15.glb",
+   "16.glb",
+   "17.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-glider",
+  "name": "Glider",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-glider/vehicles-aircraft-glider.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-glider/vehicles-aircraft-glider_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-glider/vehicles-aircraft-glider_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-glider_v1.webp",
+    "dims": [
+     18.0,
+     7.084,
+     1.733
+    ],
+    "tris": 548,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "18.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-stealth-bomber",
+  "name": "Stealth Bomber",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-stealth-bomber/vehicles-aircraft-stealth-bomber.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-stealth-bomber/vehicles-aircraft-stealth-bomber_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-stealth-bomber/vehicles-aircraft-stealth-bomber_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-stealth-bomber_v1.webp",
+    "dims": [
+     52.0,
+     20.71,
+     4.743
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "19.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-weather-balloon",
+  "name": "Weather Balloon",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-weather-balloon/vehicles-aircraft-weather-balloon.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-weather-balloon/vehicles-aircraft-weather-balloon_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-weather-balloon/vehicles-aircraft-weather-balloon_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-weather-balloon_v1.webp",
+    "dims": [
+     1.913,
+     1.913,
+     6.0
+    ],
+    "tris": 488,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "20.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-aircraft-space-shuttle",
+  "name": "Space Shuttle",
+  "category": "Vehicles",
+  "subcategory": "Aircraft",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-aircraft-space-shuttle/vehicles-aircraft-space-shuttle.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-aircraft-space-shuttle/vehicles-aircraft-space-shuttle_v1.glb",
+    "fbx": "models/vehicles/vehicles-aircraft-space-shuttle/vehicles-aircraft-space-shuttle_v1.fbx",
+    "thumb": "thumbs/vehicles-aircraft-space-shuttle_v1.webp",
+    "dims": [
+     24.06,
+     37.0,
+     13.82
+    ],
+    "tris": 1072,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "21.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-motorboat",
+  "name": "Motorboat",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-motorboat/vehicles-boats-motorboat.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-motorboat/vehicles-boats-motorboat_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-motorboat/vehicles-boats-motorboat_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-motorboat_v1.webp",
+    "dims": [
+     4.423,
+     12.0,
+     3.522
+    ],
+    "tris": 528,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "22.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-cruise-ship",
+  "name": "Cruise Ship",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-cruise-ship/vehicles-boats-cruise-ship.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-cruise-ship/vehicles-boats-cruise-ship_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-cruise-ship/vehicles-boats-cruise-ship_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-cruise-ship_v1.webp",
+    "dims": [
+     36.6,
+     300.0,
+     55.16
+    ],
+    "tris": 900,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "23.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-container-ship",
+  "name": "Container Ship",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-container-ship/vehicles-boats-container-ship.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-container-ship/vehicles-boats-container-ship_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-container-ship/vehicles-boats-container-ship_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-container-ship_v1.webp",
+    "dims": [
+     63.73,
+     350.0,
+     60.01
+    ],
+    "tris": 2640,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "24.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-tugboat",
+  "name": "Tugboat",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-tugboat/vehicles-boats-tugboat.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-tugboat/vehicles-boats-tugboat_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-tugboat/vehicles-boats-tugboat_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-tugboat_v1.webp",
+    "dims": [
+     8.522,
+     30.0,
+     11.91
+    ],
+    "tris": 820,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "25.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-viking-ship",
+  "name": "Viking Ship",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-viking-ship/vehicles-boats-viking-ship.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-viking-ship/vehicles-boats-viking-ship_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-viking-ship/vehicles-boats-viking-ship_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-viking-ship_v1.webp",
+    "dims": [
+     9.165,
+     20.0,
+     16.86
+    ],
+    "tris": 886,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "26.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-tall-ship",
+  "name": "Tall Ship",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-tall-ship/vehicles-boats-tall-ship.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-tall-ship/vehicles-boats-tall-ship_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-tall-ship/vehicles-boats-tall-ship_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-tall-ship_v1.webp",
+    "dims": [
+     11.35,
+     50.0,
+     32.37
+    ],
+    "tris": 740,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "27.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-fishing-boat",
+  "name": "Fishing Boat",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-fishing-boat/vehicles-boats-fishing-boat.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-fishing-boat/vehicles-boats-fishing-boat_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-fishing-boat/vehicles-boats-fishing-boat_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-fishing-boat_v1.webp",
+    "dims": [
+     6.684,
+     15.0,
+     9.292
+    ],
+    "tris": 510,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "28.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-yacht",
+  "name": "Yacht",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-yacht/vehicles-boats-yacht.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-yacht/vehicles-boats-yacht_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-yacht/vehicles-boats-yacht_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-yacht_v1.webp",
+    "dims": [
+     9.085,
+     30.0,
+     7.675
+    ],
+    "tris": 616,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "29.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-submarine",
+  "name": "Submarine",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-submarine/vehicles-boats-submarine.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-submarine/vehicles-boats-submarine_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-submarine/vehicles-boats-submarine_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-submarine_v1.webp",
+    "dims": [
+     16.11,
+     110.0,
+     26.19
+    ],
+    "tris": 718,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "30.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-sailboat",
+  "name": "Sailboat",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-sailboat/vehicles-boats-sailboat.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-sailboat/vehicles-boats-sailboat_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-sailboat/vehicles-boats-sailboat_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-sailboat_v1.webp",
+    "dims": [
+     2.009,
+     5.838,
+     8.0
+    ],
+    "tris": 678,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "31.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-windsurf-board",
+  "name": "Windsurf Board",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-windsurf-board/vehicles-boats-windsurf-board.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-windsurf-board/vehicles-boats-windsurf-board_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-windsurf-board/vehicles-boats-windsurf-board_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-windsurf-board_v1.webp",
+    "dims": [
+     1.11,
+     3.316,
+     4.5
+    ],
+    "tris": 333,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "32.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-rowboat",
+  "name": "Rowboat",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-rowboat/vehicles-boats-rowboat.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-rowboat/vehicles-boats-rowboat_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-rowboat/vehicles-boats-rowboat_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-rowboat_v1.webp",
+    "dims": [
+     0.8737,
+     4.0,
+     0.5838
+    ],
+    "tris": 492,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "33.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-jet-ski",
+  "name": "Jet Ski",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-jet-ski/vehicles-boats-jet-ski.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-jet-ski/vehicles-boats-jet-ski_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-jet-ski/vehicles-boats-jet-ski_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-jet-ski_v1.webp",
+    "dims": [
+     1.089,
+     3.2,
+     1.063
+    ],
+    "tris": 828,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "34.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-boats-shipwreck",
+  "name": "Shipwreck",
+  "category": "Vehicles",
+  "subcategory": "Boats",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-boats-shipwreck/vehicles-boats-shipwreck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-boats-shipwreck/vehicles-boats-shipwreck_v1.glb",
+    "fbx": "models/vehicles/vehicles-boats-shipwreck/vehicles-boats-shipwreck_v1.fbx",
+    "thumb": "thumbs/vehicles-boats-shipwreck_v1.webp",
+    "dims": [
+     10.26,
+     20.0,
+     13.29
+    ],
+    "tris": 760,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "35.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-snowcat",
+  "name": "Snowcat",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-snowcat/vehicles-work-vehicles-snowcat.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-snowcat/vehicles-work-vehicles-snowcat_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-snowcat/vehicles-work-vehicles-snowcat_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-snowcat_v1.webp",
+    "dims": [
+     3.539,
+     8.0,
+     3.468
+    ],
+    "tris": 1438,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "36.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-bikes-scooter",
+  "name": "Scooter",
+  "category": "Vehicles",
+  "subcategory": "Bikes",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-bikes-scooter/vehicles-bikes-scooter.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-bikes-scooter/vehicles-bikes-scooter_v1.glb",
+    "fbx": "models/vehicles/vehicles-bikes-scooter/vehicles-bikes-scooter_v1.fbx",
+    "thumb": "thumbs/vehicles-bikes-scooter_v1.webp",
+    "dims": [
+     0.7157,
+     1.8,
+     1.186
+    ],
+    "tris": 1404,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "37.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-ambulance",
+  "name": "Ambulance",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-ambulance/vehicles-trucks-vans-ambulance.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-ambulance/vehicles-trucks-vans-ambulance_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-ambulance/vehicles-trucks-vans-ambulance_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-ambulance_v1.webp",
+    "dims": [
+     2.023,
+     6.5,
+     2.641
+    ],
+    "tris": 1612,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "38.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-buses-trains-coach-bus",
+  "name": "Coach Bus",
+  "category": "Vehicles",
+  "subcategory": "Buses & Trains",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-buses-trains-coach-bus/vehicles-buses-trains-coach-bus.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-buses-trains-coach-bus/vehicles-buses-trains-coach-bus_v1.glb",
+    "fbx": "models/vehicles/vehicles-buses-trains-coach-bus/vehicles-buses-trains-coach-bus_v1.fbx",
+    "thumb": "thumbs/vehicles-buses-trains-coach-bus_v1.webp",
+    "dims": [
+     2.44,
+     13.0,
+     2.944
+    ],
+    "tris": 1452,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "39.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-fire-truck",
+  "name": "Fire Truck",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-fire-truck/vehicles-trucks-vans-fire-truck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-fire-truck/vehicles-trucks-vans-fire-truck_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-fire-truck/vehicles-trucks-vans-fire-truck_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-fire-truck_v1.webp",
+    "dims": [
+     2.809,
+     12.0,
+     4.475
+    ],
+    "tris": 1640,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "40.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-buses-trains-school-bus",
+  "name": "School Bus",
+  "category": "Vehicles",
+  "subcategory": "Buses & Trains",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-buses-trains-school-bus/vehicles-buses-trains-school-bus.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-buses-trains-school-bus/vehicles-buses-trains-school-bus_v1.glb",
+    "fbx": "models/vehicles/vehicles-buses-trains-school-bus/vehicles-buses-trains-school-bus_v1.fbx",
+    "thumb": "thumbs/vehicles-buses-trains-school-bus_v1.webp",
+    "dims": [
+     4.62,
+     11.0,
+     4.499
+    ],
+    "tris": 1737,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "41.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-buses-trains-shuttle-bus",
+  "name": "Shuttle Bus",
+  "category": "Vehicles",
+  "subcategory": "Buses & Trains",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-buses-trains-shuttle-bus/vehicles-buses-trains-shuttle-bus.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-buses-trains-shuttle-bus/vehicles-buses-trains-shuttle-bus_v1.glb",
+    "fbx": "models/vehicles/vehicles-buses-trains-shuttle-bus/vehicles-buses-trains-shuttle-bus_v1.fbx",
+    "thumb": "thumbs/vehicles-buses-trains-shuttle-bus_v1.webp",
+    "dims": [
+     2.179,
+     7.5,
+     2.317
+    ],
+    "tris": 1424,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "42.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-passenger-van",
+  "name": "Passenger Van",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-passenger-van/vehicles-trucks-vans-passenger-van.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-passenger-van/vehicles-trucks-vans-passenger-van_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-passenger-van/vehicles-trucks-vans-passenger-van_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-passenger-van_v1.webp",
+    "dims": [
+     2.435,
+     5.5,
+     2.048
+    ],
+    "tris": 1188,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "43.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-pickup-truck",
+  "name": "Pickup Truck",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-pickup-truck/vehicles-trucks-vans-pickup-truck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-pickup-truck/vehicles-trucks-vans-pickup-truck_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-pickup-truck/vehicles-trucks-vans-pickup-truck_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-pickup-truck_v1.webp",
+    "dims": [
+     2.209,
+     5.8,
+     1.865
+    ],
+    "tris": 1416,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-pickup-truck/vehicles-trucks-vans-pickup-truck_v2.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-pickup-truck/vehicles-trucks-vans-pickup-truck_v2.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-pickup-truck_v2.webp",
+    "dims": [
+     2.209,
+     5.8,
+     1.865
+    ],
+    "tris": 1420,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "44.glb",
+   "45.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-muscle-car",
+  "name": "Muscle Car",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-muscle-car/vehicles-cars-muscle-car.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-muscle-car/vehicles-cars-muscle-car_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-muscle-car/vehicles-cars-muscle-car_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-muscle-car_v1.webp",
+    "dims": [
+     2.006,
+     5.0,
+     1.406
+    ],
+    "tris": 1313,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-cars-muscle-car/vehicles-cars-muscle-car_v2.glb",
+    "fbx": "models/vehicles/vehicles-cars-muscle-car/vehicles-cars-muscle-car_v2.fbx",
+    "thumb": "thumbs/vehicles-cars-muscle-car_v2.webp",
+    "dims": [
+     2.006,
+     5.0,
+     1.406
+    ],
+    "tris": 1273,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "46.glb",
+   "47.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-coupe",
+  "name": "Coupe",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-coupe/vehicles-cars-coupe.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-coupe/vehicles-cars-coupe_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-coupe/vehicles-cars-coupe_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-coupe_v1.webp",
+    "dims": [
+     1.805,
+     4.5,
+     1.265
+    ],
+    "tris": 1273,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "48.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-taxi",
+  "name": "Taxi",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-taxi/vehicles-cars-taxi.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-taxi/vehicles-cars-taxi_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-taxi/vehicles-cars-taxi_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-taxi_v1.webp",
+    "dims": [
+     2.189,
+     5.0,
+     1.594
+    ],
+    "tris": 1250,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "49.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-police-car",
+  "name": "Police Car",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-police-car/vehicles-cars-police-car.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-police-car/vehicles-cars-police-car_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-police-car/vehicles-cars-police-car_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-police-car_v1.webp",
+    "dims": [
+     2.015,
+     5.0,
+     1.421
+    ],
+    "tris": 1272,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "50.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-sedan",
+  "name": "Sedan",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-sedan/vehicles-cars-sedan.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-sedan/vehicles-cars-sedan_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-sedan/vehicles-cars-sedan_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-sedan_v1.webp",
+    "dims": [
+     2.241,
+     4.6,
+     1.492
+    ],
+    "tris": 1172,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-cars-sedan/vehicles-cars-sedan_v2.glb",
+    "fbx": "models/vehicles/vehicles-cars-sedan/vehicles-cars-sedan_v2.fbx",
+    "thumb": "thumbs/vehicles-cars-sedan_v2.webp",
+    "dims": [
+     2.241,
+     4.6,
+     1.492
+    ],
+    "tris": 1172,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "51.glb",
+   "52.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-hatchback",
+  "name": "Hatchback",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-hatchback/vehicles-cars-hatchback.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-hatchback/vehicles-cars-hatchback_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-hatchback/vehicles-cars-hatchback_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-hatchback_v1.webp",
+    "dims": [
+     2.07,
+     4.4,
+     1.695
+    ],
+    "tris": 1184,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-cars-hatchback/vehicles-cars-hatchback_v2.glb",
+    "fbx": "models/vehicles/vehicles-cars-hatchback/vehicles-cars-hatchback_v2.fbx",
+    "thumb": "thumbs/vehicles-cars-hatchback_v2.webp",
+    "dims": [
+     2.07,
+     4.4,
+     1.695
+    ],
+    "tris": 1184,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "53.glb",
+   "54.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-luxury-sedan",
+  "name": "Luxury Sedan",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-luxury-sedan/vehicles-cars-luxury-sedan.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-luxury-sedan/vehicles-cars-luxury-sedan_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-luxury-sedan/vehicles-cars-luxury-sedan_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-luxury-sedan_v1.webp",
+    "dims": [
+     2.089,
+     4.9,
+     1.446
+    ],
+    "tris": 1158,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-cars-luxury-sedan/vehicles-cars-luxury-sedan_v2.glb",
+    "fbx": "models/vehicles/vehicles-cars-luxury-sedan/vehicles-cars-luxury-sedan_v2.fbx",
+    "thumb": "thumbs/vehicles-cars-luxury-sedan_v2.webp",
+    "dims": [
+     2.089,
+     4.9,
+     1.446
+    ],
+    "tris": 1158,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "55.glb",
+   "56.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-convertible",
+  "name": "Convertible",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-convertible/vehicles-cars-convertible.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-convertible/vehicles-cars-convertible_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-convertible/vehicles-cars-convertible_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-convertible_v1.webp",
+    "dims": [
+     1.959,
+     4.5,
+     1.363
+    ],
+    "tris": 1329,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/vehicles/vehicles-cars-convertible/vehicles-cars-convertible_v2.glb",
+    "fbx": "models/vehicles/vehicles-cars-convertible/vehicles-cars-convertible_v2.fbx",
+    "thumb": "thumbs/vehicles-cars-convertible_v2.webp",
+    "dims": [
+     1.959,
+     4.5,
+     1.363
+    ],
+    "tris": 1329,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "57.glb",
+   "58.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-suv",
+  "name": "SUV",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-suv/vehicles-cars-suv.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-suv/vehicles-cars-suv_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-suv/vehicles-cars-suv_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-suv_v1.webp",
+    "dims": [
+     2.348,
+     4.8,
+     1.865
+    ],
+    "tris": 1218,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "59.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-bikes-motorcycle",
+  "name": "Motorcycle",
+  "category": "Vehicles",
+  "subcategory": "Bikes",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-bikes-motorcycle/vehicles-bikes-motorcycle.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-bikes-motorcycle/vehicles-bikes-motorcycle_v1.glb",
+    "fbx": "models/vehicles/vehicles-bikes-motorcycle/vehicles-bikes-motorcycle_v1.fbx",
+    "thumb": "thumbs/vehicles-bikes-motorcycle_v1.webp",
+    "dims": [
+     0.7224,
+     2.2,
+     1.037
+    ],
+    "tris": 1348,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "60.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-box-truck",
+  "name": "Box Truck",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-box-truck/vehicles-trucks-vans-box-truck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-box-truck/vehicles-trucks-vans-box-truck_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-box-truck/vehicles-trucks-vans-box-truck_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-box-truck_v1.webp",
+    "dims": [
+     2.715,
+     7.5,
+     3.545
+    ],
+    "tris": 1296,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "61.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-food-truck",
+  "name": "Food Truck",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-food-truck/vehicles-trucks-vans-food-truck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-food-truck/vehicles-trucks-vans-food-truck_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-food-truck/vehicles-trucks-vans-food-truck_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-food-truck_v1.webp",
+    "dims": [
+     2.862,
+     6.5,
+     3.424
+    ],
+    "tris": 1956,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "62.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-solar-van",
+  "name": "Solar Van",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-solar-van/vehicles-trucks-vans-solar-van.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-solar-van/vehicles-trucks-vans-solar-van_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-solar-van/vehicles-trucks-vans-solar-van_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-solar-van_v1.webp",
+    "dims": [
+     2.712,
+     6.5,
+     3.133
+    ],
+    "tris": 1636,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "63.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-mini-car",
+  "name": "Mini Car",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-mini-car/vehicles-cars-mini-car.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-mini-car/vehicles-cars-mini-car_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-mini-car/vehicles-cars-mini-car_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-mini-car_v1.webp",
+    "dims": [
+     1.771,
+     2.7,
+     1.539
+    ],
+    "tris": 1136,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "64.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-garbage-truck",
+  "name": "Garbage Truck",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-garbage-truck/vehicles-trucks-vans-garbage-truck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-garbage-truck/vehicles-trucks-vans-garbage-truck_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-garbage-truck/vehicles-trucks-vans-garbage-truck_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-garbage-truck_v1.webp",
+    "dims": [
+     3.023,
+     9.0,
+     3.953
+    ],
+    "tris": 2284,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "65.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-cars-sports-car",
+  "name": "Sports Car",
+  "category": "Vehicles",
+  "subcategory": "Cars",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-cars-sports-car/vehicles-cars-sports-car.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-cars-sports-car/vehicles-cars-sports-car_v1.glb",
+    "fbx": "models/vehicles/vehicles-cars-sports-car/vehicles-cars-sports-car_v1.fbx",
+    "thumb": "thumbs/vehicles-cars-sports-car_v1.webp",
+    "dims": [
+     1.768,
+     4.5,
+     1.244
+    ],
+    "tris": 1360,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "66.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-trucks-vans-semi-truck",
+  "name": "Semi Truck",
+  "category": "Vehicles",
+  "subcategory": "Trucks & Vans",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-trucks-vans-semi-truck/vehicles-trucks-vans-semi-truck.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-trucks-vans-semi-truck/vehicles-trucks-vans-semi-truck_v1.glb",
+    "fbx": "models/vehicles/vehicles-trucks-vans-semi-truck/vehicles-trucks-vans-semi-truck_v1.fbx",
+    "thumb": "thumbs/vehicles-trucks-vans-semi-truck_v1.webp",
+    "dims": [
+     3.366,
+     21.0,
+     4.62
+    ],
+    "tris": 4612,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "67.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-bikes-sport-bike",
+  "name": "Sport Bike",
+  "category": "Vehicles",
+  "subcategory": "Bikes",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-bikes-sport-bike/vehicles-bikes-sport-bike.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-bikes-sport-bike/vehicles-bikes-sport-bike_v1.glb",
+    "fbx": "models/vehicles/vehicles-bikes-sport-bike/vehicles-bikes-sport-bike_v1.fbx",
+    "thumb": "thumbs/vehicles-bikes-sport-bike_v1.webp",
+    "dims": [
+     0.8925,
+     2.1,
+     1.114
+    ],
+    "tris": 2018,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "68.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-buses-trains-city-bus",
+  "name": "City Bus",
+  "category": "Vehicles",
+  "subcategory": "Buses & Trains",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-buses-trains-city-bus/vehicles-buses-trains-city-bus.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-buses-trains-city-bus/vehicles-buses-trains-city-bus_v1.glb",
+    "fbx": "models/vehicles/vehicles-buses-trains-city-bus/vehicles-buses-trains-city-bus_v1.fbx",
+    "thumb": "thumbs/vehicles-buses-trains-city-bus_v1.webp",
+    "dims": [
+     3.812,
+     12.0,
+     3.944
+    ],
+    "tris": 1488,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "69.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-buses-trains-tram",
+  "name": "Tram",
+  "category": "Vehicles",
+  "subcategory": "Buses & Trains",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-buses-trains-tram/vehicles-buses-trains-tram.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-buses-trains-tram/vehicles-buses-trains-tram_v1.glb",
+    "fbx": "models/vehicles/vehicles-buses-trains-tram/vehicles-buses-trains-tram_v1.fbx",
+    "thumb": "thumbs/vehicles-buses-trains-tram_v1.webp",
+    "dims": [
+     9.183,
+     25.0,
+     13.17
+    ],
+    "tris": 510,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "70.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-buses-trains-roller-coaster",
+  "name": "Roller Coaster",
+  "category": "Vehicles",
+  "subcategory": "Buses & Trains",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-buses-trains-roller-coaster/vehicles-buses-trains-roller-coaster.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-buses-trains-roller-coaster/vehicles-buses-trains-roller-coaster_v1.glb",
+    "fbx": "models/vehicles/vehicles-buses-trains-roller-coaster/vehicles-buses-trains-roller-coaster_v1.fbx",
+    "thumb": "thumbs/vehicles-buses-trains-roller-coaster_v1.webp",
+    "dims": [
+     3.985,
+     12.0,
+     2.79
+    ],
+    "tris": 1700,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "71.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-crane-boom",
+  "name": "Crane Boom",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-crane-boom/vehicles-work-vehicles-crane-boom.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-crane-boom/vehicles-work-vehicles-crane-boom_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-crane-boom/vehicles-work-vehicles-crane-boom_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-crane-boom_v1.webp",
+    "dims": [
+     2.689,
+     14.33,
+     20.0
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "72.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-mine-cart",
+  "name": "Mine Cart",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-mine-cart/vehicles-work-vehicles-mine-cart.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-mine-cart/vehicles-work-vehicles-mine-cart_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-mine-cart/vehicles-work-vehicles-mine-cart_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-mine-cart_v1.webp",
+    "dims": [
+     0.9521,
+     1.5,
+     1.141
+    ],
+    "tris": 1208,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "73.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-excavator",
+  "name": "Excavator",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-excavator/vehicles-work-vehicles-excavator.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-excavator/vehicles-work-vehicles-excavator_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-excavator/vehicles-work-vehicles-excavator_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-excavator_v1.webp",
+    "dims": [
+     3.214,
+     9.5,
+     4.753
+    ],
+    "tris": 1603,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "74.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-bikes-atv",
+  "name": "ATV",
+  "category": "Vehicles",
+  "subcategory": "Bikes",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-bikes-atv/vehicles-bikes-atv.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-bikes-atv/vehicles-bikes-atv_v1.glb",
+    "fbx": "models/vehicles/vehicles-bikes-atv/vehicles-bikes-atv_v1.fbx",
+    "thumb": "thumbs/vehicles-bikes-atv_v1.webp",
+    "dims": [
+     1.032,
+     2.0,
+     1.252
+    ],
+    "tris": 1776,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "75.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-bikes-bicycle",
+  "name": "Bicycle",
+  "category": "Vehicles",
+  "subcategory": "Bikes",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-bikes-bicycle/vehicles-bikes-bicycle.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-bikes-bicycle/vehicles-bikes-bicycle_v1.glb",
+    "fbx": "models/vehicles/vehicles-bikes-bicycle/vehicles-bikes-bicycle_v1.fbx",
+    "thumb": "thumbs/vehicles-bikes-bicycle_v1.webp",
+    "dims": [
+     0.6782,
+     1.8,
+     1.165
+    ],
+    "tris": 1944,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "76.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-bikes-mountain-bike",
+  "name": "Mountain Bike",
+  "category": "Vehicles",
+  "subcategory": "Bikes",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-bikes-mountain-bike/vehicles-bikes-mountain-bike.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-bikes-mountain-bike/vehicles-bikes-mountain-bike_v1.glb",
+    "fbx": "models/vehicles/vehicles-bikes-mountain-bike/vehicles-bikes-mountain-bike_v1.fbx",
+    "thumb": "thumbs/vehicles-bikes-mountain-bike_v1.webp",
+    "dims": [
+     0.7092,
+     1.8,
+     1.124
+    ],
+    "tris": 1593,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "77.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-wooden-wagon",
+  "name": "Wooden Wagon",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-wooden-wagon/vehicles-work-vehicles-wooden-wagon.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-wooden-wagon/vehicles-work-vehicles-wooden-wagon_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-wooden-wagon/vehicles-work-vehicles-wooden-wagon_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-wooden-wagon_v1.webp",
+    "dims": [
+     2.182,
+     4.0,
+     1.905
+    ],
+    "tris": 1460,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "78.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-covered-wagon",
+  "name": "Covered Wagon",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-covered-wagon/vehicles-work-vehicles-covered-wagon.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-covered-wagon/vehicles-work-vehicles-covered-wagon_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-covered-wagon/vehicles-work-vehicles-covered-wagon_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-covered-wagon_v1.webp",
+    "dims": [
+     1.598,
+     5.0,
+     3.222
+    ],
+    "tris": 1380,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "79.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-tractor",
+  "name": "Tractor",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [],
+  "blend": "models/vehicles/vehicles-work-vehicles-tractor/vehicles-work-vehicles-tractor.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-tractor/vehicles-work-vehicles-tractor_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-tractor/vehicles-work-vehicles-tractor_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-tractor_v1.webp",
+    "dims": [
+     3.93,
+     4.5,
+     3.616
+    ],
+    "tris": 1078,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "80.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "vehicles-work-vehicles-rocket-crawler",
+  "name": "Rocket Crawler",
+  "category": "Vehicles",
+  "subcategory": "Work Vehicles",
+  "tags": [
+   "Crawler Transporter"
+  ],
+  "blend": "models/vehicles/vehicles-work-vehicles-rocket-crawler/vehicles-work-vehicles-rocket-crawler.blend",
+  "variants": [
+   {
+    "glb": "models/vehicles/vehicles-work-vehicles-rocket-crawler/vehicles-work-vehicles-rocket-crawler_v1.glb",
+    "fbx": "models/vehicles/vehicles-work-vehicles-rocket-crawler/vehicles-work-vehicles-rocket-crawler_v1.fbx",
+    "thumb": "thumbs/vehicles-work-vehicles-rocket-crawler_v1.webp",
+    "dims": [
+     32.81,
+     40.0,
+     7.611
+    ],
+    "tris": 1762,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "81.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]

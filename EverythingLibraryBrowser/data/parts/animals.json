@@ -1,0 +1,4554 @@
+[
+ {
+  "id": "animals-amphibians-greenfrog",
+  "name": "GreenFrog",
+  "category": "Animals",
+  "subcategory": "Amphibians",
+  "tags": [],
+  "blend": "models/animals/animals-amphibians-greenfrog/animals-amphibians-greenfrog.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-amphibians-greenfrog/animals-amphibians-greenfrog_v1.glb",
+    "fbx": "models/animals/animals-amphibians-greenfrog/animals-amphibians-greenfrog_v1.fbx",
+    "thumb": "thumbs/animals-amphibians-greenfrog_v1.webp",
+    "dims": [
+     1.099,
+     1.619,
+     0.5288
+    ],
+    "tris": 1078,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-amphibians-redeyedtreefrog",
+  "name": "RedEyedTreeFrog",
+  "category": "Animals",
+  "subcategory": "Amphibians",
+  "tags": [],
+  "blend": "models/animals/animals-amphibians-redeyedtreefrog/animals-amphibians-redeyedtreefrog.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-amphibians-redeyedtreefrog/animals-amphibians-redeyedtreefrog_v1.glb",
+    "fbx": "models/animals/animals-amphibians-redeyedtreefrog/animals-amphibians-redeyedtreefrog_v1.fbx",
+    "thumb": "thumbs/animals-amphibians-redeyedtreefrog_v1.webp",
+    "dims": [
+     1.149,
+     0.9813,
+     0.5837
+    ],
+    "tris": 1570,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-amphibians-toad",
+  "name": "Toad",
+  "category": "Animals",
+  "subcategory": "Amphibians",
+  "tags": [],
+  "blend": "models/animals/animals-amphibians-toad/animals-amphibians-toad.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-amphibians-toad/animals-amphibians-toad_v1.glb",
+    "fbx": "models/animals/animals-amphibians-toad/animals-amphibians-toad_v1.fbx",
+    "thumb": "thumbs/animals-amphibians-toad_v1.webp",
+    "dims": [
+     1.042,
+     1.045,
+     0.6373
+    ],
+    "tris": 1238,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-blackfeather",
+  "name": "BlackFeather",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-blackfeather/animals-animalparts-blackfeather.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-blackfeather/animals-animalparts-blackfeather_v1.glb",
+    "fbx": "models/animals/animals-animalparts-blackfeather/animals-animalparts-blackfeather_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-blackfeather_v1.webp",
+    "dims": [
+     0.5048,
+     2.032,
+     0.2454
+    ],
+    "tris": 863,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-blackfeather/animals-animalparts-blackfeather_v2.glb",
+    "fbx": "models/animals/animals-animalparts-blackfeather/animals-animalparts-blackfeather_v2.fbx",
+    "thumb": "thumbs/animals-animalparts-blackfeather_v2.webp",
+    "dims": [
+     0.4726,
+     2.032,
+     0.3147
+    ],
+    "tris": 851,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-brokenbrain",
+  "name": "BrokenBrain",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-brokenbrain/animals-animalparts-brokenbrain.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-brokenbrain/animals-animalparts-brokenbrain_v1.glb",
+    "fbx": "models/animals/animals-animalparts-brokenbrain/animals-animalparts-brokenbrain_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-brokenbrain_v1.webp",
+    "dims": [
+     1.249,
+     1.628,
+     1.166
+    ],
+    "tris": 5103,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-eyeball",
+  "name": "EyeBall",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball_v1.glb",
+    "fbx": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-eyeball_v1.webp",
+    "dims": [
+     0.6548,
+     0.666,
+     0.6449
+    ],
+    "tris": 882,
+    "parts": 2
+   },
+   {
+    "glb": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball_v2.glb",
+    "fbx": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball_v2.fbx",
+    "thumb": "thumbs/animals-animalparts-eyeball_v2.webp",
+    "dims": [
+     0.6548,
+     0.666,
+     0.6449
+    ],
+    "tris": 846,
+    "parts": 2
+   },
+   {
+    "glb": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball_v3.glb",
+    "fbx": "models/animals/animals-animalparts-eyeball/animals-animalparts-eyeball_v3.fbx",
+    "thumb": "thumbs/animals-animalparts-eyeball_v3.webp",
+    "dims": [
+     0.6548,
+     0.666,
+     0.6449
+    ],
+    "tris": 882,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-redbloodcell",
+  "name": "RedBloodCell",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-redbloodcell/animals-animalparts-redbloodcell.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-redbloodcell/animals-animalparts-redbloodcell_v1.glb",
+    "fbx": "models/animals/animals-animalparts-redbloodcell/animals-animalparts-redbloodcell_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-redbloodcell_v1.webp",
+    "dims": [
+     1.863,
+     1.863,
+     0.5679
+    ],
+    "tris": 448,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-skeleton",
+  "name": "Skeleton",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v1.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v1.webp",
+    "dims": [
+     0.1722,
+     0.2471,
+     0.2
+    ],
+    "tris": 3588,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v2.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v2.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v2.webp",
+    "dims": [
+     0.1676,
+     0.3305,
+     0.05168
+    ],
+    "tris": 262,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v3.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v3.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v3.webp",
+    "dims": [
+     0.1266,
+     0.2307,
+     0.1927
+    ],
+    "tris": 962,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v4.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v4.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v4.webp",
+    "dims": [
+     0.09449,
+     0.2659,
+     0.03847
+    ],
+    "tris": 214,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v5.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v5.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v5.webp",
+    "dims": [
+     0.1152,
+     0.2645,
+     0.03885
+    ],
+    "tris": 236,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v6.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v6.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v6.webp",
+    "dims": [
+     0.1676,
+     0.3307,
+     0.05117
+    ],
+    "tris": 262,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v7.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v7.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v7.webp",
+    "dims": [
+     0.1464,
+     0.2268,
+     0.1935
+    ],
+    "tris": 962,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v8.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v8.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v8.webp",
+    "dims": [
+     0.1183,
+     0.2987,
+     0.09639
+    ],
+    "tris": 744,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v9.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v9.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v9.webp",
+    "dims": [
+     0.08776,
+     0.4722,
+     0.09071
+    ],
+    "tris": 494,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v10.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v10.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v10.webp",
+    "dims": [
+     0.1188,
+     0.4853,
+     0.09027
+    ],
+    "tris": 510,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v11.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v11.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v11.webp",
+    "dims": [
+     0.1183,
+     0.2987,
+     0.09639
+    ],
+    "tris": 744,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v12.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v12.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v12.webp",
+    "dims": [
+     0.09051,
+     0.4528,
+     0.08104
+    ],
+    "tris": 324,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v13.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v13.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v13.webp",
+    "dims": [
+     0.0476,
+     0.4375,
+     0.03593
+    ],
+    "tris": 170,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v14.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v14.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v14.webp",
+    "dims": [
+     0.1315,
+     0.4852,
+     0.07336
+    ],
+    "tris": 510,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v15.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v15.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v15.webp",
+    "dims": [
+     0.146,
+     0.2192,
+     0.03848
+    ],
+    "tris": 628,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v16.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v16.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v16.webp",
+    "dims": [
+     0.088,
+     0.6355,
+     0.1406
+    ],
+    "tris": 2260,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v17.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v17.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v17.webp",
+    "dims": [
+     0.3223,
+     0.3895,
+     0.2371
+    ],
+    "tris": 2514,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v18.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v18.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v18.webp",
+    "dims": [
+     0.2974,
+     0.2411,
+     0.162
+    ],
+    "tris": 4007,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v19.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v19.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v19.webp",
+    "dims": [
+     0.1722,
+     0.2452,
+     0.1918
+    ],
+    "tris": 3588,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v20.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v20.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v20.webp",
+    "dims": [
+     0.1722,
+     0.2181,
+     0.1814
+    ],
+    "tris": 2870,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v21.glb",
+    "fbx": "models/animals/animals-animalparts-skeleton/animals-animalparts-skeleton_v21.fbx",
+    "thumb": "thumbs/animals-animalparts-skeleton_v21.webp",
+    "dims": [
+     0.132,
+     0.1141,
+     0.07897
+    ],
+    "tris": 718,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-tooth",
+  "name": "Tooth",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v1.glb",
+    "fbx": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-tooth_v1.webp",
+    "dims": [
+     0.3955,
+     0.5114,
+     0.2748
+    ],
+    "tris": 460,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v2.glb",
+    "fbx": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v2.fbx",
+    "thumb": "thumbs/animals-animalparts-tooth_v2.webp",
+    "dims": [
+     0.1064,
+     0.3539,
+     0.1183
+    ],
+    "tris": 134,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v3.glb",
+    "fbx": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v3.fbx",
+    "thumb": "thumbs/animals-animalparts-tooth_v3.webp",
+    "dims": [
+     0.2771,
+     0.8376,
+     0.2976
+    ],
+    "tris": 152,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v4.glb",
+    "fbx": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v4.fbx",
+    "thumb": "thumbs/animals-animalparts-tooth_v4.webp",
+    "dims": [
+     0.2494,
+     0.4157,
+     0.07848
+    ],
+    "tris": 240,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v5.glb",
+    "fbx": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v5.fbx",
+    "thumb": "thumbs/animals-animalparts-tooth_v5.webp",
+    "dims": [
+     0.1437,
+     0.4103,
+     0.08627
+    ],
+    "tris": 306,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v6.glb",
+    "fbx": "models/animals/animals-animalparts-tooth/animals-animalparts-tooth_v6.fbx",
+    "thumb": "thumbs/animals-animalparts-tooth_v6.webp",
+    "dims": [
+     0.3862,
+     0.5787,
+     0.3564
+    ],
+    "tris": 800,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-turd",
+  "name": "Turd",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-turd/animals-animalparts-turd.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-turd/animals-animalparts-turd_v1.glb",
+    "fbx": "models/animals/animals-animalparts-turd/animals-animalparts-turd_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-turd_v1.webp",
+    "dims": [
+     0.544,
+     0.4767,
+     0.3159
+    ],
+    "tris": 864,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animalparts-whitefeather",
+  "name": "WhiteFeather",
+  "category": "Animals",
+  "subcategory": "AnimalParts",
+  "tags": [],
+  "blend": "models/animals/animals-animalparts-whitefeather/animals-animalparts-whitefeather.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animalparts-whitefeather/animals-animalparts-whitefeather_v1.glb",
+    "fbx": "models/animals/animals-animalparts-whitefeather/animals-animalparts-whitefeather_v1.fbx",
+    "thumb": "thumbs/animals-animalparts-whitefeather_v1.webp",
+    "dims": [
+     0.6031,
+     1.646,
+     0.2953
+    ],
+    "tris": 518,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animalparts-whitefeather/animals-animalparts-whitefeather_v2.glb",
+    "fbx": "models/animals/animals-animalparts-whitefeather/animals-animalparts-whitefeather_v2.fbx",
+    "thumb": "thumbs/animals-animalparts-whitefeather_v2.webp",
+    "dims": [
+     0.3,
+     0.792,
+     0.1621
+    ],
+    "tris": 518,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-aardvark",
+  "name": "Aardvark",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-aardvark/animals-animals-aardvark.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-aardvark/animals-animals-aardvark_v1.glb",
+    "fbx": "models/animals/animals-animals-aardvark/animals-animals-aardvark_v1.fbx",
+    "thumb": "thumbs/animals-animals-aardvark_v1.webp",
+    "dims": [
+     0.4517,
+     1.414,
+     0.6583
+    ],
+    "tris": 1222,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-addragazelle",
+  "name": "AddraGazelle",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-addragazelle/animals-animals-addragazelle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-addragazelle/animals-animals-addragazelle_v1.glb",
+    "fbx": "models/animals/animals-animals-addragazelle/animals-animals-addragazelle_v1.fbx",
+    "thumb": "thumbs/animals-animals-addragazelle_v1.webp",
+    "dims": [
+     0.4949,
+     1.678,
+     1.79
+    ],
+    "tris": 1580,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-alpaca",
+  "name": "Alpaca",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-alpaca/animals-animals-alpaca.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-alpaca/animals-animals-alpaca_v1.glb",
+    "fbx": "models/animals/animals-animals-alpaca/animals-animals-alpaca_v1.fbx",
+    "thumb": "thumbs/animals-animals-alpaca_v1.webp",
+    "dims": [
+     0.5378,
+     1.409,
+     1.649
+    ],
+    "tris": 1252,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-anteater",
+  "name": "Anteater",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-anteater/animals-animals-anteater.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-anteater/animals-animals-anteater_v1.glb",
+    "fbx": "models/animals/animals-animals-anteater/animals-animals-anteater_v1.fbx",
+    "thumb": "thumbs/animals-animals-anteater_v1.webp",
+    "dims": [
+     0.4003,
+     1.856,
+     0.6554
+    ],
+    "tris": 1168,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-arcticfox",
+  "name": "ArcticFox",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-arcticfox/animals-animals-arcticfox.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-arcticfox/animals-animals-arcticfox_v1.glb",
+    "fbx": "models/animals/animals-animals-arcticfox/animals-animals-arcticfox_v1.fbx",
+    "thumb": "thumbs/animals-animals-arcticfox_v1.webp",
+    "dims": [
+     0.3838,
+     1.613,
+     1.06
+    ],
+    "tris": 1248,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-arctichare",
+  "name": "ArcticHare",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-arctichare/animals-animals-arctichare.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-arctichare/animals-animals-arctichare_v1.glb",
+    "fbx": "models/animals/animals-animals-arctichare/animals-animals-arctichare_v1.fbx",
+    "thumb": "thumbs/animals-animals-arctichare_v1.webp",
+    "dims": [
+     0.1746,
+     0.3931,
+     0.3947
+    ],
+    "tris": 898,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-arcticwolf",
+  "name": "ArcticWolf",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-arcticwolf/animals-animals-arcticwolf.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-arcticwolf/animals-animals-arcticwolf_v1.glb",
+    "fbx": "models/animals/animals-animals-arcticwolf/animals-animals-arcticwolf_v1.fbx",
+    "thumb": "thumbs/animals-animals-arcticwolf_v1.webp",
+    "dims": [
+     0.3556,
+     1.542,
+     0.9395
+    ],
+    "tris": 1248,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-armadillo",
+  "name": "Armadillo",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-armadillo/animals-animals-armadillo.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-armadillo/animals-animals-armadillo_v1.glb",
+    "fbx": "models/animals/animals-animals-armadillo/animals-animals-armadillo_v1.fbx",
+    "thumb": "thumbs/animals-animals-armadillo_v1.webp",
+    "dims": [
+     0.448,
+     1.769,
+     0.538
+    ],
+    "tris": 1256,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-babyseal",
+  "name": "BabySeal",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-babyseal/animals-animals-babyseal.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-babyseal/animals-animals-babyseal_v1.glb",
+    "fbx": "models/animals/animals-animals-babyseal/animals-animals-babyseal_v1.fbx",
+    "thumb": "thumbs/animals-animals-babyseal_v1.webp",
+    "dims": [
+     0.9594,
+     1.338,
+     0.3516
+    ],
+    "tris": 924,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-bel",
+  "name": "Bel",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-bel/animals-animals-bel.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-bel/animals-animals-bel_v1.glb",
+    "fbx": "models/animals/animals-animals-bel/animals-animals-bel_v1.fbx",
+    "thumb": "thumbs/animals-animals-bel_v1.webp",
+    "dims": [
+     0.1512,
+     0.6419,
+     0.4379
+    ],
+    "tris": 1794,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-bel/animals-animals-bel_v2.glb",
+    "fbx": "models/animals/animals-animals-bel/animals-animals-bel_v2.fbx",
+    "thumb": "thumbs/animals-animals-bel_v2.webp",
+    "dims": [
+     0.1512,
+     0.6537,
+     0.5297
+    ],
+    "tris": 1794,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-bighornsheep",
+  "name": "BighornSheep",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-bighornsheep/animals-animals-bighornsheep.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-bighornsheep/animals-animals-bighornsheep_v1.glb",
+    "fbx": "models/animals/animals-animals-bighornsheep/animals-animals-bighornsheep_v1.fbx",
+    "thumb": "thumbs/animals-animals-bighornsheep_v1.webp",
+    "dims": [
+     0.5066,
+     1.42,
+     1.34
+    ],
+    "tris": 1354,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-bighornsheep/animals-animals-bighornsheep_v2.glb",
+    "fbx": "models/animals/animals-animals-bighornsheep/animals-animals-bighornsheep_v2.fbx",
+    "thumb": "thumbs/animals-animals-bighornsheep_v2.webp",
+    "dims": [
+     0.3438,
+     1.316,
+     1.357
+    ],
+    "tris": 1150,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-bison",
+  "name": "Bison",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-bison/animals-animals-bison.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-bison/animals-animals-bison_v1.glb",
+    "fbx": "models/animals/animals-animals-bison/animals-animals-bison_v1.fbx",
+    "thumb": "thumbs/animals-animals-bison_v1.webp",
+    "dims": [
+     1.054,
+     2.524,
+     1.79
+    ],
+    "tris": 1334,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-blackbear",
+  "name": "BlackBear",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-blackbear/animals-animals-blackbear.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-blackbear/animals-animals-blackbear_v1.glb",
+    "fbx": "models/animals/animals-animals-blackbear/animals-animals-blackbear_v1.fbx",
+    "thumb": "thumbs/animals-animals-blackbear_v1.webp",
+    "dims": [
+     0.8159,
+     0.7802,
+     2.08
+    ],
+    "tris": 912,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-blackbear/animals-animals-blackbear_v2.glb",
+    "fbx": "models/animals/animals-animals-blackbear/animals-animals-blackbear_v2.fbx",
+    "thumb": "thumbs/animals-animals-blackbear_v2.webp",
+    "dims": [
+     0.6805,
+     1.7,
+     1.109
+    ],
+    "tris": 968,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-blackhorse",
+  "name": "BlackHorse",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-blackhorse/animals-animals-blackhorse.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-blackhorse/animals-animals-blackhorse_v1.glb",
+    "fbx": "models/animals/animals-animals-blackhorse/animals-animals-blackhorse_v1.fbx",
+    "thumb": "thumbs/animals-animals-blackhorse_v1.webp",
+    "dims": [
+     0.5605,
+     2.137,
+     1.909
+    ],
+    "tris": 1168,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-blackpanther",
+  "name": "BlackPanther",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-blackpanther/animals-animals-blackpanther.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-blackpanther/animals-animals-blackpanther_v1.glb",
+    "fbx": "models/animals/animals-animals-blackpanther/animals-animals-blackpanther_v1.fbx",
+    "thumb": "thumbs/animals-animals-blackpanther_v1.webp",
+    "dims": [
+     0.4831,
+     1.82,
+     1.161
+    ],
+    "tris": 1292,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-blacksquirrel",
+  "name": "BlackSquirrel",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-blacksquirrel/animals-animals-blacksquirrel.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-blacksquirrel/animals-animals-blacksquirrel_v1.glb",
+    "fbx": "models/animals/animals-animals-blacksquirrel/animals-animals-blacksquirrel_v1.fbx",
+    "thumb": "thumbs/animals-animals-blacksquirrel_v1.webp",
+    "dims": [
+     0.1045,
+     0.3156,
+     0.2782
+    ],
+    "tris": 990,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-blacksquirrel/animals-animals-blacksquirrel_v2.glb",
+    "fbx": "models/animals/animals-animals-blacksquirrel/animals-animals-blacksquirrel_v2.fbx",
+    "thumb": "thumbs/animals-animals-blacksquirrel_v2.webp",
+    "dims": [
+     0.1045,
+     0.2936,
+     0.1772
+    ],
+    "tris": 1006,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-blackbuck",
+  "name": "Blackbuck",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-blackbuck/animals-animals-blackbuck.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-blackbuck/animals-animals-blackbuck_v1.glb",
+    "fbx": "models/animals/animals-animals-blackbuck/animals-animals-blackbuck_v1.fbx",
+    "thumb": "thumbs/animals-animals-blackbuck_v1.webp",
+    "dims": [
+     0.4959,
+     1.571,
+     1.824
+    ],
+    "tris": 1666,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-blackbuck/animals-animals-blackbuck_v2.glb",
+    "fbx": "models/animals/animals-animals-blackbuck/animals-animals-blackbuck_v2.fbx",
+    "thumb": "thumbs/animals-animals-blackbuck_v2.webp",
+    "dims": [
+     0.4959,
+     1.571,
+     1.614
+    ],
+    "tris": 1302,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-boar",
+  "name": "Boar",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-boar/animals-animals-boar.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-boar/animals-animals-boar_v1.glb",
+    "fbx": "models/animals/animals-animals-boar/animals-animals-boar_v1.fbx",
+    "thumb": "thumbs/animals-animals-boar_v1.webp",
+    "dims": [
+     0.4509,
+     1.368,
+     0.8372
+    ],
+    "tris": 1010,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-bobcat",
+  "name": "Bobcat",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-bobcat/animals-animals-bobcat.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-bobcat/animals-animals-bobcat_v1.glb",
+    "fbx": "models/animals/animals-animals-bobcat/animals-animals-bobcat_v1.fbx",
+    "thumb": "thumbs/animals-animals-bobcat_v1.webp",
+    "dims": [
+     0.3374,
+     1.032,
+     0.6531
+    ],
+    "tris": 1250,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-brownbear",
+  "name": "BrownBear",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-brownbear/animals-animals-brownbear.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-brownbear/animals-animals-brownbear_v1.glb",
+    "fbx": "models/animals/animals-animals-brownbear/animals-animals-brownbear_v1.fbx",
+    "thumb": "thumbs/animals-animals-brownbear_v1.webp",
+    "dims": [
+     0.9693,
+     0.9269,
+     2.471
+    ],
+    "tris": 912,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-brownbear/animals-animals-brownbear_v2.glb",
+    "fbx": "models/animals/animals-animals-brownbear/animals-animals-brownbear_v2.fbx",
+    "thumb": "thumbs/animals-animals-brownbear_v2.webp",
+    "dims": [
+     0.8084,
+     2.019,
+     1.318
+    ],
+    "tris": 968,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-browncow",
+  "name": "BrownCow",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-browncow/animals-animals-browncow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-browncow/animals-animals-browncow_v1.glb",
+    "fbx": "models/animals/animals-animals-browncow/animals-animals-browncow_v1.fbx",
+    "thumb": "thumbs/animals-animals-browncow_v1.webp",
+    "dims": [
+     0.6662,
+     2.256,
+     1.3
+    ],
+    "tris": 1206,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-browncow/animals-animals-browncow_v2.glb",
+    "fbx": "models/animals/animals-animals-browncow/animals-animals-browncow_v2.fbx",
+    "thumb": "thumbs/animals-animals-browncow_v2.webp",
+    "dims": [
+     0.6662,
+     2.256,
+     1.313
+    ],
+    "tris": 1134,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-camel",
+  "name": "Camel",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-camel/animals-animals-camel.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-camel/animals-animals-camel_v1.glb",
+    "fbx": "models/animals/animals-animals-camel/animals-animals-camel_v1.fbx",
+    "thumb": "thumbs/animals-animals-camel_v1.webp",
+    "dims": [
+     0.942,
+     3.469,
+     2.745
+    ],
+    "tris": 1316,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-caribou",
+  "name": "Caribou",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-caribou/animals-animals-caribou.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-caribou/animals-animals-caribou_v1.glb",
+    "fbx": "models/animals/animals-animals-caribou/animals-animals-caribou_v1.fbx",
+    "thumb": "thumbs/animals-animals-caribou_v1.webp",
+    "dims": [
+     1.02,
+     2.258,
+     2.624
+    ],
+    "tris": 1586,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-caribou/animals-animals-caribou_v2.glb",
+    "fbx": "models/animals/animals-animals-caribou/animals-animals-caribou_v2.fbx",
+    "thumb": "thumbs/animals-animals-caribou_v2.webp",
+    "dims": [
+     0.7246,
+     2.211,
+     2.208
+    ],
+    "tris": 1394,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-cat",
+  "name": "Cat",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-cat/animals-animals-cat.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-cat/animals-animals-cat_v1.glb",
+    "fbx": "models/animals/animals-animals-cat/animals-animals-cat_v1.fbx",
+    "thumb": "thumbs/animals-animals-cat_v1.webp",
+    "dims": [
+     0.1557,
+     0.5515,
+     0.4909
+    ],
+    "tris": 1210,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-cheetah",
+  "name": "Cheetah",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-cheetah/animals-animals-cheetah.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-cheetah/animals-animals-cheetah_v1.glb",
+    "fbx": "models/animals/animals-animals-cheetah/animals-animals-cheetah_v1.fbx",
+    "thumb": "thumbs/animals-animals-cheetah_v1.webp",
+    "dims": [
+     0.451,
+     1.821,
+     1.096
+    ],
+    "tris": 1204,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-chestnuthorse",
+  "name": "ChestnutHorse",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-chestnuthorse/animals-animals-chestnuthorse.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-chestnuthorse/animals-animals-chestnuthorse_v1.glb",
+    "fbx": "models/animals/animals-animals-chestnuthorse/animals-animals-chestnuthorse_v1.fbx",
+    "thumb": "thumbs/animals-animals-chestnuthorse_v1.webp",
+    "dims": [
+     0.5605,
+     2.137,
+     1.909
+    ],
+    "tris": 1168,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-chimpanzee",
+  "name": "Chimpanzee",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-chimpanzee/animals-animals-chimpanzee.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-chimpanzee/animals-animals-chimpanzee_v1.glb",
+    "fbx": "models/animals/animals-animals-chimpanzee/animals-animals-chimpanzee_v1.fbx",
+    "thumb": "thumbs/animals-animals-chimpanzee_v1.webp",
+    "dims": [
+     0.5464,
+     0.8977,
+     0.9204
+    ],
+    "tris": 1264,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-coyote",
+  "name": "Coyote",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-coyote/animals-animals-coyote.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-coyote/animals-animals-coyote_v1.glb",
+    "fbx": "models/animals/animals-animals-coyote/animals-animals-coyote_v1.fbx",
+    "thumb": "thumbs/animals-animals-coyote_v1.webp",
+    "dims": [
+     0.3976,
+     1.484,
+     1.068
+    ],
+    "tris": 1248,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-deer",
+  "name": "Deer",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-deer/animals-animals-deer.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-deer/animals-animals-deer_v1.glb",
+    "fbx": "models/animals/animals-animals-deer/animals-animals-deer_v1.fbx",
+    "thumb": "thumbs/animals-animals-deer_v1.webp",
+    "dims": [
+     0.696,
+     1.843,
+     2.206
+    ],
+    "tris": 1482,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-deer/animals-animals-deer_v2.glb",
+    "fbx": "models/animals/animals-animals-deer/animals-animals-deer_v2.fbx",
+    "thumb": "thumbs/animals-animals-deer_v2.webp",
+    "dims": [
+     0.3169,
+     1.657,
+     1.597
+    ],
+    "tris": 1036,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-dobermann",
+  "name": "Dobermann",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-dobermann/animals-animals-dobermann.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-dobermann/animals-animals-dobermann_v1.glb",
+    "fbx": "models/animals/animals-animals-dobermann/animals-animals-dobermann_v1.fbx",
+    "thumb": "thumbs/animals-animals-dobermann_v1.webp",
+    "dims": [
+     0.2927,
+     1.405,
+     1.044
+    ],
+    "tris": 1030,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-donkey",
+  "name": "Donkey",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-donkey/animals-animals-donkey.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-donkey/animals-animals-donkey_v1.glb",
+    "fbx": "models/animals/animals-animals-donkey/animals-animals-donkey_v1.fbx",
+    "thumb": "thumbs/animals-animals-donkey_v1.webp",
+    "dims": [
+     0.5111,
+     1.811,
+     1.53
+    ],
+    "tris": 1256,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-elephant",
+  "name": "Elephant",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-elephant/animals-animals-elephant.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-elephant/animals-animals-elephant_v1.glb",
+    "fbx": "models/animals/animals-animals-elephant/animals-animals-elephant_v1.fbx",
+    "thumb": "thumbs/animals-animals-elephant_v1.webp",
+    "dims": [
+     2.199,
+     4.728,
+     3.293
+    ],
+    "tris": 1076,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-gemsbok",
+  "name": "Gemsbok",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-gemsbok/animals-animals-gemsbok.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-gemsbok/animals-animals-gemsbok_v1.glb",
+    "fbx": "models/animals/animals-animals-gemsbok/animals-animals-gemsbok_v1.fbx",
+    "thumb": "thumbs/animals-animals-gemsbok_v1.webp",
+    "dims": [
+     0.5707,
+     1.774,
+     1.872
+    ],
+    "tris": 1496,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-giraffe",
+  "name": "Giraffe",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-giraffe/animals-animals-giraffe.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-giraffe/animals-animals-giraffe_v1.glb",
+    "fbx": "models/animals/animals-animals-giraffe/animals-animals-giraffe_v1.fbx",
+    "thumb": "thumbs/animals-animals-giraffe_v1.webp",
+    "dims": [
+     1.092,
+     3.063,
+     4.992
+    ],
+    "tris": 1182,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-goat",
+  "name": "Goat",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-goat/animals-animals-goat.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-goat/animals-animals-goat_v1.glb",
+    "fbx": "models/animals/animals-animals-goat/animals-animals-goat_v1.fbx",
+    "thumb": "thumbs/animals-animals-goat_v1.webp",
+    "dims": [
+     0.3275,
+     1.239,
+     1.02
+    ],
+    "tris": 1112,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-gorilla",
+  "name": "Gorilla",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-gorilla/animals-animals-gorilla.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-gorilla/animals-animals-gorilla_v1.glb",
+    "fbx": "models/animals/animals-animals-gorilla/animals-animals-gorilla_v1.fbx",
+    "thumb": "thumbs/animals-animals-gorilla_v1.webp",
+    "dims": [
+     0.9661,
+     1.657,
+     1.678
+    ],
+    "tris": 1306,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-gorilla/animals-animals-gorilla_v2.glb",
+    "fbx": "models/animals/animals-animals-gorilla/animals-animals-gorilla_v2.fbx",
+    "thumb": "thumbs/animals-animals-gorilla_v2.webp",
+    "dims": [
+     0.7692,
+     1.378,
+     1.427
+    ],
+    "tris": 1306,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-grayhorse",
+  "name": "GrayHorse",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-grayhorse/animals-animals-grayhorse.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-grayhorse/animals-animals-grayhorse_v1.glb",
+    "fbx": "models/animals/animals-animals-grayhorse/animals-animals-grayhorse_v1.fbx",
+    "thumb": "thumbs/animals-animals-grayhorse_v1.webp",
+    "dims": [
+     0.5605,
+     2.137,
+     1.909
+    ],
+    "tris": 1172,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-graysquirrel",
+  "name": "GraySquirrel",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-graysquirrel/animals-animals-graysquirrel.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-graysquirrel/animals-animals-graysquirrel_v1.glb",
+    "fbx": "models/animals/animals-animals-graysquirrel/animals-animals-graysquirrel_v1.fbx",
+    "thumb": "thumbs/animals-animals-graysquirrel_v1.webp",
+    "dims": [
+     0.1045,
+     0.3156,
+     0.2782
+    ],
+    "tris": 990,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-graysquirrel/animals-animals-graysquirrel_v2.glb",
+    "fbx": "models/animals/animals-animals-graysquirrel/animals-animals-graysquirrel_v2.fbx",
+    "thumb": "thumbs/animals-animals-graysquirrel_v2.webp",
+    "dims": [
+     0.1045,
+     0.2936,
+     0.1772
+    ],
+    "tris": 1006,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-graywolf",
+  "name": "GrayWolf",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-graywolf/animals-animals-graywolf.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-graywolf/animals-animals-graywolf_v1.glb",
+    "fbx": "models/animals/animals-animals-graywolf/animals-animals-graywolf_v1.fbx",
+    "thumb": "thumbs/animals-animals-graywolf_v1.webp",
+    "dims": [
+     0.3556,
+     1.542,
+     0.9395
+    ],
+    "tris": 1248,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-greyhound",
+  "name": "Greyhound",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-greyhound/animals-animals-greyhound.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-greyhound/animals-animals-greyhound_v1.glb",
+    "fbx": "models/animals/animals-animals-greyhound/animals-animals-greyhound_v1.fbx",
+    "thumb": "thumbs/animals-animals-greyhound_v1.webp",
+    "dims": [
+     0.1968,
+     1.117,
+     0.8678
+    ],
+    "tris": 1184,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-harbourseal",
+  "name": "HarbourSeal",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-harbourseal/animals-animals-harbourseal.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-harbourseal/animals-animals-harbourseal_v1.glb",
+    "fbx": "models/animals/animals-animals-harbourseal/animals-animals-harbourseal_v1.fbx",
+    "thumb": "thumbs/animals-animals-harbourseal_v1.webp",
+    "dims": [
+     1.136,
+     1.921,
+     0.7134
+    ],
+    "tris": 1016,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-hare",
+  "name": "Hare",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-hare/animals-animals-hare.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-hare/animals-animals-hare_v1.glb",
+    "fbx": "models/animals/animals-animals-hare/animals-animals-hare_v1.fbx",
+    "thumb": "thumbs/animals-animals-hare_v1.webp",
+    "dims": [
+     0.1765,
+     0.3973,
+     0.399
+    ],
+    "tris": 898,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-hedgehog",
+  "name": "Hedgehog",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-hedgehog/animals-animals-hedgehog.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-hedgehog/animals-animals-hedgehog_v1.glb",
+    "fbx": "models/animals/animals-animals-hedgehog/animals-animals-hedgehog_v1.fbx",
+    "thumb": "thumbs/animals-animals-hedgehog_v1.webp",
+    "dims": [
+     0.1763,
+     0.4159,
+     0.1984
+    ],
+    "tris": 1028,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-hippo",
+  "name": "Hippo",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-hippo/animals-animals-hippo.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-hippo/animals-animals-hippo_v1.glb",
+    "fbx": "models/animals/animals-animals-hippo/animals-animals-hippo_v1.fbx",
+    "thumb": "thumbs/animals-animals-hippo_v1.webp",
+    "dims": [
+     0.9712,
+     2.931,
+     1.519
+    ],
+    "tris": 1106,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-holsteincow",
+  "name": "HolsteinCow",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-holsteincow/animals-animals-holsteincow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-holsteincow/animals-animals-holsteincow_v1.glb",
+    "fbx": "models/animals/animals-animals-holsteincow/animals-animals-holsteincow_v1.fbx",
+    "thumb": "thumbs/animals-animals-holsteincow_v1.webp",
+    "dims": [
+     0.6662,
+     2.256,
+     1.313
+    ],
+    "tris": 1194,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-holsteincow/animals-animals-holsteincow_v2.glb",
+    "fbx": "models/animals/animals-animals-holsteincow/animals-animals-holsteincow_v2.fbx",
+    "thumb": "thumbs/animals-animals-holsteincow_v2.webp",
+    "dims": [
+     0.6662,
+     2.256,
+     1.3
+    ],
+    "tris": 1206,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-hyena",
+  "name": "Hyena",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-hyena/animals-animals-hyena.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-hyena/animals-animals-hyena_v1.glb",
+    "fbx": "models/animals/animals-animals-hyena/animals-animals-hyena_v1.fbx",
+    "thumb": "thumbs/animals-animals-hyena_v1.webp",
+    "dims": [
+     0.4335,
+     1.413,
+     1.144
+    ],
+    "tris": 1212,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-ibex",
+  "name": "Ibex",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-ibex/animals-animals-ibex.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-ibex/animals-animals-ibex_v1.glb",
+    "fbx": "models/animals/animals-animals-ibex/animals-animals-ibex_v1.fbx",
+    "thumb": "thumbs/animals-animals-ibex_v1.webp",
+    "dims": [
+     0.776,
+     2.064,
+     1.871
+    ],
+    "tris": 1610,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-kitfox",
+  "name": "KitFox",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-kitfox/animals-animals-kitfox.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-kitfox/animals-animals-kitfox_v1.glb",
+    "fbx": "models/animals/animals-animals-kitfox/animals-animals-kitfox_v1.fbx",
+    "thumb": "thumbs/animals-animals-kitfox_v1.webp",
+    "dims": [
+     0.2925,
+     1.378,
+     0.8238
+    ],
+    "tris": 1248,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-koalabear",
+  "name": "KoalaBear",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-koalabear/animals-animals-koalabear.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-koalabear/animals-animals-koalabear_v1.glb",
+    "fbx": "models/animals/animals-animals-koalabear/animals-animals-koalabear_v1.fbx",
+    "thumb": "thumbs/animals-animals-koalabear_v1.webp",
+    "dims": [
+     0.2664,
+     0.607,
+     0.4406
+    ],
+    "tris": 1374,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-labradorpuppy",
+  "name": "LabradorPuppy",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-labradorpuppy/animals-animals-labradorpuppy.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-labradorpuppy/animals-animals-labradorpuppy_v1.glb",
+    "fbx": "models/animals/animals-animals-labradorpuppy/animals-animals-labradorpuppy_v1.fbx",
+    "thumb": "thumbs/animals-animals-labradorpuppy_v1.webp",
+    "dims": [
+     0.1839,
+     0.6435,
+     0.4855
+    ],
+    "tris": 1106,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-lion",
+  "name": "Lion",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-lion/animals-animals-lion.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-lion/animals-animals-lion_v1.glb",
+    "fbx": "models/animals/animals-animals-lion/animals-animals-lion_v1.fbx",
+    "thumb": "thumbs/animals-animals-lion_v1.webp",
+    "dims": [
+     0.6699,
+     2.4,
+     1.559
+    ],
+    "tris": 1264,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-lion/animals-animals-lion_v2.glb",
+    "fbx": "models/animals/animals-animals-lion/animals-animals-lion_v2.fbx",
+    "thumb": "thumbs/animals-animals-lion_v2.webp",
+    "dims": [
+     0.5703,
+     2.225,
+     1.329
+    ],
+    "tris": 1224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-llama",
+  "name": "Llama",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-llama/animals-animals-llama.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-llama/animals-animals-llama_v1.glb",
+    "fbx": "models/animals/animals-animals-llama/animals-animals-llama_v1.fbx",
+    "thumb": "thumbs/animals-animals-llama_v1.webp",
+    "dims": [
+     0.5676,
+     1.584,
+     1.968
+    ],
+    "tris": 1272,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-llama/animals-animals-llama_v2.glb",
+    "fbx": "models/animals/animals-animals-llama/animals-animals-llama_v2.fbx",
+    "thumb": "thumbs/animals-animals-llama_v2.webp",
+    "dims": [
+     0.5676,
+     1.584,
+     1.968
+    ],
+    "tris": 1272,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-mandrill",
+  "name": "Mandrill",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-mandrill/animals-animals-mandrill.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-mandrill/animals-animals-mandrill_v1.glb",
+    "fbx": "models/animals/animals-animals-mandrill/animals-animals-mandrill_v1.fbx",
+    "thumb": "thumbs/animals-animals-mandrill_v1.webp",
+    "dims": [
+     0.5421,
+     1.086,
+     1.091
+    ],
+    "tris": 1306,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-marmot",
+  "name": "Marmot",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-marmot/animals-animals-marmot.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-marmot/animals-animals-marmot_v1.glb",
+    "fbx": "models/animals/animals-animals-marmot/animals-animals-marmot_v1.fbx",
+    "thumb": "thumbs/animals-animals-marmot_v1.webp",
+    "dims": [
+     0.3537,
+     1.132,
+     0.4409
+    ],
+    "tris": 1232,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-megaloceros",
+  "name": "Megaloceros",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-megaloceros/animals-animals-megaloceros.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-megaloceros/animals-animals-megaloceros_v1.glb",
+    "fbx": "models/animals/animals-animals-megaloceros/animals-animals-megaloceros_v1.fbx",
+    "thumb": "thumbs/animals-animals-megaloceros_v1.webp",
+    "dims": [
+     3.32,
+     2.905,
+     3.335
+    ],
+    "tris": 1666,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-moose",
+  "name": "Moose",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-moose/animals-animals-moose.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-moose/animals-animals-moose_v1.glb",
+    "fbx": "models/animals/animals-animals-moose/animals-animals-moose_v1.fbx",
+    "thumb": "thumbs/animals-animals-moose_v1.webp",
+    "dims": [
+     1.509,
+     2.539,
+     2.433
+    ],
+    "tris": 1134,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-moose/animals-animals-moose_v2.glb",
+    "fbx": "models/animals/animals-animals-moose/animals-animals-moose_v2.fbx",
+    "thumb": "thumbs/animals-animals-moose_v2.webp",
+    "dims": [
+     0.4858,
+     2.255,
+     1.878
+    ],
+    "tris": 1016,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-mountainlion",
+  "name": "MountainLion",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-mountainlion/animals-animals-mountainlion.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-mountainlion/animals-animals-mountainlion_v1.glb",
+    "fbx": "models/animals/animals-animals-mountainlion/animals-animals-mountainlion_v1.fbx",
+    "thumb": "thumbs/animals-animals-mountainlion_v1.webp",
+    "dims": [
+     0.4633,
+     1.779,
+     1.009
+    ],
+    "tris": 1298,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-mouse",
+  "name": "Mouse",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-mouse/animals-animals-mouse.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-mouse/animals-animals-mouse_v1.glb",
+    "fbx": "models/animals/animals-animals-mouse/animals-animals-mouse_v1.fbx",
+    "thumb": "thumbs/animals-animals-mouse_v1.webp",
+    "dims": [
+     0.217,
+     1.017,
+     0.2013
+    ],
+    "tris": 1052,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-muskox",
+  "name": "Muskox",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-muskox/animals-animals-muskox.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-muskox/animals-animals-muskox_v1.glb",
+    "fbx": "models/animals/animals-animals-muskox/animals-animals-muskox_v1.fbx",
+    "thumb": "thumbs/animals-animals-muskox_v1.webp",
+    "dims": [
+     1.279,
+     3.387,
+     2.124
+    ],
+    "tris": 1326,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-okapi",
+  "name": "Okapi",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-okapi/animals-animals-okapi.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-okapi/animals-animals-okapi_v1.glb",
+    "fbx": "models/animals/animals-animals-okapi/animals-animals-okapi_v1.fbx",
+    "thumb": "thumbs/animals-animals-okapi_v1.webp",
+    "dims": [
+     0.4566,
+     1.829,
+     1.591
+    ],
+    "tris": 1338,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-opossum",
+  "name": "Opossum",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-opossum/animals-animals-opossum.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-opossum/animals-animals-opossum_v1.glb",
+    "fbx": "models/animals/animals-animals-opossum/animals-animals-opossum_v1.fbx",
+    "thumb": "thumbs/animals-animals-opossum_v1.webp",
+    "dims": [
+     0.2309,
+     1.069,
+     0.3281
+    ],
+    "tris": 1054,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-orangutan",
+  "name": "Orangutan",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-orangutan/animals-animals-orangutan.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-orangutan/animals-animals-orangutan_v1.glb",
+    "fbx": "models/animals/animals-animals-orangutan/animals-animals-orangutan_v1.fbx",
+    "thumb": "thumbs/animals-animals-orangutan_v1.webp",
+    "dims": [
+     0.6812,
+     1.1,
+     1.011
+    ],
+    "tris": 1264,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-orangutan/animals-animals-orangutan_v2.glb",
+    "fbx": "models/animals/animals-animals-orangutan/animals-animals-orangutan_v2.fbx",
+    "thumb": "thumbs/animals-animals-orangutan_v2.webp",
+    "dims": [
+     0.7784,
+     1.256,
+     1.143
+    ],
+    "tris": 1300,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-oryx",
+  "name": "Oryx",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-oryx/animals-animals-oryx.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-oryx/animals-animals-oryx_v1.glb",
+    "fbx": "models/animals/animals-animals-oryx/animals-animals-oryx_v1.fbx",
+    "thumb": "thumbs/animals-animals-oryx_v1.webp",
+    "dims": [
+     0.5707,
+     1.787,
+     1.778
+    ],
+    "tris": 1600,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-otter",
+  "name": "Otter",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-otter/animals-animals-otter.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-otter/animals-animals-otter_v1.glb",
+    "fbx": "models/animals/animals-animals-otter/animals-animals-otter_v1.fbx",
+    "thumb": "thumbs/animals-animals-otter_v1.webp",
+    "dims": [
+     0.181,
+     0.943,
+     0.316
+    ],
+    "tris": 926,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-palominohorse",
+  "name": "PalominoHorse",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-palominohorse/animals-animals-palominohorse.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-palominohorse/animals-animals-palominohorse_v1.glb",
+    "fbx": "models/animals/animals-animals-palominohorse/animals-animals-palominohorse_v1.fbx",
+    "thumb": "thumbs/animals-animals-palominohorse_v1.webp",
+    "dims": [
+     0.5605,
+     2.137,
+     1.909
+    ],
+    "tris": 1174,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-panda",
+  "name": "Panda",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-panda/animals-animals-panda.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-panda/animals-animals-panda_v1.glb",
+    "fbx": "models/animals/animals-animals-panda/animals-animals-panda_v1.fbx",
+    "thumb": "thumbs/animals-animals-panda_v1.webp",
+    "dims": [
+     0.7598,
+     1.874,
+     1.079
+    ],
+    "tris": 1198,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-pig",
+  "name": "Pig",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-pig/animals-animals-pig.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-pig/animals-animals-pig_v1.glb",
+    "fbx": "models/animals/animals-animals-pig/animals-animals-pig_v1.fbx",
+    "thumb": "thumbs/animals-animals-pig_v1.webp",
+    "dims": [
+     0.5537,
+     1.481,
+     0.8145
+    ],
+    "tris": 1040,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-polarbear",
+  "name": "PolarBear",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-polarbear/animals-animals-polarbear.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-polarbear/animals-animals-polarbear_v1.glb",
+    "fbx": "models/animals/animals-animals-polarbear/animals-animals-polarbear_v1.fbx",
+    "thumb": "thumbs/animals-animals-polarbear_v1.webp",
+    "dims": [
+     0.9093,
+     2.238,
+     1.487
+    ],
+    "tris": 996,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-poodle",
+  "name": "Poodle",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-poodle/animals-animals-poodle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-poodle/animals-animals-poodle_v1.glb",
+    "fbx": "models/animals/animals-animals-poodle/animals-animals-poodle_v1.fbx",
+    "thumb": "thumbs/animals-animals-poodle_v1.webp",
+    "dims": [
+     0.2783,
+     0.8668,
+     0.8676
+    ],
+    "tris": 1310,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-pronghorn",
+  "name": "Pronghorn",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-pronghorn/animals-animals-pronghorn.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-pronghorn/animals-animals-pronghorn_v1.glb",
+    "fbx": "models/animals/animals-animals-pronghorn/animals-animals-pronghorn_v1.fbx",
+    "thumb": "thumbs/animals-animals-pronghorn_v1.webp",
+    "dims": [
+     0.3611,
+     1.657,
+     1.738
+    ],
+    "tris": 1112,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-rabbit",
+  "name": "Rabbit",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-rabbit/animals-animals-rabbit.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-rabbit/animals-animals-rabbit_v1.glb",
+    "fbx": "models/animals/animals-animals-rabbit/animals-animals-rabbit_v1.fbx",
+    "thumb": "thumbs/animals-animals-rabbit_v1.webp",
+    "dims": [
+     0.1846,
+     0.4822,
+     0.318
+    ],
+    "tris": 870,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-raccoon",
+  "name": "Raccoon",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-raccoon/animals-animals-raccoon.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-raccoon/animals-animals-raccoon_v1.glb",
+    "fbx": "models/animals/animals-animals-raccoon/animals-animals-raccoon_v1.fbx",
+    "thumb": "thumbs/animals-animals-raccoon_v1.webp",
+    "dims": [
+     0.23,
+     0.8959,
+     0.3408
+    ],
+    "tris": 1134,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-rat",
+  "name": "Rat",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-rat/animals-animals-rat.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-rat/animals-animals-rat_v1.glb",
+    "fbx": "models/animals/animals-animals-rat/animals-animals-rat_v1.fbx",
+    "thumb": "thumbs/animals-animals-rat_v1.webp",
+    "dims": [
+     0.3533,
+     1.424,
+     0.3701
+    ],
+    "tris": 1018,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-redfox",
+  "name": "RedFox",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-redfox/animals-animals-redfox.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-redfox/animals-animals-redfox_v1.glb",
+    "fbx": "models/animals/animals-animals-redfox/animals-animals-redfox_v1.fbx",
+    "thumb": "thumbs/animals-animals-redfox_v1.webp",
+    "dims": [
+     0.2549,
+     1.166,
+     0.7835
+    ],
+    "tris": 1248,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-redpanda",
+  "name": "RedPanda",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-redpanda/animals-animals-redpanda.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-redpanda/animals-animals-redpanda_v1.glb",
+    "fbx": "models/animals/animals-animals-redpanda/animals-animals-redpanda_v1.fbx",
+    "thumb": "thumbs/animals-animals-redpanda_v1.webp",
+    "dims": [
+     0.2698,
+     0.9334,
+     0.3854
+    ],
+    "tris": 1336,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-redsquirrel",
+  "name": "RedSquirrel",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-redsquirrel/animals-animals-redsquirrel.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-redsquirrel/animals-animals-redsquirrel_v1.glb",
+    "fbx": "models/animals/animals-animals-redsquirrel/animals-animals-redsquirrel_v1.fbx",
+    "thumb": "thumbs/animals-animals-redsquirrel_v1.webp",
+    "dims": [
+     0.1045,
+     0.3156,
+     0.2782
+    ],
+    "tris": 990,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-redsquirrel/animals-animals-redsquirrel_v2.glb",
+    "fbx": "models/animals/animals-animals-redsquirrel/animals-animals-redsquirrel_v2.fbx",
+    "thumb": "thumbs/animals-animals-redsquirrel_v2.webp",
+    "dims": [
+     0.1045,
+     0.2936,
+     0.1772
+    ],
+    "tris": 1006,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-rhino",
+  "name": "Rhino",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-rhino/animals-animals-rhino.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-rhino/animals-animals-rhino_v1.glb",
+    "fbx": "models/animals/animals-animals-rhino/animals-animals-rhino_v1.fbx",
+    "thumb": "thumbs/animals-animals-rhino_v1.webp",
+    "dims": [
+     1.027,
+     3.359,
+     1.976
+    ],
+    "tris": 1006,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-rockymountainelk",
+  "name": "RockyMountainElk",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-rockymountainelk/animals-animals-rockymountainelk.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-rockymountainelk/animals-animals-rockymountainelk_v1.glb",
+    "fbx": "models/animals/animals-animals-rockymountainelk/animals-animals-rockymountainelk_v1.fbx",
+    "thumb": "thumbs/animals-animals-rockymountainelk_v1.webp",
+    "dims": [
+     0.6412,
+     1.915,
+     2.296
+    ],
+    "tris": 1598,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-rockymountainelk/animals-animals-rockymountainelk_v2.glb",
+    "fbx": "models/animals/animals-animals-rockymountainelk/animals-animals-rockymountainelk_v2.fbx",
+    "thumb": "thumbs/animals-animals-rockymountainelk_v2.webp",
+    "dims": [
+     0.5482,
+     1.834,
+     1.521
+    ],
+    "tris": 1230,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-sableantelope",
+  "name": "SableAntelope",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-sableantelope/animals-animals-sableantelope.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-sableantelope/animals-animals-sableantelope_v1.glb",
+    "fbx": "models/animals/animals-animals-sableantelope/animals-animals-sableantelope_v1.fbx",
+    "thumb": "thumbs/animals-animals-sableantelope_v1.webp",
+    "dims": [
+     0.5189,
+     1.708,
+     1.842
+    ],
+    "tris": 1492,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-sheep",
+  "name": "Sheep",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-sheep/animals-animals-sheep.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-sheep/animals-animals-sheep_v1.glb",
+    "fbx": "models/animals/animals-animals-sheep/animals-animals-sheep_v1.fbx",
+    "thumb": "thumbs/animals-animals-sheep_v1.webp",
+    "dims": [
+     0.4059,
+     1.273,
+     0.9148
+    ],
+    "tris": 972,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-skunk",
+  "name": "Skunk",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-skunk/animals-animals-skunk.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-skunk/animals-animals-skunk_v1.glb",
+    "fbx": "models/animals/animals-animals-skunk/animals-animals-skunk_v1.fbx",
+    "thumb": "thumbs/animals-animals-skunk_v1.webp",
+    "dims": [
+     0.2132,
+     0.9182,
+     0.2845
+    ],
+    "tris": 1004,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-sloth",
+  "name": "Sloth",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-sloth/animals-animals-sloth.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-sloth/animals-animals-sloth_v1.glb",
+    "fbx": "models/animals/animals-animals-sloth/animals-animals-sloth_v1.fbx",
+    "thumb": "thumbs/animals-animals-sloth_v1.webp",
+    "dims": [
+     0.647,
+     0.9242,
+     0.5936
+    ],
+    "tris": 1328,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-snowleopard",
+  "name": "SnowLeopard",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-snowleopard/animals-animals-snowleopard.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-snowleopard/animals-animals-snowleopard_v1.glb",
+    "fbx": "models/animals/animals-animals-snowleopard/animals-animals-snowleopard_v1.fbx",
+    "thumb": "thumbs/animals-animals-snowleopard_v1.webp",
+    "dims": [
+     0.5974,
+     3.034,
+     1.467
+    ],
+    "tris": 1314,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-tiger",
+  "name": "Tiger",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-tiger/animals-animals-tiger.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-tiger/animals-animals-tiger_v1.glb",
+    "fbx": "models/animals/animals-animals-tiger/animals-animals-tiger_v1.fbx",
+    "thumb": "thumbs/animals-animals-tiger_v1.webp",
+    "dims": [
+     0.5835,
+     2.178,
+     1.406
+    ],
+    "tris": 1290,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-walrus",
+  "name": "Walrus",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-walrus/animals-animals-walrus.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-walrus/animals-animals-walrus_v1.glb",
+    "fbx": "models/animals/animals-animals-walrus/animals-animals-walrus_v1.fbx",
+    "thumb": "thumbs/animals-animals-walrus_v1.webp",
+    "dims": [
+     1.471,
+     2.227,
+     0.9695
+    ],
+    "tris": 1126,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-whitecow",
+  "name": "WhiteCow",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-whitecow/animals-animals-whitecow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-whitecow/animals-animals-whitecow_v1.glb",
+    "fbx": "models/animals/animals-animals-whitecow/animals-animals-whitecow_v1.fbx",
+    "thumb": "thumbs/animals-animals-whitecow_v1.webp",
+    "dims": [
+     0.6662,
+     2.256,
+     1.313
+    ],
+    "tris": 1134,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-animals-whitecow/animals-animals-whitecow_v2.glb",
+    "fbx": "models/animals/animals-animals-whitecow/animals-animals-whitecow_v2.fbx",
+    "thumb": "thumbs/animals-animals-whitecow_v2.webp",
+    "dims": [
+     0.6662,
+     2.256,
+     1.3
+    ],
+    "tris": 1206,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-whitetiger",
+  "name": "WhiteTiger",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-whitetiger/animals-animals-whitetiger.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-whitetiger/animals-animals-whitetiger_v1.glb",
+    "fbx": "models/animals/animals-animals-whitetiger/animals-animals-whitetiger_v1.fbx",
+    "thumb": "thumbs/animals-animals-whitetiger_v1.webp",
+    "dims": [
+     0.5835,
+     2.178,
+     1.406
+    ],
+    "tris": 1291,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-wildhorse",
+  "name": "WildHorse",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-wildhorse/animals-animals-wildhorse.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-wildhorse/animals-animals-wildhorse_v1.glb",
+    "fbx": "models/animals/animals-animals-wildhorse/animals-animals-wildhorse_v1.fbx",
+    "thumb": "thumbs/animals-animals-wildhorse_v1.webp",
+    "dims": [
+     0.568,
+     2.26,
+     1.788
+    ],
+    "tris": 1224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-wildebeest",
+  "name": "Wildebeest",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-wildebeest/animals-animals-wildebeest.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-wildebeest/animals-animals-wildebeest_v1.glb",
+    "fbx": "models/animals/animals-animals-wildebeest/animals-animals-wildebeest_v1.fbx",
+    "thumb": "thumbs/animals-animals-wildebeest_v1.webp",
+    "dims": [
+     0.8562,
+     1.809,
+     1.612
+    ],
+    "tris": 1604,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-woolymammoth",
+  "name": "WoolyMammoth",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-woolymammoth/animals-animals-woolymammoth.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-woolymammoth/animals-animals-woolymammoth_v1.glb",
+    "fbx": "models/animals/animals-animals-woolymammoth/animals-animals-woolymammoth_v1.fbx",
+    "thumb": "thumbs/animals-animals-woolymammoth_v1.webp",
+    "dims": [
+     2.354,
+     6.417,
+     4.114
+    ],
+    "tris": 1184,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-animals-zebra",
+  "name": "Zebra",
+  "category": "Animals",
+  "subcategory": "Animals",
+  "tags": [],
+  "blend": "models/animals/animals-animals-zebra/animals-animals-zebra.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-animals-zebra/animals-animals-zebra_v1.glb",
+    "fbx": "models/animals/animals-animals-zebra/animals-animals-zebra_v1.fbx",
+    "thumb": "thumbs/animals-animals-zebra_v1.webp",
+    "dims": [
+     0.6895,
+     2.723,
+     2.207
+    ],
+    "tris": 1576,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-arachnids-blackwidow",
+  "name": "BlackWidow",
+  "category": "Animals",
+  "subcategory": "Arachnids",
+  "tags": [],
+  "blend": "models/animals/animals-arachnids-blackwidow/animals-arachnids-blackwidow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-arachnids-blackwidow/animals-arachnids-blackwidow_v1.glb",
+    "fbx": "models/animals/animals-arachnids-blackwidow/animals-arachnids-blackwidow_v1.fbx",
+    "thumb": "thumbs/animals-arachnids-blackwidow_v1.webp",
+    "dims": [
+     1.296,
+     1.571,
+     0.4522
+    ],
+    "tris": 716,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-arachnids-deathstalkerscorpion",
+  "name": "DeathStalkerScorpion",
+  "category": "Animals",
+  "subcategory": "Arachnids",
+  "tags": [],
+  "blend": "models/animals/animals-arachnids-deathstalkerscorpion/animals-arachnids-deathstalkerscorpion.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-arachnids-deathstalkerscorpion/animals-arachnids-deathstalkerscorpion_v1.glb",
+    "fbx": "models/animals/animals-arachnids-deathstalkerscorpion/animals-arachnids-deathstalkerscorpion_v1.fbx",
+    "thumb": "thumbs/animals-arachnids-deathstalkerscorpion_v1.webp",
+    "dims": [
+     0.6059,
+     0.7371,
+     0.4316
+    ],
+    "tris": 980,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-arachnids-emperorscorpion",
+  "name": "EmperorScorpion",
+  "category": "Animals",
+  "subcategory": "Arachnids",
+  "tags": [],
+  "blend": "models/animals/animals-arachnids-emperorscorpion/animals-arachnids-emperorscorpion.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-arachnids-emperorscorpion/animals-arachnids-emperorscorpion_v1.glb",
+    "fbx": "models/animals/animals-arachnids-emperorscorpion/animals-arachnids-emperorscorpion_v1.fbx",
+    "thumb": "thumbs/animals-arachnids-emperorscorpion_v1.webp",
+    "dims": [
+     1.179,
+     1.354,
+     0.8403
+    ],
+    "tris": 1160,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-arachnids-tarantula",
+  "name": "Tarantula",
+  "category": "Animals",
+  "subcategory": "Arachnids",
+  "tags": [],
+  "blend": "models/animals/animals-arachnids-tarantula/animals-arachnids-tarantula.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-arachnids-tarantula/animals-arachnids-tarantula_v1.glb",
+    "fbx": "models/animals/animals-arachnids-tarantula/animals-arachnids-tarantula_v1.fbx",
+    "thumb": "thumbs/animals-arachnids-tarantula_v1.webp",
+    "dims": [
+     1.753,
+     1.835,
+     0.5019
+    ],
+    "tris": 1298,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-arctictern",
+  "name": "ArcticTern",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-arctictern/animals-birds-arctictern.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-arctictern/animals-birds-arctictern_v1.glb",
+    "fbx": "models/animals/animals-birds-arctictern/animals-birds-arctictern_v1.fbx",
+    "thumb": "thumbs/animals-birds-arctictern_v1.webp",
+    "dims": [
+     1.301,
+     0.6154,
+     0.1448
+    ],
+    "tris": 494,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-condor",
+  "name": "Condor",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-condor/animals-birds-condor.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-condor/animals-birds-condor_v1.glb",
+    "fbx": "models/animals/animals-birds-condor/animals-birds-condor_v1.fbx",
+    "thumb": "thumbs/animals-birds-condor_v1.webp",
+    "dims": [
+     2.578,
+     0.7999,
+     0.3081
+    ],
+    "tris": 1440,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-crow",
+  "name": "Crow",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-crow/animals-birds-crow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-crow/animals-birds-crow_v1.glb",
+    "fbx": "models/animals/animals-birds-crow/animals-birds-crow_v1.fbx",
+    "thumb": "thumbs/animals-birds-crow_v1.webp",
+    "dims": [
+     1.16,
+     0.5738,
+     0.206
+    ],
+    "tris": 1432,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-dove",
+  "name": "Dove",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-dove/animals-birds-dove.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-dove/animals-birds-dove_v1.glb",
+    "fbx": "models/animals/animals-birds-dove/animals-birds-dove_v1.fbx",
+    "thumb": "thumbs/animals-birds-dove_v1.webp",
+    "dims": [
+     1.104,
+     0.5131,
+     0.1816
+    ],
+    "tris": 1408,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-eagle",
+  "name": "Eagle",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-eagle/animals-birds-eagle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-eagle/animals-birds-eagle_v1.glb",
+    "fbx": "models/animals/animals-birds-eagle/animals-birds-eagle_v1.fbx",
+    "thumb": "thumbs/animals-birds-eagle_v1.webp",
+    "dims": [
+     2.753,
+     0.9347,
+     0.4488
+    ],
+    "tris": 1488,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-falcon",
+  "name": "Falcon",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-falcon/animals-birds-falcon.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-falcon/animals-birds-falcon_v1.glb",
+    "fbx": "models/animals/animals-birds-falcon/animals-birds-falcon_v1.fbx",
+    "thumb": "thumbs/animals-birds-falcon_v1.webp",
+    "dims": [
+     1.54,
+     0.5517,
+     0.1952
+    ],
+    "tris": 1483,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-goose",
+  "name": "Goose",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-goose/animals-birds-goose.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-goose/animals-birds-goose_v1.glb",
+    "fbx": "models/animals/animals-birds-goose/animals-birds-goose_v1.fbx",
+    "thumb": "thumbs/animals-birds-goose_v1.webp",
+    "dims": [
+     1.506,
+     0.8566,
+     0.185
+    ],
+    "tris": 1480,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-grackle",
+  "name": "Grackle",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-grackle/animals-birds-grackle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-grackle/animals-birds-grackle_v1.glb",
+    "fbx": "models/animals/animals-birds-grackle/animals-birds-grackle_v1.fbx",
+    "thumb": "thumbs/animals-birds-grackle_v1.webp",
+    "dims": [
+     0.9077,
+     0.6809,
+     0.2261
+    ],
+    "tris": 1360,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-gull",
+  "name": "Gull",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-gull/animals-birds-gull.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-gull/animals-birds-gull_v1.glb",
+    "fbx": "models/animals/animals-birds-gull/animals-birds-gull_v1.fbx",
+    "thumb": "thumbs/animals-birds-gull_v1.webp",
+    "dims": [
+     1.527,
+     0.598,
+     0.172
+    ],
+    "tris": 1512,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-hummingbird",
+  "name": "Hummingbird",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-hummingbird/animals-birds-hummingbird.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-hummingbird/animals-birds-hummingbird_v1.glb",
+    "fbx": "models/animals/animals-birds-hummingbird/animals-birds-hummingbird_v1.fbx",
+    "thumb": "thumbs/animals-birds-hummingbird_v1.webp",
+    "dims": [
+     0.3849,
+     0.3191,
+     0.09546
+    ],
+    "tris": 780,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-mallard",
+  "name": "Mallard",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-mallard/animals-birds-mallard.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-mallard/animals-birds-mallard_v1.glb",
+    "fbx": "models/animals/animals-birds-mallard/animals-birds-mallard_v1.fbx",
+    "thumb": "thumbs/animals-birds-mallard_v1.webp",
+    "dims": [
+     1.815,
+     0.8711,
+     0.3251
+    ],
+    "tris": 1448,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-pigeon",
+  "name": "Pigeon",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-pigeon/animals-birds-pigeon.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-pigeon/animals-birds-pigeon_v1.glb",
+    "fbx": "models/animals/animals-birds-pigeon/animals-birds-pigeon_v1.fbx",
+    "thumb": "thumbs/animals-birds-pigeon_v1.webp",
+    "dims": [
+     1.058,
+     0.4919,
+     0.176
+    ],
+    "tris": 1408,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-snowyowl",
+  "name": "SnowyOwl",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-snowyowl/animals-birds-snowyowl.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-snowyowl/animals-birds-snowyowl_v1.glb",
+    "fbx": "models/animals/animals-birds-snowyowl/animals-birds-snowyowl_v1.fbx",
+    "thumb": "thumbs/animals-birds-snowyowl_v1.webp",
+    "dims": [
+     1.915,
+     0.7407,
+     0.3455
+    ],
+    "tris": 1016,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-swallow",
+  "name": "Swallow",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-swallow/animals-birds-swallow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-swallow/animals-birds-swallow_v1.glb",
+    "fbx": "models/animals/animals-birds-swallow/animals-birds-swallow_v1.fbx",
+    "thumb": "thumbs/animals-birds-swallow_v1.webp",
+    "dims": [
+     0.516,
+     0.5368,
+     0.08067
+    ],
+    "tris": 414,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-vampirebat",
+  "name": "VampireBat",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-vampirebat/animals-birds-vampirebat.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-vampirebat/animals-birds-vampirebat_v1.glb",
+    "fbx": "models/animals/animals-birds-vampirebat/animals-birds-vampirebat_v1.fbx",
+    "thumb": "thumbs/animals-birds-vampirebat_v1.webp",
+    "dims": [
+     1.492,
+     0.4625,
+     0.1365
+    ],
+    "tris": 726,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birds-vulture",
+  "name": "Vulture",
+  "category": "Animals",
+  "subcategory": "Birds",
+  "tags": [],
+  "blend": "models/animals/animals-birds-vulture/animals-birds-vulture.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birds-vulture/animals-birds-vulture_v1.glb",
+    "fbx": "models/animals/animals-birds-vulture/animals-birds-vulture_v1.fbx",
+    "thumb": "thumbs/animals-birds-vulture_v1.webp",
+    "dims": [
+     3.287,
+     1.175,
+     0.322
+    ],
+    "tris": 1084,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-babypenguin",
+  "name": "BabyPenguin",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-babypenguin/animals-birdsupright-babypenguin.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-babypenguin/animals-birdsupright-babypenguin_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-babypenguin/animals-birdsupright-babypenguin_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-babypenguin_v1.webp",
+    "dims": [
+     0.3784,
+     0.3289,
+     0.7313
+    ],
+    "tris": 810,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-chicken",
+  "name": "Chicken",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-chicken/animals-birdsupright-chicken.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-chicken/animals-birdsupright-chicken_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-chicken/animals-birdsupright-chicken_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-chicken_v1.webp",
+    "dims": [
+     0.2997,
+     0.6558,
+     0.6221
+    ],
+    "tris": 1082,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-birdsupright-chicken/animals-birdsupright-chicken_v2.glb",
+    "fbx": "models/animals/animals-birdsupright-chicken/animals-birdsupright-chicken_v2.fbx",
+    "thumb": "thumbs/animals-birdsupright-chicken_v2.webp",
+    "dims": [
+     0.2516,
+     0.4883,
+     0.5394
+    ],
+    "tris": 884,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-crane",
+  "name": "Crane",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-crane/animals-birdsupright-crane.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-crane/animals-birdsupright-crane_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-crane/animals-birdsupright-crane_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-crane_v1.webp",
+    "dims": [
+     0.3492,
+     1.44,
+     1.32
+    ],
+    "tris": 792,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-groundedcrow",
+  "name": "GroundedCrow",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-groundedcrow/animals-birdsupright-groundedcrow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-groundedcrow/animals-birdsupright-groundedcrow_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-groundedcrow/animals-birdsupright-groundedcrow_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-groundedcrow_v1.webp",
+    "dims": [
+     0.09843,
+     0.3211,
+     0.1638
+    ],
+    "tris": 712,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-groundedpigeon",
+  "name": "GroundedPigeon",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-groundedpigeon/animals-birdsupright-groundedpigeon.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-groundedpigeon/animals-birdsupright-groundedpigeon_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-groundedpigeon/animals-birdsupright-groundedpigeon_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-groundedpigeon_v1.webp",
+    "dims": [
+     0.09173,
+     0.2031,
+     0.2168
+    ],
+    "tris": 1156,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-ostrich",
+  "name": "Ostrich",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-ostrich/animals-birdsupright-ostrich.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-ostrich/animals-birdsupright-ostrich_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-ostrich/animals-birdsupright-ostrich_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-ostrich_v1.webp",
+    "dims": [
+     0.5221,
+     1.758,
+     2.229
+    ],
+    "tris": 1044,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-peacock",
+  "name": "Peacock",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-peacock/animals-birdsupright-peacock.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-peacock/animals-birdsupright-peacock_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-peacock/animals-birdsupright-peacock_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-peacock_v1.webp",
+    "dims": [
+     2.385,
+     1.303,
+     1.753
+    ],
+    "tris": 2604,
+    "parts": 2
+   },
+   {
+    "glb": "models/animals/animals-birdsupright-peacock/animals-birdsupright-peacock_v2.glb",
+    "fbx": "models/animals/animals-birdsupright-peacock/animals-birdsupright-peacock_v2.fbx",
+    "thumb": "thumbs/animals-birdsupright-peacock_v2.webp",
+    "dims": [
+     0.3609,
+     1.341,
+     0.9382
+    ],
+    "tris": 692,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-pekinduck",
+  "name": "PekinDuck",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-pekinduck/animals-birdsupright-pekinduck.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-pekinduck/animals-birdsupright-pekinduck_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-pekinduck/animals-birdsupright-pekinduck_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-pekinduck_v1.webp",
+    "dims": [
+     0.282,
+     0.7298,
+     0.6375
+    ],
+    "tris": 944,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-penguin",
+  "name": "Penguin",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-penguin/animals-birdsupright-penguin.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-penguin/animals-birdsupright-penguin_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-penguin/animals-birdsupright-penguin_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-penguin_v1.webp",
+    "dims": [
+     0.9116,
+     0.5585,
+     1.317
+    ],
+    "tris": 776,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-ptarmigan",
+  "name": "Ptarmigan",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-ptarmigan/animals-birdsupright-ptarmigan.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-ptarmigan/animals-birdsupright-ptarmigan_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-ptarmigan/animals-birdsupright-ptarmigan_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-ptarmigan_v1.webp",
+    "dims": [
+     0.2468,
+     0.6112,
+     0.4422
+    ],
+    "tris": 850,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-swan",
+  "name": "Swan",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-swan/animals-birdsupright-swan.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-swan/animals-birdsupright-swan_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-swan/animals-birdsupright-swan_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-swan_v1.webp",
+    "dims": [
+     0.7693,
+     1.569,
+     1.316
+    ],
+    "tris": 1084,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-turkey",
+  "name": "Turkey",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-turkey/animals-birdsupright-turkey.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-turkey/animals-birdsupright-turkey_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-turkey/animals-birdsupright-turkey_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-turkey_v1.webp",
+    "dims": [
+     0.6742,
+     0.6937,
+     0.7539
+    ],
+    "tris": 1122,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-birdsupright-wildduck",
+  "name": "WildDuck",
+  "category": "Animals",
+  "subcategory": "BirdsUpright",
+  "tags": [],
+  "blend": "models/animals/animals-birdsupright-wildduck/animals-birdsupright-wildduck.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-birdsupright-wildduck/animals-birdsupright-wildduck_v1.glb",
+    "fbx": "models/animals/animals-birdsupright-wildduck/animals-birdsupright-wildduck_v1.fbx",
+    "thumb": "thumbs/animals-birdsupright-wildduck_v1.webp",
+    "dims": [
+     0.2668,
+     0.6903,
+     0.6293
+    ],
+    "tris": 912,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-birdsupright-wildduck/animals-birdsupright-wildduck_v2.glb",
+    "fbx": "models/animals/animals-birdsupright-wildduck/animals-birdsupright-wildduck_v2.fbx",
+    "thumb": "thumbs/animals-birdsupright-wildduck_v2.webp",
+    "dims": [
+     0.2668,
+     0.6903,
+     0.6293
+    ],
+    "tris": 912,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-bee",
+  "name": "Bee",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-bee/animals-flyinginsects-bee.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-bee/animals-flyinginsects-bee_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-bee/animals-flyinginsects-bee_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-bee_v1.webp",
+    "dims": [
+     0.3397,
+     0.2283,
+     0.1141
+    ],
+    "tris": 1280,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-bluefly",
+  "name": "BlueFly",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-bluefly/animals-flyinginsects-bluefly.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-bluefly/animals-flyinginsects-bluefly_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-bluefly/animals-flyinginsects-bluefly_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-bluefly_v1.webp",
+    "dims": [
+     0.1842,
+     0.1301,
+     0.07757
+    ],
+    "tris": 652,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-bluemorphobutterfly",
+  "name": "BlueMorphoButterfly",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-bluemorphobutterfly/animals-flyinginsects-bluemorphobutterfly.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-bluemorphobutterfly/animals-flyinginsects-bluemorphobutterfly_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-bluemorphobutterfly/animals-flyinginsects-bluemorphobutterfly_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-bluemorphobutterfly_v1.webp",
+    "dims": [
+     0.6561,
+     0.6198,
+     0.0777
+    ],
+    "tris": 988,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-cicada",
+  "name": "Cicada",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-cicada/animals-flyinginsects-cicada.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-cicada/animals-flyinginsects-cicada_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-cicada/animals-flyinginsects-cicada_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-cicada_v1.webp",
+    "dims": [
+     0.42,
+     0.2353,
+     0.09825
+    ],
+    "tris": 572,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-dragonfly",
+  "name": "Dragonfly",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-dragonfly/animals-flyinginsects-dragonfly.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-dragonfly/animals-flyinginsects-dragonfly_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-dragonfly/animals-flyinginsects-dragonfly_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-dragonfly_v1.webp",
+    "dims": [
+     1.069,
+     0.8152,
+     0.2292
+    ],
+    "tris": 692,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-drosophilamelanogaster",
+  "name": "DrosophilaMelanogaster",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-drosophilamelanogaster/animals-flyinginsects-drosophilamelanogaster.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-drosophilamelanogaster/animals-flyinginsects-drosophilamelanogaster_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-drosophilamelanogaster/animals-flyinginsects-drosophilamelanogaster_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-drosophilamelanogaster_v1.webp",
+    "dims": [
+     0.1033,
+     0.07014,
+     0.0444
+    ],
+    "tris": 652,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-firefly",
+  "name": "Firefly",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-firefly/animals-flyinginsects-firefly.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-firefly/animals-flyinginsects-firefly_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-firefly/animals-flyinginsects-firefly_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-firefly_v1.webp",
+    "dims": [
+     0.1668,
+     0.2289,
+     0.2453
+    ],
+    "tris": 952,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-mockerswallowtailbutterfly",
+  "name": "MockerSwallowtailButterfly",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-mockerswallowtailbutterfly/animals-flyinginsects-mockerswallowtailbutterfly.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-mockerswallowtailbutterfly/animals-flyinginsects-mockerswallowtailbutterfly_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-mockerswallowtailbutterfly/animals-flyinginsects-mockerswallowtailbutterfly_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-mockerswallowtailbutterfly_v1.webp",
+    "dims": [
+     0.9534,
+     0.7728,
+     0.1079
+    ],
+    "tris": 1124,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-monarchbutterfly",
+  "name": "MonarchButterfly",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-monarchbutterfly/animals-flyinginsects-monarchbutterfly.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-monarchbutterfly/animals-flyinginsects-monarchbutterfly_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-monarchbutterfly/animals-flyinginsects-monarchbutterfly_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-monarchbutterfly_v1.webp",
+    "dims": [
+     0.9506,
+     0.5002,
+     0.08313
+    ],
+    "tris": 918,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-mosquito",
+  "name": "Mosquito",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-mosquito/animals-flyinginsects-mosquito.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-mosquito/animals-flyinginsects-mosquito_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-mosquito/animals-flyinginsects-mosquito_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-mosquito_v1.webp",
+    "dims": [
+     0.2546,
+     0.3372,
+     0.07938
+    ],
+    "tris": 746,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-flyinginsects-moth",
+  "name": "Moth",
+  "category": "Animals",
+  "subcategory": "FlyingInsects",
+  "tags": [],
+  "blend": "models/animals/animals-flyinginsects-moth/animals-flyinginsects-moth.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-flyinginsects-moth/animals-flyinginsects-moth_v1.glb",
+    "fbx": "models/animals/animals-flyinginsects-moth/animals-flyinginsects-moth_v1.fbx",
+    "thumb": "thumbs/animals-flyinginsects-moth_v1.webp",
+    "dims": [
+     0.4425,
+     0.3636,
+     0.1111
+    ],
+    "tris": 894,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-imaginary-batto",
+  "name": "Batto",
+  "category": "Animals",
+  "subcategory": "Imaginary",
+  "tags": [],
+  "blend": "models/animals/animals-imaginary-batto/animals-imaginary-batto.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-imaginary-batto/animals-imaginary-batto_v1.glb",
+    "fbx": "models/animals/animals-imaginary-batto/animals-imaginary-batto_v1.fbx",
+    "thumb": "thumbs/animals-imaginary-batto_v1.webp",
+    "dims": [
+     1.441,
+     0.4466,
+     0.1318
+    ],
+    "tris": 726,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-imaginary-curow",
+  "name": "Curow",
+  "category": "Animals",
+  "subcategory": "Imaginary",
+  "tags": [],
+  "blend": "models/animals/animals-imaginary-curow/animals-imaginary-curow.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-imaginary-curow/animals-imaginary-curow_v1.glb",
+    "fbx": "models/animals/animals-imaginary-curow/animals-imaginary-curow_v1.fbx",
+    "thumb": "thumbs/animals-imaginary-curow_v1.webp",
+    "dims": [
+     2.32,
+     1.148,
+     0.4075
+    ],
+    "tris": 1432,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-imaginary-entraine",
+  "name": "Entraine",
+  "category": "Animals",
+  "subcategory": "Imaginary",
+  "tags": [],
+  "blend": "models/animals/animals-imaginary-entraine/animals-imaginary-entraine.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-imaginary-entraine/animals-imaginary-entraine_v1.glb",
+    "fbx": "models/animals/animals-imaginary-entraine/animals-imaginary-entraine_v1.fbx",
+    "thumb": "thumbs/animals-imaginary-entraine_v1.webp",
+    "dims": [
+     0.4959,
+     1.572,
+     2.215
+    ],
+    "tris": 1666,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "animals-imaginary-midnightdeer",
+  "name": "MidnightDeer",
+  "category": "Animals",
+  "subcategory": "Imaginary",
+  "tags": [],
+  "blend": "models/animals/animals-imaginary-midnightdeer/animals-imaginary-midnightdeer.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-imaginary-midnightdeer/animals-imaginary-midnightdeer_v1.glb",
+    "fbx": "models/animals/animals-imaginary-midnightdeer/animals-imaginary-midnightdeer_v1.fbx",
+    "thumb": "thumbs/animals-imaginary-midnightdeer_v1.webp",
+    "dims": [
+     0.696,
+     1.843,
+     2.206
+    ],
+    "tris": 1482,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-imaginary-midnightdeer/animals-imaginary-midnightdeer_v2.glb",
+    "fbx": "models/animals/animals-imaginary-midnightdeer/animals-imaginary-midnightdeer_v2.fbx",
+    "thumb": "thumbs/animals-imaginary-midnightdeer_v2.webp",
+    "dims": [
+     0.3169,
+     1.657,
+     1.597
+    ],
+    "tris": 1036,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-imaginary-unicorn",
+  "name": "Unicorn",
+  "category": "Animals",
+  "subcategory": "Imaginary",
+  "tags": [],
+  "blend": "models/animals/animals-imaginary-unicorn/animals-imaginary-unicorn.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-imaginary-unicorn/animals-imaginary-unicorn_v1.glb",
+    "fbx": "models/animals/animals-imaginary-unicorn/animals-imaginary-unicorn_v1.fbx",
+    "thumb": "thumbs/animals-imaginary-unicorn_v1.webp",
+    "dims": [
+     0.5605,
+     2.191,
+     2.036
+    ],
+    "tris": 1302,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-alderleafbeetle",
+  "name": "AlderLeafBeetle",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-alderleafbeetle/animals-insects-alderleafbeetle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-alderleafbeetle/animals-insects-alderleafbeetle_v1.glb",
+    "fbx": "models/animals/animals-insects-alderleafbeetle/animals-insects-alderleafbeetle_v1.fbx",
+    "thumb": "thumbs/animals-insects-alderleafbeetle_v1.webp",
+    "dims": [
+     1.416,
+     1.823,
+     0.4821
+    ],
+    "tris": 1000,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-blackant",
+  "name": "BlackAnt",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-blackant/animals-insects-blackant.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-blackant/animals-insects-blackant_v1.glb",
+    "fbx": "models/animals/animals-insects-blackant/animals-insects-blackant_v1.fbx",
+    "thumb": "thumbs/animals-insects-blackant_v1.webp",
+    "dims": [
+     0.9967,
+     1.193,
+     0.4777
+    ],
+    "tris": 1382,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-caterpillar",
+  "name": "Caterpillar",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-caterpillar/animals-insects-caterpillar.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-caterpillar/animals-insects-caterpillar_v1.glb",
+    "fbx": "models/animals/animals-insects-caterpillar/animals-insects-caterpillar_v1.fbx",
+    "thumb": "thumbs/animals-insects-caterpillar_v1.webp",
+    "dims": [
+     0.2642,
+     1.27,
+     0.3792
+    ],
+    "tris": 1228,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-centipede",
+  "name": "Centipede",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-centipede/animals-insects-centipede.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-centipede/animals-insects-centipede_v1.glb",
+    "fbx": "models/animals/animals-insects-centipede/animals-insects-centipede_v1.fbx",
+    "thumb": "thumbs/animals-insects-centipede_v1.webp",
+    "dims": [
+     0.5239,
+     2.732,
+     0.1689
+    ],
+    "tris": 3662,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-cowboybeetle",
+  "name": "CowboyBeetle",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-cowboybeetle/animals-insects-cowboybeetle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-cowboybeetle/animals-insects-cowboybeetle_v1.glb",
+    "fbx": "models/animals/animals-insects-cowboybeetle/animals-insects-cowboybeetle_v1.fbx",
+    "thumb": "thumbs/animals-insects-cowboybeetle_v1.webp",
+    "dims": [
+     1.889,
+     1.988,
+     0.5414
+    ],
+    "tris": 946,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-cricket",
+  "name": "Cricket",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-cricket/animals-insects-cricket.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-cricket/animals-insects-cricket_v1.glb",
+    "fbx": "models/animals/animals-insects-cricket/animals-insects-cricket_v1.fbx",
+    "thumb": "thumbs/animals-insects-cricket_v1.webp",
+    "dims": [
+     3.705,
+     5.691,
+     1.594
+    ],
+    "tris": 772,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-earthworm",
+  "name": "Earthworm",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-earthworm/animals-insects-earthworm.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-earthworm/animals-insects-earthworm_v1.glb",
+    "fbx": "models/animals/animals-insects-earthworm/animals-insects-earthworm_v1.fbx",
+    "thumb": "thumbs/animals-insects-earthworm_v1.webp",
+    "dims": [
+     0.1529,
+     2.787,
+     0.1429
+    ],
+    "tris": 608,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-fireant",
+  "name": "FireAnt",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-fireant/animals-insects-fireant.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-fireant/animals-insects-fireant_v1.glb",
+    "fbx": "models/animals/animals-insects-fireant/animals-insects-fireant_v1.fbx",
+    "thumb": "thumbs/animals-insects-fireant_v1.webp",
+    "dims": [
+     1.418,
+     1.569,
+     0.6013
+    ],
+    "tris": 1382,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-goldenstagbeetle",
+  "name": "GoldenStagBeetle",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-goldenstagbeetle/animals-insects-goldenstagbeetle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-goldenstagbeetle/animals-insects-goldenstagbeetle_v1.glb",
+    "fbx": "models/animals/animals-insects-goldenstagbeetle/animals-insects-goldenstagbeetle_v1.fbx",
+    "thumb": "thumbs/animals-insects-goldenstagbeetle_v1.webp",
+    "dims": [
+     0.8898,
+     1.395,
+     0.3394
+    ],
+    "tris": 940,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-grasshopper",
+  "name": "Grasshopper",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-grasshopper/animals-insects-grasshopper.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-grasshopper/animals-insects-grasshopper_v1.glb",
+    "fbx": "models/animals/animals-insects-grasshopper/animals-insects-grasshopper_v1.fbx",
+    "thumb": "thumbs/animals-insects-grasshopper_v1.webp",
+    "dims": [
+     4.165,
+     4.773,
+     2.253
+    ],
+    "tris": 828,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-ladybug",
+  "name": "Ladybug",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-ladybug/animals-insects-ladybug.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-ladybug/animals-insects-ladybug_v1.glb",
+    "fbx": "models/animals/animals-insects-ladybug/animals-insects-ladybug_v1.fbx",
+    "thumb": "thumbs/animals-insects-ladybug_v1.webp",
+    "dims": [
+     0.8329,
+     0.8749,
+     0.3907
+    ],
+    "tris": 1122,
+    "parts": 1
+   },
+   {
+    "glb": "models/animals/animals-insects-ladybug/animals-insects-ladybug_v2.glb",
+    "fbx": "models/animals/animals-insects-ladybug/animals-insects-ladybug_v2.fbx",
+    "thumb": "thumbs/animals-insects-ladybug_v2.webp",
+    "dims": [
+     0.8329,
+     0.8749,
+     0.3907
+    ],
+    "tris": 1122,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-millipede",
+  "name": "Millipede",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-millipede/animals-insects-millipede.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-millipede/animals-insects-millipede_v1.glb",
+    "fbx": "models/animals/animals-insects-millipede/animals-insects-millipede_v1.fbx",
+    "thumb": "thumbs/animals-insects-millipede_v1.webp",
+    "dims": [
+     0.2902,
+     4.186,
+     0.2547
+    ],
+    "tris": 2988,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-prayingmantis",
+  "name": "PrayingMantis",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-prayingmantis/animals-insects-prayingmantis.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-prayingmantis/animals-insects-prayingmantis_v1.glb",
+    "fbx": "models/animals/animals-insects-prayingmantis/animals-insects-prayingmantis_v1.fbx",
+    "thumb": "thumbs/animals-insects-prayingmantis_v1.webp",
+    "dims": [
+     0.5009,
+     0.741,
+     0.3641
+    ],
+    "tris": 876,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-roach",
+  "name": "Roach",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-roach/animals-insects-roach.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-roach/animals-insects-roach_v1.glb",
+    "fbx": "models/animals/animals-insects-roach/animals-insects-roach_v1.fbx",
+    "thumb": "thumbs/animals-insects-roach_v1.webp",
+    "dims": [
+     1.469,
+     2.082,
+     0.5304
+    ],
+    "tris": 1000,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-snail",
+  "name": "Snail",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-snail/animals-insects-snail.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-snail/animals-insects-snail_v1.glb",
+    "fbx": "models/animals/animals-insects-snail/animals-insects-snail_v1.fbx",
+    "thumb": "thumbs/animals-insects-snail_v1.webp",
+    "dims": [
+     0.3357,
+     0.7472,
+     0.393
+    ],
+    "tris": 421,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-sprucebeetle",
+  "name": "SpruceBeetle",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-sprucebeetle/animals-insects-sprucebeetle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-sprucebeetle/animals-insects-sprucebeetle_v1.glb",
+    "fbx": "models/animals/animals-insects-sprucebeetle/animals-insects-sprucebeetle_v1.fbx",
+    "thumb": "thumbs/animals-insects-sprucebeetle_v1.webp",
+    "dims": [
+     0.6193,
+     0.8803,
+     0.3174
+    ],
+    "tris": 800,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-insects-stagbeetle",
+  "name": "StagBeetle",
+  "category": "Animals",
+  "subcategory": "Insects",
+  "tags": [],
+  "blend": "models/animals/animals-insects-stagbeetle/animals-insects-stagbeetle.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-insects-stagbeetle/animals-insects-stagbeetle_v1.glb",
+    "fbx": "models/animals/animals-insects-stagbeetle/animals-insects-stagbeetle_v1.fbx",
+    "thumb": "thumbs/animals-insects-stagbeetle_v1.webp",
+    "dims": [
+     1.646,
+     2.82,
+     0.5747
+    ],
+    "tris": 868,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-alligator",
+  "name": "Alligator",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-alligator/animals-reptiles-alligator.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-alligator/animals-reptiles-alligator_v1.glb",
+    "fbx": "models/animals/animals-reptiles-alligator/animals-reptiles-alligator_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-alligator_v1.webp",
+    "dims": [
+     1.734,
+     5.4,
+     0.6729
+    ],
+    "tris": 1012,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-chameleon",
+  "name": "Chameleon",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-chameleon/animals-reptiles-chameleon.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-chameleon/animals-reptiles-chameleon_v1.glb",
+    "fbx": "models/animals/animals-reptiles-chameleon/animals-reptiles-chameleon_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-chameleon_v1.webp",
+    "dims": [
+     1.021,
+     1.409,
+     0.7027
+    ],
+    "tris": 1152,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-coralsnake",
+  "name": "CoralSnake",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-coralsnake/animals-reptiles-coralsnake.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-coralsnake/animals-reptiles-coralsnake_v1.glb",
+    "fbx": "models/animals/animals-reptiles-coralsnake/animals-reptiles-coralsnake_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-coralsnake_v1.webp",
+    "dims": [
+     0.5637,
+     0.6659,
+     0.5519
+    ],
+    "tris": 1436,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-crocodile",
+  "name": "Crocodile",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-crocodile/animals-reptiles-crocodile.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-crocodile/animals-reptiles-crocodile_v1.glb",
+    "fbx": "models/animals/animals-reptiles-crocodile/animals-reptiles-crocodile_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-crocodile_v1.webp",
+    "dims": [
+     1.435,
+     4.682,
+     0.5545
+    ],
+    "tris": 1048,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-gecko",
+  "name": "Gecko",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-gecko/animals-reptiles-gecko.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-gecko/animals-reptiles-gecko_v1.glb",
+    "fbx": "models/animals/animals-reptiles-gecko/animals-reptiles-gecko_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-gecko_v1.webp",
+    "dims": [
+     2.79,
+     8.875,
+     1.889
+    ],
+    "tris": 1136,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-greeniguana",
+  "name": "GreenIguana",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-greeniguana/animals-reptiles-greeniguana.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-greeniguana/animals-reptiles-greeniguana_v1.glb",
+    "fbx": "models/animals/animals-reptiles-greeniguana/animals-reptiles-greeniguana_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-greeniguana_v1.webp",
+    "dims": [
+     0.7504,
+     1.693,
+     0.3095
+    ],
+    "tris": 1096,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-komododragon",
+  "name": "KomodoDragon",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-komododragon/animals-reptiles-komododragon.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-komododragon/animals-reptiles-komododragon_v1.glb",
+    "fbx": "models/animals/animals-reptiles-komododragon/animals-reptiles-komododragon_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-komododragon_v1.webp",
+    "dims": [
+     0.9469,
+     2.673,
+     0.3919
+    ],
+    "tris": 1092,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-rattlesnake",
+  "name": "Rattlesnake",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-rattlesnake/animals-reptiles-rattlesnake.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-rattlesnake/animals-reptiles-rattlesnake_v1.glb",
+    "fbx": "models/animals/animals-reptiles-rattlesnake/animals-reptiles-rattlesnake_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-rattlesnake_v1.webp",
+    "dims": [
+     0.5903,
+     0.6952,
+     0.5779
+    ],
+    "tris": 1482,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-rockiguana",
+  "name": "RockIguana",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-rockiguana/animals-reptiles-rockiguana.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-rockiguana/animals-reptiles-rockiguana_v1.glb",
+    "fbx": "models/animals/animals-reptiles-rockiguana/animals-reptiles-rockiguana_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-rockiguana_v1.webp",
+    "dims": [
+     0.6493,
+     1.463,
+     0.2598
+    ],
+    "tris": 1092,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "animals-reptiles-tortoise",
+  "name": "Tortoise",
+  "category": "Animals",
+  "subcategory": "Reptiles",
+  "tags": [],
+  "blend": "models/animals/animals-reptiles-tortoise/animals-reptiles-tortoise.blend",
+  "variants": [
+   {
+    "glb": "models/animals/animals-reptiles-tortoise/animals-reptiles-tortoise_v1.glb",
+    "fbx": "models/animals/animals-reptiles-tortoise/animals-reptiles-tortoise_v1.fbx",
+    "thumb": "thumbs/animals-reptiles-tortoise_v1.webp",
+    "dims": [
+     0.843,
+     1.267,
+     0.6982
+    ],
+    "tris": 652,
+    "parts": 1
+   }
+  ]
+ }
+]

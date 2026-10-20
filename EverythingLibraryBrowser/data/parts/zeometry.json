@@ -1,0 +1,5447 @@
+[
+ {
+  "id": "zeometry-fragments-ruins-broken-sphere",
+  "name": "Broken Sphere",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-broken-sphere/zeometry-fragments-ruins-broken-sphere.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-broken-sphere/zeometry-fragments-ruins-broken-sphere_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-broken-sphere/zeometry-fragments-ruins-broken-sphere_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-broken-sphere_v1.webp",
+    "dims": [
+     0.4669,
+     0.4887,
+     0.5
+    ],
+    "tris": 3412,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "0.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-triangular-prism",
+  "name": "Triangular Prism",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-triangular-prism/zeometry-basic-shapes-triangular-prism.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-triangular-prism/zeometry-basic-shapes-triangular-prism_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-triangular-prism/zeometry-basic-shapes-triangular-prism_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-triangular-prism_v1.webp",
+    "dims": [
+     0.5,
+     0.08577,
+     0.433
+    ],
+    "tris": 8,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "1.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-dodecahedron",
+  "name": "Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-dodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-dodecahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-dodecahedron_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v5.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v5.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-dodecahedron_v5.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v6.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-dodecahedron/zeometry-polyhedra-dodecahedron_v6.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-dodecahedron_v6.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "2.glb",
+   "3.glb",
+   "166.glb",
+   "199.glb",
+   "209.glb",
+   "215.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-line-cluster",
+  "name": "Line Cluster",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-line-cluster/zeometry-basic-shapes-line-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line-cluster/zeometry-basic-shapes-line-cluster_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line-cluster/zeometry-basic-shapes-line-cluster_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line-cluster_v1.webp",
+    "dims": [
+     0.1254,
+     0.07186,
+     0.5
+    ],
+    "tris": 1105,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line-cluster/zeometry-basic-shapes-line-cluster_v2.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line-cluster/zeometry-basic-shapes-line-cluster_v2.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line-cluster_v2.webp",
+    "dims": [
+     0.1423,
+     0.1627,
+     0.5
+    ],
+    "tris": 553,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "4.glb",
+   "5.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-shard-cluster",
+  "name": "Shard Cluster",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v1.webp",
+    "dims": [
+     0.5,
+     0.4937,
+     0.4872
+    ],
+    "tris": 177,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v2.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v2.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v2.webp",
+    "dims": [
+     0.4932,
+     0.5,
+     0.388
+    ],
+    "tris": 127,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v3.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v3.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v3.webp",
+    "dims": [
+     0.5,
+     0.4906,
+     0.4298
+    ],
+    "tris": 589,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v4.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v4.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v4.webp",
+    "dims": [
+     0.4356,
+     0.5,
+     0.2907
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v5.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v5.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v5.webp",
+    "dims": [
+     0.5,
+     0.4154,
+     0.2502
+    ],
+    "tris": 531,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v6.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v6.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v6.webp",
+    "dims": [
+     0.4997,
+     0.5,
+     0.2757
+    ],
+    "tris": 589,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v7.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v7.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v7.webp",
+    "dims": [
+     0.4786,
+     0.5,
+     0.3674
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v8.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v8.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v8.webp",
+    "dims": [
+     0.4786,
+     0.5,
+     0.3674
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v9.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v9.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v9.webp",
+    "dims": [
+     0.5,
+     0.4954,
+     0.4942
+    ],
+    "tris": 239,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v10.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v10.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v10.webp",
+    "dims": [
+     0.5,
+     0.4891,
+     0.381
+    ],
+    "tris": 79,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v11.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v11.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v11.webp",
+    "dims": [
+     0.4947,
+     0.5,
+     0.4798
+    ],
+    "tris": 208,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v12.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shard-cluster/zeometry-fragments-ruins-shard-cluster_v12.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shard-cluster_v12.webp",
+    "dims": [
+     0.4527,
+     0.5,
+     0.3024
+    ],
+    "tris": 589,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "6.glb",
+   "7.glb",
+   "8.glb",
+   "9.glb",
+   "10.glb",
+   "11.glb",
+   "12.glb",
+   "13.glb",
+   "14.glb",
+   "15.glb",
+   "16.glb",
+   "17.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-holey-ball",
+  "name": "Holey Ball",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-holey-ball/zeometry-sculptural-holey-ball.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-holey-ball/zeometry-sculptural-holey-ball_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-holey-ball/zeometry-sculptural-holey-ball_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-holey-ball_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 520,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "18.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-stars-spikes-star-polyhedron",
+  "name": "Star Polyhedron",
+  "category": "Zeometry",
+  "subcategory": "Stars & Spikes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron_v1.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-star-polyhedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron_v2.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-star-polyhedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 68,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-star-polyhedron/zeometry-stars-spikes-star-polyhedron_v3.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-star-polyhedron_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 68,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "19.glb",
+   "219.glb",
+   "220.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-stars-spikes-star-cluster",
+  "name": "Star Cluster",
+  "category": "Zeometry",
+  "subcategory": "Stars & Spikes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-stars-spikes-star-cluster/zeometry-stars-spikes-star-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-star-cluster/zeometry-stars-spikes-star-cluster_v1.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-star-cluster/zeometry-stars-spikes-star-cluster_v1.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-star-cluster_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 900,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "20.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-cube",
+  "name": "Cube",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v2.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v2.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cube_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v3.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v3.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cube_v3.webp",
+    "dims": [
+     0.4996,
+     0.4996,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v4.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v4.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cube_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v5.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cube/zeometry-basic-shapes-cube_v5.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cube_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "21.glb",
+   "168.glb",
+   "205.glb",
+   "211.glb",
+   "217.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-spiky-ball",
+  "name": "Wire Spiky Ball",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-spiky-ball/zeometry-wireframes-wire-spiky-ball.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-spiky-ball/zeometry-wireframes-wire-spiky-ball_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-spiky-ball/zeometry-wireframes-wire-spiky-ball_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-spiky-ball_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 1848,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "22.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-stars-spikes-spiky-ball",
+  "name": "Spiky Ball",
+  "category": "Zeometry",
+  "subcategory": "Stars & Spikes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v1.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v1.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-ball_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v2.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v2.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-ball_v2.webp",
+    "dims": [
+     0.4925,
+     0.5,
+     0.4875
+    ],
+    "tris": 2128,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v3.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v3.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-ball_v3.webp",
+    "dims": [
+     0.4991,
+     0.4994,
+     0.5
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v4.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-ball/zeometry-stars-spikes-spiky-ball_v4.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-ball_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "23.glb",
+   "24.glb",
+   "191.glb",
+   "198.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-exploding-house",
+  "name": "Exploding House",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-exploding-house/zeometry-fragments-ruins-exploding-house.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-exploding-house/zeometry-fragments-ruins-exploding-house_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-exploding-house/zeometry-fragments-ruins-exploding-house_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-exploding-house_v1.webp",
+    "dims": [
+     0.5,
+     0.3927,
+     0.3122
+    ],
+    "tris": 2626,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "25.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-building-ruins",
+  "name": "Building Ruins",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-building-ruins/zeometry-fragments-ruins-building-ruins.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-building-ruins/zeometry-fragments-ruins-building-ruins_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-building-ruins/zeometry-fragments-ruins-building-ruins_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-building-ruins_v1.webp",
+    "dims": [
+     0.4978,
+     0.363,
+     0.5
+    ],
+    "tris": 2705,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-building-ruins/zeometry-fragments-ruins-building-ruins_v2.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-building-ruins/zeometry-fragments-ruins-building-ruins_v2.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-building-ruins_v2.webp",
+    "dims": [
+     0.3334,
+     0.5,
+     0.165
+    ],
+    "tris": 3335,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "26.glb",
+   "28.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-ruined-gateway",
+  "name": "Ruined Gateway",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-ruined-gateway/zeometry-fragments-ruins-ruined-gateway.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-ruined-gateway/zeometry-fragments-ruins-ruined-gateway_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-ruined-gateway/zeometry-fragments-ruins-ruined-gateway_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-ruined-gateway_v1.webp",
+    "dims": [
+     0.3978,
+     0.5,
+     0.3806
+    ],
+    "tris": 2897,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-ruined-gateway/zeometry-fragments-ruins-ruined-gateway_v2.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-ruined-gateway/zeometry-fragments-ruins-ruined-gateway_v2.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-ruined-gateway_v2.webp",
+    "dims": [
+     0.296,
+     0.5,
+     0.3072
+    ],
+    "tris": 3384,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "27.glb",
+   "30.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-scaffold-frame",
+  "name": "Scaffold Frame",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-scaffold-frame/zeometry-fragments-ruins-scaffold-frame.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-scaffold-frame/zeometry-fragments-ruins-scaffold-frame_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-scaffold-frame/zeometry-fragments-ruins-scaffold-frame_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-scaffold-frame_v1.webp",
+    "dims": [
+     0.2459,
+     0.2468,
+     0.5
+    ],
+    "tris": 6930,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "29.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-shattered-deer",
+  "name": "Shattered Deer",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-shattered-deer/zeometry-fragments-ruins-shattered-deer.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shattered-deer/zeometry-fragments-ruins-shattered-deer_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shattered-deer/zeometry-fragments-ruins-shattered-deer_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shattered-deer_v1.webp",
+    "dims": [
+     0.3546,
+     0.2175,
+     0.5
+    ],
+    "tris": 1390,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "31.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-shattered-fragment",
+  "name": "Shattered Fragment",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-shattered-fragment/zeometry-fragments-ruins-shattered-fragment.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shattered-fragment/zeometry-fragments-ruins-shattered-fragment_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shattered-fragment/zeometry-fragments-ruins-shattered-fragment_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shattered-fragment_v1.webp",
+    "dims": [
+     0.4237,
+     0.4359,
+     0.5
+    ],
+    "tris": 1316,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shattered-fragment/zeometry-fragments-ruins-shattered-fragment_v2.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shattered-fragment/zeometry-fragments-ruins-shattered-fragment_v2.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shattered-fragment_v2.webp",
+    "dims": [
+     0.3946,
+     0.3459,
+     0.5
+    ],
+    "tris": 1229,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "32.glb",
+   "33.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-shattered-figure",
+  "name": "Shattered Figure",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-shattered-figure/zeometry-fragments-ruins-shattered-figure.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-shattered-figure/zeometry-fragments-ruins-shattered-figure_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-shattered-figure/zeometry-fragments-ruins-shattered-figure_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-shattered-figure_v1.webp",
+    "dims": [
+     0.158,
+     0.4898,
+     0.5
+    ],
+    "tris": 1390,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "34.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-crumpled-wreck",
+  "name": "Crumpled Wreck",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-crumpled-wreck/zeometry-fragments-ruins-crumpled-wreck.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-crumpled-wreck/zeometry-fragments-ruins-crumpled-wreck_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-crumpled-wreck/zeometry-fragments-ruins-crumpled-wreck_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-crumpled-wreck_v1.webp",
+    "dims": [
+     0.2997,
+     0.5,
+     0.2697
+    ],
+    "tris": 1202,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-crumpled-wreck/zeometry-fragments-ruins-crumpled-wreck_v2.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-crumpled-wreck/zeometry-fragments-ruins-crumpled-wreck_v2.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-crumpled-wreck_v2.webp",
+    "dims": [
+     0.4132,
+     0.5,
+     0.3414
+    ],
+    "tris": 1874,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "35.glb",
+   "36.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-gaping-mouth",
+  "name": "Gaping Mouth",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-gaping-mouth/zeometry-organic-forms-gaping-mouth.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-gaping-mouth/zeometry-organic-forms-gaping-mouth_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-gaping-mouth/zeometry-organic-forms-gaping-mouth_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-gaping-mouth_v1.webp",
+    "dims": [
+     0.363,
+     0.3658,
+     0.5
+    ],
+    "tris": 2036,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "37.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-antler-head",
+  "name": "Antler Head",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-antler-head/zeometry-organic-forms-antler-head.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-antler-head/zeometry-organic-forms-antler-head_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-antler-head/zeometry-organic-forms-antler-head_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-antler-head_v1.webp",
+    "dims": [
+     0.418,
+     0.5,
+     0.4962
+    ],
+    "tris": 2128,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "38.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-vein-cage",
+  "name": "Vein Cage",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-vein-cage/zeometry-organic-forms-vein-cage.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-vein-cage/zeometry-organic-forms-vein-cage_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-vein-cage/zeometry-organic-forms-vein-cage_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-vein-cage_v1.webp",
+    "dims": [
+     0.3472,
+     0.5,
+     0.452
+    ],
+    "tris": 3913,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "39.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-branching-vein",
+  "name": "Branching Vein",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-branching-vein_v1.webp",
+    "dims": [
+     0.3831,
+     0.3218,
+     0.5
+    ],
+    "tris": 2443,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein_v2.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein_v2.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-branching-vein_v2.webp",
+    "dims": [
+     0.3525,
+     0.479,
+     0.5
+    ],
+    "tris": 4861,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein_v3.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-branching-vein/zeometry-organic-forms-branching-vein_v3.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-branching-vein_v3.webp",
+    "dims": [
+     0.2362,
+     0.4163,
+     0.5
+    ],
+    "tris": 2560,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "40.glb",
+   "41.glb",
+   "42.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-ear",
+  "name": "Ear",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-ear/zeometry-organic-forms-ear.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-ear/zeometry-organic-forms-ear_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-ear/zeometry-organic-forms-ear_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-ear_v1.webp",
+    "dims": [
+     0.2899,
+     0.5,
+     0.2529
+    ],
+    "tris": 1977,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "43.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-charred-lump",
+  "name": "Charred Lump",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-charred-lump/zeometry-organic-forms-charred-lump.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-charred-lump/zeometry-organic-forms-charred-lump_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-charred-lump/zeometry-organic-forms-charred-lump_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-charred-lump_v1.webp",
+    "dims": [
+     0.4339,
+     0.5,
+     0.3507
+    ],
+    "tris": 3965,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "44.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-bone-fragment",
+  "name": "Bone Fragment",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-bone-fragment/zeometry-organic-forms-bone-fragment.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-bone-fragment/zeometry-organic-forms-bone-fragment_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-bone-fragment/zeometry-organic-forms-bone-fragment_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-bone-fragment_v1.webp",
+    "dims": [
+     0.3168,
+     0.5,
+     0.3244
+    ],
+    "tris": 2762,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "45.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-twisted-blob",
+  "name": "Twisted Blob",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-twisted-blob/zeometry-organic-forms-twisted-blob.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-twisted-blob/zeometry-organic-forms-twisted-blob_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-twisted-blob/zeometry-organic-forms-twisted-blob_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-twisted-blob_v1.webp",
+    "dims": [
+     0.3584,
+     0.4288,
+     0.5
+    ],
+    "tris": 1669,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "46.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-coiled-blob",
+  "name": "Coiled Blob",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-coiled-blob/zeometry-organic-forms-coiled-blob.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-coiled-blob/zeometry-organic-forms-coiled-blob_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-coiled-blob/zeometry-organic-forms-coiled-blob_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-coiled-blob_v1.webp",
+    "dims": [
+     0.4688,
+     0.5,
+     0.3665
+    ],
+    "tris": 11638,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "47.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-skull-mask",
+  "name": "Skull Mask",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-skull-mask/zeometry-organic-forms-skull-mask.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-skull-mask/zeometry-organic-forms-skull-mask_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-skull-mask/zeometry-organic-forms-skull-mask_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-skull-mask_v1.webp",
+    "dims": [
+     0.3864,
+     0.5,
+     0.3905
+    ],
+    "tris": 22972,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "48.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-arm",
+  "name": "Arm",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-arm/zeometry-organic-forms-arm.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-arm/zeometry-organic-forms-arm_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-arm/zeometry-organic-forms-arm_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-arm_v1.webp",
+    "dims": [
+     0.4751,
+     0.4087,
+     0.5
+    ],
+    "tris": 898,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "49.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-zigzag-column",
+  "name": "Zigzag Column",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-zigzag-column/zeometry-sculptural-zigzag-column.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-zigzag-column/zeometry-sculptural-zigzag-column_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-zigzag-column/zeometry-sculptural-zigzag-column_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-zigzag-column_v1.webp",
+    "dims": [
+     0.1387,
+     0.1165,
+     0.5
+    ],
+    "tris": 60,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "50.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-stacked-cubes",
+  "name": "Stacked Cubes",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-stacked-cubes/zeometry-sculptural-stacked-cubes.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-stacked-cubes/zeometry-sculptural-stacked-cubes_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-stacked-cubes/zeometry-sculptural-stacked-cubes_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-stacked-cubes_v1.webp",
+    "dims": [
+     0.2381,
+     0.1796,
+     0.5
+    ],
+    "tris": 104,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "51.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-truncated-icosidodecahedron",
+  "name": "Wire Truncated Icosidodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-truncated-icosidodecahedron/zeometry-wireframes-wire-truncated-icosidodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-icosidodecahedron/zeometry-wireframes-wire-truncated-icosidodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-icosidodecahedron/zeometry-wireframes-wire-truncated-icosidodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-icosidodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 1680,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-icosidodecahedron/zeometry-wireframes-wire-truncated-icosidodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-icosidodecahedron/zeometry-wireframes-wire-truncated-icosidodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-icosidodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 1680,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "52.glb",
+   "97.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-sphere",
+  "name": "Sphere",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v2.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v2.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v3.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v3.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v4.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v4.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v5.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v5.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v6.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v6.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v7.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v7.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v7.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v8.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v8.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v8.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v9.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v9.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v9.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v10.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v10.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v10.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v11.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v11.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v11.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v12.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v12.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v12.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v13.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v13.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v13.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v14.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v14.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v14.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 2520,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v15.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v15.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v15.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 768,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v16.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v16.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v16.webp",
+    "dims": [
+     0.5,
+     0.4973,
+     0.5
+    ],
+    "tris": 1740,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v17.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v17.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v17.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 760,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v18.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v18.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v18.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 760,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v19.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v19.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v19.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 1920,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v20.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v20.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v20.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4999
+    ],
+    "tris": 3072,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v21.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-sphere/zeometry-basic-shapes-sphere_v21.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-sphere_v21.webp",
+    "dims": [
+     0.5,
+     0.499,
+     0.5
+    ],
+    "tris": 4900,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "53.glb",
+   "55.glb",
+   "57.glb",
+   "59.glb",
+   "61.glb",
+   "63.glb",
+   "65.glb",
+   "67.glb",
+   "69.glb",
+   "70.glb",
+   "72.glb",
+   "75.glb",
+   "76.glb",
+   "78.glb",
+   "144.glb",
+   "145.glb",
+   "146.glb",
+   "147.glb",
+   "163.glb",
+   "206.glb",
+   "288.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-rhombicosidodecahedron",
+  "name": "Wire Rhombicosidodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-rhombicosidodecahedron/zeometry-wireframes-wire-rhombicosidodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-rhombicosidodecahedron/zeometry-wireframes-wire-rhombicosidodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-rhombicosidodecahedron/zeometry-wireframes-wire-rhombicosidodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-rhombicosidodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 1200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-rhombicosidodecahedron/zeometry-wireframes-wire-rhombicosidodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-rhombicosidodecahedron/zeometry-wireframes-wire-rhombicosidodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-rhombicosidodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 840,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "54.glb",
+   "83.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-icosidodecahedron",
+  "name": "Wire Icosidodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosidodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 600,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosidodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 420,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosidodecahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 420,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosidodecahedron_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 600,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v5.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v5.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosidodecahedron_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 420,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v6.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosidodecahedron/zeometry-wireframes-wire-icosidodecahedron_v6.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosidodecahedron_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 420,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "56.glb",
+   "77.glb",
+   "82.glb",
+   "95.glb",
+   "111.glb",
+   "124.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-truncated-dodecahedron",
+  "name": "Wire Truncated Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 840,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-dodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 840,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-dodecahedron/zeometry-wireframes-wire-truncated-dodecahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-dodecahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 840,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "58.glb",
+   "96.glb",
+   "123.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-truncated-cube",
+  "name": "Wire Truncated Cube",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-truncated-cube/zeometry-wireframes-wire-truncated-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-cube/zeometry-wireframes-wire-truncated-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-cube/zeometry-wireframes-wire-truncated-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-cube/zeometry-wireframes-wire-truncated-cube_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-cube/zeometry-wireframes-wire-truncated-cube_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-cube_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "60.glb",
+   "99.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-snub-dodecahedron",
+  "name": "Wire Snub Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4945,
+     0.4645
+    ],
+    "tris": 1560,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-dodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.4945,
+     0.4646
+    ],
+    "tris": 1560,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-dodecahedron/zeometry-wireframes-wire-snub-dodecahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-dodecahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.4945,
+     0.4645
+    ],
+    "tris": 1560,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "62.glb",
+   "92.glb",
+   "115.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-snub-cube",
+  "name": "Wire Snub Cube",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 624,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-cube_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 624,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-cube_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 432,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-snub-cube/zeometry-wireframes-wire-snub-cube_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-snub-cube_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 432,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "64.glb",
+   "91.glb",
+   "110.glb",
+   "116.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-truncated-octahedron",
+  "name": "Wire Truncated Octahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-octahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-octahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-octahedron/zeometry-wireframes-wire-truncated-octahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-octahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "66.glb",
+   "94.glb",
+   "122.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-octahedron",
+  "name": "Wire Octahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v1.webp",
+    "dims": [
+     0.3634,
+     0.3634,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v2.webp",
+    "dims": [
+     0.3634,
+     0.3634,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v3.webp",
+    "dims": [
+     0.3635,
+     0.3635,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v4.webp",
+    "dims": [
+     0.3635,
+     0.3635,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v5.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v5.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4864
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v6.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v6.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v6.webp",
+    "dims": [
+     0.3634,
+     0.3634,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v7.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v7.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v7.webp",
+    "dims": [
+     0.3634,
+     0.3634,
+     0.5
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v8.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-octahedron/zeometry-wireframes-wire-octahedron_v8.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-octahedron_v8.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4864
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "68.glb",
+   "88.glb",
+   "100.glb",
+   "103.glb",
+   "104.glb",
+   "105.glb",
+   "129.glb",
+   "131.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-cube",
+  "name": "Wire Cube",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.3536
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.3536
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.4142
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v4.webp",
+    "dims": [
+     0.5,
+     0.4142,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v5.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v5.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v5.webp",
+    "dims": [
+     0.5,
+     0.7071,
+     0.7071
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v6.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v6.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v6.webp",
+    "dims": [
+     0.5,
+     0.3536,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v7.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v7.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v7.webp",
+    "dims": [
+     0.5,
+     0.6036,
+     0.6036
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v8.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v8.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v8.webp",
+    "dims": [
+     0.5,
+     0.7071,
+     0.7071
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v9.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cube/zeometry-wireframes-wire-cube_v9.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cube_v9.webp",
+    "dims": [
+     0.5,
+     0.3536,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "71.glb",
+   "87.glb",
+   "101.glb",
+   "125.glb",
+   "126.glb",
+   "127.glb",
+   "128.glb",
+   "130.glb",
+   "132.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-dodecahedron",
+  "name": "Wire Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-dodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-dodecahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-dodecahedron_v4.webp",
+    "dims": [
+     0.4912,
+     0.5,
+     0.4917
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v5.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v5.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-dodecahedron_v5.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v6.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-dodecahedron/zeometry-wireframes-wire-dodecahedron_v6.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-dodecahedron_v6.webp",
+    "dims": [
+     0.5,
+     0.4527,
+     0.4693
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "73.glb",
+   "85.glb",
+   "112.glb",
+   "113.glb",
+   "114.glb",
+   "118.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-cuboctahedron",
+  "name": "Wire Cuboctahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v5.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v5.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v5.webp",
+    "dims": [
+     0.5,
+     0.7071,
+     0.7071
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v6.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v6.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v7.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-cuboctahedron/zeometry-wireframes-wire-cuboctahedron_v7.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-cuboctahedron_v7.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "74.glb",
+   "80.glb",
+   "102.glb",
+   "106.glb",
+   "107.glb",
+   "108.glb",
+   "117.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-icosahedron",
+  "name": "Wire Icosahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosahedron_v1.webp",
+    "dims": [
+     0.4999,
+     0.5,
+     0.4999
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosahedron_v2.webp",
+    "dims": [
+     0.4999,
+     0.5,
+     0.4999
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosahedron_v3.webp",
+    "dims": [
+     0.4999,
+     0.5,
+     0.4999
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-icosahedron/zeometry-wireframes-wire-icosahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-icosahedron_v4.webp",
+    "dims": [
+     0.4999,
+     0.5,
+     0.4999
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "79.glb",
+   "89.glb",
+   "109.glb",
+   "120.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-deltoidal-icositetrahedron",
+  "name": "Wire Deltoidal Icositetrahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-deltoidal-icositetrahedron/zeometry-wireframes-wire-deltoidal-icositetrahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-deltoidal-icositetrahedron/zeometry-wireframes-wire-deltoidal-icositetrahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-deltoidal-icositetrahedron/zeometry-wireframes-wire-deltoidal-icositetrahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-deltoidal-icositetrahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 332,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "81.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-rhombicuboctahedron",
+  "name": "Wire Rhombicuboctahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-rhombicuboctahedron/zeometry-wireframes-wire-rhombicuboctahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-rhombicuboctahedron/zeometry-wireframes-wire-rhombicuboctahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-rhombicuboctahedron/zeometry-wireframes-wire-rhombicuboctahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-rhombicuboctahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "84.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-tetrahedron",
+  "name": "Wire Tetrahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-tetrahedron/zeometry-wireframes-wire-tetrahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-tetrahedron/zeometry-wireframes-wire-tetrahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-tetrahedron/zeometry-wireframes-wire-tetrahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-tetrahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4027,
+     0.4049
+    ],
+    "tris": 40,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "86.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-geodesic-sphere",
+  "name": "Wire Geodesic Sphere",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-geodesic-sphere_v1.webp",
+    "dims": [
+     0.4999,
+     0.4999,
+     0.5
+    ],
+    "tris": 876,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere_v2.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere_v2.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-geodesic-sphere_v2.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.5
+    ],
+    "tris": 876,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere_v3.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-geodesic-sphere/zeometry-wireframes-wire-geodesic-sphere_v3.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-geodesic-sphere_v3.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.5
+    ],
+    "tris": 876,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "90.glb",
+   "119.glb",
+   "121.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-truncated-tetrahedron",
+  "name": "Wire Truncated Tetrahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-truncated-tetrahedron/zeometry-wireframes-wire-truncated-tetrahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-tetrahedron/zeometry-wireframes-wire-truncated-tetrahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-tetrahedron/zeometry-wireframes-wire-truncated-tetrahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-tetrahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4891,
+     0.4013
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "93.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-wireframes-wire-truncated-cuboctahedron",
+  "name": "Wire Truncated Cuboctahedron",
+  "category": "Zeometry",
+  "subcategory": "Wireframes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-wireframes-wire-truncated-cuboctahedron/zeometry-wireframes-wire-truncated-cuboctahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-wireframes-wire-truncated-cuboctahedron/zeometry-wireframes-wire-truncated-cuboctahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-wireframes-wire-truncated-cuboctahedron/zeometry-wireframes-wire-truncated-cuboctahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-wireframes-wire-truncated-cuboctahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 672,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "98.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-lumpy-sphere",
+  "name": "Lumpy Sphere",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v2.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v2.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v3.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v3.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v3.webp",
+    "dims": [
+     0.476,
+     0.4951,
+     0.5
+    ],
+    "tris": 936,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v4.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v4.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v4.webp",
+    "dims": [
+     0.477,
+     0.4863,
+     0.5
+    ],
+    "tris": 997,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v5.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v5.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v5.webp",
+    "dims": [
+     0.4894,
+     0.4989,
+     0.5
+    ],
+    "tris": 1008,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v6.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v6.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v6.webp",
+    "dims": [
+     0.4931,
+     0.4908,
+     0.5
+    ],
+    "tris": 1008,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v7.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v7.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v7.webp",
+    "dims": [
+     0.4948,
+     0.5,
+     0.4982
+    ],
+    "tris": 968,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v8.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v8.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v8.webp",
+    "dims": [
+     0.4917,
+     0.5,
+     0.4995
+    ],
+    "tris": 906,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v9.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v9.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v9.webp",
+    "dims": [
+     0.4871,
+     0.4882,
+     0.5
+    ],
+    "tris": 970,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v10.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v10.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v10.webp",
+    "dims": [
+     0.4999,
+     0.5,
+     0.4969
+    ],
+    "tris": 964,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v11.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-lumpy-sphere/zeometry-organic-forms-lumpy-sphere_v11.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-lumpy-sphere_v11.webp",
+    "dims": [
+     0.4954,
+     0.4971,
+     0.5
+    ],
+    "tris": 967,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "133.glb",
+   "134.glb",
+   "135.glb",
+   "136.glb",
+   "137.glb",
+   "138.glb",
+   "139.glb",
+   "140.glb",
+   "141.glb",
+   "142.glb",
+   "143.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-organic-forms-blob",
+  "name": "Blob",
+  "category": "Zeometry",
+  "subcategory": "Organic Forms",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v1.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v1.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v1.webp",
+    "dims": [
+     0.4971,
+     0.5,
+     0.3731
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v2.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v2.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v2.webp",
+    "dims": [
+     0.5,
+     0.4116,
+     0.4096
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v3.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v3.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v3.webp",
+    "dims": [
+     0.5,
+     0.4469,
+     0.386
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v4.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v4.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v4.webp",
+    "dims": [
+     0.4924,
+     0.5,
+     0.4292
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v5.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v5.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v5.webp",
+    "dims": [
+     0.4855,
+     0.5,
+     0.3582
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v6.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v6.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v6.webp",
+    "dims": [
+     0.4211,
+     0.5,
+     0.4525
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v7.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v7.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v7.webp",
+    "dims": [
+     0.41,
+     0.5,
+     0.3652
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v8.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v8.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v8.webp",
+    "dims": [
+     0.3438,
+     0.5,
+     0.4017
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v9.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v9.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v9.webp",
+    "dims": [
+     0.4306,
+     0.5,
+     0.4219
+    ],
+    "tris": 220,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v10.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v10.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v10.webp",
+    "dims": [
+     0.4588,
+     0.5,
+     0.468
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v11.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v11.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v11.webp",
+    "dims": [
+     0.4723,
+     0.4729,
+     0.5
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v12.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v12.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v12.webp",
+    "dims": [
+     0.5,
+     0.4879,
+     0.4997
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v13.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v13.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v13.webp",
+    "dims": [
+     0.4819,
+     0.5,
+     0.4861
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v14.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v14.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v14.webp",
+    "dims": [
+     0.4555,
+     0.5,
+     0.4821
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v15.glb",
+    "fbx": "models/zeometry/zeometry-organic-forms-blob/zeometry-organic-forms-blob_v15.fbx",
+    "thumb": "thumbs/zeometry-organic-forms-blob_v15.webp",
+    "dims": [
+     0.4611,
+     0.4431,
+     0.5
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "148.glb",
+   "149.glb",
+   "150.glb",
+   "151.glb",
+   "152.glb",
+   "153.glb",
+   "154.glb",
+   "155.glb",
+   "156.glb",
+   "157.glb",
+   "158.glb",
+   "159.glb",
+   "160.glb",
+   "161.glb",
+   "162.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-icosahedron",
+  "name": "Icosahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-icosahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-icosahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-icosahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-icosahedron/zeometry-polyhedra-icosahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-icosahedron_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "164.glb",
+   "200.glb",
+   "207.glb",
+   "213.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-geodesic-sphere",
+  "name": "Geodesic Sphere",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-geodesic-sphere_v1.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-geodesic-sphere_v2.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere_v3.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-geodesic-sphere/zeometry-polyhedra-geodesic-sphere_v3.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-geodesic-sphere_v3.webp",
+    "dims": [
+     0.5,
+     0.4999,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "165.glb",
+   "208.glb",
+   "214.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-octahedron",
+  "name": "Octahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-octahedron_v1.webp",
+    "dims": [
+     0.3635,
+     0.3635,
+     0.5
+    ],
+    "tris": 8,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-octahedron_v2.webp",
+    "dims": [
+     0.3635,
+     0.3635,
+     0.5
+    ],
+    "tris": 8,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-octahedron_v3.webp",
+    "dims": [
+     0.3635,
+     0.3635,
+     0.5
+    ],
+    "tris": 8,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-octahedron/zeometry-polyhedra-octahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-octahedron_v4.webp",
+    "dims": [
+     0.3434,
+     0.3434,
+     0.5
+    ],
+    "tris": 8,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "167.glb",
+   "210.glb",
+   "216.glb",
+   "221.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-tetrahedron",
+  "name": "Tetrahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-tetrahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4027,
+     0.4045
+    ],
+    "tris": 4,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-tetrahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.4027,
+     0.4045
+    ],
+    "tris": 4,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v3.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v3.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-tetrahedron_v3.webp",
+    "dims": [
+     0.5,
+     0.4027,
+     0.4045
+    ],
+    "tris": 4,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v4.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-tetrahedron/zeometry-polyhedra-tetrahedron_v4.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-tetrahedron_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "169.glb",
+   "212.glb",
+   "218.glb",
+   "293.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-truncated-cube",
+  "name": "Truncated Cube",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-truncated-cube/zeometry-polyhedra-truncated-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-truncated-cube/zeometry-polyhedra-truncated-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-truncated-cube/zeometry-polyhedra-truncated-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-truncated-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "170.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-truncated-dodecahedron",
+  "name": "Truncated Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-truncated-dodecahedron/zeometry-polyhedra-truncated-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-truncated-dodecahedron/zeometry-polyhedra-truncated-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-truncated-dodecahedron/zeometry-polyhedra-truncated-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-truncated-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "171.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-icosidodecahedron",
+  "name": "Icosidodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-icosidodecahedron/zeometry-polyhedra-icosidodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-icosidodecahedron/zeometry-polyhedra-icosidodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-icosidodecahedron/zeometry-polyhedra-icosidodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-icosidodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 56,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-icosidodecahedron/zeometry-polyhedra-icosidodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-icosidodecahedron/zeometry-polyhedra-icosidodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-icosidodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 56,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "172.glb",
+   "178.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-truncated-octahedron",
+  "name": "Truncated Octahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-truncated-octahedron/zeometry-polyhedra-truncated-octahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-truncated-octahedron/zeometry-polyhedra-truncated-octahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-truncated-octahedron/zeometry-polyhedra-truncated-octahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-truncated-octahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "173.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-truncated-tetrahedron",
+  "name": "Truncated Tetrahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-truncated-tetrahedron/zeometry-polyhedra-truncated-tetrahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-truncated-tetrahedron/zeometry-polyhedra-truncated-tetrahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-truncated-tetrahedron/zeometry-polyhedra-truncated-tetrahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-truncated-tetrahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4895,
+     0.3997
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "174.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-snub-cube",
+  "name": "Snub Cube",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-snub-cube/zeometry-polyhedra-snub-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-snub-cube/zeometry-polyhedra-snub-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-snub-cube/zeometry-polyhedra-snub-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-snub-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "175.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-snub-dodecahedron",
+  "name": "Snub Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-snub-dodecahedron/zeometry-polyhedra-snub-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-snub-dodecahedron/zeometry-polyhedra-snub-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-snub-dodecahedron/zeometry-polyhedra-snub-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-snub-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.4944,
+     0.4643
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "176.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-cuboctahedron",
+  "name": "Cuboctahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-cuboctahedron/zeometry-polyhedra-cuboctahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-cuboctahedron/zeometry-polyhedra-cuboctahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-cuboctahedron/zeometry-polyhedra-cuboctahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-cuboctahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "177.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-rhombicosidodecahedron",
+  "name": "Rhombicosidodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-rhombicosidodecahedron/zeometry-polyhedra-rhombicosidodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-rhombicosidodecahedron/zeometry-polyhedra-rhombicosidodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-rhombicosidodecahedron/zeometry-polyhedra-rhombicosidodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-rhombicosidodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "179.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-rhombicuboctahedron",
+  "name": "Rhombicuboctahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-rhombicuboctahedron/zeometry-polyhedra-rhombicuboctahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-rhombicuboctahedron/zeometry-polyhedra-rhombicuboctahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-rhombicuboctahedron/zeometry-polyhedra-rhombicuboctahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-rhombicuboctahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "180.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-truncated-cuboctahedron",
+  "name": "Truncated Cuboctahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-truncated-cuboctahedron/zeometry-polyhedra-truncated-cuboctahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-truncated-cuboctahedron/zeometry-polyhedra-truncated-cuboctahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-truncated-cuboctahedron/zeometry-polyhedra-truncated-cuboctahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-truncated-cuboctahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 92,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "181.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-truncated-icosidodecahedron",
+  "name": "Truncated Icosidodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-truncated-icosidodecahedron/zeometry-polyhedra-truncated-icosidodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-truncated-icosidodecahedron/zeometry-polyhedra-truncated-icosidodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-truncated-icosidodecahedron/zeometry-polyhedra-truncated-icosidodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-truncated-icosidodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 236,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "182.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-carved-ball",
+  "name": "Carved Ball",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-carved-ball/zeometry-polyhedra-carved-ball.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-carved-ball/zeometry-polyhedra-carved-ball_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-carved-ball/zeometry-polyhedra-carved-ball_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-carved-ball_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 476,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "183.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-carved-dodecahedron",
+  "name": "Carved Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-carved-dodecahedron/zeometry-polyhedra-carved-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-carved-dodecahedron/zeometry-polyhedra-carved-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-carved-dodecahedron/zeometry-polyhedra-carved-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-carved-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 296,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-carved-dodecahedron/zeometry-polyhedra-carved-dodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-carved-dodecahedron/zeometry-polyhedra-carved-dodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-carved-dodecahedron_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 296,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "184.glb",
+   "186.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-polyhedra-carved-cube",
+  "name": "Carved Cube",
+  "category": "Zeometry",
+  "subcategory": "Polyhedra",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-polyhedra-carved-cube/zeometry-polyhedra-carved-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-polyhedra-carved-cube/zeometry-polyhedra-carved-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-polyhedra-carved-cube/zeometry-polyhedra-carved-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-polyhedra-carved-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 110,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "185.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-stars-spikes-stellated-dodecahedron",
+  "name": "Stellated Dodecahedron",
+  "category": "Zeometry",
+  "subcategory": "Stars & Spikes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-stars-spikes-stellated-dodecahedron/zeometry-stars-spikes-stellated-dodecahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-stellated-dodecahedron/zeometry-stars-spikes-stellated-dodecahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-stellated-dodecahedron/zeometry-stars-spikes-stellated-dodecahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-stellated-dodecahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 60,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-stellated-dodecahedron/zeometry-stars-spikes-stellated-dodecahedron_v2.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-stellated-dodecahedron/zeometry-stars-spikes-stellated-dodecahedron_v2.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-stellated-dodecahedron_v2.webp",
+    "dims": [
+     0.4277,
+     0.5,
+     0.4434
+    ],
+    "tris": 60,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "187.glb",
+   "188.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-stars-spikes-six-point-star",
+  "name": "Six-Point Star",
+  "category": "Zeometry",
+  "subcategory": "Stars & Spikes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-stars-spikes-six-point-star/zeometry-stars-spikes-six-point-star.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-six-point-star/zeometry-stars-spikes-six-point-star_v1.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-six-point-star/zeometry-stars-spikes-six-point-star_v1.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-six-point-star_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-six-point-star/zeometry-stars-spikes-six-point-star_v2.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-six-point-star/zeometry-stars-spikes-six-point-star_v2.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-six-point-star_v2.webp",
+    "dims": [
+     0.4095,
+     0.4725,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "189.glb",
+   "190.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-stars-spikes-spiky-star",
+  "name": "Spiky Star",
+  "category": "Zeometry",
+  "subcategory": "Stars & Spikes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v1.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v1.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-star_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v2.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v2.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-star_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v3.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v3.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-star_v3.webp",
+    "dims": [
+     0.4965,
+     0.5,
+     0.4914
+    ],
+    "tris": 300,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v4.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v4.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-star_v4.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v5.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v5.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-star_v5.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v6.glb",
+    "fbx": "models/zeometry/zeometry-stars-spikes-spiky-star/zeometry-stars-spikes-spiky-star_v6.fbx",
+    "thumb": "thumbs/zeometry-stars-spikes-spiky-star_v6.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "192.glb",
+   "193.glb",
+   "194.glb",
+   "195.glb",
+   "196.glb",
+   "197.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-spiral-ribbon",
+  "name": "Spiral Ribbon",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-spiral-ribbon/zeometry-sculptural-spiral-ribbon.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-spiral-ribbon/zeometry-sculptural-spiral-ribbon_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-spiral-ribbon/zeometry-sculptural-spiral-ribbon_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-spiral-ribbon_v1.webp",
+    "dims": [
+     0.483,
+     0.4233,
+     0.5
+    ],
+    "tris": 2400,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "201.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-torus",
+  "name": "Torus",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-torus/zeometry-basic-shapes-torus.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-torus/zeometry-basic-shapes-torus_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-torus/zeometry-basic-shapes-torus_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-torus_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.08678
+    ],
+    "tris": 576,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "202.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-cylinder",
+  "name": "Cylinder",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-cylinder/zeometry-basic-shapes-cylinder.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cylinder/zeometry-basic-shapes-cylinder_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cylinder/zeometry-basic-shapes-cylinder_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cylinder_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 32,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "203.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-cone",
+  "name": "Cone",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-cone/zeometry-basic-shapes-cone.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-cone/zeometry-basic-shapes-cone_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-cone/zeometry-basic-shapes-cone_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-cone_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.3822
+    ],
+    "tris": 22,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "204.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-arc",
+  "name": "Arc",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v1.webp",
+    "dims": [
+     0.01988,
+     0.2568,
+     0.5
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v2.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v2.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v2.webp",
+    "dims": [
+     0.5,
+     0.2556,
+     0.01237
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v3.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v3.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v3.webp",
+    "dims": [
+     0.00867,
+     0.5,
+     0.2532
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v4.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v4.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v4.webp",
+    "dims": [
+     0.01988,
+     0.2568,
+     0.5
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v5.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v5.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v5.webp",
+    "dims": [
+     0.2556,
+     0.01237,
+     0.5
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v6.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v6.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v6.webp",
+    "dims": [
+     0.5,
+     0.2532,
+     0.00867
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v7.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v7.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v7.webp",
+    "dims": [
+     0.2568,
+     0.01988,
+     0.5
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v8.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v8.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v8.webp",
+    "dims": [
+     0.2556,
+     0.01237,
+     0.5
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v9.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v9.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v9.webp",
+    "dims": [
+     0.00867,
+     0.5,
+     0.2532
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v10.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v10.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v10.webp",
+    "dims": [
+     0.5,
+     0.2568,
+     0.01988
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v11.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v11.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v11.webp",
+    "dims": [
+     0.01237,
+     0.2556,
+     0.5
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v12.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v12.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v12.webp",
+    "dims": [
+     0.2532,
+     0.00867,
+     0.5
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v13.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v13.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v13.webp",
+    "dims": [
+     0.2568,
+     0.01988,
+     0.5
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v14.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v14.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v14.webp",
+    "dims": [
+     0.5,
+     0.2556,
+     0.01237
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v15.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v15.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v15.webp",
+    "dims": [
+     0.5,
+     0.00867,
+     0.2532
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v16.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v16.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v16.webp",
+    "dims": [
+     0.2568,
+     0.5,
+     0.01988
+    ],
+    "tris": 140,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v17.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v17.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v17.webp",
+    "dims": [
+     0.01237,
+     0.5,
+     0.2556
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v18.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-arc/zeometry-basic-shapes-arc_v18.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-arc_v18.webp",
+    "dims": [
+     0.2532,
+     0.00867,
+     0.5
+    ],
+    "tris": 180,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "222.glb",
+   "223.glb",
+   "224.glb",
+   "225.glb",
+   "226.glb",
+   "227.glb",
+   "228.glb",
+   "229.glb",
+   "230.glb",
+   "231.glb",
+   "232.glb",
+   "233.glb",
+   "234.glb",
+   "235.glb",
+   "236.glb",
+   "237.glb",
+   "238.glb",
+   "239.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-pillar-cluster",
+  "name": "Pillar Cluster",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-pillar-cluster/zeometry-sculptural-pillar-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-pillar-cluster/zeometry-sculptural-pillar-cluster_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-pillar-cluster/zeometry-sculptural-pillar-cluster_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-pillar-cluster_v1.webp",
+    "dims": [
+     0.221,
+     0.221,
+     0.5
+    ],
+    "tris": 744,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "240.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-basic-shapes-line",
+  "name": "Line",
+  "category": "Zeometry",
+  "subcategory": "Basic Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v1.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v1.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line_v1.webp",
+    "dims": [
+     0.007835,
+     0.5,
+     0.007835
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v2.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v2.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line_v2.webp",
+    "dims": [
+     0.004285,
+     0.5,
+     0.004285
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v3.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v3.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line_v3.webp",
+    "dims": [
+     0.002874,
+     0.5,
+     0.002874
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v4.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v4.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line_v4.webp",
+    "dims": [
+     0.007835,
+     0.5,
+     0.007835
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v5.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v5.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line_v5.webp",
+    "dims": [
+     0.004285,
+     0.5,
+     0.004285
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v6.glb",
+    "fbx": "models/zeometry/zeometry-basic-shapes-line/zeometry-basic-shapes-line_v6.fbx",
+    "thumb": "thumbs/zeometry-basic-shapes-line_v6.webp",
+    "dims": [
+     0.002874,
+     0.5,
+     0.002874
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "241.glb",
+   "242.glb",
+   "243.glb",
+   "244.glb",
+   "245.glb",
+   "246.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-quad",
+  "name": "Flat Quad",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-quad/zeometry-flat-shapes-flat-quad.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-quad/zeometry-flat-shapes-flat-quad_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-quad/zeometry-flat-shapes-flat-quad_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-quad_v1.webp",
+    "dims": [
+     0.5,
+     0.002928,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "247.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-polygon",
+  "name": "Flat Polygon",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-polygon_v1.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.5
+    ],
+    "tris": 32,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v2.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v2.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-polygon_v2.webp",
+    "dims": [
+     0.5,
+     0.002942,
+     0.4758
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v3.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v3.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-polygon_v3.webp",
+    "dims": [
+     0.4875,
+     0.00287,
+     0.5
+    ],
+    "tris": 28,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v4.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v4.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-polygon_v4.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.433
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v5.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-polygon/zeometry-flat-shapes-flat-polygon_v5.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-polygon_v5.webp",
+    "dims": [
+     0.5,
+     0.004172,
+     0.4961
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "248.glb",
+   "253.glb",
+   "254.glb",
+   "255.glb",
+   "273.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-triangle",
+  "name": "Flat Triangle",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-triangle/zeometry-flat-shapes-flat-triangle.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-triangle/zeometry-flat-shapes-flat-triangle_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-triangle/zeometry-flat-shapes-flat-triangle_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-triangle_v1.webp",
+    "dims": [
+     0.5,
+     0.002928,
+     0.5
+    ],
+    "tris": 8,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "249.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-oval",
+  "name": "Flat Oval",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v1.webp",
+    "dims": [
+     0.5,
+     0.003153,
+     0.499
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v2.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v2.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v2.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v3.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v3.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v3.webp",
+    "dims": [
+     0.4983,
+     0.002807,
+     0.5
+    ],
+    "tris": 76,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v4.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v4.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v4.webp",
+    "dims": [
+     0.4924,
+     0.002841,
+     0.5
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v5.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v5.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v5.webp",
+    "dims": [
+     0.4949,
+     0.002827,
+     0.5
+    ],
+    "tris": 44,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v6.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v6.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v6.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.4755
+    ],
+    "tris": 40,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v7.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v7.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v7.webp",
+    "dims": [
+     0.4964,
+     0.002818,
+     0.5
+    ],
+    "tris": 52,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v8.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v8.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v8.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.4875
+    ],
+    "tris": 56,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v9.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v9.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v9.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.5
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v10.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v10.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v10.webp",
+    "dims": [
+     0.4973,
+     0.002813,
+     0.5
+    ],
+    "tris": 60,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v11.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v11.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v11.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.5
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v12.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v12.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v12.webp",
+    "dims": [
+     0.4979,
+     0.00281,
+     0.5
+    ],
+    "tris": 68,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v13.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-oval/zeometry-flat-shapes-flat-oval_v13.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-oval_v13.webp",
+    "dims": [
+     0.5,
+     0.002798,
+     0.4924
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "250.glb",
+   "251.glb",
+   "252.glb",
+   "256.glb",
+   "257.glb",
+   "258.glb",
+   "259.glb",
+   "260.glb",
+   "261.glb",
+   "262.glb",
+   "263.glb",
+   "264.glb",
+   "265.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-star",
+  "name": "Flat Star",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v1.webp",
+    "dims": [
+     0.4615,
+     0.00298,
+     0.5
+    ],
+    "tris": 60,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v2.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v2.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v2.webp",
+    "dims": [
+     0.4494,
+     0.00381,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v3.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v3.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v3.webp",
+    "dims": [
+     0.43,
+     0.004025,
+     0.5
+    ],
+    "tris": 32,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v4.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v4.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v4.webp",
+    "dims": [
+     0.4774,
+     0.003415,
+     0.5
+    ],
+    "tris": 40,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v5.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v5.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v5.webp",
+    "dims": [
+     0.5,
+     0.001399,
+     0.4757
+    ],
+    "tris": 40,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v6.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v6.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v6.webp",
+    "dims": [
+     0.5,
+     0.00237,
+     0.4338
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v7.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v7.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v7.webp",
+    "dims": [
+     0.5,
+     0.001331,
+     0.5
+    ],
+    "tris": 32,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v8.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v8.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v8.webp",
+    "dims": [
+     0.5,
+     0.001365,
+     0.4879
+    ],
+    "tris": 56,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v9.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v9.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v9.webp",
+    "dims": [
+     0.433,
+     0.001331,
+     0.5
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v10.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v10.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v10.webp",
+    "dims": [
+     0.5,
+     0.001331,
+     0.5
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v11.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-star/zeometry-flat-shapes-flat-star_v11.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-star_v11.webp",
+    "dims": [
+     0.5,
+     0.001351,
+     0.4927
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "266.glb",
+   "267.glb",
+   "268.glb",
+   "269.glb",
+   "280.glb",
+   "281.glb",
+   "282.glb",
+   "283.glb",
+   "284.glb",
+   "285.glb",
+   "286.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-boomerang",
+  "name": "Flat Boomerang",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-boomerang/zeometry-flat-shapes-flat-boomerang.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-boomerang/zeometry-flat-shapes-flat-boomerang_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-boomerang/zeometry-flat-shapes-flat-boomerang_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-boomerang_v1.webp",
+    "dims": [
+     0.5,
+     0.004338,
+     0.2977
+    ],
+    "tris": 28,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "270.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-arrowhead",
+  "name": "Flat Arrowhead",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-arrowhead/zeometry-flat-shapes-flat-arrowhead.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-arrowhead/zeometry-flat-shapes-flat-arrowhead_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-arrowhead/zeometry-flat-shapes-flat-arrowhead_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-arrowhead_v1.webp",
+    "dims": [
+     0.4868,
+     0.007478,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "271.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-shard",
+  "name": "Flat Shard",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-shard_v1.webp",
+    "dims": [
+     0.3824,
+     0.005065,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v2.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v2.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-shard_v2.webp",
+    "dims": [
+     0.5,
+     0.003683,
+     0.375
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v3.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v3.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-shard_v3.webp",
+    "dims": [
+     0.4316,
+     0.004532,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v4.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v4.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-shard_v4.webp",
+    "dims": [
+     0.3684,
+     0.009294,
+     0.5
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v5.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v5.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-shard_v5.webp",
+    "dims": [
+     0.5,
+     0.005954,
+     0.4775
+    ],
+    "tris": 12,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v6.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-shard/zeometry-flat-shapes-flat-shard_v6.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-shard_v6.webp",
+    "dims": [
+     0.1856,
+     0.00342,
+     0.5
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "272.glb",
+   "274.glb",
+   "276.glb",
+   "277.glb",
+   "278.glb",
+   "279.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-flat-shapes-flat-chevron",
+  "name": "Flat Chevron",
+  "category": "Zeometry",
+  "subcategory": "Flat Shapes",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-flat-shapes-flat-chevron/zeometry-flat-shapes-flat-chevron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-flat-shapes-flat-chevron/zeometry-flat-shapes-flat-chevron_v1.glb",
+    "fbx": "models/zeometry/zeometry-flat-shapes-flat-chevron/zeometry-flat-shapes-flat-chevron_v1.fbx",
+    "thumb": "thumbs/zeometry-flat-shapes-flat-chevron_v1.webp",
+    "dims": [
+     0.428,
+     0.00449,
+     0.5
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "275.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-fragments-ruins-plane-cluster",
+  "name": "Plane Cluster",
+  "category": "Zeometry",
+  "subcategory": "Fragments & Ruins",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-fragments-ruins-plane-cluster/zeometry-fragments-ruins-plane-cluster.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-fragments-ruins-plane-cluster/zeometry-fragments-ruins-plane-cluster_v1.glb",
+    "fbx": "models/zeometry/zeometry-fragments-ruins-plane-cluster/zeometry-fragments-ruins-plane-cluster_v1.fbx",
+    "thumb": "thumbs/zeometry-fragments-ruins-plane-cluster_v1.webp",
+    "dims": [
+     0.4992,
+     0.5,
+     0.4998
+    ],
+    "tris": 85,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "287.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-hollow-cube",
+  "name": "Hollow Cube",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-hollow-cube/zeometry-sculptural-hollow-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-hollow-cube/zeometry-sculptural-hollow-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-hollow-cube/zeometry-sculptural-hollow-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-hollow-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 402,
+    "parts": 1,
+    "size": "unknown"
+   },
+   {
+    "glb": "models/zeometry/zeometry-sculptural-hollow-cube/zeometry-sculptural-hollow-cube_v2.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-hollow-cube/zeometry-sculptural-hollow-cube_v2.fbx",
+    "thumb": "thumbs/zeometry-sculptural-hollow-cube_v2.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 114,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "289.glb",
+   "290.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-triangle-cage",
+  "name": "Triangle Cage",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-triangle-cage/zeometry-sculptural-triangle-cage.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-triangle-cage/zeometry-sculptural-triangle-cage_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-triangle-cage/zeometry-sculptural-triangle-cage_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-triangle-cage_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 80,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "291.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-star-tetrahedron",
+  "name": "Star Tetrahedron",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-star-tetrahedron/zeometry-sculptural-star-tetrahedron.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-star-tetrahedron/zeometry-sculptural-star-tetrahedron_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-star-tetrahedron/zeometry-sculptural-star-tetrahedron_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-star-tetrahedron_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "292.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-folded-cube",
+  "name": "Folded Cube",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-folded-cube/zeometry-sculptural-folded-cube.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-folded-cube/zeometry-sculptural-folded-cube_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-folded-cube/zeometry-sculptural-folded-cube_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-folded-cube_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 106,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "294.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-hourglass",
+  "name": "Hourglass",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-hourglass/zeometry-sculptural-hourglass.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-hourglass/zeometry-sculptural-hourglass_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-hourglass/zeometry-sculptural-hourglass_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-hourglass_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 54,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "295.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "zeometry-sculptural-pyramid-hourglass",
+  "name": "Pyramid Hourglass",
+  "category": "Zeometry",
+  "subcategory": "Sculptural",
+  "tags": [],
+  "blend": "models/zeometry/zeometry-sculptural-pyramid-hourglass/zeometry-sculptural-pyramid-hourglass.blend",
+  "variants": [
+   {
+    "glb": "models/zeometry/zeometry-sculptural-pyramid-hourglass/zeometry-sculptural-pyramid-hourglass_v1.glb",
+    "fbx": "models/zeometry/zeometry-sculptural-pyramid-hourglass/zeometry-sculptural-pyramid-hourglass_v1.fbx",
+    "thumb": "thumbs/zeometry-sculptural-pyramid-hourglass_v1.webp",
+    "dims": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "tris": 42,
+    "parts": 1,
+    "size": "unknown"
+   }
+  ],
+  "sourceFiles": [
+   "296.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]

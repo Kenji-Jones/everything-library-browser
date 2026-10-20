@@ -1,0 +1,3432 @@
+[
+ {
+  "id": "buildings-business-bank",
+  "name": "Bank",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-bank/buildings-business-bank.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-bank/buildings-business-bank_v1.glb",
+    "fbx": "models/buildings/buildings-business-bank/buildings-business-bank_v1.fbx",
+    "thumb": "thumbs/buildings-business-bank_v1.webp",
+    "dims": [
+     25.66,
+     24.75,
+     23.16
+    ],
+    "tris": 13042,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-boathouse",
+  "name": "BoatHouse",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-boathouse/buildings-business-boathouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-boathouse/buildings-business-boathouse_v1.glb",
+    "fbx": "models/buildings/buildings-business-boathouse/buildings-business-boathouse_v1.fbx",
+    "thumb": "thumbs/buildings-business-boathouse_v1.webp",
+    "dims": [
+     8.802,
+     7.059,
+     8.543
+    ],
+    "tris": 2118,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-commercialbuilding",
+  "name": "CommercialBuilding",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v1.glb",
+    "fbx": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v1.fbx",
+    "thumb": "thumbs/buildings-business-commercialbuilding_v1.webp",
+    "dims": [
+     23.58,
+     23.65,
+     24.02
+    ],
+    "tris": 6956,
+    "parts": 4
+   },
+   {
+    "glb": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v2.glb",
+    "fbx": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v2.fbx",
+    "thumb": "thumbs/buildings-business-commercialbuilding_v2.webp",
+    "dims": [
+     23.36,
+     21.28,
+     20.92
+    ],
+    "tris": 5590,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v3.glb",
+    "fbx": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v3.fbx",
+    "thumb": "thumbs/buildings-business-commercialbuilding_v3.webp",
+    "dims": [
+     23.61,
+     23.39,
+     20.92
+    ],
+    "tris": 4993,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v4.glb",
+    "fbx": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v4.fbx",
+    "thumb": "thumbs/buildings-business-commercialbuilding_v4.webp",
+    "dims": [
+     23.31,
+     22.58,
+     21.3
+    ],
+    "tris": 4282,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v5.glb",
+    "fbx": "models/buildings/buildings-business-commercialbuilding/buildings-business-commercialbuilding_v5.fbx",
+    "thumb": "thumbs/buildings-business-commercialbuilding_v5.webp",
+    "dims": [
+     23.29,
+     23.39,
+     14.39
+    ],
+    "tris": 3139,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-conveniencestore",
+  "name": "ConvenienceStore",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-conveniencestore/buildings-business-conveniencestore.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-conveniencestore/buildings-business-conveniencestore_v1.glb",
+    "fbx": "models/buildings/buildings-business-conveniencestore/buildings-business-conveniencestore_v1.fbx",
+    "thumb": "thumbs/buildings-business-conveniencestore_v1.webp",
+    "dims": [
+     23.72,
+     23.33,
+     7.681
+    ],
+    "tris": 1434,
+    "parts": 5
+   },
+   {
+    "glb": "models/buildings/buildings-business-conveniencestore/buildings-business-conveniencestore_v2.glb",
+    "fbx": "models/buildings/buildings-business-conveniencestore/buildings-business-conveniencestore_v2.fbx",
+    "thumb": "thumbs/buildings-business-conveniencestore_v2.webp",
+    "dims": [
+     23.72,
+     23.33,
+     7.681
+    ],
+    "tris": 1790,
+    "parts": 7
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-courthouse",
+  "name": "Courthouse",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-courthouse/buildings-business-courthouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-courthouse/buildings-business-courthouse_v1.glb",
+    "fbx": "models/buildings/buildings-business-courthouse/buildings-business-courthouse_v1.fbx",
+    "thumb": "thumbs/buildings-business-courthouse_v1.webp",
+    "dims": [
+     17.28,
+     18.48,
+     14.62
+    ],
+    "tris": 13332,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-doctorsoffice",
+  "name": "DoctorsOffice",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-doctorsoffice/buildings-business-doctorsoffice.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-doctorsoffice/buildings-business-doctorsoffice_v1.glb",
+    "fbx": "models/buildings/buildings-business-doctorsoffice/buildings-business-doctorsoffice_v1.fbx",
+    "thumb": "thumbs/buildings-business-doctorsoffice_v1.webp",
+    "dims": [
+     15.74,
+     15.36,
+     9.43
+    ],
+    "tris": 3034,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-fastfoodrestaurant",
+  "name": "FastFoodRestaurant",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-fastfoodrestaurant/buildings-business-fastfoodrestaurant.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-fastfoodrestaurant/buildings-business-fastfoodrestaurant_v1.glb",
+    "fbx": "models/buildings/buildings-business-fastfoodrestaurant/buildings-business-fastfoodrestaurant_v1.fbx",
+    "thumb": "thumbs/buildings-business-fastfoodrestaurant_v1.webp",
+    "dims": [
+     24.64,
+     18.78,
+     13.88
+    ],
+    "tris": 1778,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-firestation",
+  "name": "FireStation",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-firestation/buildings-business-firestation.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-firestation/buildings-business-firestation_v1.glb",
+    "fbx": "models/buildings/buildings-business-firestation/buildings-business-firestation_v1.fbx",
+    "thumb": "thumbs/buildings-business-firestation_v1.webp",
+    "dims": [
+     23.52,
+     24.15,
+     15.53
+    ],
+    "tris": 5544,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-gasstation",
+  "name": "GasStation",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-gasstation/buildings-business-gasstation.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-gasstation/buildings-business-gasstation_v1.glb",
+    "fbx": "models/buildings/buildings-business-gasstation/buildings-business-gasstation_v1.fbx",
+    "thumb": "thumbs/buildings-business-gasstation_v1.webp",
+    "dims": [
+     23.4,
+     23.33,
+     7.98
+    ],
+    "tris": 3710,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-generalstore",
+  "name": "GeneralStore",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-generalstore/buildings-business-generalstore.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-generalstore/buildings-business-generalstore_v1.glb",
+    "fbx": "models/buildings/buildings-business-generalstore/buildings-business-generalstore_v1.fbx",
+    "thumb": "thumbs/buildings-business-generalstore_v1.webp",
+    "dims": [
+     19.41,
+     17.0,
+     12.73
+    ],
+    "tris": 6738,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-hospital",
+  "name": "Hospital",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-hospital/buildings-business-hospital.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-hospital/buildings-business-hospital_v1.glb",
+    "fbx": "models/buildings/buildings-business-hospital/buildings-business-hospital_v1.fbx",
+    "thumb": "thumbs/buildings-business-hospital_v1.webp",
+    "dims": [
+     47.53,
+     47.01,
+     31.49
+    ],
+    "tris": 9486,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-library",
+  "name": "Library",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-library/buildings-business-library.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-library/buildings-business-library_v1.glb",
+    "fbx": "models/buildings/buildings-business-library/buildings-business-library_v1.fbx",
+    "thumb": "thumbs/buildings-business-library_v1.webp",
+    "dims": [
+     12.19,
+     11.38,
+     10.34
+    ],
+    "tris": 4685,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-lighthouse",
+  "name": "Lighthouse",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-lighthouse/buildings-business-lighthouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-lighthouse/buildings-business-lighthouse_v1.glb",
+    "fbx": "models/buildings/buildings-business-lighthouse/buildings-business-lighthouse_v1.fbx",
+    "thumb": "thumbs/buildings-business-lighthouse_v1.webp",
+    "dims": [
+     16.23,
+     25.64,
+     44.85
+    ],
+    "tris": 1336,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-observatory",
+  "name": "Observatory",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-observatory/buildings-business-observatory.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-observatory/buildings-business-observatory_v1.glb",
+    "fbx": "models/buildings/buildings-business-observatory/buildings-business-observatory_v1.fbx",
+    "thumb": "thumbs/buildings-business-observatory_v1.webp",
+    "dims": [
+     20.14,
+     24.09,
+     23.53
+    ],
+    "tris": 4540,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-oldgasstation",
+  "name": "OldGasStation",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-oldgasstation/buildings-business-oldgasstation.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-oldgasstation/buildings-business-oldgasstation_v1.glb",
+    "fbx": "models/buildings/buildings-business-oldgasstation/buildings-business-oldgasstation_v1.fbx",
+    "thumb": "thumbs/buildings-business-oldgasstation_v1.webp",
+    "dims": [
+     11.68,
+     23.33,
+     8.465
+    ],
+    "tris": 2670,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-parkingstructure",
+  "name": "ParkingStructure",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-parkingstructure/buildings-business-parkingstructure.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-parkingstructure/buildings-business-parkingstructure_v1.glb",
+    "fbx": "models/buildings/buildings-business-parkingstructure/buildings-business-parkingstructure_v1.fbx",
+    "thumb": "thumbs/buildings-business-parkingstructure_v1.webp",
+    "dims": [
+     48.36,
+     25.77,
+     24.56
+    ],
+    "tris": 1338,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-pizzarestaurant",
+  "name": "PizzaRestaurant",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-pizzarestaurant/buildings-business-pizzarestaurant.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-pizzarestaurant/buildings-business-pizzarestaurant_v1.glb",
+    "fbx": "models/buildings/buildings-business-pizzarestaurant/buildings-business-pizzarestaurant_v1.fbx",
+    "thumb": "thumbs/buildings-business-pizzarestaurant_v1.webp",
+    "dims": [
+     11.73,
+     19.16,
+     12.48
+    ],
+    "tris": 1912,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-pub",
+  "name": "Pub",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-pub/buildings-business-pub.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-pub/buildings-business-pub_v1.glb",
+    "fbx": "models/buildings/buildings-business-pub/buildings-business-pub_v1.fbx",
+    "thumb": "thumbs/buildings-business-pub_v1.webp",
+    "dims": [
+     15.45,
+     18.11,
+     9.977
+    ],
+    "tris": 4106,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-restaurant",
+  "name": "Restaurant",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-restaurant/buildings-business-restaurant.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-restaurant/buildings-business-restaurant_v1.glb",
+    "fbx": "models/buildings/buildings-business-restaurant/buildings-business-restaurant_v1.fbx",
+    "thumb": "thumbs/buildings-business-restaurant_v1.webp",
+    "dims": [
+     17.03,
+     16.03,
+     12.26
+    ],
+    "tris": 5602,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-school",
+  "name": "School",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-school/buildings-business-school.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-school/buildings-business-school_v1.glb",
+    "fbx": "models/buildings/buildings-business-school/buildings-business-school_v1.fbx",
+    "thumb": "thumbs/buildings-business-school_v1.webp",
+    "dims": [
+     26.16,
+     25.72,
+     24.74
+    ],
+    "tris": 8086,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-business-smallbusiness",
+  "name": "SmallBusiness",
+  "category": "Buildings",
+  "subcategory": "Business",
+  "tags": [],
+  "blend": "models/buildings/buildings-business-smallbusiness/buildings-business-smallbusiness.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-business-smallbusiness/buildings-business-smallbusiness_v1.glb",
+    "fbx": "models/buildings/buildings-business-smallbusiness/buildings-business-smallbusiness_v1.fbx",
+    "thumb": "thumbs/buildings-business-smallbusiness_v1.webp",
+    "dims": [
+     18.48,
+     14.79,
+     10.81
+    ],
+    "tris": 3516,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-business-smallbusiness/buildings-business-smallbusiness_v2.glb",
+    "fbx": "models/buildings/buildings-business-smallbusiness/buildings-business-smallbusiness_v2.fbx",
+    "thumb": "thumbs/buildings-business-smallbusiness_v2.webp",
+    "dims": [
+     14.79,
+     18.48,
+     11.28
+    ],
+    "tris": 1306,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-barn",
+  "name": "Barn",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-barn/buildings-farm-barn.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-barn/buildings-farm-barn_v1.glb",
+    "fbx": "models/buildings/buildings-farm-barn/buildings-farm-barn_v1.fbx",
+    "thumb": "thumbs/buildings-farm-barn_v1.webp",
+    "dims": [
+     13.56,
+     19.32,
+     13.88
+    ],
+    "tris": 672,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-gardenshed",
+  "name": "GardenShed",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-gardenshed/buildings-farm-gardenshed.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-gardenshed/buildings-farm-gardenshed_v1.glb",
+    "fbx": "models/buildings/buildings-farm-gardenshed/buildings-farm-gardenshed_v1.fbx",
+    "thumb": "thumbs/buildings-farm-gardenshed_v1.webp",
+    "dims": [
+     4.369,
+     6.853,
+     5.578
+    ],
+    "tris": 540,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-metalwindmill",
+  "name": "MetalWindmill",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-metalwindmill/buildings-farm-metalwindmill.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-metalwindmill/buildings-farm-metalwindmill_v1.glb",
+    "fbx": "models/buildings/buildings-farm-metalwindmill/buildings-farm-metalwindmill_v1.fbx",
+    "thumb": "thumbs/buildings-farm-metalwindmill_v1.webp",
+    "dims": [
+     6.561,
+     6.563,
+     26.61
+    ],
+    "tris": 998,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-thatchedcottage",
+  "name": "ThatchedCottage",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage_v1.glb",
+    "fbx": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage_v1.fbx",
+    "thumb": "thumbs/buildings-farm-thatchedcottage_v1.webp",
+    "dims": [
+     14.89,
+     8.306,
+     6.985
+    ],
+    "tris": 1108,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage_v2.glb",
+    "fbx": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage_v2.fbx",
+    "thumb": "thumbs/buildings-farm-thatchedcottage_v2.webp",
+    "dims": [
+     13.5,
+     7.431,
+     7.996
+    ],
+    "tris": 1066,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage_v3.glb",
+    "fbx": "models/buildings/buildings-farm-thatchedcottage/buildings-farm-thatchedcottage_v3.fbx",
+    "thumb": "thumbs/buildings-farm-thatchedcottage_v3.webp",
+    "dims": [
+     13.94,
+     7.672,
+     7.636
+    ],
+    "tris": 994,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-watertower",
+  "name": "WaterTower",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-watertower/buildings-farm-watertower.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-watertower/buildings-farm-watertower_v1.glb",
+    "fbx": "models/buildings/buildings-farm-watertower/buildings-farm-watertower_v1.fbx",
+    "thumb": "thumbs/buildings-farm-watertower_v1.webp",
+    "dims": [
+     13.52,
+     12.01,
+     42.96
+    ],
+    "tris": 1440,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-windturbine",
+  "name": "WindTurbine",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-windturbine/buildings-farm-windturbine.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-windturbine/buildings-farm-windturbine_v1.glb",
+    "fbx": "models/buildings/buildings-farm-windturbine/buildings-farm-windturbine_v1.fbx",
+    "thumb": "thumbs/buildings-farm-windturbine_v1.webp",
+    "dims": [
+     30.08,
+     5.932,
+     54.19
+    ],
+    "tris": 713,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-farm-windmill",
+  "name": "Windmill",
+  "category": "Buildings",
+  "subcategory": "Farm",
+  "tags": [],
+  "blend": "models/buildings/buildings-farm-windmill/buildings-farm-windmill.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-farm-windmill/buildings-farm-windmill_v1.glb",
+    "fbx": "models/buildings/buildings-farm-windmill/buildings-farm-windmill_v1.fbx",
+    "thumb": "thumbs/buildings-farm-windmill_v1.webp",
+    "dims": [
+     17.27,
+     11.29,
+     22.54
+    ],
+    "tris": 2361,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-bandstand",
+  "name": "Bandstand",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-bandstand/buildings-historical-bandstand.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-bandstand/buildings-historical-bandstand_v1.glb",
+    "fbx": "models/buildings/buildings-historical-bandstand/buildings-historical-bandstand_v1.fbx",
+    "thumb": "thumbs/buildings-historical-bandstand_v1.webp",
+    "dims": [
+     9.372,
+     10.97,
+     10.27
+    ],
+    "tris": 1168,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-beehivehut",
+  "name": "BeehiveHut",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-beehivehut/buildings-historical-beehivehut.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-beehivehut/buildings-historical-beehivehut_v1.glb",
+    "fbx": "models/buildings/buildings-historical-beehivehut/buildings-historical-beehivehut_v1.fbx",
+    "thumb": "thumbs/buildings-historical-beehivehut_v1.webp",
+    "dims": [
+     8.723,
+     8.575,
+     6.188
+    ],
+    "tris": 720,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-churchold",
+  "name": "ChurchOld",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-churchold/buildings-historical-churchold.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-churchold/buildings-historical-churchold_v1.glb",
+    "fbx": "models/buildings/buildings-historical-churchold/buildings-historical-churchold_v1.fbx",
+    "thumb": "thumbs/buildings-historical-churchold_v1.webp",
+    "dims": [
+     18.21,
+     18.21,
+     25.55
+    ],
+    "tris": 3792,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-desertbuildingold",
+  "name": "DesertBuildingOld",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v1.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v1.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v1.webp",
+    "dims": [
+     13.37,
+     13.01,
+     12.67
+    ],
+    "tris": 739,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v2.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v2.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v2.webp",
+    "dims": [
+     10.74,
+     10.74,
+     6.624
+    ],
+    "tris": 364,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v3.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v3.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v3.webp",
+    "dims": [
+     13.24,
+     5.469,
+     8.039
+    ],
+    "tris": 422,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v4.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v4.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v4.webp",
+    "dims": [
+     14.96,
+     14.06,
+     15.17
+    ],
+    "tris": 818,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v5.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v5.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v5.webp",
+    "dims": [
+     16.72,
+     13.4,
+     19.64
+    ],
+    "tris": 662,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v6.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v6.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v6.webp",
+    "dims": [
+     12.93,
+     14.6,
+     16.51
+    ],
+    "tris": 792,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v7.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v7.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v7.webp",
+    "dims": [
+     11.17,
+     6.786,
+     6.278
+    ],
+    "tris": 990,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v8.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v8.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v8.webp",
+    "dims": [
+     14.05,
+     12.39,
+     14.59
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v9.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v9.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v9.webp",
+    "dims": [
+     19.47,
+     13.72,
+     13.43
+    ],
+    "tris": 616,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v10.glb",
+    "fbx": "models/buildings/buildings-historical-desertbuildingold/buildings-historical-desertbuildingold_v10.fbx",
+    "thumb": "thumbs/buildings-historical-desertbuildingold_v10.webp",
+    "dims": [
+     9.55,
+     9.55,
+     14.13
+    ],
+    "tris": 970,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-medievalcottage",
+  "name": "MedievalCottage",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v1.glb",
+    "fbx": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v1.fbx",
+    "thumb": "thumbs/buildings-historical-medievalcottage_v1.webp",
+    "dims": [
+     11.52,
+     8.763,
+     9.839
+    ],
+    "tris": 1756,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v2.glb",
+    "fbx": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v2.fbx",
+    "thumb": "thumbs/buildings-historical-medievalcottage_v2.webp",
+    "dims": [
+     7.195,
+     10.72,
+     9.245
+    ],
+    "tris": 1318,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v3.glb",
+    "fbx": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v3.fbx",
+    "thumb": "thumbs/buildings-historical-medievalcottage_v3.webp",
+    "dims": [
+     12.9,
+     7.637,
+     7.854
+    ],
+    "tris": 1062,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v4.glb",
+    "fbx": "models/buildings/buildings-historical-medievalcottage/buildings-historical-medievalcottage_v4.fbx",
+    "thumb": "thumbs/buildings-historical-medievalcottage_v4.webp",
+    "dims": [
+     7.059,
+     10.91,
+     9.447
+    ],
+    "tris": 1160,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-pagoda",
+  "name": "Pagoda",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-pagoda/buildings-historical-pagoda.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-pagoda/buildings-historical-pagoda_v1.glb",
+    "fbx": "models/buildings/buildings-historical-pagoda/buildings-historical-pagoda_v1.fbx",
+    "thumb": "thumbs/buildings-historical-pagoda_v1.webp",
+    "dims": [
+     16.81,
+     16.82,
+     29.18
+    ],
+    "tris": 2746,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-roundhouse",
+  "name": "Roundhouse",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v1.glb",
+    "fbx": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v1.fbx",
+    "thumb": "thumbs/buildings-historical-roundhouse_v1.webp",
+    "dims": [
+     12.31,
+     12.23,
+     6.566
+    ],
+    "tris": 488,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v2.glb",
+    "fbx": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v2.fbx",
+    "thumb": "thumbs/buildings-historical-roundhouse_v2.webp",
+    "dims": [
+     11.59,
+     11.59,
+     8.22
+    ],
+    "tris": 479,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v3.glb",
+    "fbx": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v3.fbx",
+    "thumb": "thumbs/buildings-historical-roundhouse_v3.webp",
+    "dims": [
+     9.188,
+     9.188,
+     7.473
+    ],
+    "tris": 446,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v4.glb",
+    "fbx": "models/buildings/buildings-historical-roundhouse/buildings-historical-roundhouse_v4.fbx",
+    "thumb": "thumbs/buildings-historical-roundhouse_v4.webp",
+    "dims": [
+     11.87,
+     11.42,
+     5.194
+    ],
+    "tris": 339,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-steppedpyramidhuge",
+  "name": "SteppedPyramidHuge",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-steppedpyramidhuge/buildings-historical-steppedpyramidhuge.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-steppedpyramidhuge/buildings-historical-steppedpyramidhuge_v1.glb",
+    "fbx": "models/buildings/buildings-historical-steppedpyramidhuge/buildings-historical-steppedpyramidhuge_v1.fbx",
+    "thumb": "thumbs/buildings-historical-steppedpyramidhuge_v1.webp",
+    "dims": [
+     74.35,
+     85.86,
+     19.92
+    ],
+    "tris": 372,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-steppedpyramidlarge",
+  "name": "SteppedPyramidLarge",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-steppedpyramidlarge/buildings-historical-steppedpyramidlarge.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-steppedpyramidlarge/buildings-historical-steppedpyramidlarge_v1.glb",
+    "fbx": "models/buildings/buildings-historical-steppedpyramidlarge/buildings-historical-steppedpyramidlarge_v1.fbx",
+    "thumb": "thumbs/buildings-historical-steppedpyramidlarge_v1.webp",
+    "dims": [
+     54.08,
+     54.08,
+     18.21
+    ],
+    "tris": 926,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-steppedpyramidsmall",
+  "name": "SteppedPyramidSmall",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-steppedpyramidsmall/buildings-historical-steppedpyramidsmall.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-steppedpyramidsmall/buildings-historical-steppedpyramidsmall_v1.glb",
+    "fbx": "models/buildings/buildings-historical-steppedpyramidsmall/buildings-historical-steppedpyramidsmall_v1.fbx",
+    "thumb": "thumbs/buildings-historical-steppedpyramidsmall_v1.webp",
+    "dims": [
+     28.68,
+     30.46,
+     6.768
+    ],
+    "tris": 146,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-stonetower",
+  "name": "StoneTower",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-stonetower/buildings-historical-stonetower.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-stonetower/buildings-historical-stonetower_v1.glb",
+    "fbx": "models/buildings/buildings-historical-stonetower/buildings-historical-stonetower_v1.fbx",
+    "thumb": "thumbs/buildings-historical-stonetower_v1.webp",
+    "dims": [
+     6.325,
+     5.559,
+     32.44
+    ],
+    "tris": 893,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-historical-toriigate",
+  "name": "ToriiGate",
+  "category": "Buildings",
+  "subcategory": "Historical",
+  "tags": [],
+  "blend": "models/buildings/buildings-historical-toriigate/buildings-historical-toriigate.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-historical-toriigate/buildings-historical-toriigate_v1.glb",
+    "fbx": "models/buildings/buildings-historical-toriigate/buildings-historical-toriigate_v1.fbx",
+    "thumb": "thumbs/buildings-historical-toriigate_v1.webp",
+    "dims": [
+     28.87,
+     12.42,
+     21.74
+    ],
+    "tris": 1568,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-datacenter",
+  "name": "DataCenter",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-datacenter/buildings-industrial-datacenter.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-datacenter/buildings-industrial-datacenter_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-datacenter/buildings-industrial-datacenter_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-datacenter_v1.webp",
+    "dims": [
+     50.3,
+     47.05,
+     14.16
+    ],
+    "tris": 1388,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-factory",
+  "name": "Factory",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-factory/buildings-industrial-factory.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-factory_v1.webp",
+    "dims": [
+     48.35,
+     23.28,
+     24.29
+    ],
+    "tris": 3908,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-factory_v2.webp",
+    "dims": [
+     48.35,
+     23.28,
+     24.04
+    ],
+    "tris": 5844,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-factory_v3.webp",
+    "dims": [
+     48.35,
+     23.42,
+     23.98
+    ],
+    "tris": 5668,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-factory/buildings-industrial-factory_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-factory_v4.webp",
+    "dims": [
+     48.35,
+     23.28,
+     23.98
+    ],
+    "tris": 4570,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-factorysmokestack",
+  "name": "FactorySmokestack",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-factorysmokestack/buildings-industrial-factorysmokestack.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-factorysmokestack/buildings-industrial-factorysmokestack_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-factorysmokestack/buildings-industrial-factorysmokestack_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-factorysmokestack_v1.webp",
+    "dims": [
+     15.37,
+     15.37,
+     65.68
+    ],
+    "tris": 288,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-hydropowerstation",
+  "name": "HydroPowerStation",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-hydropowerstation/buildings-industrial-hydropowerstation.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-hydropowerstation/buildings-industrial-hydropowerstation_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-hydropowerstation/buildings-industrial-hydropowerstation_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-hydropowerstation_v1.webp",
+    "dims": [
+     15.68,
+     12.2,
+     12.86
+    ],
+    "tris": 5030,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-industrialbuilding",
+  "name": "IndustrialBuilding",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialbuilding_v1.webp",
+    "dims": [
+     48.38,
+     23.32,
+     18.37
+    ],
+    "tris": 980,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialbuilding_v2.webp",
+    "dims": [
+     49.61,
+     24.17,
+     11.27
+    ],
+    "tris": 564,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialbuilding_v3.webp",
+    "dims": [
+     48.49,
+     23.37,
+     19.25
+    ],
+    "tris": 1204,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialbuilding_v4.webp",
+    "dims": [
+     49.02,
+     23.31,
+     7.662
+    ],
+    "tris": 356,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v5.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v5.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialbuilding_v5.webp",
+    "dims": [
+     50.86,
+     23.76,
+     11.92
+    ],
+    "tris": 770,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v6.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialbuilding/buildings-industrial-industrialbuilding_v6.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialbuilding_v6.webp",
+    "dims": [
+     49.07,
+     23.18,
+     17.2
+    ],
+    "tris": 923,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-industrialsmokestack",
+  "name": "IndustrialSmokeStack",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-industrialsmokestack/buildings-industrial-industrialsmokestack.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-industrialsmokestack/buildings-industrial-industrialsmokestack_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-industrialsmokestack/buildings-industrial-industrialsmokestack_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-industrialsmokestack_v1.webp",
+    "dims": [
+     11.24,
+     11.24,
+     44.93
+    ],
+    "tris": 256,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-modernskyscraper",
+  "name": "ModernSkyscraper",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v1.webp",
+    "dims": [
+     20.98,
+     21.01,
+     82.3
+    ],
+    "tris": 738,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v2.webp",
+    "dims": [
+     21.04,
+     20.96,
+     80.86
+    ],
+    "tris": 618,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v3.webp",
+    "dims": [
+     21.04,
+     21.03,
+     79.37
+    ],
+    "tris": 316,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v4.webp",
+    "dims": [
+     21.44,
+     21.52,
+     79.55
+    ],
+    "tris": 440,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v5.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v5.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v5.webp",
+    "dims": [
+     21.51,
+     20.99,
+     82.06
+    ],
+    "tris": 468,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v6.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v6.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v6.webp",
+    "dims": [
+     21.02,
+     21.0,
+     82.41
+    ],
+    "tris": 276,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v7.glb",
+    "fbx": "models/buildings/buildings-industrial-modernskyscraper/buildings-industrial-modernskyscraper_v7.fbx",
+    "thumb": "thumbs/buildings-industrial-modernskyscraper_v7.webp",
+    "dims": [
+     20.98,
+     21.06,
+     83.78
+    ],
+    "tris": 520,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-officebuilding",
+  "name": "OfficeBuilding",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-officebuilding_v1.webp",
+    "dims": [
+     23.36,
+     10.73,
+     43.42
+    ],
+    "tris": 1548,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-officebuilding_v2.webp",
+    "dims": [
+     23.37,
+     10.77,
+     26.63
+    ],
+    "tris": 284,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-officebuilding_v3.webp",
+    "dims": [
+     23.36,
+     10.98,
+     30.74
+    ],
+    "tris": 520,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-officebuilding_v4.webp",
+    "dims": [
+     24.37,
+     10.96,
+     25.11
+    ],
+    "tris": 656,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v5.glb",
+    "fbx": "models/buildings/buildings-industrial-officebuilding/buildings-industrial-officebuilding_v5.fbx",
+    "thumb": "thumbs/buildings-industrial-officebuilding_v5.webp",
+    "dims": [
+     23.36,
+     10.85,
+     33.18
+    ],
+    "tris": 792,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-oilrig",
+  "name": "OilRig",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-oilrig/buildings-industrial-oilrig.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-oilrig/buildings-industrial-oilrig_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-oilrig/buildings-industrial-oilrig_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-oilrig_v1.webp",
+    "dims": [
+     19.38,
+     21.19,
+     91.69
+    ],
+    "tris": 7470,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-onshoreoilrig",
+  "name": "OnshoreOilRig",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-onshoreoilrig/buildings-industrial-onshoreoilrig.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-onshoreoilrig/buildings-industrial-onshoreoilrig_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-onshoreoilrig/buildings-industrial-onshoreoilrig_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-onshoreoilrig_v1.webp",
+    "dims": [
+     34.55,
+     51.67,
+     79.01
+    ],
+    "tris": 1126,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-smallindustrialstructure",
+  "name": "SmallIndustrialStructure",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v1.webp",
+    "dims": [
+     10.78,
+     10.82,
+     10.07
+    ],
+    "tris": 68,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v2.webp",
+    "dims": [
+     10.75,
+     10.84,
+     4.137
+    ],
+    "tris": 286,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v3.webp",
+    "dims": [
+     10.98,
+     10.87,
+     5.967
+    ],
+    "tris": 200,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v4.webp",
+    "dims": [
+     11.11,
+     11.14,
+     5.233
+    ],
+    "tris": 76,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v5.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v5.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v5.webp",
+    "dims": [
+     11.3,
+     11.34,
+     8.861
+    ],
+    "tris": 132,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v6.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v6.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v6.webp",
+    "dims": [
+     10.78,
+     10.83,
+     6.725
+    ],
+    "tris": 148,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v7.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v7.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v7.webp",
+    "dims": [
+     10.78,
+     10.83,
+     9.96
+    ],
+    "tris": 632,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v8.glb",
+    "fbx": "models/buildings/buildings-industrial-smallindustrialstructure/buildings-industrial-smallindustrialstructure_v8.fbx",
+    "thumb": "thumbs/buildings-industrial-smallindustrialstructure_v8.webp",
+    "dims": [
+     10.78,
+     10.83,
+     4.491
+    ],
+    "tris": 88,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-storagefacility",
+  "name": "StorageFacility",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-storagefacility/buildings-industrial-storagefacility.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-storagefacility/buildings-industrial-storagefacility_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-storagefacility/buildings-industrial-storagefacility_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-storagefacility_v1.webp",
+    "dims": [
+     29.39,
+     24.7,
+     12.94
+    ],
+    "tris": 1096,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-towercrane",
+  "name": "TowerCrane",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-towercrane/buildings-industrial-towercrane.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-towercrane/buildings-industrial-towercrane_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-towercrane/buildings-industrial-towercrane_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-towercrane_v1.webp",
+    "dims": [
+     11.55,
+     61.57,
+     61.72
+    ],
+    "tris": 1036,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-traditionalskyscraper",
+  "name": "TraditionalSkyscraper",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v1.webp",
+    "dims": [
+     20.98,
+     21.0,
+     70.87
+    ],
+    "tris": 1292,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v2.webp",
+    "dims": [
+     21.03,
+     21.03,
+     67.7
+    ],
+    "tris": 1192,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v3.webp",
+    "dims": [
+     21.78,
+     21.78,
+     66.86
+    ],
+    "tris": 430,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v4.webp",
+    "dims": [
+     21.31,
+     21.39,
+     67.37
+    ],
+    "tris": 1762,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v5.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v5.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v5.webp",
+    "dims": [
+     21.19,
+     21.22,
+     71.21
+    ],
+    "tris": 1610,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v6.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v6.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v6.webp",
+    "dims": [
+     21.0,
+     21.0,
+     73.26
+    ],
+    "tris": 372,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v7.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v7.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v7.webp",
+    "dims": [
+     21.21,
+     22.29,
+     71.2
+    ],
+    "tris": 408,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v8.glb",
+    "fbx": "models/buildings/buildings-industrial-traditionalskyscraper/buildings-industrial-traditionalskyscraper_v8.fbx",
+    "thumb": "thumbs/buildings-industrial-traditionalskyscraper_v8.webp",
+    "dims": [
+     21.84,
+     21.75,
+     69.6
+    ],
+    "tris": 734,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-transmissiontower",
+  "name": "TransmissionTower",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-transmissiontower/buildings-industrial-transmissiontower.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-transmissiontower/buildings-industrial-transmissiontower_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-transmissiontower/buildings-industrial-transmissiontower_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-transmissiontower_v1.webp",
+    "dims": [
+     16.34,
+     74.17,
+     43.83
+    ],
+    "tris": 5274,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-vab",
+  "name": "VAB",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-vab/buildings-industrial-vab.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-vab/buildings-industrial-vab_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-vab/buildings-industrial-vab_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-vab_v1.webp",
+    "dims": [
+     14.0,
+     12.58,
+     12.72
+    ],
+    "tris": 1056,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-warehouse",
+  "name": "Warehouse",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-warehouse_v1.webp",
+    "dims": [
+     23.75,
+     23.81,
+     13.59
+    ],
+    "tris": 700,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-warehouse_v2.webp",
+    "dims": [
+     23.73,
+     23.81,
+     13.59
+    ],
+    "tris": 568,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-warehouse_v3.webp",
+    "dims": [
+     23.51,
+     23.35,
+     13.55
+    ],
+    "tris": 432,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-warehouse/buildings-industrial-warehouse_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-warehouse_v4.webp",
+    "dims": [
+     23.51,
+     23.81,
+     13.59
+    ],
+    "tris": 724,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-industrial-wideofficebuilding",
+  "name": "WideOfficeBuilding",
+  "category": "Buildings",
+  "subcategory": "Industrial",
+  "tags": [],
+  "blend": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v1.glb",
+    "fbx": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v1.fbx",
+    "thumb": "thumbs/buildings-industrial-wideofficebuilding_v1.webp",
+    "dims": [
+     49.97,
+     23.74,
+     49.1
+    ],
+    "tris": 752,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v2.glb",
+    "fbx": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v2.fbx",
+    "thumb": "thumbs/buildings-industrial-wideofficebuilding_v2.webp",
+    "dims": [
+     48.38,
+     23.25,
+     25.49
+    ],
+    "tris": 380,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v3.glb",
+    "fbx": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v3.fbx",
+    "thumb": "thumbs/buildings-industrial-wideofficebuilding_v3.webp",
+    "dims": [
+     48.65,
+     23.58,
+     23.02
+    ],
+    "tris": 300,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v4.glb",
+    "fbx": "models/buildings/buildings-industrial-wideofficebuilding/buildings-industrial-wideofficebuilding_v4.fbx",
+    "thumb": "thumbs/buildings-industrial-wideofficebuilding_v4.webp",
+    "dims": [
+     48.31,
+     23.38,
+     26.1
+    ],
+    "tris": 310,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-adobehouse",
+  "name": "AdobeHouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-adobehouse_v1.webp",
+    "dims": [
+     27.71,
+     22.01,
+     15.46
+    ],
+    "tris": 1350,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse_v2.glb",
+    "fbx": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse_v2.fbx",
+    "thumb": "thumbs/buildings-residential-adobehouse_v2.webp",
+    "dims": [
+     23.69,
+     15.24,
+     12.91
+    ],
+    "tris": 1076,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse_v3.glb",
+    "fbx": "models/buildings/buildings-residential-adobehouse/buildings-residential-adobehouse_v3.fbx",
+    "thumb": "thumbs/buildings-residential-adobehouse_v3.webp",
+    "dims": [
+     22.66,
+     18.75,
+     13.12
+    ],
+    "tris": 1202,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-caravan",
+  "name": "Caravan",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-caravan/buildings-residential-caravan.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-caravan/buildings-residential-caravan_v1.glb",
+    "fbx": "models/buildings/buildings-residential-caravan/buildings-residential-caravan_v1.fbx",
+    "thumb": "thumbs/buildings-residential-caravan_v1.webp",
+    "dims": [
+     3.019,
+     8.981,
+     3.255
+    ],
+    "tris": 1658,
+    "parts": 4
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-elevatedhouse",
+  "name": "ElevatedHouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-elevatedhouse/buildings-residential-elevatedhouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-elevatedhouse/buildings-residential-elevatedhouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-elevatedhouse/buildings-residential-elevatedhouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-elevatedhouse_v1.webp",
+    "dims": [
+     12.81,
+     13.64,
+     8.615
+    ],
+    "tris": 2854,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-familyhome",
+  "name": "FamilyHome",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v1.glb",
+    "fbx": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v1.fbx",
+    "thumb": "thumbs/buildings-residential-familyhome_v1.webp",
+    "dims": [
+     9.62,
+     12.62,
+     7.602
+    ],
+    "tris": 1705,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v2.glb",
+    "fbx": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v2.fbx",
+    "thumb": "thumbs/buildings-residential-familyhome_v2.webp",
+    "dims": [
+     9.62,
+     12.62,
+     7.602
+    ],
+    "tris": 1705,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v3.glb",
+    "fbx": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v3.fbx",
+    "thumb": "thumbs/buildings-residential-familyhome_v3.webp",
+    "dims": [
+     9.62,
+     12.62,
+     7.602
+    ],
+    "tris": 1801,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v4.glb",
+    "fbx": "models/buildings/buildings-residential-familyhome/buildings-residential-familyhome_v4.fbx",
+    "thumb": "thumbs/buildings-residential-familyhome_v4.webp",
+    "dims": [
+     9.62,
+     12.62,
+     7.602
+    ],
+    "tris": 1795,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-geodesichome",
+  "name": "GeodesicHome",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome_v1.glb",
+    "fbx": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome_v1.fbx",
+    "thumb": "thumbs/buildings-residential-geodesichome_v1.webp",
+    "dims": [
+     12.62,
+     13.26,
+     11.63
+    ],
+    "tris": 1076,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome_v2.glb",
+    "fbx": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome_v2.fbx",
+    "thumb": "thumbs/buildings-residential-geodesichome_v2.webp",
+    "dims": [
+     11.34,
+     11.41,
+     10.5
+    ],
+    "tris": 790,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome_v3.glb",
+    "fbx": "models/buildings/buildings-residential-geodesichome/buildings-residential-geodesichome_v3.fbx",
+    "thumb": "thumbs/buildings-residential-geodesichome_v3.webp",
+    "dims": [
+     12.3,
+     11.63,
+     11.67
+    ],
+    "tris": 1118,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-georgianhome",
+  "name": "GeorgianHome",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v1.glb",
+    "fbx": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v1.fbx",
+    "thumb": "thumbs/buildings-residential-georgianhome_v1.webp",
+    "dims": [
+     11.21,
+     12.58,
+     18.64
+    ],
+    "tris": 2622,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v2.glb",
+    "fbx": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v2.fbx",
+    "thumb": "thumbs/buildings-residential-georgianhome_v2.webp",
+    "dims": [
+     11.2,
+     10.83,
+     17.64
+    ],
+    "tris": 4240,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v3.glb",
+    "fbx": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v3.fbx",
+    "thumb": "thumbs/buildings-residential-georgianhome_v3.webp",
+    "dims": [
+     11.16,
+     11.27,
+     16.12
+    ],
+    "tris": 2464,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v4.glb",
+    "fbx": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v4.fbx",
+    "thumb": "thumbs/buildings-residential-georgianhome_v4.webp",
+    "dims": [
+     11.34,
+     11.34,
+     18.64
+    ],
+    "tris": 2964,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v5.glb",
+    "fbx": "models/buildings/buildings-residential-georgianhome/buildings-residential-georgianhome_v5.fbx",
+    "thumb": "thumbs/buildings-residential-georgianhome_v5.webp",
+    "dims": [
+     10.81,
+     10.83,
+     17.64
+    ],
+    "tris": 3150,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-greenhouse",
+  "name": "GreenHouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-greenhouse/buildings-residential-greenhouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-greenhouse/buildings-residential-greenhouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-greenhouse/buildings-residential-greenhouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-greenhouse_v1.webp",
+    "dims": [
+     9.714,
+     10.94,
+     7.836
+    ],
+    "tris": 2312,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-greenhut",
+  "name": "GreenHut",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-greenhut/buildings-residential-greenhut.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-greenhut/buildings-residential-greenhut_v1.glb",
+    "fbx": "models/buildings/buildings-residential-greenhut/buildings-residential-greenhut_v1.fbx",
+    "thumb": "thumbs/buildings-residential-greenhut_v1.webp",
+    "dims": [
+     7.278,
+     8.221,
+     8.759
+    ],
+    "tris": 774,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-igloo",
+  "name": "Igloo",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-igloo/buildings-residential-igloo.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-igloo/buildings-residential-igloo_v1.glb",
+    "fbx": "models/buildings/buildings-residential-igloo/buildings-residential-igloo_v1.fbx",
+    "thumb": "thumbs/buildings-residential-igloo_v1.webp",
+    "dims": [
+     6.908,
+     7.849,
+     4.411
+    ],
+    "tris": 1086,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-largeadobehouse",
+  "name": "LargeAdobeHouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-largeadobehouse_v1.webp",
+    "dims": [
+     39.39,
+     31.24,
+     19.74
+    ],
+    "tris": 2382,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse_v2.glb",
+    "fbx": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse_v2.fbx",
+    "thumb": "thumbs/buildings-residential-largeadobehouse_v2.webp",
+    "dims": [
+     33.46,
+     26.21,
+     17.33
+    ],
+    "tris": 2012,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse_v3.glb",
+    "fbx": "models/buildings/buildings-residential-largeadobehouse/buildings-residential-largeadobehouse_v3.fbx",
+    "thumb": "thumbs/buildings-residential-largeadobehouse_v3.webp",
+    "dims": [
+     37.81,
+     27.98,
+     17.33
+    ],
+    "tris": 2276,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-largefamilyhome",
+  "name": "LargeFamilyHome",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v1.glb",
+    "fbx": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v1.fbx",
+    "thumb": "thumbs/buildings-residential-largefamilyhome_v1.webp",
+    "dims": [
+     17.94,
+     14.61,
+     13.1
+    ],
+    "tris": 4528,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v2.glb",
+    "fbx": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v2.fbx",
+    "thumb": "thumbs/buildings-residential-largefamilyhome_v2.webp",
+    "dims": [
+     14.61,
+     14.61,
+     13.1
+    ],
+    "tris": 4362,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v3.glb",
+    "fbx": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v3.fbx",
+    "thumb": "thumbs/buildings-residential-largefamilyhome_v3.webp",
+    "dims": [
+     14.61,
+     14.61,
+     13.1
+    ],
+    "tris": 4358,
+    "parts": 3
+   },
+   {
+    "glb": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v4.glb",
+    "fbx": "models/buildings/buildings-residential-largefamilyhome/buildings-residential-largefamilyhome_v4.fbx",
+    "thumb": "thumbs/buildings-residential-largefamilyhome_v4.webp",
+    "dims": [
+     17.94,
+     14.61,
+     13.81
+    ],
+    "tris": 4632,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-loft",
+  "name": "Loft",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-loft/buildings-residential-loft.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-loft/buildings-residential-loft_v1.glb",
+    "fbx": "models/buildings/buildings-residential-loft/buildings-residential-loft_v1.fbx",
+    "thumb": "thumbs/buildings-residential-loft_v1.webp",
+    "dims": [
+     23.63,
+     23.63,
+     23.18
+    ],
+    "tris": 14384,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-loft/buildings-residential-loft_v2.glb",
+    "fbx": "models/buildings/buildings-residential-loft/buildings-residential-loft_v2.fbx",
+    "thumb": "thumbs/buildings-residential-loft_v2.webp",
+    "dims": [
+     22.17,
+     22.17,
+     21.51
+    ],
+    "tris": 11600,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-loft/buildings-residential-loft_v3.glb",
+    "fbx": "models/buildings/buildings-residential-loft/buildings-residential-loft_v3.fbx",
+    "thumb": "thumbs/buildings-residential-loft_v3.webp",
+    "dims": [
+     24.23,
+     24.23,
+     21.67
+    ],
+    "tris": 8272,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-loft/buildings-residential-loft_v4.glb",
+    "fbx": "models/buildings/buildings-residential-loft/buildings-residential-loft_v4.fbx",
+    "thumb": "thumbs/buildings-residential-loft_v4.webp",
+    "dims": [
+     23.63,
+     23.63,
+     16.69
+    ],
+    "tris": 9328,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-loft/buildings-residential-loft_v5.glb",
+    "fbx": "models/buildings/buildings-residential-loft/buildings-residential-loft_v5.fbx",
+    "thumb": "thumbs/buildings-residential-loft_v5.webp",
+    "dims": [
+     22.17,
+     22.17,
+     18.13
+    ],
+    "tris": 9168,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-loft/buildings-residential-loft_v6.glb",
+    "fbx": "models/buildings/buildings-residential-loft/buildings-residential-loft_v6.fbx",
+    "thumb": "thumbs/buildings-residential-loft_v6.webp",
+    "dims": [
+     24.1,
+     24.1,
+     15.29
+    ],
+    "tris": 5760,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-logcabin",
+  "name": "LogCabin",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-logcabin/buildings-residential-logcabin.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-logcabin/buildings-residential-logcabin_v1.glb",
+    "fbx": "models/buildings/buildings-residential-logcabin/buildings-residential-logcabin_v1.fbx",
+    "thumb": "thumbs/buildings-residential-logcabin_v1.webp",
+    "dims": [
+     9.71,
+     17.59,
+     9.266
+    ],
+    "tris": 1015,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-logcabin/buildings-residential-logcabin_v2.glb",
+    "fbx": "models/buildings/buildings-residential-logcabin/buildings-residential-logcabin_v2.fbx",
+    "thumb": "thumbs/buildings-residential-logcabin_v2.webp",
+    "dims": [
+     11.68,
+     9.093,
+     7.696
+    ],
+    "tris": 502,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-oldcottage",
+  "name": "OldCottage",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v1.glb",
+    "fbx": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v1.fbx",
+    "thumb": "thumbs/buildings-residential-oldcottage_v1.webp",
+    "dims": [
+     9.714,
+     8.628,
+     7.049
+    ],
+    "tris": 2320,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v2.glb",
+    "fbx": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v2.fbx",
+    "thumb": "thumbs/buildings-residential-oldcottage_v2.webp",
+    "dims": [
+     9.714,
+     8.628,
+     7.049
+    ],
+    "tris": 2320,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v3.glb",
+    "fbx": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v3.fbx",
+    "thumb": "thumbs/buildings-residential-oldcottage_v3.webp",
+    "dims": [
+     9.714,
+     8.628,
+     7.785
+    ],
+    "tris": 2372,
+    "parts": 2
+   },
+   {
+    "glb": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v4.glb",
+    "fbx": "models/buildings/buildings-residential-oldcottage/buildings-residential-oldcottage_v4.fbx",
+    "thumb": "thumbs/buildings-residential-oldcottage_v4.webp",
+    "dims": [
+     9.714,
+     8.628,
+     7.049
+    ],
+    "tris": 2106,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-recursivehouse",
+  "name": "RecursiveHouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-recursivehouse/buildings-residential-recursivehouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-recursivehouse/buildings-residential-recursivehouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-recursivehouse/buildings-residential-recursivehouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-recursivehouse_v1.webp",
+    "dims": [
+     18.31,
+     12.9,
+     12.3
+    ],
+    "tris": 5535,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-ridiculouslysmallhouse",
+  "name": "RidiculouslySmallHouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-ridiculouslysmallhouse/buildings-residential-ridiculouslysmallhouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-ridiculouslysmallhouse/buildings-residential-ridiculouslysmallhouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-ridiculouslysmallhouse/buildings-residential-ridiculouslysmallhouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-ridiculouslysmallhouse_v1.webp",
+    "dims": [
+     7.179,
+     6.091,
+     7.691
+    ],
+    "tris": 1004,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-residential-townhouse",
+  "name": "Townhouse",
+  "category": "Buildings",
+  "subcategory": "Residential",
+  "tags": [],
+  "blend": "models/buildings/buildings-residential-townhouse/buildings-residential-townhouse.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-residential-townhouse/buildings-residential-townhouse_v1.glb",
+    "fbx": "models/buildings/buildings-residential-townhouse/buildings-residential-townhouse_v1.fbx",
+    "thumb": "thumbs/buildings-residential-townhouse_v1.webp",
+    "dims": [
+     14.6,
+     13.06,
+     13.67
+    ],
+    "tris": 9942,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "buildings-ruins-ancientruins",
+  "name": "AncientRuins",
+  "category": "Buildings",
+  "subcategory": "Ruins",
+  "tags": [],
+  "blend": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v1.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v1.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v1.webp",
+    "dims": [
+     1.427,
+     1.427,
+     5.098
+    ],
+    "tris": 148,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v2.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v2.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v2.webp",
+    "dims": [
+     10.19,
+     1.877,
+     11.05
+    ],
+    "tris": 1096,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v3.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v3.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v3.webp",
+    "dims": [
+     1.427,
+     1.427,
+     8.7
+    ],
+    "tris": 148,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v4.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v4.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v4.webp",
+    "dims": [
+     3.099,
+     0.8382,
+     3.473
+    ],
+    "tris": 812,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v5.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v5.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v5.webp",
+    "dims": [
+     1.645,
+     6.566,
+     1.698
+    ],
+    "tris": 164,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v6.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v6.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v6.webp",
+    "dims": [
+     4.143,
+     2.361,
+     8.399
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v7.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v7.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v7.webp",
+    "dims": [
+     3.131,
+     1.758,
+     4.696
+    ],
+    "tris": 168,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v8.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v8.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v8.webp",
+    "dims": [
+     2.62,
+     3.917,
+     2.595
+    ],
+    "tris": 112,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v9.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v9.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v9.webp",
+    "dims": [
+     3.612,
+     3.612,
+     1.434
+    ],
+    "tris": 296,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v10.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v10.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v10.webp",
+    "dims": [
+     4.713,
+     6.701,
+     2.052
+    ],
+    "tris": 554,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v11.glb",
+    "fbx": "models/buildings/buildings-ruins-ancientruins/buildings-ruins-ancientruins_v11.fbx",
+    "thumb": "thumbs/buildings-ruins-ancientruins_v11.webp",
+    "dims": [
+     7.881,
+     1.354,
+     3.951
+    ],
+    "tris": 514,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-ruins-castleruins",
+  "name": "CastleRuins",
+  "category": "Buildings",
+  "subcategory": "Ruins",
+  "tags": [],
+  "blend": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v1.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v1.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v1.webp",
+    "dims": [
+     9.035,
+     3.345,
+     24.53
+    ],
+    "tris": 440,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v2.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v2.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v2.webp",
+    "dims": [
+     9.035,
+     3.345,
+     24.53
+    ],
+    "tris": 368,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v3.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v3.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v3.webp",
+    "dims": [
+     12.24,
+     12.24,
+     24.77
+    ],
+    "tris": 396,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v4.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v4.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v4.webp",
+    "dims": [
+     12.24,
+     12.24,
+     14.92
+    ],
+    "tris": 396,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v5.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v5.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v5.webp",
+    "dims": [
+     15.02,
+     4.49,
+     23.61
+    ],
+    "tris": 252,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v6.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v6.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v6.webp",
+    "dims": [
+     15.02,
+     4.49,
+     13.72
+    ],
+    "tris": 252,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v7.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v7.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v7.webp",
+    "dims": [
+     20.2,
+     17.49,
+     28.61
+    ],
+    "tris": 1560,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v8.glb",
+    "fbx": "models/buildings/buildings-ruins-castleruins/buildings-ruins-castleruins_v8.fbx",
+    "thumb": "thumbs/buildings-ruins-castleruins_v8.webp",
+    "dims": [
+     10.67,
+     10.67,
+     27.49
+    ],
+    "tris": 930,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-ruins-cathedralruins",
+  "name": "CathedralRuins",
+  "category": "Buildings",
+  "subcategory": "Ruins",
+  "tags": [],
+  "blend": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v1.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v1.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v1.webp",
+    "dims": [
+     6.163,
+     2.436,
+     10.45
+    ],
+    "tris": 672,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v2.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v2.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v2.webp",
+    "dims": [
+     11.13,
+     1.897,
+     11.46
+    ],
+    "tris": 976,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v3.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v3.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v3.webp",
+    "dims": [
+     10.64,
+     1.544,
+     13.22
+    ],
+    "tris": 384,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v4.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v4.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v4.webp",
+    "dims": [
+     5.942,
+     1.699,
+     9.956
+    ],
+    "tris": 288,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v5.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v5.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v5.webp",
+    "dims": [
+     5.874,
+     3.159,
+     13.99
+    ],
+    "tris": 298,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v6.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v6.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v6.webp",
+    "dims": [
+     10.2,
+     6.301,
+     10.69
+    ],
+    "tris": 562,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v7.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v7.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v7.webp",
+    "dims": [
+     9.196,
+     5.189,
+     8.3
+    ],
+    "tris": 306,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v8.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v8.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v8.webp",
+    "dims": [
+     9.463,
+     5.457,
+     7.835
+    ],
+    "tris": 1292,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v9.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v9.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v9.webp",
+    "dims": [
+     11.13,
+     1.897,
+     22.67
+    ],
+    "tris": 1360,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v10.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v10.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v10.webp",
+    "dims": [
+     5.969,
+     3.159,
+     21.85
+    ],
+    "tris": 586,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v11.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v11.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v11.webp",
+    "dims": [
+     10.2,
+     6.301,
+     22.88
+    ],
+    "tris": 2160,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v12.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v12.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v12.webp",
+    "dims": [
+     10.2,
+     6.301,
+     17.08
+    ],
+    "tris": 868,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v13.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v13.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v13.webp",
+    "dims": [
+     2.164,
+     2.308,
+     3.278
+    ],
+    "tris": 298,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v14.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v14.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v14.webp",
+    "dims": [
+     2.164,
+     2.308,
+     10.45
+    ],
+    "tris": 312,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v15.glb",
+    "fbx": "models/buildings/buildings-ruins-cathedralruins/buildings-ruins-cathedralruins_v15.fbx",
+    "thumb": "thumbs/buildings-ruins-cathedralruins_v15.webp",
+    "dims": [
+     2.164,
+     2.308,
+     6.42
+    ],
+    "tris": 192,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-ruins-templeruins",
+  "name": "TempleRuins",
+  "category": "Buildings",
+  "subcategory": "Ruins",
+  "tags": [],
+  "blend": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v1.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v1.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v1.webp",
+    "dims": [
+     6.041,
+     4.306,
+     7.924
+    ],
+    "tris": 1108,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v2.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v2.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v2.webp",
+    "dims": [
+     4.482,
+     1.218,
+     5.731
+    ],
+    "tris": 1016,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v3.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v3.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v3.webp",
+    "dims": [
+     4.786,
+     3.207,
+     0.9627
+    ],
+    "tris": 386,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v4.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v4.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v4.webp",
+    "dims": [
+     4.175,
+     4.175,
+     8.411
+    ],
+    "tris": 512,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v5.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v5.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v5.webp",
+    "dims": [
+     4.317,
+     4.317,
+     9.835
+    ],
+    "tris": 672,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v6.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v6.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v6.webp",
+    "dims": [
+     5.294,
+     5.192,
+     7.915
+    ],
+    "tris": 798,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v7.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v7.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v7.webp",
+    "dims": [
+     3.658,
+     3.658,
+     16.85
+    ],
+    "tris": 1354,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v8.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v8.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v8.webp",
+    "dims": [
+     3.315,
+     2.075,
+     0.2532
+    ],
+    "tris": 296,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v9.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v9.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v9.webp",
+    "dims": [
+     8.117,
+     8.301,
+     8.541
+    ],
+    "tris": 540,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v10.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v10.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v10.webp",
+    "dims": [
+     6.356,
+     2.57,
+     6.455
+    ],
+    "tris": 1104,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v11.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v11.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v11.webp",
+    "dims": [
+     6.114,
+     6.114,
+     12.14
+    ],
+    "tris": 534,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v12.glb",
+    "fbx": "models/buildings/buildings-ruins-templeruins/buildings-ruins-templeruins_v12.fbx",
+    "thumb": "thumbs/buildings-ruins-templeruins_v12.webp",
+    "dims": [
+     6.98,
+     6.98,
+     9.733
+    ],
+    "tris": 424,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-tents-bedouintent",
+  "name": "BedouinTent",
+  "category": "Buildings",
+  "subcategory": "Tents",
+  "tags": [],
+  "blend": "models/buildings/buildings-tents-bedouintent/buildings-tents-bedouintent.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-tents-bedouintent/buildings-tents-bedouintent_v1.glb",
+    "fbx": "models/buildings/buildings-tents-bedouintent/buildings-tents-bedouintent_v1.fbx",
+    "thumb": "thumbs/buildings-tents-bedouintent_v1.webp",
+    "dims": [
+     14.95,
+     12.74,
+     4.966
+    ],
+    "tris": 1144,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-tents-markettent",
+  "name": "MarketTent",
+  "category": "Buildings",
+  "subcategory": "Tents",
+  "tags": [],
+  "blend": "models/buildings/buildings-tents-markettent/buildings-tents-markettent.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-tents-markettent/buildings-tents-markettent_v1.glb",
+    "fbx": "models/buildings/buildings-tents-markettent/buildings-tents-markettent_v1.fbx",
+    "thumb": "thumbs/buildings-tents-markettent_v1.webp",
+    "dims": [
+     4.876,
+     4.876,
+     6.699
+    ],
+    "tris": 488,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "buildings-tents-tent",
+  "name": "Tent",
+  "category": "Buildings",
+  "subcategory": "Tents",
+  "tags": [],
+  "blend": "models/buildings/buildings-tents-tent/buildings-tents-tent.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-tents-tent/buildings-tents-tent_v1.glb",
+    "fbx": "models/buildings/buildings-tents-tent/buildings-tents-tent_v1.fbx",
+    "thumb": "thumbs/buildings-tents-tent_v1.webp",
+    "dims": [
+     2.063,
+     2.637,
+     2.086
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-tents-tipi",
+  "name": "Tipi",
+  "category": "Buildings",
+  "subcategory": "Tents",
+  "tags": [],
+  "blend": "models/buildings/buildings-tents-tipi/buildings-tents-tipi.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-tents-tipi/buildings-tents-tipi_v1.glb",
+    "fbx": "models/buildings/buildings-tents-tipi/buildings-tents-tipi_v1.fbx",
+    "thumb": "thumbs/buildings-tents-tipi_v1.webp",
+    "dims": [
+     5.353,
+     4.75,
+     4.784
+    ],
+    "tris": 240,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-tents-wintertent",
+  "name": "WinterTent",
+  "category": "Buildings",
+  "subcategory": "Tents",
+  "tags": [],
+  "blend": "models/buildings/buildings-tents-wintertent/buildings-tents-wintertent.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-tents-wintertent/buildings-tents-wintertent_v1.glb",
+    "fbx": "models/buildings/buildings-tents-wintertent/buildings-tents-wintertent_v1.fbx",
+    "thumb": "thumbs/buildings-tents-wintertent_v1.webp",
+    "dims": [
+     4.22,
+     5.507,
+     3.49
+    ],
+    "tris": 348,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "buildings-tents-yurt",
+  "name": "Yurt",
+  "category": "Buildings",
+  "subcategory": "Tents",
+  "tags": [],
+  "blend": "models/buildings/buildings-tents-yurt/buildings-tents-yurt.blend",
+  "variants": [
+   {
+    "glb": "models/buildings/buildings-tents-yurt/buildings-tents-yurt_v1.glb",
+    "fbx": "models/buildings/buildings-tents-yurt/buildings-tents-yurt_v1.fbx",
+    "thumb": "thumbs/buildings-tents-yurt_v1.webp",
+    "dims": [
+     14.2,
+     14.2,
+     8.27
+    ],
+    "tris": 680,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-tents-yurt/buildings-tents-yurt_v2.glb",
+    "fbx": "models/buildings/buildings-tents-yurt/buildings-tents-yurt_v2.fbx",
+    "thumb": "thumbs/buildings-tents-yurt_v2.webp",
+    "dims": [
+     14.2,
+     14.2,
+     9.15
+    ],
+    "tris": 680,
+    "parts": 1
+   },
+   {
+    "glb": "models/buildings/buildings-tents-yurt/buildings-tents-yurt_v3.glb",
+    "fbx": "models/buildings/buildings-tents-yurt/buildings-tents-yurt_v3.fbx",
+    "thumb": "thumbs/buildings-tents-yurt_v3.webp",
+    "dims": [
+     14.2,
+     14.2,
+     6.43
+    ],
+    "tris": 656,
+    "parts": 1
+   }
+  ]
+ }
+]

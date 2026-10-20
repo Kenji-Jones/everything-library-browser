@@ -1,0 +1,2298 @@
+[
+ {
+  "id": "underwater-whales-sharks-turtles-sea-turtle",
+  "name": "Sea Turtle",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-sea-turtle/underwater-whales-sharks-turtles-sea-turtle.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-sea-turtle/underwater-whales-sharks-turtles-sea-turtle_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-sea-turtle/underwater-whales-sharks-turtles-sea-turtle_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-sea-turtle_v1.webp",
+    "dims": [
+     0.8376,
+     1.0,
+     0.311
+    ],
+    "tris": 994,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-sea-turtle/underwater-whales-sharks-turtles-sea-turtle_v2.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-sea-turtle/underwater-whales-sharks-turtles-sea-turtle_v2.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-sea-turtle_v2.webp",
+    "dims": [
+     0.6188,
+     1.0,
+     0.4107
+    ],
+    "tris": 1010,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "0.glb",
+   "1.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-starfish",
+  "name": "Starfish",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-starfish/underwater-sea-invertebrates-starfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-starfish/underwater-sea-invertebrates-starfish_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-starfish/underwater-sea-invertebrates-starfish_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-starfish_v1.webp",
+    "dims": [
+     0.25,
+     0.2391,
+     0.03828
+    ],
+    "tris": 1030,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "2.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-blue-jellyfish",
+  "name": "Blue Jellyfish",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-blue-jellyfish/underwater-sea-invertebrates-blue-jellyfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-blue-jellyfish/underwater-sea-invertebrates-blue-jellyfish_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-blue-jellyfish/underwater-sea-invertebrates-blue-jellyfish_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-blue-jellyfish_v1.webp",
+    "dims": [
+     0.1901,
+     0.1901,
+     0.3
+    ],
+    "tris": 880,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "3.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-seahorse",
+  "name": "Seahorse",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-seahorse/underwater-fish-seahorse.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-seahorse/underwater-fish-seahorse_v1.glb",
+    "fbx": "models/underwater/underwater-fish-seahorse/underwater-fish-seahorse_v1.fbx",
+    "thumb": "thumbs/underwater-fish-seahorse_v1.webp",
+    "dims": [
+     0.03103,
+     0.06908,
+     0.15
+    ],
+    "tris": 1102,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "4.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-sea-urchin",
+  "name": "Sea Urchin",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-sea-urchin_v1.webp",
+    "dims": [
+     0.1,
+     0.09819,
+     0.05992
+    ],
+    "tris": 1076,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v2.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v2.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-sea-urchin_v2.webp",
+    "dims": [
+     0.1,
+     0.09521,
+     0.06006
+    ],
+    "tris": 1076,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v3.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v3.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-sea-urchin_v3.webp",
+    "dims": [
+     0.09807,
+     0.1,
+     0.06096
+    ],
+    "tris": 1076,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v4.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-sea-urchin/underwater-sea-invertebrates-sea-urchin_v4.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-sea-urchin_v4.webp",
+    "dims": [
+     0.09719,
+     0.1,
+     0.06052
+    ],
+    "tris": 1076,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "5.glb",
+   "6.glb",
+   "7.glb",
+   "8.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-aquatic-plants-seagrass",
+  "name": "Seagrass",
+  "category": "Underwater",
+  "subcategory": "Aquatic Plants",
+  "tags": [],
+  "blend": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass_v1.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass_v1.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-seagrass_v1.webp",
+    "dims": [
+     0.3284,
+     0.3275,
+     0.5
+    ],
+    "tris": 182,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass_v2.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass_v2.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-seagrass_v2.webp",
+    "dims": [
+     0.3284,
+     0.3275,
+     0.5
+    ],
+    "tris": 182,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass_v3.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-seagrass/underwater-aquatic-plants-seagrass_v3.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-seagrass_v3.webp",
+    "dims": [
+     0.3284,
+     0.3275,
+     0.5
+    ],
+    "tris": 182,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "9.glb",
+   "10.glb",
+   "11.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-aquatic-plants-waterweed",
+  "name": "Waterweed",
+  "category": "Underwater",
+  "subcategory": "Aquatic Plants",
+  "tags": [],
+  "blend": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v1.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v1.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v1.webp",
+    "dims": [
+     0.1533,
+     0.1524,
+     0.6
+    ],
+    "tris": 930,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v2.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v2.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v2.webp",
+    "dims": [
+     0.1624,
+     0.1593,
+     0.6
+    ],
+    "tris": 744,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v3.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v3.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v3.webp",
+    "dims": [
+     0.1445,
+     0.1208,
+     0.6
+    ],
+    "tris": 696,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v4.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v4.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v4.webp",
+    "dims": [
+     0.1499,
+     0.1493,
+     0.6
+    ],
+    "tris": 566,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v5.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v5.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v5.webp",
+    "dims": [
+     0.1822,
+     0.1691,
+     0.6
+    ],
+    "tris": 948,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v6.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v6.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v6.webp",
+    "dims": [
+     0.1884,
+     0.1951,
+     0.6
+    ],
+    "tris": 834,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v7.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v7.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v7.webp",
+    "dims": [
+     0.2023,
+     0.202,
+     0.6
+    ],
+    "tris": 654,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v8.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v8.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v8.webp",
+    "dims": [
+     0.162,
+     0.161,
+     0.6
+    ],
+    "tris": 1506,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v9.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v9.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v9.webp",
+    "dims": [
+     0.1602,
+     0.1557,
+     0.6
+    ],
+    "tris": 1626,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v10.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-waterweed/underwater-aquatic-plants-waterweed_v10.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-waterweed_v10.webp",
+    "dims": [
+     0.1528,
+     0.1476,
+     0.6
+    ],
+    "tris": 1746,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "12.glb",
+   "13.glb",
+   "14.glb",
+   "15.glb",
+   "16.glb",
+   "17.glb",
+   "18.glb",
+   "19.glb",
+   "20.glb",
+   "21.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-aquatic-plants-pondweed",
+  "name": "Pondweed",
+  "category": "Underwater",
+  "subcategory": "Aquatic Plants",
+  "tags": [
+   "Curly Pondweed"
+  ],
+  "blend": "models/underwater/underwater-aquatic-plants-pondweed/underwater-aquatic-plants-pondweed.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-pondweed/underwater-aquatic-plants-pondweed_v1.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-pondweed/underwater-aquatic-plants-pondweed_v1.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-pondweed_v1.webp",
+    "dims": [
+     0.1119,
+     0.1806,
+     0.6
+    ],
+    "tris": 790,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-pondweed/underwater-aquatic-plants-pondweed_v2.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-pondweed/underwater-aquatic-plants-pondweed_v2.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-pondweed_v2.webp",
+    "dims": [
+     0.1222,
+     0.1768,
+     0.6
+    ],
+    "tris": 790,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "22.glb",
+   "23.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-aquatic-plants-lily-pad",
+  "name": "Lily Pad",
+  "category": "Underwater",
+  "subcategory": "Aquatic Plants",
+  "tags": [],
+  "blend": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad_v1.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad_v1.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-lily-pad_v1.webp",
+    "dims": [
+     0.3,
+     0.2724,
+     0.01112
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad_v2.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad_v2.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-lily-pad_v2.webp",
+    "dims": [
+     0.277,
+     0.3,
+     0.01077
+    ],
+    "tris": 136,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad_v3.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-lily-pad/underwater-aquatic-plants-lily-pad_v3.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-lily-pad_v3.webp",
+    "dims": [
+     0.3,
+     0.2797,
+     0.01013
+    ],
+    "tris": 136,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "24.glb",
+   "25.glb",
+   "26.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-aquatic-plants-water-lily",
+  "name": "Water Lily",
+  "category": "Underwater",
+  "subcategory": "Aquatic Plants",
+  "tags": [],
+  "blend": "models/underwater/underwater-aquatic-plants-water-lily/underwater-aquatic-plants-water-lily.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-aquatic-plants-water-lily/underwater-aquatic-plants-water-lily_v1.glb",
+    "fbx": "models/underwater/underwater-aquatic-plants-water-lily/underwater-aquatic-plants-water-lily_v1.fbx",
+    "thumb": "thumbs/underwater-aquatic-plants-water-lily_v1.webp",
+    "dims": [
+     0.149,
+     0.15,
+     0.05283
+    ],
+    "tris": 624,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "27.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-round-snail-shell",
+  "name": "Round Snail Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [
+   "Moon Shell"
+  ],
+  "blend": "models/underwater/underwater-shells-round-snail-shell/underwater-shells-round-snail-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-round-snail-shell/underwater-shells-round-snail-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-round-snail-shell/underwater-shells-round-snail-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-round-snail-shell_v1.webp",
+    "dims": [
+     0.06,
+     0.05983,
+     0.04843
+    ],
+    "tris": 733,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "28.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-flat-snail-shell",
+  "name": "Flat Snail Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-flat-snail-shell/underwater-shells-flat-snail-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-flat-snail-shell/underwater-shells-flat-snail-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-flat-snail-shell/underwater-shells-flat-snail-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-flat-snail-shell_v1.webp",
+    "dims": [
+     0.05,
+     0.04536,
+     0.02725
+    ],
+    "tris": 986,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "29.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-white-clam-shell",
+  "name": "White Clam Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-white-clam-shell/underwater-shells-white-clam-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-white-clam-shell/underwater-shells-white-clam-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-white-clam-shell/underwater-shells-white-clam-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-white-clam-shell_v1.webp",
+    "dims": [
+     0.1,
+     0.0808,
+     0.02509
+    ],
+    "tris": 738,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "30.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-spiky-shell",
+  "name": "Spiky Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [
+   "Murex Shell"
+  ],
+  "blend": "models/underwater/underwater-shells-spiky-shell/underwater-shells-spiky-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-spiky-shell/underwater-shells-spiky-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-spiky-shell/underwater-shells-spiky-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-spiky-shell_v1.webp",
+    "dims": [
+     0.06065,
+     0.1,
+     0.05506
+    ],
+    "tris": 970,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "31.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-conch-shell",
+  "name": "Conch Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-conch-shell/underwater-shells-conch-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-conch-shell/underwater-shells-conch-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-conch-shell/underwater-shells-conch-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-conch-shell_v1.webp",
+    "dims": [
+     0.07572,
+     0.15,
+     0.08923
+    ],
+    "tris": 2050,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-conch-shell/underwater-shells-conch-shell_v2.glb",
+    "fbx": "models/underwater/underwater-shells-conch-shell/underwater-shells-conch-shell_v2.fbx",
+    "thumb": "thumbs/underwater-shells-conch-shell_v2.webp",
+    "dims": [
+     0.07324,
+     0.15,
+     0.06632
+    ],
+    "tris": 1044,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "32.glb",
+   "33.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-whelk-shell",
+  "name": "Whelk Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-whelk-shell_v1.webp",
+    "dims": [
+     0.05778,
+     0.08,
+     0.06128
+    ],
+    "tris": 1454,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell_v2.glb",
+    "fbx": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell_v2.fbx",
+    "thumb": "thumbs/underwater-shells-whelk-shell_v2.webp",
+    "dims": [
+     0.03974,
+     0.08,
+     0.04215
+    ],
+    "tris": 1454,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell_v3.glb",
+    "fbx": "models/underwater/underwater-shells-whelk-shell/underwater-shells-whelk-shell_v3.fbx",
+    "thumb": "thumbs/underwater-shells-whelk-shell_v3.webp",
+    "dims": [
+     0.06967,
+     0.08,
+     0.07389
+    ],
+    "tris": 1454,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "34.glb",
+   "35.glb",
+   "36.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-cockle-shell",
+  "name": "Cockle Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-cockle-shell_v1.webp",
+    "dims": [
+     0.06,
+     0.05798,
+     0.01394
+    ],
+    "tris": 658,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell_v2.glb",
+    "fbx": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell_v2.fbx",
+    "thumb": "thumbs/underwater-shells-cockle-shell_v2.webp",
+    "dims": [
+     0.06,
+     0.05798,
+     0.01394
+    ],
+    "tris": 658,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell_v3.glb",
+    "fbx": "models/underwater/underwater-shells-cockle-shell/underwater-shells-cockle-shell_v3.fbx",
+    "thumb": "thumbs/underwater-shells-cockle-shell_v3.webp",
+    "dims": [
+     0.06,
+     0.05798,
+     0.01394
+    ],
+    "tris": 658,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "37.glb",
+   "38.glb",
+   "39.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-scallop-shell",
+  "name": "Scallop Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-scallop-shell_v1.webp",
+    "dims": [
+     0.08,
+     0.07592,
+     0.0147
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell_v2.glb",
+    "fbx": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell_v2.fbx",
+    "thumb": "thumbs/underwater-shells-scallop-shell_v2.webp",
+    "dims": [
+     0.08,
+     0.07592,
+     0.0147
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell_v3.glb",
+    "fbx": "models/underwater/underwater-shells-scallop-shell/underwater-shells-scallop-shell_v3.fbx",
+    "thumb": "thumbs/underwater-shells-scallop-shell_v3.webp",
+    "dims": [
+     0.08,
+     0.07592,
+     0.0147
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "40.glb",
+   "41.glb",
+   "42.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-urchin-shell",
+  "name": "Urchin Shell",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-urchin-shell/underwater-shells-urchin-shell.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-urchin-shell/underwater-shells-urchin-shell_v1.glb",
+    "fbx": "models/underwater/underwater-shells-urchin-shell/underwater-shells-urchin-shell_v1.fbx",
+    "thumb": "thumbs/underwater-shells-urchin-shell_v1.webp",
+    "dims": [
+     0.07,
+     0.06993,
+     0.04572
+    ],
+    "tris": 704,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "43.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-clam",
+  "name": "Clam",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-clam/underwater-shells-clam.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-clam/underwater-shells-clam_v1.glb",
+    "fbx": "models/underwater/underwater-shells-clam/underwater-shells-clam_v1.fbx",
+    "thumb": "thumbs/underwater-shells-clam_v1.webp",
+    "dims": [
+     0.1,
+     0.08509,
+     0.02749
+    ],
+    "tris": 1000,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "44.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-oyster",
+  "name": "Oyster",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-oyster/underwater-shells-oyster.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-oyster/underwater-shells-oyster_v1.glb",
+    "fbx": "models/underwater/underwater-shells-oyster/underwater-shells-oyster_v1.fbx",
+    "thumb": "thumbs/underwater-shells-oyster_v1.webp",
+    "dims": [
+     0.07822,
+     0.02144,
+     0.1
+    ],
+    "tris": 548,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-oyster/underwater-shells-oyster_v2.glb",
+    "fbx": "models/underwater/underwater-shells-oyster/underwater-shells-oyster_v2.fbx",
+    "thumb": "thumbs/underwater-shells-oyster_v2.webp",
+    "dims": [
+     0.0652,
+     0.02005,
+     0.1
+    ],
+    "tris": 612,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-oyster/underwater-shells-oyster_v3.glb",
+    "fbx": "models/underwater/underwater-shells-oyster/underwater-shells-oyster_v3.fbx",
+    "thumb": "thumbs/underwater-shells-oyster_v3.webp",
+    "dims": [
+     0.07176,
+     0.02249,
+     0.1
+    ],
+    "tris": 548,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "45.glb",
+   "46.glb",
+   "47.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-shells-mussel",
+  "name": "Mussel",
+  "category": "Underwater",
+  "subcategory": "Shells",
+  "tags": [],
+  "blend": "models/underwater/underwater-shells-mussel/underwater-shells-mussel.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-shells-mussel/underwater-shells-mussel_v1.glb",
+    "fbx": "models/underwater/underwater-shells-mussel/underwater-shells-mussel_v1.fbx",
+    "thumb": "thumbs/underwater-shells-mussel_v1.webp",
+    "dims": [
+     0.04054,
+     0.02343,
+     0.07
+    ],
+    "tris": 836,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-mussel/underwater-shells-mussel_v2.glb",
+    "fbx": "models/underwater/underwater-shells-mussel/underwater-shells-mussel_v2.fbx",
+    "thumb": "thumbs/underwater-shells-mussel_v2.webp",
+    "dims": [
+     0.03567,
+     0.01734,
+     0.07
+    ],
+    "tris": 856,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-shells-mussel/underwater-shells-mussel_v3.glb",
+    "fbx": "models/underwater/underwater-shells-mussel/underwater-shells-mussel_v3.fbx",
+    "thumb": "thumbs/underwater-shells-mussel_v3.webp",
+    "dims": [
+     0.03678,
+     0.01641,
+     0.07
+    ],
+    "tris": 1012,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "48.glb",
+   "49.glb",
+   "50.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-crustaceans-shrimp",
+  "name": "Shrimp",
+  "category": "Underwater",
+  "subcategory": "Crustaceans",
+  "tags": [],
+  "blend": "models/underwater/underwater-crustaceans-shrimp/underwater-crustaceans-shrimp.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-crustaceans-shrimp/underwater-crustaceans-shrimp_v1.glb",
+    "fbx": "models/underwater/underwater-crustaceans-shrimp/underwater-crustaceans-shrimp_v1.fbx",
+    "thumb": "thumbs/underwater-crustaceans-shrimp_v1.webp",
+    "dims": [
+     0.04022,
+     0.1,
+     0.06304
+    ],
+    "tris": 1382,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "51.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-crustaceans-spider-crab",
+  "name": "Spider Crab",
+  "category": "Underwater",
+  "subcategory": "Crustaceans",
+  "tags": [],
+  "blend": "models/underwater/underwater-crustaceans-spider-crab/underwater-crustaceans-spider-crab.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-crustaceans-spider-crab/underwater-crustaceans-spider-crab_v1.glb",
+    "fbx": "models/underwater/underwater-crustaceans-spider-crab/underwater-crustaceans-spider-crab_v1.fbx",
+    "thumb": "thumbs/underwater-crustaceans-spider-crab_v1.webp",
+    "dims": [
+     0.316,
+     0.5,
+     0.08642
+    ],
+    "tris": 1208,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "52.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-crustaceans-crab",
+  "name": "Crab",
+  "category": "Underwater",
+  "subcategory": "Crustaceans",
+  "tags": [],
+  "blend": "models/underwater/underwater-crustaceans-crab/underwater-crustaceans-crab.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-crustaceans-crab/underwater-crustaceans-crab_v1.glb",
+    "fbx": "models/underwater/underwater-crustaceans-crab/underwater-crustaceans-crab_v1.fbx",
+    "thumb": "thumbs/underwater-crustaceans-crab_v1.webp",
+    "dims": [
+     0.1626,
+     0.2,
+     0.0469
+    ],
+    "tris": 1200,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "53.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-crustaceans-lobster",
+  "name": "Lobster",
+  "category": "Underwater",
+  "subcategory": "Crustaceans",
+  "tags": [],
+  "blend": "models/underwater/underwater-crustaceans-lobster/underwater-crustaceans-lobster.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-crustaceans-lobster/underwater-crustaceans-lobster_v1.glb",
+    "fbx": "models/underwater/underwater-crustaceans-lobster/underwater-crustaceans-lobster_v1.fbx",
+    "thumb": "thumbs/underwater-crustaceans-lobster_v1.webp",
+    "dims": [
+     0.2265,
+     0.5,
+     0.1035
+    ],
+    "tris": 1880,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "54.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-crustaceans-horseshoe-crab",
+  "name": "Horseshoe Crab",
+  "category": "Underwater",
+  "subcategory": "Crustaceans",
+  "tags": [],
+  "blend": "models/underwater/underwater-crustaceans-horseshoe-crab/underwater-crustaceans-horseshoe-crab.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-crustaceans-horseshoe-crab/underwater-crustaceans-horseshoe-crab_v1.glb",
+    "fbx": "models/underwater/underwater-crustaceans-horseshoe-crab/underwater-crustaceans-horseshoe-crab_v1.fbx",
+    "thumb": "thumbs/underwater-crustaceans-horseshoe-crab_v1.webp",
+    "dims": [
+     0.2625,
+     0.5,
+     0.07775
+    ],
+    "tris": 1392,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "55.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-nautilus",
+  "name": "Nautilus",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-nautilus/underwater-sea-invertebrates-nautilus.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-nautilus/underwater-sea-invertebrates-nautilus_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-nautilus/underwater-sea-invertebrates-nautilus_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-nautilus_v1.webp",
+    "dims": [
+     0.08979,
+     0.2,
+     0.1324
+    ],
+    "tris": 1900,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "56.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-clownfish",
+  "name": "Clownfish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-clownfish/underwater-fish-clownfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-clownfish/underwater-fish-clownfish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-clownfish/underwater-fish-clownfish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-clownfish_v1.webp",
+    "dims": [
+     0.02567,
+     0.1,
+     0.04903
+    ],
+    "tris": 1004,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "57.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-triggerfish",
+  "name": "Triggerfish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Clown Triggerfish"
+  ],
+  "blend": "models/underwater/underwater-fish-triggerfish/underwater-fish-triggerfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-triggerfish/underwater-fish-triggerfish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-triggerfish/underwater-fish-triggerfish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-triggerfish_v1.webp",
+    "dims": [
+     0.06438,
+     0.25,
+     0.1327
+    ],
+    "tris": 766,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-triggerfish/underwater-fish-triggerfish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-triggerfish/underwater-fish-triggerfish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-triggerfish_v2.webp",
+    "dims": [
+     0.1257,
+     0.4,
+     0.2582
+    ],
+    "tris": 1064,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "58.glb",
+   "77.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-tang-fish",
+  "name": "Tang Fish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Achilles Tang",
+   "Powder Blue Tang",
+   "Yellowtail Tang"
+  ],
+  "blend": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-tang-fish_v1.webp",
+    "dims": [
+     0.06982,
+     0.2,
+     0.0948
+    ],
+    "tris": 690,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-tang-fish_v2.webp",
+    "dims": [
+     0.07768,
+     0.2,
+     0.1186
+    ],
+    "tris": 728,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish_v3.glb",
+    "fbx": "models/underwater/underwater-fish-tang-fish/underwater-fish-tang-fish_v3.fbx",
+    "thumb": "thumbs/underwater-fish-tang-fish_v3.webp",
+    "dims": [
+     0.08864,
+     0.25,
+     0.1143
+    ],
+    "tris": 732,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "59.glb",
+   "60.glb",
+   "74.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-butterflyfish",
+  "name": "Butterflyfish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Copperband Butterflyfish",
+   "Longnose Butterflyfish"
+  ],
+  "blend": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-butterflyfish_v1.webp",
+    "dims": [
+     0.03983,
+     0.15,
+     0.0881
+    ],
+    "tris": 844,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-butterflyfish_v2.webp",
+    "dims": [
+     0.05577,
+     0.2,
+     0.09109
+    ],
+    "tris": 696,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish_v3.glb",
+    "fbx": "models/underwater/underwater-fish-butterflyfish/underwater-fish-butterflyfish_v3.fbx",
+    "thumb": "thumbs/underwater-fish-butterflyfish_v3.webp",
+    "dims": [
+     0.05411,
+     0.2,
+     0.1167
+    ],
+    "tris": 844,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "61.glb",
+   "66.glb",
+   "67.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-lionfish",
+  "name": "Lionfish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-lionfish/underwater-fish-lionfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-lionfish/underwater-fish-lionfish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-lionfish/underwater-fish-lionfish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-lionfish_v1.webp",
+    "dims": [
+     0.35,
+     0.2772,
+     0.1814
+    ],
+    "tris": 1228,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "62.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-blue-tang",
+  "name": "Blue Tang",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-blue-tang/underwater-fish-blue-tang.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-blue-tang/underwater-fish-blue-tang_v1.glb",
+    "fbx": "models/underwater/underwater-fish-blue-tang/underwater-fish-blue-tang_v1.fbx",
+    "thumb": "thumbs/underwater-fish-blue-tang_v1.webp",
+    "dims": [
+     0.09028,
+     0.25,
+     0.1059
+    ],
+    "tris": 790,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "63.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-beluga-whale",
+  "name": "Beluga Whale",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-beluga-whale/underwater-whales-sharks-turtles-beluga-whale.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-beluga-whale/underwater-whales-sharks-turtles-beluga-whale_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-beluga-whale/underwater-whales-sharks-turtles-beluga-whale_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-beluga-whale_v1.webp",
+    "dims": [
+     1.09,
+     4.5,
+     1.108
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "64.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-crustaceans-tiny-shrimp",
+  "name": "Tiny Shrimp",
+  "category": "Underwater",
+  "subcategory": "Crustaceans",
+  "tags": [
+   "Brine Shrimp"
+  ],
+  "blend": "models/underwater/underwater-crustaceans-tiny-shrimp/underwater-crustaceans-tiny-shrimp.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-crustaceans-tiny-shrimp/underwater-crustaceans-tiny-shrimp_v1.glb",
+    "fbx": "models/underwater/underwater-crustaceans-tiny-shrimp/underwater-crustaceans-tiny-shrimp_v1.fbx",
+    "thumb": "thumbs/underwater-crustaceans-tiny-shrimp_v1.webp",
+    "dims": [
+     0.002706,
+     0.01,
+     0.003543
+    ],
+    "tris": 724,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "65.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-betta-fish",
+  "name": "Betta Fish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-betta-fish/underwater-fish-betta-fish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-betta-fish/underwater-fish-betta-fish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-betta-fish/underwater-fish-betta-fish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-betta-fish_v1.webp",
+    "dims": [
+     0.01207,
+     0.07,
+     0.04967
+    ],
+    "tris": 754,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-betta-fish/underwater-fish-betta-fish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-betta-fish/underwater-fish-betta-fish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-betta-fish_v2.webp",
+    "dims": [
+     0.01207,
+     0.07,
+     0.04967
+    ],
+    "tris": 786,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "68.glb",
+   "69.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-tetra",
+  "name": "Tetra",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-tetra/underwater-fish-tetra.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v1.glb",
+    "fbx": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v1.fbx",
+    "thumb": "thumbs/underwater-fish-tetra_v1.webp",
+    "dims": [
+     0.009362,
+     0.04,
+     0.01783
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v2.glb",
+    "fbx": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v2.fbx",
+    "thumb": "thumbs/underwater-fish-tetra_v2.webp",
+    "dims": [
+     0.009264,
+     0.04,
+     0.01627
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v3.glb",
+    "fbx": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v3.fbx",
+    "thumb": "thumbs/underwater-fish-tetra_v3.webp",
+    "dims": [
+     0.009264,
+     0.04,
+     0.01628
+    ],
+    "tris": 744,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v4.glb",
+    "fbx": "models/underwater/underwater-fish-tetra/underwater-fish-tetra_v4.fbx",
+    "thumb": "thumbs/underwater-fish-tetra_v4.webp",
+    "dims": [
+     0.009264,
+     0.04,
+     0.01618
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "70.glb",
+   "71.glb",
+   "72.glb",
+   "73.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-yellow-tang",
+  "name": "Yellow Tang",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-yellow-tang/underwater-fish-yellow-tang.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-yellow-tang/underwater-fish-yellow-tang_v1.glb",
+    "fbx": "models/underwater/underwater-fish-yellow-tang/underwater-fish-yellow-tang_v1.fbx",
+    "thumb": "thumbs/underwater-fish-yellow-tang_v1.webp",
+    "dims": [
+     0.06849,
+     0.2,
+     0.1394
+    ],
+    "tris": 680,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "75.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-reef-fish",
+  "name": "Reef Fish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Blue Chromis",
+   "Rock Beauty"
+  ],
+  "blend": "models/underwater/underwater-fish-reef-fish/underwater-fish-reef-fish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-reef-fish/underwater-fish-reef-fish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-reef-fish/underwater-fish-reef-fish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-reef-fish_v1.webp",
+    "dims": [
+     0.03086,
+     0.1,
+     0.03853
+    ],
+    "tris": 742,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-reef-fish/underwater-fish-reef-fish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-reef-fish/underwater-fish-reef-fish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-reef-fish_v2.webp",
+    "dims": [
+     0.07163,
+     0.25,
+     0.1614
+    ],
+    "tris": 630,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "76.glb",
+   "79.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-angelfish",
+  "name": "Angelfish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Black Angelfish",
+   "Emperor Angelfish",
+   "Flame Angelfish",
+   "French Angelfish",
+   "Queen Angelfish",
+   "Striped Angelfish"
+  ],
+  "blend": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v1.webp",
+    "dims": [
+     0.03767,
+     0.1298,
+     0.15
+    ],
+    "tris": 726,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v2.webp",
+    "dims": [
+     0.09575,
+     0.35,
+     0.2645
+    ],
+    "tris": 820,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v3.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v3.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v3.webp",
+    "dims": [
+     0.02639,
+     0.1,
+     0.06434
+    ],
+    "tris": 778,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v4.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v4.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v4.webp",
+    "dims": [
+     0.08659,
+     0.35,
+     0.1717
+    ],
+    "tris": 844,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v5.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v5.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v5.webp",
+    "dims": [
+     0.03587,
+     0.15,
+     0.1465
+    ],
+    "tris": 774,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v6.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v6.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v6.webp",
+    "dims": [
+     0.05679,
+     0.2,
+     0.1543
+    ],
+    "tris": 900,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v7.glb",
+    "fbx": "models/underwater/underwater-fish-angelfish/underwater-fish-angelfish_v7.fbx",
+    "thumb": "thumbs/underwater-fish-angelfish_v7.webp",
+    "dims": [
+     0.09018,
+     0.4,
+     0.2167
+    ],
+    "tris": 682,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "78.glb",
+   "80.glb",
+   "81.glb",
+   "82.glb",
+   "83.glb",
+   "84.glb",
+   "85.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-minnow",
+  "name": "Minnow",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-minnow/underwater-fish-minnow.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-minnow/underwater-fish-minnow_v1.glb",
+    "fbx": "models/underwater/underwater-fish-minnow/underwater-fish-minnow_v1.fbx",
+    "thumb": "thumbs/underwater-fish-minnow_v1.webp",
+    "dims": [
+     0.02398,
+     0.1,
+     0.03878
+    ],
+    "tris": 808,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "86.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-salmon",
+  "name": "Salmon",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-salmon/underwater-fish-salmon.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-salmon/underwater-fish-salmon_v1.glb",
+    "fbx": "models/underwater/underwater-fish-salmon/underwater-fish-salmon_v1.fbx",
+    "thumb": "thumbs/underwater-fish-salmon_v1.webp",
+    "dims": [
+     0.2565,
+     0.8,
+     0.2327
+    ],
+    "tris": 924,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "87.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-rainbow-trout",
+  "name": "Rainbow Trout",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-rainbow-trout/underwater-fish-rainbow-trout.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-rainbow-trout/underwater-fish-rainbow-trout_v1.glb",
+    "fbx": "models/underwater/underwater-fish-rainbow-trout/underwater-fish-rainbow-trout_v1.fbx",
+    "thumb": "thumbs/underwater-fish-rainbow-trout_v1.webp",
+    "dims": [
+     0.07701,
+     0.5,
+     0.1958
+    ],
+    "tris": 570,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "88.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-goldfish",
+  "name": "Goldfish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Black Moor"
+  ],
+  "blend": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-goldfish_v1.webp",
+    "dims": [
+     0.03293,
+     0.15,
+     0.06902
+    ],
+    "tris": 768,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish_v2.glb",
+    "fbx": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish_v2.fbx",
+    "thumb": "thumbs/underwater-fish-goldfish_v2.webp",
+    "dims": [
+     0.03377,
+     0.15,
+     0.06435
+    ],
+    "tris": 768,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish_v3.glb",
+    "fbx": "models/underwater/underwater-fish-goldfish/underwater-fish-goldfish_v3.fbx",
+    "thumb": "thumbs/underwater-fish-goldfish_v3.webp",
+    "dims": [
+     0.04651,
+     0.15,
+     0.06803
+    ],
+    "tris": 740,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "89.glb",
+   "90.glb",
+   "91.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-koi",
+  "name": "Koi",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-koi/underwater-fish-koi.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-koi/underwater-fish-koi_v1.glb",
+    "fbx": "models/underwater/underwater-fish-koi/underwater-fish-koi_v1.fbx",
+    "thumb": "thumbs/underwater-fish-koi_v1.webp",
+    "dims": [
+     0.214,
+     0.6,
+     0.4295
+    ],
+    "tris": 808,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/underwater/underwater-fish-koi/underwater-fish-koi_v2.glb",
+    "fbx": "models/underwater/underwater-fish-koi/underwater-fish-koi_v2.fbx",
+    "thumb": "thumbs/underwater-fish-koi_v2.webp",
+    "dims": [
+     0.15,
+     0.6,
+     0.2727
+    ],
+    "tris": 822,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "92.glb",
+   "93.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-eel",
+  "name": "Eel",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-eel/underwater-fish-eel.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-eel/underwater-fish-eel_v1.glb",
+    "fbx": "models/underwater/underwater-fish-eel/underwater-fish-eel_v1.fbx",
+    "thumb": "thumbs/underwater-fish-eel_v1.webp",
+    "dims": [
+     0.1542,
+     0.8,
+     0.1451
+    ],
+    "tris": 588,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "94.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-moray-eel",
+  "name": "Moray Eel",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-moray-eel/underwater-fish-moray-eel.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-moray-eel/underwater-fish-moray-eel_v1.glb",
+    "fbx": "models/underwater/underwater-fish-moray-eel/underwater-fish-moray-eel_v1.fbx",
+    "thumb": "thumbs/underwater-fish-moray-eel_v1.webp",
+    "dims": [
+     0.1223,
+     1.5,
+     0.1976
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "95.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-tadpole",
+  "name": "Tadpole",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [],
+  "blend": "models/underwater/underwater-fish-tadpole/underwater-fish-tadpole.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-tadpole/underwater-fish-tadpole_v1.glb",
+    "fbx": "models/underwater/underwater-fish-tadpole/underwater-fish-tadpole_v1.fbx",
+    "thumb": "thumbs/underwater-fish-tadpole_v1.webp",
+    "dims": [
+     0.01112,
+     0.05,
+     0.0105
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "96.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-jellyfish",
+  "name": "Jellyfish",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-jellyfish/underwater-sea-invertebrates-jellyfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-jellyfish/underwater-sea-invertebrates-jellyfish_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-jellyfish/underwater-sea-invertebrates-jellyfish_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-jellyfish_v1.webp",
+    "dims": [
+     0.1942,
+     0.1942,
+     0.5
+    ],
+    "tris": 1296,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "97.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-white-jellyfish",
+  "name": "White Jellyfish",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-white-jellyfish/underwater-sea-invertebrates-white-jellyfish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-white-jellyfish/underwater-sea-invertebrates-white-jellyfish_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-white-jellyfish/underwater-sea-invertebrates-white-jellyfish_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-white-jellyfish_v1.webp",
+    "dims": [
+     0.08042,
+     0.07653,
+     0.3
+    ],
+    "tris": 464,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "98.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-sea-invertebrates-squid",
+  "name": "Squid",
+  "category": "Underwater",
+  "subcategory": "Sea Invertebrates",
+  "tags": [],
+  "blend": "models/underwater/underwater-sea-invertebrates-squid/underwater-sea-invertebrates-squid.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-sea-invertebrates-squid/underwater-sea-invertebrates-squid_v1.glb",
+    "fbx": "models/underwater/underwater-sea-invertebrates-squid/underwater-sea-invertebrates-squid_v1.fbx",
+    "thumb": "thumbs/underwater-sea-invertebrates-squid_v1.webp",
+    "dims": [
+     0.05206,
+     0.6,
+     0.04808
+    ],
+    "tris": 1880,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "99.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-great-white-shark",
+  "name": "Great White Shark",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-great-white-shark/underwater-whales-sharks-turtles-great-white-shark.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-great-white-shark/underwater-whales-sharks-turtles-great-white-shark_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-great-white-shark/underwater-whales-sharks-turtles-great-white-shark_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-great-white-shark_v1.webp",
+    "dims": [
+     1.444,
+     5.0,
+     1.545
+    ],
+    "tris": 888,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "100.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-stingray",
+  "name": "Stingray",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-stingray/underwater-whales-sharks-turtles-stingray.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-stingray/underwater-whales-sharks-turtles-stingray_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-stingray/underwater-whales-sharks-turtles-stingray_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-stingray_v1.webp",
+    "dims": [
+     0.4992,
+     1.5,
+     0.04709
+    ],
+    "tris": 978,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "101.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-blue-whale",
+  "name": "Blue Whale",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-blue-whale/underwater-whales-sharks-turtles-blue-whale.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-blue-whale/underwater-whales-sharks-turtles-blue-whale_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-blue-whale/underwater-whales-sharks-turtles-blue-whale_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-blue-whale_v1.webp",
+    "dims": [
+     8.719,
+     25.0,
+     4.485
+    ],
+    "tris": 962,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "102.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-sperm-whale",
+  "name": "Sperm Whale",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-sperm-whale/underwater-whales-sharks-turtles-sperm-whale.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-sperm-whale/underwater-whales-sharks-turtles-sperm-whale_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-sperm-whale/underwater-whales-sharks-turtles-sperm-whale_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-sperm-whale_v1.webp",
+    "dims": [
+     4.041,
+     16.0,
+     2.787
+    ],
+    "tris": 1010,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "103.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-dolphin",
+  "name": "Dolphin",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-dolphin/underwater-whales-sharks-turtles-dolphin.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-dolphin/underwater-whales-sharks-turtles-dolphin_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-dolphin/underwater-whales-sharks-turtles-dolphin_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-dolphin_v1.webp",
+    "dims": [
+     0.9241,
+     2.5,
+     0.9346
+    ],
+    "tris": 968,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "104.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-whales-sharks-turtles-orca",
+  "name": "Orca",
+  "category": "Underwater",
+  "subcategory": "Whales, Sharks & Turtles",
+  "tags": [],
+  "blend": "models/underwater/underwater-whales-sharks-turtles-orca/underwater-whales-sharks-turtles-orca.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-whales-sharks-turtles-orca/underwater-whales-sharks-turtles-orca_v1.glb",
+    "fbx": "models/underwater/underwater-whales-sharks-turtles-orca/underwater-whales-sharks-turtles-orca_v1.fbx",
+    "thumb": "thumbs/underwater-whales-sharks-turtles-orca_v1.webp",
+    "dims": [
+     2.784,
+     7.0,
+     3.116
+    ],
+    "tris": 848,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "105.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "underwater-fish-dark-fish",
+  "name": "Dark Fish",
+  "category": "Underwater",
+  "subcategory": "Fish",
+  "tags": [
+   "Blackfish"
+  ],
+  "blend": "models/underwater/underwater-fish-dark-fish/underwater-fish-dark-fish.blend",
+  "variants": [
+   {
+    "glb": "models/underwater/underwater-fish-dark-fish/underwater-fish-dark-fish_v1.glb",
+    "fbx": "models/underwater/underwater-fish-dark-fish/underwater-fish-dark-fish_v1.fbx",
+    "thumb": "thumbs/underwater-fish-dark-fish_v1.webp",
+    "dims": [
+     0.1603,
+     0.5,
+     0.1454
+    ],
+    "tris": 924,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "106.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]

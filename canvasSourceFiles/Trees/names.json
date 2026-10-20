@@ -1,0 +1,1367 @@
+{
+ "0": {
+  "name": "Umbrella Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "1": {
+  "name": "Cypress Sapling",
+  "subcategory": "Conifers",
+  "size_m": 3
+ },
+ "2": {
+  "name": "Cypress Sapling",
+  "subcategory": "Conifers",
+  "size_m": 3
+ },
+ "3": {
+  "name": "Cypress Sapling",
+  "subcategory": "Conifers",
+  "size_m": 3
+ },
+ "4": {
+  "name": "Cypress Tree",
+  "subcategory": "Conifers",
+  "size_m": 15
+ },
+ "5": {
+  "name": "Bare Sapling",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 3
+ },
+ "6": {
+  "name": "Cypress Tree",
+  "subcategory": "Conifers",
+  "size_m": 15
+ },
+ "7": {
+  "name": "Fir Tree",
+  "subcategory": "Conifers",
+  "size_m": 15
+ },
+ "8": {
+  "name": "Fir Tree",
+  "subcategory": "Conifers",
+  "size_m": 15
+ },
+ "9": {
+  "name": "Fir Tree",
+  "subcategory": "Conifers",
+  "size_m": 15
+ },
+ "10": {
+  "name": "Fir Tree",
+  "subcategory": "Conifers",
+  "size_m": 15
+ },
+ "11": {
+  "name": "Birch Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "12": {
+  "name": "Birch Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "13": {
+  "name": "Birch Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "14": {
+  "name": "Birch Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "15": {
+  "name": "Round Leafy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "16": {
+  "name": "Round Leafy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "17": {
+  "name": "Spreading Leafy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "18": {
+  "name": "Spreading Leafy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "19": {
+  "name": "Oak Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "20": {
+  "name": "Oak Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "21": {
+  "name": "Oak Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "22": {
+  "name": "Oak Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "23": {
+  "name": "Aspen Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 12
+ },
+ "24": {
+  "name": "Aspen Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 12
+ },
+ "25": {
+  "name": "Aspen Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 12
+ },
+ "26": {
+  "name": "Aspen Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 12
+ },
+ "27": {
+  "name": "Elm Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "28": {
+  "name": "Elm Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "29": {
+  "name": "Elm Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "30": {
+  "name": "Elm Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "31": {
+  "name": "Elm Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "32": {
+  "name": "Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 18
+ },
+ "33": {
+  "name": "Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 18
+ },
+ "34": {
+  "name": "Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 18
+ },
+ "35": {
+  "name": "Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 18
+ },
+ "36": {
+  "name": "Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 18
+ },
+ "37": {
+  "name": "Tall Bushy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "38": {
+  "name": "Tall Bushy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "39": {
+  "name": "Tall Bushy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "40": {
+  "name": "Tall Bushy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "41": {
+  "name": "Tall Bushy Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "42": {
+  "name": "Bare Sapling",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 3
+ },
+ "43": {
+  "name": "Poplar Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 15
+ },
+ "44": {
+  "name": "Japanese Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 6
+ },
+ "45": {
+  "name": "Japanese Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 6
+ },
+ "46": {
+  "name": "Japanese Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 6
+ },
+ "47": {
+  "name": "Japanese Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 6
+ },
+ "48": {
+  "name": "Japanese Pine Tree",
+  "subcategory": "Conifers",
+  "size_m": 6
+ },
+ "49": {
+  "name": "Acacia Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "50": {
+  "name": "Acacia Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "51": {
+  "name": "Acacia Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "52": {
+  "name": "Acacia Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 10
+ },
+ "53": {
+  "name": "Baobab Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 20
+ },
+ "54": {
+  "name": "Baobab Tree",
+  "subcategory": "Broadleaf Trees",
+  "size_m": 20
+ },
+ "55": {
+  "name": "Tree Sapling",
+  "subcategory": "Plants & Saplings",
+  "size_m": 1
+ },
+ "56": {
+  "name": "Tree Sapling",
+  "subcategory": "Plants & Saplings",
+  "size_m": 1
+ },
+ "57": {
+  "name": "Tree Sapling",
+  "subcategory": "Plants & Saplings",
+  "size_m": 1
+ },
+ "58": {
+  "name": "Pine Sapling",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.6
+ },
+ "59": {
+  "name": "Pine Sapling",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.6
+ },
+ "60": {
+  "name": "Chestnut",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.03
+ },
+ "61": {
+  "name": "Acorn",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.025
+ },
+ "62": {
+  "name": "Maple Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.05
+ },
+ "63": {
+  "name": "Maple Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.05
+ },
+ "64": {
+  "name": "Pine Cone",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.08
+ },
+ "65": {
+  "name": "Dried Pea",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.008
+ },
+ "66": {
+  "name": "Dried Pea",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.008
+ },
+ "67": {
+  "name": "Dried Pea",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.008
+ },
+ "68": {
+  "name": "Dried Pea",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.008
+ },
+ "69": {
+  "name": "Sunflower Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.012
+ },
+ "70": {
+  "name": "Sunflower Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.012
+ },
+ "71": {
+  "name": "Sunflower Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.012
+ },
+ "72": {
+  "name": "Wheat Grain",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.007
+ },
+ "73": {
+  "name": "Wheat Grain",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.007
+ },
+ "74": {
+  "name": "Wheat Grain",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.007
+ },
+ "75": {
+  "name": "Oat Grain",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.012
+ },
+ "76": {
+  "name": "Oat Grain",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.012
+ },
+ "77": {
+  "name": "Oat Grain",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.012
+ },
+ "78": {
+  "name": "Poppy Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.001
+ },
+ "79": {
+  "name": "Poppy Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.001
+ },
+ "80": {
+  "name": "Poppy Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.001
+ },
+ "81": {
+  "name": "Poppy Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.001
+ },
+ "82": {
+  "name": "Poppy Seed",
+  "subcategory": "Seeds & Nuts",
+  "size_m": 0.001
+ },
+ "83": {
+  "name": "Potted Tree",
+  "subcategory": "Plants & Saplings",
+  "size_m": 1.2
+ },
+ "84": {
+  "name": "Christmas Tree",
+  "subcategory": "Conifers",
+  "size_m": 2
+ },
+ "85": {
+  "name": "Potted Plant",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.6
+ },
+ "86": {
+  "name": "Boxed Plant",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.8
+ },
+ "87": {
+  "name": "Maple Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "88": {
+  "name": "Maple Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "89": {
+  "name": "Maple Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "90": {
+  "name": "Chestnut Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.25
+ },
+ "91": {
+  "name": "Chestnut Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.25
+ },
+ "92": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "93": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "94": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "95": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "96": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "97": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "98": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "99": {
+  "name": "Leaf Cluster",
+  "subcategory": "Leaves",
+  "size_m": 0.15
+ },
+ "100": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "101": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "102": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "103": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "104": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "105": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "106": {
+  "name": "Crumpled Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "107": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "108": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "109": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "110": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "111": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "112": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "113": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "114": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "115": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "116": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "117": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "118": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "119": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "120": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "121": {
+  "name": "Elm Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.1
+ },
+ "122": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "123": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "124": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "125": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "126": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "127": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "128": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "129": {
+  "name": "Oak Leaf",
+  "subcategory": "Leaves",
+  "size_m": 0.12
+ },
+ "130": {
+  "name": "Driftwood",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "131": {
+  "name": "Driftwood",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "132": {
+  "name": "Driftwood",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "133": {
+  "name": "Bare Bush",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "134": {
+  "name": "Bare Bush",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "135": {
+  "name": "Bare Bush",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "136": {
+  "name": "Tree Stump",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.8
+ },
+ "137": {
+  "name": "Tree Stump",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.8
+ },
+ "138": {
+  "name": "Tree Stump",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.8
+ },
+ "139": {
+  "name": "Tree Stump",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.8
+ },
+ "140": {
+  "name": "Tree Stump",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.8
+ },
+ "141": {
+  "name": "Dead Tree",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 6
+ },
+ "142": {
+  "name": "Dead Tree",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 6
+ },
+ "143": {
+  "name": "Dead Tree",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 6
+ },
+ "144": {
+  "name": "Dead Tree",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 6
+ },
+ "145": {
+  "name": "Dead Tree",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 6
+ },
+ "146": {
+  "name": "Dead Tree",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 6
+ },
+ "147": {
+  "name": "Cut Log",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "148": {
+  "name": "Cut Log",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "149": {
+  "name": "Cut Log",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "150": {
+  "name": "Green Stem",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.5
+ },
+ "151": {
+  "name": "Green Stem",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.5
+ },
+ "152": {
+  "name": "Green Stem",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.5
+ },
+ "153": {
+  "name": "Green Stem",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.5
+ },
+ "154": {
+  "name": "Green Stem",
+  "subcategory": "Plants & Saplings",
+  "size_m": 0.5
+ },
+ "155": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "156": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "157": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "158": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "159": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "160": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "161": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "162": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "163": {
+  "name": "Wood Splinter",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 0.3
+ },
+ "164": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "165": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "166": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "167": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "168": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "169": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "170": {
+  "name": "Dead Branch",
+  "subcategory": "Dead Trees & Wood",
+  "size_m": 1.5
+ },
+ "171": {
+  "name": "Bushy Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 8
+ },
+ "172": {
+  "name": "Bushy Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 8
+ },
+ "173": {
+  "name": "Palm Tree",
+  "subcategory": "Palms & Ferns",
+  "size_m": 12
+ },
+ "174": {
+  "name": "Palm Tree",
+  "subcategory": "Palms & Ferns",
+  "size_m": 12
+ },
+ "175": {
+  "name": "Palm Tree",
+  "subcategory": "Palms & Ferns",
+  "size_m": 12
+ },
+ "176": {
+  "name": "Coconut Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 15
+ },
+ "177": {
+  "name": "Coconut Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 15
+ },
+ "178": {
+  "name": "Coconut Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 15
+ },
+ "179": {
+  "name": "Coconut Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 15
+ },
+ "180": {
+  "name": "Tall Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 20
+ },
+ "181": {
+  "name": "Tall Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 20
+ },
+ "182": {
+  "name": "Tall Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 20
+ },
+ "183": {
+  "name": "Sago Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 2
+ },
+ "184": {
+  "name": "Sago Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 2
+ },
+ "185": {
+  "name": "Sago Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 2
+ },
+ "186": {
+  "name": "Blue Fan Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 3
+ },
+ "187": {
+  "name": "Blue Fan Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 3
+ },
+ "188": {
+  "name": "Blue Fan Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 3
+ },
+ "189": {
+  "name": "Drooping Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 10
+ },
+ "190": {
+  "name": "Drooping Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 10
+ },
+ "191": {
+  "name": "Drooping Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 10
+ },
+ "192": {
+  "name": "Date Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 8
+ },
+ "193": {
+  "name": "Date Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 8
+ },
+ "194": {
+  "name": "Date Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 8
+ },
+ "195": {
+  "name": "Fan Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 3
+ },
+ "196": {
+  "name": "Fan Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 3
+ },
+ "197": {
+  "name": "Bottle Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 4
+ },
+ "198": {
+  "name": "Bottle Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 4
+ },
+ "199": {
+  "name": "Bottle Palm",
+  "subcategory": "Palms & Ferns",
+  "size_m": 4
+ },
+ "200": {
+  "name": "Tree Fern",
+  "subcategory": "Palms & Ferns",
+  "size_m": 5
+ },
+ "201": {
+  "name": "Tree Fern",
+  "subcategory": "Palms & Ferns",
+  "size_m": 5
+ },
+ "202": {
+  "name": "Tree Fern",
+  "subcategory": "Palms & Ferns",
+  "size_m": 5
+ },
+ "203": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "204": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "205": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "206": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "207": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "208": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "209": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "210": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "211": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "212": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "213": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "214": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "215": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "216": {
+  "name": "Dry Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "217": {
+  "name": "Ornamental Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "218": {
+  "name": "Ornamental Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "219": {
+  "name": "Ornamental Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "220": {
+  "name": "Ornamental Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.6
+ },
+ "221": {
+  "name": "Grey Grass Tuft",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "222": {
+  "name": "Grey Grass Tuft",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "223": {
+  "name": "Grey Grass Tuft",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "224": {
+  "name": "Spiky Grass Tuft",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "225": {
+  "name": "Spiky Grass Tuft",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "226": {
+  "name": "Spiky Grass Tuft",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "227": {
+  "name": "Grass Clump",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "228": {
+  "name": "Grass Clump",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "229": {
+  "name": "Grass Clump",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "230": {
+  "name": "Grass Clump",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "231": {
+  "name": "Grass Clump",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "232": {
+  "name": "Grass Clump",
+  "subcategory": "Grasses",
+  "size_m": 0.4
+ },
+ "233": {
+  "name": "Flowering Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "234": {
+  "name": "Flowering Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "235": {
+  "name": "Flowering Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "236": {
+  "name": "Grass Stalk",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "237": {
+  "name": "Grass Stalk",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "238": {
+  "name": "Grass Stalk",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "239": {
+  "name": "Grass Stalk",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "240": {
+  "name": "Grass Stalk",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "241": {
+  "name": "Grass Stalk",
+  "subcategory": "Grasses",
+  "size_m": 0.8
+ },
+ "242": {
+  "name": "Grass Blade",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "243": {
+  "name": "Grass Blade",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "244": {
+  "name": "Grass Blade",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "245": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "246": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "247": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "248": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "249": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "250": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "251": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "252": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "253": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "254": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "255": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "256": {
+  "name": "Tall Grass",
+  "subcategory": "Grasses",
+  "size_m": 0.5
+ },
+ "257": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "258": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "259": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "260": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "261": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "262": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "263": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "264": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "265": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "266": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "267": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "268": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "269": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "270": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "271": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ },
+ "272": {
+  "name": "Grass Blades",
+  "subcategory": "Grasses",
+  "size_m": 0.3
+ }
+}

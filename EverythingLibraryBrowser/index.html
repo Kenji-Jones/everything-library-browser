@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Everything Library</title>
+  <meta name="description" content="Searchable browser for David OReilly's Everything Library of free 3D models.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23e8572a'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css?v=9">
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <header class="topbar">
+    <button class="icon-btn filters-toggle" id="filtersToggle" aria-label="Show filters" aria-expanded="false">
+      <svg viewBox="0 0 24 24" width="20" height="20"><path d="M4 6h16M7 12h10M10 18h4" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg>
+    </button>
+    <a class="brand" href="#" id="brandLink">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-text">Everything Library</span>
+    </a>
+    <label class="search">
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" fill="none"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="search" type="search" placeholder="Search objects… (try “bear”, “lamp”, “crystal”)" autocomplete="off" spellcheck="false" aria-label="Search objects">
+      <kbd class="search-kbd">/</kbd>
+    </label>
+    <div class="topbar-controls">
+      <label class="select">
+        <span class="visually-hidden">Sort</span>
+        <select id="sort" aria-label="Sort">
+          <option value="category">Sort: Category</option>
+          <option value="name">Sort: Name A–Z</option>
+          <option value="size-asc">Sort: Smallest first</option>
+          <option value="size-desc">Sort: Largest first</option>
+          <option value="variants">Sort: Most variants</option>
+          <option value="random">Sort: Random</option>
+        </select>
+      </label>
+      <label class="switch" title="Show every variant as its own tile">
+        <input type="checkbox" id="showVariants">
+        <span class="switch-track"><span class="switch-thumb"></span></span>
+        <span class="switch-label">All variants</span>
+      </label>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Filters">
+      <nav class="nav-section">
+        <h2 class="nav-heading">Categories</h2>
+        <ul class="cat-list" id="catList"></ul>
+      </nav>
+      <section class="nav-section">
+        <h2 class="nav-heading">Size</h2>
+        <div class="chips" id="sizeChips"></div>
+      </section>
+      <footer class="credit">
+        Models from the <a href="http://davidoreilly.com/library" target="_blank" rel="noopener">Everything Library</a>
+        © David OReilly, licensed <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>.
+        Human, Microscopic, Plants, Space, Trees, Underwater, Vehicles and Zeometry were sourced from
+        <a href="https://everythingcanvas.vercel.app/" target="_blank" rel="noopener">Everything Canvas</a> by Vince McKelvie;
+        their names and sizes are estimates. Credit the author when you use them. <a href="LICENSE.txt" target="_blank">License</a>
+      </footer>
+    </aside>
+    <div class="scrim" id="scrim" hidden></div>
+
+    <main class="main">
+      <div class="results-bar">
+        <h1 class="results-title" id="resultsTitle">All objects</h1>
+        <p class="results-count" id="resultsCount"></p>
+        <button class="select-all" id="selectAll" type="button"></button>
+        <div class="active-filters" id="activeFilters"></div>
+      </div>
+      <div class="grid" id="grid" role="list"></div>
+      <div class="empty" id="empty" hidden>
+        <p class="empty-title">Nothing matches that.</p>
+        <p class="empty-sub">Try a broader word, or <button class="link-btn" id="clearAll">clear all filters</button>.</p>
+      </div>
+    </main>
+  </div>
+
+  <dialog class="detail" id="detail" aria-labelledby="dName">
+    <div class="detail-inner">
+      <div class="viewer-col">
+        <div class="viewer" id="viewer">
+          <img class="viewer-poster" id="viewerPoster" alt="">
+          <div class="viewer-status" id="viewerStatus"></div>
+          <div class="viewer-tools">
+            <button class="tool-btn" id="vRotate" aria-pressed="true" title="Auto-rotate">
+              <svg viewBox="0 0 24 24" width="18" height="18"><path d="M20 12a8 8 0 1 1-2.3-5.6M20 4v4h-4" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+            <button class="tool-btn" id="vReset" title="Reset view">
+              <svg viewBox="0 0 24 24" width="18" height="18"><path d="M4 9V4h5M20 15v5h-5M4 15v5h5M20 9V4h-5" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+            </button>
+            <button class="tool-btn" id="vWire" aria-pressed="false" title="Wireframe">
+              <svg viewBox="0 0 24 24" width="18" height="18"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9zM12 3v18M4 7.5l16 9M20 7.5l-16 9" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linejoin="round"/></svg>
+            </button>
+          </div>
+          <p class="viewer-hint">Drag to orbit · scroll to zoom · right-drag to pan</p>
+        </div>
+        <div class="variants" id="variants" role="tablist" aria-label="Variants"></div>
+      </div>
+      <div class="info-col">
+        <div class="detail-nav">
+          <button class="icon-btn" id="dPrev" aria-label="Previous object" title="Previous (←)">
+            <svg viewBox="0 0 24 24" width="20" height="20"><path d="M15 5l-7 7 7 7" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button class="icon-btn" id="dNext" aria-label="Next object" title="Next (→)">
+            <svg viewBox="0 0 24 24" width="20" height="20"><path d="M9 5l7 7-7 7" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button class="icon-btn" id="dClose" aria-label="Close" title="Close (Esc)">
+            <svg viewBox="0 0 24 24" width="20" height="20"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </button>
+        </div>
+        <p class="crumbs" id="dCrumbs"></p>
+        <h2 class="d-name" id="dName"></h2>
+        <dl class="facts" id="dFacts"></dl>
+        <div class="downloads">
+          <h3 class="d-sub">Download</h3>
+          <div id="dDownloads"></div>
+        </div>
+        <div class="d-tags" id="dTags"></div>
+        <button class="select-toggle" id="dSelect" type="button" aria-pressed="false"></button>
+        <button class="copy-link" id="dCopy">Copy link to this object</button>
+      </div>
+    </div>
+  </dialog>
+
+  <div class="selbar" id="selbar" role="region" aria-label="Selection" hidden>
+    <div class="selbar-info">
+      <strong id="selCount"></strong>
+      <span id="selSize"></span>
+    </div>
+    <div class="seg" role="radiogroup" aria-label="File format">
+      <label><input type="radio" name="fmt" value="glb" checked><span>GLB</span></label>
+      <label><input type="radio" name="fmt" value="fbx"><span>FBX</span></label>
+      <label><input type="radio" name="fmt" value="blend"><span>.blend</span></label>
+    </div>
+    <button class="selbar-go" id="selDownload" type="button">Download zip</button>
+    <button class="selbar-clear" id="selClear" type="button">Clear</button>
+    <div class="selbar-progress" id="selProgress" hidden>
+      <span class="selbar-bar"><span id="selBar"></span></span>
+      <span id="selProgressText"></span>
+      <button class="selbar-clear" id="selCancel" type="button">Cancel</button>
+    </div>
+  </div>
+
+  <template id="cardTpl">
+    <div class="card" role="listitem">
+      <a class="card-link">
+        <span class="card-thumb"><img loading="lazy" decoding="async" alt=""></span>
+        <span class="card-body">
+          <span class="card-name"></span>
+          <span class="card-meta"></span>
+        </span>
+      </a>
+      <button class="card-check" type="button" role="checkbox" aria-checked="false">
+        <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <span class="card-badge"></span>
+    </div>
+  </template>
+
+  <script src="data/catalog.js?v=9"></script>
+  <script src="assets/app.js?v=9"></script>
+</body>
+</html>

@@ -1,0 +1,1168 @@
+{
+ "0": {
+  "name": "Rod Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 3e-06
+ },
+ "1": {
+  "name": "Rod Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 3e-06
+ },
+ "2": {
+  "name": "Rod Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 3e-06
+ },
+ "3": {
+  "name": "Spiral Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-05
+ },
+ "4": {
+  "name": "Spiral Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-05
+ },
+ "5": {
+  "name": "Spiral Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-05
+ },
+ "6": {
+  "name": "Dividing Cell",
+  "subcategory": "Cells",
+  "size_m": 8e-06
+ },
+ "7": {
+  "name": "Paired Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-06,
+  "aka": "Diplococcus"
+ },
+ "8": {
+  "name": "Dividing Cell",
+  "subcategory": "Cells",
+  "size_m": 8e-06
+ },
+ "9": {
+  "name": "Paired Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-06,
+  "aka": "Diplococcus"
+ },
+ "10": {
+  "name": "Paired Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-06,
+  "aka": "Diplococcus"
+ },
+ "11": {
+  "name": "Dividing Cell",
+  "subcategory": "Cells",
+  "size_m": 8e-06
+ },
+ "12": {
+  "name": "Club Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "13": {
+  "name": "Club Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "14": {
+  "name": "Club Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "15": {
+  "name": "Wavy Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06
+ },
+ "16": {
+  "name": "Wavy Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06
+ },
+ "17": {
+  "name": "Wavy Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06
+ },
+ "18": {
+  "name": "Capsule Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06,
+  "aka": "Bacillus"
+ },
+ "19": {
+  "name": "Capsule Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06,
+  "aka": "Bacillus"
+ },
+ "20": {
+  "name": "Capsule Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06,
+  "aka": "Bacillus"
+ },
+ "21": {
+  "name": "Bumpy Rod Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06
+ },
+ "22": {
+  "name": "Bumpy Rod Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06
+ },
+ "23": {
+  "name": "Bumpy Rod Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06
+ },
+ "24": {
+  "name": "Tailed Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06,
+  "aka": "Helicobacter"
+ },
+ "25": {
+  "name": "Tailed Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06,
+  "aka": "Helicobacter"
+ },
+ "26": {
+  "name": "Filament Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-05
+ },
+ "27": {
+  "name": "Filament Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-05
+ },
+ "28": {
+  "name": "Filament Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-05
+ },
+ "29": {
+  "name": "Round Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-06,
+  "aka": "Coccus"
+ },
+ "30": {
+  "name": "Round Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-06,
+  "aka": "Coccus"
+ },
+ "31": {
+  "name": "Round Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-06,
+  "aka": "Coccus"
+ },
+ "32": {
+  "name": "Round Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-06,
+  "aka": "Coccus"
+ },
+ "33": {
+  "name": "Round Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1e-06,
+  "aka": "Coccus"
+ },
+ "34": {
+  "name": "Twisted Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-05,
+  "aka": "Spirillum"
+ },
+ "35": {
+  "name": "Twisted Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-05,
+  "aka": "Spirillum"
+ },
+ "36": {
+  "name": "Twisted Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 2e-05,
+  "aka": "Spirillum"
+ },
+ "37": {
+  "name": "Cluster Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 3e-06,
+  "aka": "Staphylococcus"
+ },
+ "38": {
+  "name": "Cluster Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 3e-06,
+  "aka": "Staphylococcus"
+ },
+ "39": {
+  "name": "Cluster Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 3e-06,
+  "aka": "Staphylococcus"
+ },
+ "40": {
+  "name": "Chain Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06,
+  "aka": "Streptococcus"
+ },
+ "41": {
+  "name": "Chain Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06,
+  "aka": "Streptococcus"
+ },
+ "42": {
+  "name": "Chain Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 4e-06,
+  "aka": "Streptococcus"
+ },
+ "43": {
+  "name": "Segmented Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 8e-06
+ },
+ "44": {
+  "name": "Segmented Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 8e-06
+ },
+ "45": {
+  "name": "Segmented Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 8e-06
+ },
+ "46": {
+  "name": "Corkscrew Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1.5e-05,
+  "aka": "Spirochete"
+ },
+ "47": {
+  "name": "Corkscrew Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1.5e-05,
+  "aka": "Spirochete"
+ },
+ "48": {
+  "name": "Corkscrew Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 1.5e-05,
+  "aka": "Spirochete"
+ },
+ "49": {
+  "name": "Comma Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06,
+  "aka": "Vibrio"
+ },
+ "50": {
+  "name": "Comma Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06,
+  "aka": "Vibrio"
+ },
+ "51": {
+  "name": "Comma Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06,
+  "aka": "Vibrio"
+ },
+ "52": {
+  "name": "Lumpy Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "53": {
+  "name": "Lumpy Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "54": {
+  "name": "Lumpy Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "55": {
+  "name": "Green Algae Cell",
+  "subcategory": "Protists",
+  "size_m": 1e-05,
+  "aka": "Chlamydomonas"
+ },
+ "56": {
+  "name": "Green Algae Cell",
+  "subcategory": "Protists",
+  "size_m": 1e-05,
+  "aka": "Chlamydomonas"
+ },
+ "57": {
+  "name": "Green Alga",
+  "subcategory": "Protists",
+  "size_m": 1e-05
+ },
+ "58": {
+  "name": "Green Swimmer",
+  "subcategory": "Protists",
+  "size_m": 5e-05,
+  "aka": "Euglena"
+ },
+ "59": {
+  "name": "Green Alga",
+  "subcategory": "Protists",
+  "size_m": 1e-05
+ },
+ "60": {
+  "name": "Amoeba",
+  "subcategory": "Protists",
+  "size_m": 0.0003
+ },
+ "61": {
+  "name": "Amoeba",
+  "subcategory": "Protists",
+  "size_m": 0.0003
+ },
+ "62": {
+  "name": "Amoeba",
+  "subcategory": "Protists",
+  "size_m": 0.0003
+ },
+ "63": {
+  "name": "Amoeba",
+  "subcategory": "Protists",
+  "size_m": 0.0003
+ },
+ "64": {
+  "name": "Amoeba",
+  "subcategory": "Protists",
+  "size_m": 0.0003
+ },
+ "65": {
+  "name": "Ridged Spore",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "66": {
+  "name": "Sperm Cell",
+  "subcategory": "Cells",
+  "size_m": 6e-05
+ },
+ "67": {
+  "name": "Cyst",
+  "subcategory": "Pollen & Spores",
+  "size_m": 2e-05
+ },
+ "68": {
+  "name": "Spiny Ciliate",
+  "subcategory": "Protists",
+  "size_m": 0.0001
+ },
+ "69": {
+  "name": "Flagellate",
+  "subcategory": "Protists",
+  "size_m": 3e-05
+ },
+ "70": {
+  "name": "Spiky Spore",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "71": {
+  "name": "Spiky Spore",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "72": {
+  "name": "Spiky Spore",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "73": {
+  "name": "Oval Spore",
+  "subcategory": "Pollen & Spores",
+  "size_m": 1e-05
+ },
+ "74": {
+  "name": "Spiky Protist",
+  "subcategory": "Protists",
+  "size_m": 5e-05,
+  "aka": "Heliozoan"
+ },
+ "75": {
+  "name": "Platelet",
+  "subcategory": "Cells",
+  "size_m": 3e-06
+ },
+ "76": {
+  "name": "Red Blood Cell",
+  "subcategory": "Cells",
+  "size_m": 8e-06
+ },
+ "77": {
+  "name": "Platelet",
+  "subcategory": "Cells",
+  "size_m": 3e-06
+ },
+ "78": {
+  "name": "Red Blood Cell",
+  "subcategory": "Cells",
+  "size_m": 8e-06
+ },
+ "79": {
+  "name": "Platelet",
+  "subcategory": "Cells",
+  "size_m": 3e-06
+ },
+ "80": {
+  "name": "Red Blood Cell",
+  "subcategory": "Cells",
+  "size_m": 8e-06
+ },
+ "81": {
+  "name": "Glass Skeleton Plankton",
+  "subcategory": "Plankton",
+  "size_m": 0.0001,
+  "aka": "Radiolarian"
+ },
+ "82": {
+  "name": "Needle Diatom",
+  "subcategory": "Plankton",
+  "size_m": 0.0001
+ },
+ "83": {
+  "name": "Skin Cell",
+  "subcategory": "Cells",
+  "size_m": 3e-05
+ },
+ "84": {
+  "name": "Skin Cell",
+  "subcategory": "Cells",
+  "size_m": 3e-05
+ },
+ "85": {
+  "name": "Yeast Cell",
+  "subcategory": "Cells",
+  "size_m": 5e-06
+ },
+ "86": {
+  "name": "Yeast Cell",
+  "subcategory": "Cells",
+  "size_m": 5e-06
+ },
+ "87": {
+  "name": "Yeast Cell",
+  "subcategory": "Cells",
+  "size_m": 5e-06
+ },
+ "88": {
+  "name": "Yeast Cell",
+  "subcategory": "Cells",
+  "size_m": 5e-06
+ },
+ "89": {
+  "name": "Yeast Cell",
+  "subcategory": "Cells",
+  "size_m": 5e-06
+ },
+ "90": {
+  "name": "Dividing Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "91": {
+  "name": "Dividing Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "92": {
+  "name": "Dividing Bacterium",
+  "subcategory": "Bacteria",
+  "size_m": 5e-06
+ },
+ "93": {
+  "name": "Virus",
+  "subcategory": "Viruses",
+  "size_m": 1e-07
+ },
+ "94": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "95": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "96": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "97": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "98": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "99": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "100": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "101": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "102": {
+  "name": "Coronavirus",
+  "subcategory": "Viruses",
+  "size_m": 1.2e-07
+ },
+ "103": {
+  "name": "Pitted Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 4e-05
+ },
+ "104": {
+  "name": "Spiny Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "105": {
+  "name": "Angular Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "106": {
+  "name": "Lumpy Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "107": {
+  "name": "Pollen Grain",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "108": {
+  "name": "Pollen Grain",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "109": {
+  "name": "Pollen Grain",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "110": {
+  "name": "Sunflower Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "111": {
+  "name": "Sunflower Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "112": {
+  "name": "Sunflower Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "113": {
+  "name": "Lily Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 0.0001
+ },
+ "114": {
+  "name": "Smooth Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "115": {
+  "name": "Ragweed Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 2e-05
+ },
+ "116": {
+  "name": "Netted Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 4e-05
+ },
+ "117": {
+  "name": "Wrinkled Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 3e-05
+ },
+ "118": {
+  "name": "Mite",
+  "subcategory": "Tiny Animals",
+  "size_m": 0.0004
+ },
+ "119": {
+  "name": "Scabies Mite",
+  "subcategory": "Tiny Animals",
+  "size_m": 0.0004
+ },
+ "120": {
+  "name": "Dust Mite",
+  "subcategory": "Tiny Animals",
+  "size_m": 0.0003
+ },
+ "121": {
+  "name": "Tick",
+  "subcategory": "Tiny Animals",
+  "size_m": 0.003
+ },
+ "122": {
+  "name": "Louse",
+  "subcategory": "Tiny Animals",
+  "size_m": 0.003
+ },
+ "123": {
+  "name": "Krill",
+  "subcategory": "Plankton",
+  "size_m": 0.02
+ },
+ "124": {
+  "name": "Water Flea",
+  "subcategory": "Plankton",
+  "size_m": 0.002
+ },
+ "125": {
+  "name": "Phage Virus",
+  "subcategory": "Viruses",
+  "size_m": 2e-07,
+  "aka": "Bacteriophage"
+ },
+ "126": {
+  "name": "Tardigrade",
+  "subcategory": "Tiny Animals",
+  "size_m": 0.0005
+ },
+ "127": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "128": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "129": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "130": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "131": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "132": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "133": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "134": {
+  "name": "Dust Clump",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "135": {
+  "name": "Dust Clump",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "136": {
+  "name": "Dust Clump",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "137": {
+  "name": "Dust Clump",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "138": {
+  "name": "Dust Clump",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "139": {
+  "name": "Dust Clump",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "140": {
+  "name": "Glass Shard",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "141": {
+  "name": "Glass Shard",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "142": {
+  "name": "Glass Shard",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "143": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "144": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "145": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "146": {
+  "name": "Dust Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "147": {
+  "name": "Sand Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "148": {
+  "name": "Sand Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "149": {
+  "name": "Sand Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "150": {
+  "name": "Sand Grain",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.0001
+ },
+ "151": {
+  "name": "Sponge Spicule",
+  "subcategory": "Plankton",
+  "size_m": 0.0002
+ },
+ "152": {
+  "name": "Microplastic",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.001
+ },
+ "153": {
+  "name": "Spore",
+  "subcategory": "Pollen & Spores",
+  "size_m": 1e-05
+ },
+ "154": {
+  "name": "Disc Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "155": {
+  "name": "Shell Amoeba",
+  "subcategory": "Plankton",
+  "size_m": 0.0005,
+  "aka": "Foraminifera"
+ },
+ "156": {
+  "name": "Drum Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "157": {
+  "name": "Spiral Algae",
+  "subcategory": "Plankton",
+  "size_m": 0.0003,
+  "aka": "Spirulina"
+ },
+ "158": {
+  "name": "Spindle Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "159": {
+  "name": "Algae Colony",
+  "subcategory": "Protists",
+  "size_m": 0.0001
+ },
+ "160": {
+  "name": "Algae Colony",
+  "subcategory": "Protists",
+  "size_m": 0.0001
+ },
+ "161": {
+  "name": "Algae Colony",
+  "subcategory": "Protists",
+  "size_m": 0.0001
+ },
+ "162": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "163": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "164": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "165": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "166": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "167": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "168": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "169": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "170": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "171": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "172": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "173": {
+  "name": "Hair Strand",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.005
+ },
+ "174": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "175": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "176": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "177": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "178": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "179": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "180": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "181": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "182": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "183": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "184": {
+  "name": "Dust Fiber",
+  "subcategory": "Dust & Particles",
+  "size_m": 0.002
+ },
+ "185": {
+  "name": "Skin Flake",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "186": {
+  "name": "Skin Flake",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "187": {
+  "name": "Skin Flake",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "188": {
+  "name": "Skin Flake",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "189": {
+  "name": "Skin Flake",
+  "subcategory": "Dust & Particles",
+  "size_m": 5e-05
+ },
+ "190": {
+  "name": "Furrowed Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 4e-05
+ },
+ "191": {
+  "name": "Furrowed Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 4e-05
+ },
+ "192": {
+  "name": "Furrowed Pollen",
+  "subcategory": "Pollen & Spores",
+  "size_m": 4e-05
+ },
+ "193": {
+  "name": "Red Particle",
+  "subcategory": "Dust & Particles",
+  "size_m": 1e-05
+ },
+ "194": {
+  "name": "White Particle",
+  "subcategory": "Dust & Particles",
+  "size_m": 1e-05
+ },
+ "195": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "196": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "197": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "198": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "199": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "200": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "201": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "202": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "203": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "204": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "205": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "206": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "207": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "208": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "209": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "210": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "211": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "212": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "213": {
+  "name": "Particle Cluster",
+  "subcategory": "Dust & Particles",
+  "size_m": 2e-05
+ },
+ "214": {
+  "name": "Triangular Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "215": {
+  "name": "Star Diatom",
+  "subcategory": "Plankton",
+  "size_m": 0.0001
+ },
+ "216": {
+  "name": "Centric Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "217": {
+  "name": "Centric Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "218": {
+  "name": "Centric Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "219": {
+  "name": "Cylinder Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "220": {
+  "name": "Rod Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "221": {
+  "name": "Oval Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "222": {
+  "name": "Boat Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "223": {
+  "name": "Horned Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "224": {
+  "name": "Pennate Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ },
+ "225": {
+  "name": "Barrel Diatom",
+  "subcategory": "Plankton",
+  "size_m": 5e-05
+ }
+}

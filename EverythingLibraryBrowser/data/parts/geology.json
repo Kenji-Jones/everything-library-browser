@@ -1,0 +1,6506 @@
+[
+ {
+  "id": "geology-carvedstone-dolmen",
+  "name": "Dolmen",
+  "category": "Geology",
+  "subcategory": "CarvedStone",
+  "tags": [
+   "Dolmen"
+  ],
+  "blend": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v1.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v1.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v1.webp",
+    "dims": [
+     10.1,
+     4.147,
+     9.875
+    ],
+    "tris": 364,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v2.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v2.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v2.webp",
+    "dims": [
+     9.798,
+     4.942,
+     9.071
+    ],
+    "tris": 380,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v3.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v3.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v3.webp",
+    "dims": [
+     12.7,
+     11.7,
+     9.94
+    ],
+    "tris": 300,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v4.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v4.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v4.webp",
+    "dims": [
+     15.47,
+     16.91,
+     8.44
+    ],
+    "tris": 380,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v5.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v5.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v5.webp",
+    "dims": [
+     11.06,
+     7.287,
+     7.878
+    ],
+    "tris": 336,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v6.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v6.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v6.webp",
+    "dims": [
+     8.531,
+     11.25,
+     7.321
+    ],
+    "tris": 348,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v7.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v7.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v7.webp",
+    "dims": [
+     11.13,
+     7.495,
+     8.221
+    ],
+    "tris": 388,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v8.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v8.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v8.webp",
+    "dims": [
+     11.57,
+     11.64,
+     9.921
+    ],
+    "tris": 516,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v9.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v9.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v9.webp",
+    "dims": [
+     21.8,
+     16.2,
+     9.19
+    ],
+    "tris": 380,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v10.glb",
+    "fbx": "models/geology/geology-carvedstone-dolmen/geology-carvedstone-dolmen_v10.fbx",
+    "thumb": "thumbs/geology-carvedstone-dolmen_v10.webp",
+    "dims": [
+     11.39,
+     6.841,
+     8.642
+    ],
+    "tris": 336,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-carvedstone-gravestone",
+  "name": "Gravestone",
+  "category": "Geology",
+  "subcategory": "CarvedStone",
+  "tags": [
+   "Gravestone"
+  ],
+  "blend": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v1.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v1.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v1.webp",
+    "dims": [
+     2.189,
+     0.7771,
+     4.428
+    ],
+    "tris": 64,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v2.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v2.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v2.webp",
+    "dims": [
+     3.081,
+     1.413,
+     6.074
+    ],
+    "tris": 470,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v3.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v3.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v3.webp",
+    "dims": [
+     3.575,
+     0.7343,
+     4.747
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v4.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v4.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v4.webp",
+    "dims": [
+     3.909,
+     1.068,
+     4.747
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v5.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v5.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v5.webp",
+    "dims": [
+     2.036,
+     0.9383,
+     4.515
+    ],
+    "tris": 236,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v6.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v6.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v6.webp",
+    "dims": [
+     3.909,
+     1.068,
+     3.507
+    ],
+    "tris": 328,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v7.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v7.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v7.webp",
+    "dims": [
+     3.575,
+     0.7343,
+     3.873
+    ],
+    "tris": 140,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v8.glb",
+    "fbx": "models/geology/geology-carvedstone-gravestone/geology-carvedstone-gravestone_v8.fbx",
+    "thumb": "thumbs/geology-carvedstone-gravestone_v8.webp",
+    "dims": [
+     1.512,
+     0.7343,
+     5.082
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-carvedstone-moai",
+  "name": "Moai",
+  "category": "Geology",
+  "subcategory": "CarvedStone",
+  "tags": [
+   "Moai"
+  ],
+  "blend": "models/geology/geology-carvedstone-moai/geology-carvedstone-moai.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-carvedstone-moai/geology-carvedstone-moai_v1.glb",
+    "fbx": "models/geology/geology-carvedstone-moai/geology-carvedstone-moai_v1.fbx",
+    "thumb": "thumbs/geology-carvedstone-moai_v1.webp",
+    "dims": [
+     6.965,
+     6.128,
+     16.07
+    ],
+    "tris": 612,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-carvedstone-monolith",
+  "name": "Monolith",
+  "category": "Geology",
+  "subcategory": "CarvedStone",
+  "tags": [
+   "Monolith"
+  ],
+  "blend": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v1.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v1.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v1.webp",
+    "dims": [
+     2.525,
+     2.057,
+     7.096
+    ],
+    "tris": 380,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v2.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v2.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v2.webp",
+    "dims": [
+     1.793,
+     1.969,
+     5.363
+    ],
+    "tris": 140,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v3.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v3.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v3.webp",
+    "dims": [
+     2.282,
+     2.238,
+     7.643
+    ],
+    "tris": 324,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v4.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v4.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v4.webp",
+    "dims": [
+     2.134,
+     2.164,
+     7.069
+    ],
+    "tris": 304,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v5.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v5.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v5.webp",
+    "dims": [
+     2.203,
+     2.123,
+     8.077
+    ],
+    "tris": 364,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v6.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v6.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v6.webp",
+    "dims": [
+     2.09,
+     2.06,
+     7.4
+    ],
+    "tris": 268,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v7.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v7.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v7.webp",
+    "dims": [
+     2.171,
+     2.013,
+     8.111
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v8.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v8.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v8.webp",
+    "dims": [
+     2.682,
+     2.384,
+     7.739
+    ],
+    "tris": 236,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v9.glb",
+    "fbx": "models/geology/geology-carvedstone-monolith/geology-carvedstone-monolith_v9.fbx",
+    "thumb": "thumbs/geology-carvedstone-monolith_v9.webp",
+    "dims": [
+     2.043,
+     1.985,
+     7.05
+    ],
+    "tris": 444,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-carvedstone-obelisk",
+  "name": "Obelisk",
+  "category": "Geology",
+  "subcategory": "CarvedStone",
+  "tags": [
+   "Obelisk"
+  ],
+  "blend": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v1.glb",
+    "fbx": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v1.fbx",
+    "thumb": "thumbs/geology-carvedstone-obelisk_v1.webp",
+    "dims": [
+     1.45,
+     1.45,
+     6.019
+    ],
+    "tris": 62,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v2.glb",
+    "fbx": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v2.fbx",
+    "thumb": "thumbs/geology-carvedstone-obelisk_v2.webp",
+    "dims": [
+     1.767,
+     1.767,
+     6.579
+    ],
+    "tris": 68,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v3.glb",
+    "fbx": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v3.fbx",
+    "thumb": "thumbs/geology-carvedstone-obelisk_v3.webp",
+    "dims": [
+     0.7469,
+     0.7469,
+     6.07
+    ],
+    "tris": 36,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v4.glb",
+    "fbx": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v4.fbx",
+    "thumb": "thumbs/geology-carvedstone-obelisk_v4.webp",
+    "dims": [
+     1.411,
+     1.411,
+     5.123
+    ],
+    "tris": 36,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v5.glb",
+    "fbx": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v5.fbx",
+    "thumb": "thumbs/geology-carvedstone-obelisk_v5.webp",
+    "dims": [
+     1.708,
+     1.708,
+     5.425
+    ],
+    "tris": 44,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v6.glb",
+    "fbx": "models/geology/geology-carvedstone-obelisk/geology-carvedstone-obelisk_v6.fbx",
+    "thumb": "thumbs/geology-carvedstone-obelisk_v6.webp",
+    "dims": [
+     1.411,
+     1.411,
+     5.123
+    ],
+    "tris": 52,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-carvedstone-stoneblock",
+  "name": "StoneBlock",
+  "category": "Geology",
+  "subcategory": "CarvedStone",
+  "tags": [
+   "Stoneblock"
+  ],
+  "blend": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v1.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v1.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v1.webp",
+    "dims": [
+     8.421,
+     3.36,
+     8.711
+    ],
+    "tris": 140,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v2.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v2.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v2.webp",
+    "dims": [
+     8.461,
+     3.281,
+     3.124
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v3.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v3.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v3.webp",
+    "dims": [
+     6.436,
+     3.36,
+     8.68
+    ],
+    "tris": 126,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v4.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v4.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v4.webp",
+    "dims": [
+     3.281,
+     3.124,
+     8.257
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v5.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v5.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v5.webp",
+    "dims": [
+     3.281,
+     8.461,
+     3.124
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v6.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v6.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v6.webp",
+    "dims": [
+     3.013,
+     2.981,
+     2.981
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v7.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v7.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v7.webp",
+    "dims": [
+     2.981,
+     3.013,
+     2.981
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v8.glb",
+    "fbx": "models/geology/geology-carvedstone-stoneblock/geology-carvedstone-stoneblock_v8.fbx",
+    "thumb": "thumbs/geology-carvedstone-stoneblock_v8.webp",
+    "dims": [
+     2.965,
+     2.939,
+     5.495
+    ],
+    "tris": 56,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-calcitecluster",
+  "name": "CalciteCluster",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "CalciteCluster"
+  ],
+  "blend": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster_v1.glb",
+    "fbx": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster_v1.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecluster_v1.webp",
+    "dims": [
+     7.271,
+     6.652,
+     9.212
+    ],
+    "tris": 286,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster_v2.glb",
+    "fbx": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster_v2.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecluster_v2.webp",
+    "dims": [
+     9.789,
+     9.029,
+     9.416
+    ],
+    "tris": 336,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster_v3.glb",
+    "fbx": "models/geology/geology-crystals-calcitecluster/geology-crystals-calcitecluster_v3.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecluster_v3.webp",
+    "dims": [
+     9.675,
+     9.901,
+     8.093
+    ],
+    "tris": 254,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-calcitecrystal",
+  "name": "CalciteCrystal",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "CalciteCrystal"
+  ],
+  "blend": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v1.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v1.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v1.webp",
+    "dims": [
+     2.214,
+     1.918,
+     6.356
+    ],
+    "tris": 98,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v2.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v2.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v2.webp",
+    "dims": [
+     2.214,
+     1.918,
+     7.3
+    ],
+    "tris": 72,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v3.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v3.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v3.webp",
+    "dims": [
+     2.01,
+     1.74,
+     6.667
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v4.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v4.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v4.webp",
+    "dims": [
+     2.737,
+     3.512,
+     7.026
+    ],
+    "tris": 88,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v5.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v5.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v5.webp",
+    "dims": [
+     2.214,
+     1.918,
+     6.919
+    ],
+    "tris": 78,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v6.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v6.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v6.webp",
+    "dims": [
+     1.362,
+     1.18,
+     4.456
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v7.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v7.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v7.webp",
+    "dims": [
+     1.392,
+     1.206,
+     3.549
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v8.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v8.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v8.webp",
+    "dims": [
+     1.392,
+     1.206,
+     4.092
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v9.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v9.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v9.webp",
+    "dims": [
+     1.392,
+     1.206,
+     3.256
+    ],
+    "tris": 34,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v10.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v10.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v10.webp",
+    "dims": [
+     1.392,
+     1.206,
+     4.22
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v11.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v11.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v11.webp",
+    "dims": [
+     1.392,
+     1.206,
+     4.481
+    ],
+    "tris": 36,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v12.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v12.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v12.webp",
+    "dims": [
+     1.392,
+     1.206,
+     3.33
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v13.glb",
+    "fbx": "models/geology/geology-crystals-calcitecrystal/geology-crystals-calcitecrystal_v13.fbx",
+    "thumb": "thumbs/geology-crystals-calcitecrystal_v13.webp",
+    "dims": [
+     1.392,
+     1.206,
+     4.244
+    ],
+    "tris": 46,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-coloredcrystal",
+  "name": "ColoredCrystal",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "ColoredCrystal"
+  ],
+  "blend": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v1.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v1.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v1.webp",
+    "dims": [
+     1.465,
+     1.269,
+     4.954
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v2.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v2.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v2.webp",
+    "dims": [
+     1.497,
+     1.297,
+     5.971
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v3.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v3.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v3.webp",
+    "dims": [
+     1.497,
+     1.297,
+     5.705
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v4.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v4.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v4.webp",
+    "dims": [
+     1.497,
+     1.297,
+     4.821
+    ],
+    "tris": 34,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v5.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v5.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v5.webp",
+    "dims": [
+     1.497,
+     1.297,
+     4.605
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v6.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v6.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v6.webp",
+    "dims": [
+     1.497,
+     1.297,
+     5.343
+    ],
+    "tris": 36,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v7.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v7.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v7.webp",
+    "dims": [
+     1.497,
+     1.297,
+     4.93
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v8.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v8.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v8.webp",
+    "dims": [
+     1.497,
+     1.297,
+     5.646
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v9.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v9.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v9.webp",
+    "dims": [
+     2.214,
+     1.918,
+     5.95
+    ],
+    "tris": 98,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v10.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v10.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v10.webp",
+    "dims": [
+     2.214,
+     1.918,
+     6.28
+    ],
+    "tris": 72,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v11.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v11.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v11.webp",
+    "dims": [
+     2.01,
+     1.74,
+     7.662
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v12.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v12.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v12.webp",
+    "dims": [
+     2.122,
+     2.724,
+     7.672
+    ],
+    "tris": 88,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v13.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystal/geology-crystals-coloredcrystal_v13.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystal_v13.webp",
+    "dims": [
+     2.995,
+     2.594,
+     7.291
+    ],
+    "tris": 78,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-coloredcrystalcluster",
+  "name": "ColoredCrystalCluster",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "ColoredCrystalCluster"
+  ],
+  "blend": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster_v1.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster_v1.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystalcluster_v1.webp",
+    "dims": [
+     7.958,
+     8.055,
+     9.773
+    ],
+    "tris": 308,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster_v2.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster_v2.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystalcluster_v2.webp",
+    "dims": [
+     8.002,
+     6.96,
+     8.217
+    ],
+    "tris": 320,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster_v3.glb",
+    "fbx": "models/geology/geology-crystals-coloredcrystalcluster/geology-crystals-coloredcrystalcluster_v3.fbx",
+    "thumb": "thumbs/geology-crystals-coloredcrystalcluster_v3.webp",
+    "dims": [
+     9.537,
+     9.138,
+     9.507
+    ],
+    "tris": 374,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-crystalshard",
+  "name": "CrystalShard",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "CrystalShard"
+  ],
+  "blend": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v1.glb",
+    "fbx": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v1.fbx",
+    "thumb": "thumbs/geology-crystals-crystalshard_v1.webp",
+    "dims": [
+     2.378,
+     18.74,
+     1.522
+    ],
+    "tris": 136,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v2.glb",
+    "fbx": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v2.fbx",
+    "thumb": "thumbs/geology-crystals-crystalshard_v2.webp",
+    "dims": [
+     2.168,
+     18.13,
+     1.577
+    ],
+    "tris": 128,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v3.glb",
+    "fbx": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v3.fbx",
+    "thumb": "thumbs/geology-crystals-crystalshard_v3.webp",
+    "dims": [
+     1.407,
+     19.29,
+     0.8034
+    ],
+    "tris": 84,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v4.glb",
+    "fbx": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v4.fbx",
+    "thumb": "thumbs/geology-crystals-crystalshard_v4.webp",
+    "dims": [
+     1.287,
+     10.61,
+     0.6656
+    ],
+    "tris": 76,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v5.glb",
+    "fbx": "models/geology/geology-crystals-crystalshard/geology-crystals-crystalshard_v5.fbx",
+    "thumb": "thumbs/geology-crystals-crystalshard_v5.webp",
+    "dims": [
+     1.56,
+     15.44,
+     1.096
+    ],
+    "tris": 92,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-diamond",
+  "name": "Diamond",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "Diamond"
+  ],
+  "blend": "models/geology/geology-crystals-diamond/geology-crystals-diamond.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v1.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v1.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v1.webp",
+    "dims": [
+     0.6694,
+     0.6694,
+     0.4563
+    ],
+    "tris": 32,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v2.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v2.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v2.webp",
+    "dims": [
+     0.5105,
+     0.5105,
+     0.348
+    ],
+    "tris": 48,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v3.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v3.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v3.webp",
+    "dims": [
+     0.9188,
+     0.9188,
+     0.5628
+    ],
+    "tris": 96,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v4.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v4.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v4.webp",
+    "dims": [
+     0.6694,
+     0.6694,
+     0.4563
+    ],
+    "tris": 32,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v5.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v5.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v5.webp",
+    "dims": [
+     0.5103,
+     0.5103,
+     0.3478
+    ],
+    "tris": 48,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v6.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v6.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v6.webp",
+    "dims": [
+     0.6345,
+     0.6345,
+     0.3887
+    ],
+    "tris": 96,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v7.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v7.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v7.webp",
+    "dims": [
+     0.6694,
+     0.6694,
+     0.4563
+    ],
+    "tris": 32,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v8.glb",
+    "fbx": "models/geology/geology-crystals-diamond/geology-crystals-diamond_v8.fbx",
+    "thumb": "thumbs/geology-crystals-diamond_v8.webp",
+    "dims": [
+     0.9188,
+     0.9188,
+     0.5628
+    ],
+    "tris": 96,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-gemstone",
+  "name": "gemstone",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "Gemstone"
+  ],
+  "blend": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v1.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v1.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v1.webp",
+    "dims": [
+     17.12,
+     7.127,
+     10.03
+    ],
+    "tris": 32,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v2.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v2.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v2.webp",
+    "dims": [
+     18.85,
+     18.01,
+     21.06
+    ],
+    "tris": 44,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v3.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v3.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v3.webp",
+    "dims": [
+     15.48,
+     17.03,
+     19.59
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v4.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v4.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v4.webp",
+    "dims": [
+     12.21,
+     14.16,
+     17.66
+    ],
+    "tris": 40,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v5.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v5.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v5.webp",
+    "dims": [
+     16.11,
+     17.27,
+     20.63
+    ],
+    "tris": 40,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v6.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v6.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v6.webp",
+    "dims": [
+     18.93,
+     18.01,
+     20.58
+    ],
+    "tris": 44,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v7.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v7.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v7.webp",
+    "dims": [
+     14.46,
+     15.42,
+     20.4
+    ],
+    "tris": 52,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v8.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v8.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v8.webp",
+    "dims": [
+     14.45,
+     16.5,
+     15.05
+    ],
+    "tris": 40,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v9.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v9.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v9.webp",
+    "dims": [
+     17.77,
+     17.7,
+     21.17
+    ],
+    "tris": 44,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v10.glb",
+    "fbx": "models/geology/geology-crystals-gemstone/geology-crystals-gemstone_v10.fbx",
+    "thumb": "thumbs/geology-crystals-gemstone_v10.webp",
+    "dims": [
+     18.72,
+     18.01,
+     21.17
+    ],
+    "tris": 40,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-icecrystal",
+  "name": "IceCrystal",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "IceCrystal"
+  ],
+  "blend": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v1.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v1.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v1.webp",
+    "dims": [
+     2.214,
+     1.918,
+     5.95
+    ],
+    "tris": 98,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v2.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v2.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v2.webp",
+    "dims": [
+     2.214,
+     1.918,
+     7.3
+    ],
+    "tris": 72,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v3.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v3.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v3.webp",
+    "dims": [
+     2.01,
+     1.74,
+     6.667
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v4.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v4.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v4.webp",
+    "dims": [
+     2.737,
+     3.512,
+     7.026
+    ],
+    "tris": 88,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v5.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v5.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v5.webp",
+    "dims": [
+     2.214,
+     1.918,
+     6.919
+    ],
+    "tris": 78,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v6.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v6.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v6.webp",
+    "dims": [
+     1.448,
+     1.254,
+     5.676
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v7.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v7.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v7.webp",
+    "dims": [
+     1.48,
+     1.282,
+     7.038
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v8.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v8.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v8.webp",
+    "dims": [
+     1.48,
+     1.282,
+     5.562
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v9.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v9.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v9.webp",
+    "dims": [
+     1.48,
+     1.282,
+     5.545
+    ],
+    "tris": 34,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v10.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v10.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v10.webp",
+    "dims": [
+     1.48,
+     1.282,
+     5.331
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v11.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v11.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v11.webp",
+    "dims": [
+     1.48,
+     1.282,
+     4.767
+    ],
+    "tris": 36,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v12.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v12.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v12.webp",
+    "dims": [
+     1.48,
+     1.282,
+     7.991
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v13.glb",
+    "fbx": "models/geology/geology-crystals-icecrystal/geology-crystals-icecrystal_v13.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystal_v13.webp",
+    "dims": [
+     1.48,
+     1.282,
+     4.971
+    ],
+    "tris": 46,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-icecrystalcluster",
+  "name": "IceCrystalCluster",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "IceCrystalCluster"
+  ],
+  "blend": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster_v1.glb",
+    "fbx": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster_v1.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystalcluster_v1.webp",
+    "dims": [
+     9.426,
+     8.534,
+     9.434
+    ],
+    "tris": 330,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster_v2.glb",
+    "fbx": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster_v2.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystalcluster_v2.webp",
+    "dims": [
+     9.455,
+     7.007,
+     8.199
+    ],
+    "tris": 396,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster_v3.glb",
+    "fbx": "models/geology/geology-crystals-icecrystalcluster/geology-crystals-icecrystalcluster_v3.fbx",
+    "thumb": "thumbs/geology-crystals-icecrystalcluster_v3.webp",
+    "dims": [
+     9.867,
+     9.473,
+     8.17
+    ],
+    "tris": 374,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-obsidiancluster",
+  "name": "ObsidianCluster",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "ObsidianCluster"
+  ],
+  "blend": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster_v1.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster_v1.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancluster_v1.webp",
+    "dims": [
+     8.391,
+     7.59,
+     9.091
+    ],
+    "tris": 286,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster_v2.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster_v2.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancluster_v2.webp",
+    "dims": [
+     9.455,
+     8.466,
+     8.917
+    ],
+    "tris": 396,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster_v3.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancluster/geology-crystals-obsidiancluster_v3.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancluster_v3.webp",
+    "dims": [
+     9.917,
+     9.013,
+     6.345
+    ],
+    "tris": 362,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-obsidiancrystal",
+  "name": "ObsidianCrystal",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "ObsydianCrystal"
+  ],
+  "blend": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v1.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v1.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v1.webp",
+    "dims": [
+     2.214,
+     1.918,
+     5.95
+    ],
+    "tris": 98,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v2.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v2.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v2.webp",
+    "dims": [
+     2.214,
+     1.918,
+     7.3
+    ],
+    "tris": 72,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v3.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v3.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v3.webp",
+    "dims": [
+     2.01,
+     1.74,
+     6.667
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v4.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v4.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v4.webp",
+    "dims": [
+     2.026,
+     2.6,
+     7.026
+    ],
+    "tris": 88,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v5.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v5.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v5.webp",
+    "dims": [
+     2.214,
+     1.918,
+     6.919
+    ],
+    "tris": 78,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v6.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v6.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v6.webp",
+    "dims": [
+     1.158,
+     1.003,
+     3.346
+    ],
+    "tris": 54,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v7.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v7.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v7.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     4.482
+    ],
+    "tris": 56,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v8.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v8.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v8.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     3.963
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v9.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v9.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v9.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     4.727
+    ],
+    "tris": 34,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v10.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v10.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v10.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     4.079
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v11.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v11.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v11.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     3.371
+    ],
+    "tris": 36,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v12.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v12.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v12.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     4.19
+    ],
+    "tris": 46,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v13.glb",
+    "fbx": "models/geology/geology-crystals-obsidiancrystal/geology-crystals-obsidiancrystal_v13.fbx",
+    "thumb": "thumbs/geology-crystals-obsidiancrystal_v13.webp",
+    "dims": [
+     1.011,
+     0.8758,
+     2.865
+    ],
+    "tris": 46,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-snowflake",
+  "name": "Snowflake",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "Snowflake"
+  ],
+  "blend": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v1.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v1.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v1.webp",
+    "dims": [
+     5.546,
+     4.982,
+     0.4212
+    ],
+    "tris": 720,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v2.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v2.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v2.webp",
+    "dims": [
+     10.72,
+     12.38,
+     0.2573
+    ],
+    "tris": 3168,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v3.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v3.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v3.webp",
+    "dims": [
+     9.006,
+     10.39,
+     1.104
+    ],
+    "tris": 1464,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v4.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v4.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v4.webp",
+    "dims": [
+     11.82,
+     13.48,
+     0.4891
+    ],
+    "tris": 2424,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v5.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v5.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v5.webp",
+    "dims": [
+     7.921,
+     9.139,
+     0.8194
+    ],
+    "tris": 1128,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v6.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v6.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v6.webp",
+    "dims": [
+     10.25,
+     11.81,
+     0.593
+    ],
+    "tris": 2376,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v7.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v7.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v7.webp",
+    "dims": [
+     11.83,
+     13.65,
+     0.5252
+    ],
+    "tris": 1344,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v8.glb",
+    "fbx": "models/geology/geology-crystals-snowflake/geology-crystals-snowflake_v8.fbx",
+    "thumb": "thumbs/geology-crystals-snowflake_v8.webp",
+    "dims": [
+     4.741,
+     5.406,
+     0.3702
+    ],
+    "tris": 624,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-snowparticle",
+  "name": "snowparticle",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "SnowParticle"
+  ],
+  "blend": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v1.glb",
+    "fbx": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v1.fbx",
+    "thumb": "thumbs/geology-crystals-snowparticle_v1.webp",
+    "dims": [
+     6.656,
+     6.934,
+     6.279
+    ],
+    "tris": 764,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v2.glb",
+    "fbx": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v2.fbx",
+    "thumb": "thumbs/geology-crystals-snowparticle_v2.webp",
+    "dims": [
+     6.019,
+     6.607,
+     5.875
+    ],
+    "tris": 764,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v3.glb",
+    "fbx": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v3.fbx",
+    "thumb": "thumbs/geology-crystals-snowparticle_v3.webp",
+    "dims": [
+     6.599,
+     5.931,
+     6.616
+    ],
+    "tris": 764,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v4.glb",
+    "fbx": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v4.fbx",
+    "thumb": "thumbs/geology-crystals-snowparticle_v4.webp",
+    "dims": [
+     6.604,
+     6.1,
+     6.646
+    ],
+    "tris": 764,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v5.glb",
+    "fbx": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v5.fbx",
+    "thumb": "thumbs/geology-crystals-snowparticle_v5.webp",
+    "dims": [
+     6.818,
+     6.425,
+     6.819
+    ],
+    "tris": 764,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v6.glb",
+    "fbx": "models/geology/geology-crystals-snowparticle/geology-crystals-snowparticle_v6.fbx",
+    "thumb": "thumbs/geology-crystals-snowparticle_v6.webp",
+    "dims": [
+     6.442,
+     7.244,
+     7.171
+    ],
+    "tris": 764,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-crystals-tinystalagmite",
+  "name": "TinyStalagmite",
+  "category": "Geology",
+  "subcategory": "Crystals",
+  "tags": [
+   "TinyStalagmite"
+  ],
+  "blend": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v1.glb",
+    "fbx": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v1.fbx",
+    "thumb": "thumbs/geology-crystals-tinystalagmite_v1.webp",
+    "dims": [
+     2.752,
+     2.958,
+     3.621
+    ],
+    "tris": 128,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v2.glb",
+    "fbx": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v2.fbx",
+    "thumb": "thumbs/geology-crystals-tinystalagmite_v2.webp",
+    "dims": [
+     2.491,
+     2.491,
+     5.362
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v3.glb",
+    "fbx": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v3.fbx",
+    "thumb": "thumbs/geology-crystals-tinystalagmite_v3.webp",
+    "dims": [
+     2.438,
+     2.438,
+     7.784
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v4.glb",
+    "fbx": "models/geology/geology-crystals-tinystalagmite/geology-crystals-tinystalagmite_v4.fbx",
+    "thumb": "thumbs/geology-crystals-tinystalagmite_v4.webp",
+    "dims": [
+     2.598,
+     2.598,
+     9.514
+    ],
+    "tris": 144,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-aliencliff",
+  "name": "AlienCliff",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Alien Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v1.glb",
+    "fbx": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v1.fbx",
+    "thumb": "thumbs/geology-landforms-aliencliff_v1.webp",
+    "dims": [
+     68.17,
+     89.0,
+     28.53
+    ],
+    "tris": 508,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v2.glb",
+    "fbx": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v2.fbx",
+    "thumb": "thumbs/geology-landforms-aliencliff_v2.webp",
+    "dims": [
+     42.08,
+     80.58,
+     30.25
+    ],
+    "tris": 620,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v3.glb",
+    "fbx": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v3.fbx",
+    "thumb": "thumbs/geology-landforms-aliencliff_v3.webp",
+    "dims": [
+     50.87,
+     71.14,
+     28.55
+    ],
+    "tris": 564,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v4.glb",
+    "fbx": "models/geology/geology-landforms-aliencliff/geology-landforms-aliencliff_v4.fbx",
+    "thumb": "thumbs/geology-landforms-aliencliff_v4.webp",
+    "dims": [
+     54.5,
+     79.56,
+     28.86
+    ],
+    "tris": 436,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-alienpillar",
+  "name": "AlienPillar",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Alien Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v1.glb",
+    "fbx": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v1.fbx",
+    "thumb": "thumbs/geology-landforms-alienpillar_v1.webp",
+    "dims": [
+     41.86,
+     42.01,
+     35.35
+    ],
+    "tris": 728,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v2.glb",
+    "fbx": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v2.fbx",
+    "thumb": "thumbs/geology-landforms-alienpillar_v2.webp",
+    "dims": [
+     20.15,
+     23.89,
+     41.11
+    ],
+    "tris": 490,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v3.glb",
+    "fbx": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v3.fbx",
+    "thumb": "thumbs/geology-landforms-alienpillar_v3.webp",
+    "dims": [
+     20.45,
+     24.27,
+     40.71
+    ],
+    "tris": 728,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v4.glb",
+    "fbx": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v4.fbx",
+    "thumb": "thumbs/geology-landforms-alienpillar_v4.webp",
+    "dims": [
+     39.27,
+     35.18,
+     35.13
+    ],
+    "tris": 674,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v5.glb",
+    "fbx": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v5.fbx",
+    "thumb": "thumbs/geology-landforms-alienpillar_v5.webp",
+    "dims": [
+     44.25,
+     38.97,
+     35.38
+    ],
+    "tris": 740,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v6.glb",
+    "fbx": "models/geology/geology-landforms-alienpillar/geology-landforms-alienpillar_v6.fbx",
+    "thumb": "thumbs/geology-landforms-alienpillar_v6.webp",
+    "dims": [
+     17.74,
+     21.96,
+     44.73
+    ],
+    "tris": 626,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-alienplateularge",
+  "name": "AlienPlateuLarge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Alien Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge_v1.glb",
+    "fbx": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateularge_v1.webp",
+    "dims": [
+     45.09,
+     44.15,
+     28.41
+    ],
+    "tris": 1008,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge_v2.glb",
+    "fbx": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateularge_v2.webp",
+    "dims": [
+     31.38,
+     25.25,
+     28.57
+    ],
+    "tris": 476,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge_v3.glb",
+    "fbx": "models/geology/geology-landforms-alienplateularge/geology-landforms-alienplateularge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateularge_v3.webp",
+    "dims": [
+     38.1,
+     54.24,
+     28.44
+    ],
+    "tris": 976,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-alienplateumedium",
+  "name": "AlienPlateuMedium",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Alien Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium_v1.glb",
+    "fbx": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium_v1.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateumedium_v1.webp",
+    "dims": [
+     68.96,
+     68.96,
+     21.77
+    ],
+    "tris": 842,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium_v2.glb",
+    "fbx": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium_v2.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateumedium_v2.webp",
+    "dims": [
+     41.31,
+     53.15,
+     21.7
+    ],
+    "tris": 464,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium_v3.glb",
+    "fbx": "models/geology/geology-landforms-alienplateumedium/geology-landforms-alienplateumedium_v3.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateumedium_v3.webp",
+    "dims": [
+     51.55,
+     55.82,
+     21.73
+    ],
+    "tris": 1036,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-alienplateutiny",
+  "name": "AlienPlateuTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Alien Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateutiny_v1.webp",
+    "dims": [
+     22.58,
+     23.33,
+     12.36
+    ],
+    "tris": 432,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateutiny_v2.webp",
+    "dims": [
+     18.77,
+     27.03,
+     12.36
+    ],
+    "tris": 1040,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-alienplateutiny/geology-landforms-alienplateutiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-alienplateutiny_v3.webp",
+    "dims": [
+     12.64,
+     14.53,
+     12.36
+    ],
+    "tris": 480,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-citysidewalktile",
+  "name": "CitySidewalkTile",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "City Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v1.glb",
+    "fbx": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v1.fbx",
+    "thumb": "thumbs/geology-landforms-citysidewalktile_v1.webp",
+    "dims": [
+     9.082,
+     9.082,
+     2.675
+    ],
+    "tris": 108,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v2.glb",
+    "fbx": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v2.fbx",
+    "thumb": "thumbs/geology-landforms-citysidewalktile_v2.webp",
+    "dims": [
+     9.082,
+     9.082,
+     2.675
+    ],
+    "tris": 200,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v3.glb",
+    "fbx": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v3.fbx",
+    "thumb": "thumbs/geology-landforms-citysidewalktile_v3.webp",
+    "dims": [
+     9.082,
+     9.082,
+     2.675
+    ],
+    "tris": 326,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v4.glb",
+    "fbx": "models/geology/geology-landforms-citysidewalktile/geology-landforms-citysidewalktile_v4.fbx",
+    "thumb": "thumbs/geology-landforms-citysidewalktile_v4.webp",
+    "dims": [
+     9.082,
+     9.082,
+     2.675
+    ],
+    "tris": 204,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-citywidesidewalktile",
+  "name": "CityWideSidewalkTile",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "City Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v1.glb",
+    "fbx": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v1.fbx",
+    "thumb": "thumbs/geology-landforms-citywidesidewalktile_v1.webp",
+    "dims": [
+     6.307,
+     3.232,
+     0.9517
+    ],
+    "tris": 108,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v2.glb",
+    "fbx": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v2.fbx",
+    "thumb": "thumbs/geology-landforms-citywidesidewalktile_v2.webp",
+    "dims": [
+     9.359,
+     3.232,
+     0.9517
+    ],
+    "tris": 200,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v3.glb",
+    "fbx": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v3.fbx",
+    "thumb": "thumbs/geology-landforms-citywidesidewalktile_v3.webp",
+    "dims": [
+     6.314,
+     3.232,
+     0.9517
+    ],
+    "tris": 326,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v4.glb",
+    "fbx": "models/geology/geology-landforms-citywidesidewalktile/geology-landforms-citywidesidewalktile_v4.fbx",
+    "thumb": "thumbs/geology-landforms-citywidesidewalktile_v4.webp",
+    "dims": [
+     3.232,
+     6.239,
+     0.9517
+    ],
+    "tris": 204,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-dirtsod",
+  "name": "DirtSod",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Green Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod_v1.glb",
+    "fbx": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod_v1.fbx",
+    "thumb": "thumbs/geology-landforms-dirtsod_v1.webp",
+    "dims": [
+     22.19,
+     22.58,
+     12.94
+    ],
+    "tris": 820,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod_v2.glb",
+    "fbx": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod_v2.fbx",
+    "thumb": "thumbs/geology-landforms-dirtsod_v2.webp",
+    "dims": [
+     25.4,
+     24.15,
+     12.94
+    ],
+    "tris": 820,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod_v3.glb",
+    "fbx": "models/geology/geology-landforms-dirtsod/geology-landforms-dirtsod_v3.fbx",
+    "thumb": "thumbs/geology-landforms-dirtsod_v3.webp",
+    "dims": [
+     21.79,
+     20.7,
+     12.94
+    ],
+    "tris": 820,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-greenhillhuge",
+  "name": "GreenHillHuge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Green Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge_v1.glb",
+    "fbx": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillhuge_v1.webp",
+    "dims": [
+     22.43,
+     16.07,
+     23.23
+    ],
+    "tris": 1108,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge_v2.glb",
+    "fbx": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillhuge_v2.webp",
+    "dims": [
+     37.79,
+     28.59,
+     24.57
+    ],
+    "tris": 1420,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge_v3.glb",
+    "fbx": "models/geology/geology-landforms-greenhillhuge/geology-landforms-greenhillhuge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillhuge_v3.webp",
+    "dims": [
+     23.72,
+     25.16,
+     23.72
+    ],
+    "tris": 1108,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-greenhilllarge",
+  "name": "GreenHillLarge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Green Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge_v1.glb",
+    "fbx": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-greenhilllarge_v1.webp",
+    "dims": [
+     27.32,
+     24.72,
+     22.17
+    ],
+    "tris": 1036,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge_v2.glb",
+    "fbx": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-greenhilllarge_v2.webp",
+    "dims": [
+     38.88,
+     34.44,
+     22.08
+    ],
+    "tris": 1336,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge_v3.glb",
+    "fbx": "models/geology/geology-landforms-greenhilllarge/geology-landforms-greenhilllarge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-greenhilllarge_v3.webp",
+    "dims": [
+     38.1,
+     42.85,
+     23.5
+    ],
+    "tris": 1346,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-greenhillmedium",
+  "name": "GreenHillMedium",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Green Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v1.glb",
+    "fbx": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v1.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillmedium_v1.webp",
+    "dims": [
+     30.63,
+     27.13,
+     17.4
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v2.glb",
+    "fbx": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v2.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillmedium_v2.webp",
+    "dims": [
+     44.71,
+     25.44,
+     17.5
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v3.glb",
+    "fbx": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v3.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillmedium_v3.webp",
+    "dims": [
+     33.63,
+     30.69,
+     17.32
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v4.glb",
+    "fbx": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v4.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillmedium_v4.webp",
+    "dims": [
+     44.55,
+     37.19,
+     17.5
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v5.glb",
+    "fbx": "models/geology/geology-landforms-greenhillmedium/geology-landforms-greenhillmedium_v5.fbx",
+    "thumb": "thumbs/geology-landforms-greenhillmedium_v5.webp",
+    "dims": [
+     51.87,
+     26.92,
+     17.23
+    ],
+    "tris": 892,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-greenhilltiny",
+  "name": "GreenHillTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Green Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-greenhilltiny_v1.webp",
+    "dims": [
+     18.04,
+     23.57,
+     15.3
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-greenhilltiny_v2.webp",
+    "dims": [
+     17.85,
+     23.08,
+     15.3
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-greenhilltiny/geology-landforms-greenhilltiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-greenhilltiny_v3.webp",
+    "dims": [
+     17.3,
+     24.46,
+     15.3
+    ],
+    "tris": 892,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-greenplateautiny",
+  "name": "GreenPlateauTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Green Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-greenplateautiny_v1.webp",
+    "dims": [
+     29.71,
+     25.33,
+     16.82
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-greenplateautiny_v2.webp",
+    "dims": [
+     20.63,
+     26.43,
+     16.82
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-greenplateautiny/geology-landforms-greenplateautiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-greenplateautiny_v3.webp",
+    "dims": [
+     29.65,
+     33.13,
+     16.82
+    ],
+    "tris": 892,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-iceberg",
+  "name": "Iceberg",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg_v1.glb",
+    "fbx": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg_v1.fbx",
+    "thumb": "thumbs/geology-landforms-iceberg_v1.webp",
+    "dims": [
+     7.165,
+     6.716,
+     9.737
+    ],
+    "tris": 1008,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg_v2.glb",
+    "fbx": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg_v2.fbx",
+    "thumb": "thumbs/geology-landforms-iceberg_v2.webp",
+    "dims": [
+     7.498,
+     7.596,
+     9.162
+    ],
+    "tris": 832,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg_v3.glb",
+    "fbx": "models/geology/geology-landforms-iceberg/geology-landforms-iceberg_v3.fbx",
+    "thumb": "thumbs/geology-landforms-iceberg_v3.webp",
+    "dims": [
+     7.266,
+     6.941,
+     8.064
+    ],
+    "tris": 1422,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-icedrift",
+  "name": "IceDrift",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v1.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v1.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v1.webp",
+    "dims": [
+     3.063,
+     2.535,
+     0.4626
+    ],
+    "tris": 20,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v2.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v2.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v2.webp",
+    "dims": [
+     2.461,
+     1.987,
+     0.4718
+    ],
+    "tris": 20,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v3.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v3.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v3.webp",
+    "dims": [
+     1.73,
+     1.878,
+     0.4792
+    ],
+    "tris": 20,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v4.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v4.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v4.webp",
+    "dims": [
+     2.644,
+     2.009,
+     0.3056
+    ],
+    "tris": 20,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v5.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v5.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v5.webp",
+    "dims": [
+     1.902,
+     1.919,
+     0.4729
+    ],
+    "tris": 20,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v6.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v6.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v6.webp",
+    "dims": [
+     2.567,
+     2.034,
+     0.4694
+    ],
+    "tris": 20,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v7.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v7.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v7.webp",
+    "dims": [
+     2.619,
+     2.216,
+     0.4464
+    ],
+    "tris": 28,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v8.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v8.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v8.webp",
+    "dims": [
+     2.876,
+     2.632,
+     0.4254
+    ],
+    "tris": 28,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v9.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v9.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v9.webp",
+    "dims": [
+     2.445,
+     2.761,
+     0.4944
+    ],
+    "tris": 28,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v10.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v10.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v10.webp",
+    "dims": [
+     2.608,
+     2.711,
+     0.5155
+    ],
+    "tris": 28,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v11.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v11.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v11.webp",
+    "dims": [
+     3.476,
+     2.082,
+     0.5017
+    ],
+    "tris": 28,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v12.glb",
+    "fbx": "models/geology/geology-landforms-icedrift/geology-landforms-icedrift_v12.fbx",
+    "thumb": "thumbs/geology-landforms-icedrift_v12.webp",
+    "dims": [
+     2.423,
+     3.3,
+     0.4676
+    ],
+    "tris": 28,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-icehilllarge",
+  "name": "IceHillLarge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge_v1.glb",
+    "fbx": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-icehilllarge_v1.webp",
+    "dims": [
+     48.04,
+     62.08,
+     26.92
+    ],
+    "tris": 956,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge_v2.glb",
+    "fbx": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-icehilllarge_v2.webp",
+    "dims": [
+     47.19,
+     66.5,
+     26.74
+    ],
+    "tris": 956,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge_v3.glb",
+    "fbx": "models/geology/geology-landforms-icehilllarge/geology-landforms-icehilllarge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-icehilllarge_v3.webp",
+    "dims": [
+     35.62,
+     36.81,
+     26.33
+    ],
+    "tris": 956,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-icehilllayered",
+  "name": "IceHillLayered",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered_v1.glb",
+    "fbx": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered_v1.fbx",
+    "thumb": "thumbs/geology-landforms-icehilllayered_v1.webp",
+    "dims": [
+     46.04,
+     46.46,
+     28.84
+    ],
+    "tris": 2170,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered_v2.glb",
+    "fbx": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered_v2.fbx",
+    "thumb": "thumbs/geology-landforms-icehilllayered_v2.webp",
+    "dims": [
+     53.51,
+     49.6,
+     28.1
+    ],
+    "tris": 2634,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered_v3.glb",
+    "fbx": "models/geology/geology-landforms-icehilllayered/geology-landforms-icehilllayered_v3.fbx",
+    "thumb": "thumbs/geology-landforms-icehilllayered_v3.webp",
+    "dims": [
+     43.96,
+     41.71,
+     36.42
+    ],
+    "tris": 1174,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-icehillmedium",
+  "name": "IceHillMedium",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v1.glb",
+    "fbx": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v1.fbx",
+    "thumb": "thumbs/geology-landforms-icehillmedium_v1.webp",
+    "dims": [
+     59.72,
+     62.56,
+     24.47
+    ],
+    "tris": 1148,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v2.glb",
+    "fbx": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v2.fbx",
+    "thumb": "thumbs/geology-landforms-icehillmedium_v2.webp",
+    "dims": [
+     61.53,
+     63.25,
+     24.47
+    ],
+    "tris": 1148,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v3.glb",
+    "fbx": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v3.fbx",
+    "thumb": "thumbs/geology-landforms-icehillmedium_v3.webp",
+    "dims": [
+     59.07,
+     76.52,
+     24.47
+    ],
+    "tris": 1148,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v4.glb",
+    "fbx": "models/geology/geology-landforms-icehillmedium/geology-landforms-icehillmedium_v4.fbx",
+    "thumb": "thumbs/geology-landforms-icehillmedium_v4.webp",
+    "dims": [
+     65.11,
+     63.39,
+     24.47
+    ],
+    "tris": 1148,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-icehilltiny",
+  "name": "IceHillTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-icehilltiny_v1.webp",
+    "dims": [
+     29.41,
+     35.33,
+     15.54
+    ],
+    "tris": 1648,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-icehilltiny_v2.webp",
+    "dims": [
+     46.17,
+     30.9,
+     15.88
+    ],
+    "tris": 1648,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-icehilltiny/geology-landforms-icehilltiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-icehilltiny_v3.webp",
+    "dims": [
+     37.41,
+     40.88,
+     15.88
+    ],
+    "tris": 1648,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-icefloe",
+  "name": "IceFloe",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v1.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v1.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v1.webp",
+    "dims": [
+     4.273,
+     4.545,
+     1.581
+    ],
+    "tris": 362,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v2.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v2.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v2.webp",
+    "dims": [
+     2.333,
+     2.385,
+     1.218
+    ],
+    "tris": 222,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v3.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v3.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v3.webp",
+    "dims": [
+     2.073,
+     2.462,
+     1.626
+    ],
+    "tris": 290,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v4.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v4.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v4.webp",
+    "dims": [
+     3.549,
+     3.366,
+     1.643
+    ],
+    "tris": 708,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v5.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v5.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v5.webp",
+    "dims": [
+     3.721,
+     3.306,
+     1.675
+    ],
+    "tris": 538,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v6.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v6.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v6.webp",
+    "dims": [
+     2.935,
+     3.25,
+     1.409
+    ],
+    "tris": 314,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v7.glb",
+    "fbx": "models/geology/geology-landforms-icefloe/geology-landforms-icefloe_v7.fbx",
+    "thumb": "thumbs/geology-landforms-icefloe_v7.webp",
+    "dims": [
+     2.83,
+     4.787,
+     1.371
+    ],
+    "tris": 718,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-iceplateau",
+  "name": "IcePlateau",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau_v1.glb",
+    "fbx": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau_v1.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateau_v1.webp",
+    "dims": [
+     63.85,
+     59.04,
+     21.52
+    ],
+    "tris": 1148,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau_v2.glb",
+    "fbx": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau_v2.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateau_v2.webp",
+    "dims": [
+     57.74,
+     60.26,
+     21.52
+    ],
+    "tris": 1148,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau_v3.glb",
+    "fbx": "models/geology/geology-landforms-iceplateau/geology-landforms-iceplateau_v3.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateau_v3.webp",
+    "dims": [
+     57.56,
+     57.36,
+     21.52
+    ],
+    "tris": 1076,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-iceplateautiny",
+  "name": "IcePlateauTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Ice Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateautiny_v1.webp",
+    "dims": [
+     27.6,
+     29.49,
+     15.04
+    ],
+    "tris": 592,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateautiny_v2.webp",
+    "dims": [
+     55.07,
+     55.0,
+     15.04
+    ],
+    "tris": 592,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateautiny_v3.webp",
+    "dims": [
+     34.14,
+     44.3,
+     15.04
+    ],
+    "tris": 592,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v4.glb",
+    "fbx": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v4.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateautiny_v4.webp",
+    "dims": [
+     42.8,
+     43.94,
+     15.04
+    ],
+    "tris": 592,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v5.glb",
+    "fbx": "models/geology/geology-landforms-iceplateautiny/geology-landforms-iceplateautiny_v5.fbx",
+    "thumb": "thumbs/geology-landforms-iceplateautiny_v5.webp",
+    "dims": [
+     50.58,
+     54.8,
+     15.04
+    ],
+    "tris": 592,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-redstonemountain",
+  "name": "RedStoneMountain",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Rock Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v1.glb",
+    "fbx": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v1.fbx",
+    "thumb": "thumbs/geology-landforms-redstonemountain_v1.webp",
+    "dims": [
+     27.89,
+     28.48,
+     29.81
+    ],
+    "tris": 710,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v2.glb",
+    "fbx": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v2.fbx",
+    "thumb": "thumbs/geology-landforms-redstonemountain_v2.webp",
+    "dims": [
+     22.69,
+     23.96,
+     29.48
+    ],
+    "tris": 900,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v3.glb",
+    "fbx": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v3.fbx",
+    "thumb": "thumbs/geology-landforms-redstonemountain_v3.webp",
+    "dims": [
+     24.99,
+     23.75,
+     38.44
+    ],
+    "tris": 748,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v4.glb",
+    "fbx": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v4.fbx",
+    "thumb": "thumbs/geology-landforms-redstonemountain_v4.webp",
+    "dims": [
+     24.49,
+     26.23,
+     37.04
+    ],
+    "tris": 594,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v5.glb",
+    "fbx": "models/geology/geology-landforms-redstonemountain/geology-landforms-redstonemountain_v5.fbx",
+    "thumb": "thumbs/geology-landforms-redstonemountain_v5.webp",
+    "dims": [
+     30.13,
+     28.65,
+     37.26
+    ],
+    "tris": 780,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-rockcanyonhuge",
+  "name": "RockCanyonHuge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Rock Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v1.glb",
+    "fbx": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-rockcanyonhuge_v1.webp",
+    "dims": [
+     19.14,
+     18.86,
+     47.26
+    ],
+    "tris": 232,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v2.glb",
+    "fbx": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-rockcanyonhuge_v2.webp",
+    "dims": [
+     33.94,
+     29.59,
+     62.26
+    ],
+    "tris": 728,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v3.glb",
+    "fbx": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-rockcanyonhuge_v3.webp",
+    "dims": [
+     17.87,
+     29.86,
+     43.51
+    ],
+    "tris": 328,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v4.glb",
+    "fbx": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v4.fbx",
+    "thumb": "thumbs/geology-landforms-rockcanyonhuge_v4.webp",
+    "dims": [
+     28.56,
+     47.44,
+     57.67
+    ],
+    "tris": 584,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v5.glb",
+    "fbx": "models/geology/geology-landforms-rockcanyonhuge/geology-landforms-rockcanyonhuge_v5.fbx",
+    "thumb": "thumbs/geology-landforms-rockcanyonhuge_v5.webp",
+    "dims": [
+     37.86,
+     57.64,
+     51.94
+    ],
+    "tris": 1638,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-rockmesalarge",
+  "name": "RockMesaLarge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Rock Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge_v1.glb",
+    "fbx": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-rockmesalarge_v1.webp",
+    "dims": [
+     36.55,
+     37.04,
+     31.07
+    ],
+    "tris": 736,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge_v2.glb",
+    "fbx": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-rockmesalarge_v2.webp",
+    "dims": [
+     42.25,
+     60.87,
+     31.47
+    ],
+    "tris": 1608,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge_v3.glb",
+    "fbx": "models/geology/geology-landforms-rockmesalarge/geology-landforms-rockmesalarge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-rockmesalarge_v3.webp",
+    "dims": [
+     37.97,
+     63.37,
+     30.79
+    ],
+    "tris": 1896,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-rockmesamedium",
+  "name": "RockMesaMedium",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Rock Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium_v1.glb",
+    "fbx": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium_v1.fbx",
+    "thumb": "thumbs/geology-landforms-rockmesamedium_v1.webp",
+    "dims": [
+     58.82,
+     58.23,
+     21.95
+    ],
+    "tris": 2172,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium_v2.glb",
+    "fbx": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium_v2.fbx",
+    "thumb": "thumbs/geology-landforms-rockmesamedium_v2.webp",
+    "dims": [
+     44.39,
+     64.56,
+     21.33
+    ],
+    "tris": 2032,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium_v3.glb",
+    "fbx": "models/geology/geology-landforms-rockmesamedium/geology-landforms-rockmesamedium_v3.fbx",
+    "thumb": "thumbs/geology-landforms-rockmesamedium_v3.webp",
+    "dims": [
+     49.0,
+     51.49,
+     21.2
+    ],
+    "tris": 1696,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-rockplateautiny",
+  "name": "RockPlateauTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Rock Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-rockplateautiny_v1.webp",
+    "dims": [
+     23.6,
+     34.45,
+     21.96
+    ],
+    "tris": 868,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-rockplateautiny_v2.webp",
+    "dims": [
+     27.53,
+     57.7,
+     22.23
+    ],
+    "tris": 1160,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-rockplateautiny/geology-landforms-rockplateautiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-rockplateautiny_v3.webp",
+    "dims": [
+     52.19,
+     53.53,
+     22.09
+    ],
+    "tris": 1672,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-sandhill",
+  "name": "SandHill",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Sand Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill_v1.glb",
+    "fbx": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill_v1.fbx",
+    "thumb": "thumbs/geology-landforms-sandhill_v1.webp",
+    "dims": [
+     85.1,
+     57.39,
+     41.14
+    ],
+    "tris": 766,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill_v2.glb",
+    "fbx": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill_v2.fbx",
+    "thumb": "thumbs/geology-landforms-sandhill_v2.webp",
+    "dims": [
+     71.85,
+     73.64,
+     39.74
+    ],
+    "tris": 766,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill_v3.glb",
+    "fbx": "models/geology/geology-landforms-sandhill/geology-landforms-sandhill_v3.fbx",
+    "thumb": "thumbs/geology-landforms-sandhill_v3.webp",
+    "dims": [
+     41.93,
+     43.1,
+     40.65
+    ],
+    "tris": 862,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-sandstonemesalarge",
+  "name": "SandStoneMesaLarge",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Sand Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge_v1.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge_v1.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesalarge_v1.webp",
+    "dims": [
+     26.51,
+     38.87,
+     38.47
+    ],
+    "tris": 966,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge_v2.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge_v2.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesalarge_v2.webp",
+    "dims": [
+     41.04,
+     38.59,
+     38.1
+    ],
+    "tris": 1022,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge_v3.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesalarge/geology-landforms-sandstonemesalarge_v3.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesalarge_v3.webp",
+    "dims": [
+     34.89,
+     42.18,
+     38.43
+    ],
+    "tris": 792,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-sandstonemesamedium",
+  "name": "SandStoneMesaMedium",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Sand Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium_v1.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium_v1.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesamedium_v1.webp",
+    "dims": [
+     25.77,
+     37.51,
+     30.45
+    ],
+    "tris": 616,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium_v2.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium_v2.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesamedium_v2.webp",
+    "dims": [
+     32.47,
+     43.95,
+     29.91
+    ],
+    "tris": 1334,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium_v3.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesamedium/geology-landforms-sandstonemesamedium_v3.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesamedium_v3.webp",
+    "dims": [
+     33.41,
+     41.07,
+     30.15
+    ],
+    "tris": 780,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-sandstonemesa",
+  "name": "SandstoneMesa",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Sand Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v1.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v1.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesa_v1.webp",
+    "dims": [
+     20.14,
+     27.21,
+     52.59
+    ],
+    "tris": 320,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v2.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v2.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesa_v2.webp",
+    "dims": [
+     20.96,
+     32.11,
+     43.92
+    ],
+    "tris": 320,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v3.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v3.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesa_v3.webp",
+    "dims": [
+     19.15,
+     30.05,
+     54.81
+    ],
+    "tris": 648,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v4.glb",
+    "fbx": "models/geology/geology-landforms-sandstonemesa/geology-landforms-sandstonemesa_v4.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonemesa_v4.webp",
+    "dims": [
+     14.21,
+     30.05,
+     56.46
+    ],
+    "tris": 720,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-landforms-sandstonerocktiny",
+  "name": "SandstoneRockTiny",
+  "category": "Geology",
+  "subcategory": "Landforms",
+  "tags": [
+   "Sand Landforms"
+  ],
+  "blend": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny_v1.glb",
+    "fbx": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny_v1.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonerocktiny_v1.webp",
+    "dims": [
+     42.06,
+     32.14,
+     18.49
+    ],
+    "tris": 752,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny_v2.glb",
+    "fbx": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny_v2.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonerocktiny_v2.webp",
+    "dims": [
+     39.15,
+     31.35,
+     18.49
+    ],
+    "tris": 696,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny_v3.glb",
+    "fbx": "models/geology/geology-landforms-sandstonerocktiny/geology-landforms-sandstonerocktiny_v3.fbx",
+    "thumb": "thumbs/geology-landforms-sandstonerocktiny_v3.webp",
+    "dims": [
+     30.11,
+     30.4,
+     18.49
+    ],
+    "tris": 752,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-asphalt",
+  "name": "Asphalt",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "Asphalt"
+  ],
+  "blend": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v1.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v1.webp",
+    "dims": [
+     6.384,
+     5.781,
+     4.216
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v2.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v2.webp",
+    "dims": [
+     8.273,
+     5.734,
+     4.616
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v3.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v3.webp",
+    "dims": [
+     5.856,
+     6.545,
+     5.065
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v4.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v4.webp",
+    "dims": [
+     5.922,
+     7.468,
+     4.572
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v5.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v5.webp",
+    "dims": [
+     5.688,
+     6.126,
+     5.856
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v6.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v6.webp",
+    "dims": [
+     6.121,
+     7.606,
+     4.586
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v7.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v7.webp",
+    "dims": [
+     5.333,
+     7.005,
+     4.015
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v8.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v8.webp",
+    "dims": [
+     6.454,
+     7.074,
+     4.174
+    ],
+    "tris": 220,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v9.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v9.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v9.webp",
+    "dims": [
+     5.893,
+     7.629,
+     4.668
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v10.glb",
+    "fbx": "models/geology/geology-pebbles-asphalt/geology-pebbles-asphalt_v10.fbx",
+    "thumb": "thumbs/geology-pebbles-asphalt_v10.webp",
+    "dims": [
+     7.272,
+     5.685,
+     5.401
+    ],
+    "tris": 192,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-coloredpebble",
+  "name": "ColoredPebble",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "ColoredPebble"
+  ],
+  "blend": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v1.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v1.webp",
+    "dims": [
+     9.641,
+     13.5,
+     6.286
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v2.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v2.webp",
+    "dims": [
+     12.58,
+     10.42,
+     4.695
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v3.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v3.webp",
+    "dims": [
+     8.704,
+     12.83,
+     8.019
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v4.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v4.webp",
+    "dims": [
+     12.34,
+     13.05,
+     6.992
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v5.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v5.webp",
+    "dims": [
+     8.683,
+     10.98,
+     8.298
+    ],
+    "tris": 448,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v6.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v6.webp",
+    "dims": [
+     8.067,
+     13.53,
+     6.655
+    ],
+    "tris": 164,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v7.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v7.webp",
+    "dims": [
+     11.58,
+     10.67,
+     9.354
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v8.glb",
+    "fbx": "models/geology/geology-pebbles-coloredpebble/geology-pebbles-coloredpebble_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-coloredpebble_v8.webp",
+    "dims": [
+     5.641,
+     13.05,
+     6.594
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-dirtchunk",
+  "name": "DirtChunk",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "DirtChunk"
+  ],
+  "blend": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v1.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v1.webp",
+    "dims": [
+     5.471,
+     6.695,
+     5.407
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v2.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v2.webp",
+    "dims": [
+     5.698,
+     7.35,
+     5.492
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v3.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v3.webp",
+    "dims": [
+     4.655,
+     6.622,
+     5.534
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v4.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v4.webp",
+    "dims": [
+     5.856,
+     6.026,
+     5.065
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v5.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v5.webp",
+    "dims": [
+     5.922,
+     7.468,
+     4.337
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v6.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v6.webp",
+    "dims": [
+     5.688,
+     6.126,
+     5.856
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v7.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v7.webp",
+    "dims": [
+     5.92,
+     7.939,
+     5.424
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v8.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v8.webp",
+    "dims": [
+     5.333,
+     7.005,
+     4.015
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v9.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v9.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v9.webp",
+    "dims": [
+     5.871,
+     6.95,
+     5.202
+    ],
+    "tris": 220,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v10.glb",
+    "fbx": "models/geology/geology-pebbles-dirtchunk/geology-pebbles-dirtchunk_v10.fbx",
+    "thumb": "thumbs/geology-pebbles-dirtchunk_v10.webp",
+    "dims": [
+     7.372,
+     7.794,
+     3.765
+    ],
+    "tris": 192,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-limestonepebble",
+  "name": "LimestonePebble",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "LimestonePebble"
+  ],
+  "blend": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v1.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v1.webp",
+    "dims": [
+     9.58,
+     13.21,
+     7.103
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v2.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v2.webp",
+    "dims": [
+     10.91,
+     10.49,
+     5.922
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v3.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v3.webp",
+    "dims": [
+     9.632,
+     13.17,
+     8.445
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v4.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v4.webp",
+    "dims": [
+     12.34,
+     13.05,
+     6.756
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v5.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v5.webp",
+    "dims": [
+     9.023,
+     10.58,
+     7.731
+    ],
+    "tris": 448,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v6.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v6.webp",
+    "dims": [
+     11.45,
+     13.48,
+     6.655
+    ],
+    "tris": 164,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v7.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v7.webp",
+    "dims": [
+     11.58,
+     10.67,
+     9.354
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v8.glb",
+    "fbx": "models/geology/geology-pebbles-limestonepebble/geology-pebbles-limestonepebble_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-limestonepebble_v8.webp",
+    "dims": [
+     10.03,
+     8.863,
+     9.114
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-obsidian",
+  "name": "Obsidian",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "Obsidian"
+  ],
+  "blend": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v1.glb",
+    "fbx": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-obsidian_v1.webp",
+    "dims": [
+     10.52,
+     12.46,
+     10.2
+    ],
+    "tris": 302,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v2.glb",
+    "fbx": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-obsidian_v2.webp",
+    "dims": [
+     10.58,
+     10.75,
+     4.901
+    ],
+    "tris": 302,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v3.glb",
+    "fbx": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-obsidian_v3.webp",
+    "dims": [
+     9.329,
+     12.95,
+     8.017
+    ],
+    "tris": 302,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v4.glb",
+    "fbx": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-obsidian_v4.webp",
+    "dims": [
+     10.01,
+     9.725,
+     5.127
+    ],
+    "tris": 302,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v5.glb",
+    "fbx": "models/geology/geology-pebbles-obsidian/geology-pebbles-obsidian_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-obsidian_v5.webp",
+    "dims": [
+     7.311,
+     8.451,
+     7.072
+    ],
+    "tris": 302,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-sandchunk",
+  "name": "SandChunk",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "Sandchunk"
+  ],
+  "blend": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v1.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v1.webp",
+    "dims": [
+     5.549,
+     6.247,
+     5.286
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v2.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v2.webp",
+    "dims": [
+     7.289,
+     7.267,
+     5.401
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v3.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v3.webp",
+    "dims": [
+     5.657,
+     6.637,
+     4.506
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v4.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v4.webp",
+    "dims": [
+     5.856,
+     6.026,
+     5.065
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v5.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v5.webp",
+    "dims": [
+     5.922,
+     7.468,
+     4.337
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v6.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v6.webp",
+    "dims": [
+     5.688,
+     6.126,
+     5.856
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v7.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v7.webp",
+    "dims": [
+     5.983,
+     7.701,
+     5.328
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v8.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v8.webp",
+    "dims": [
+     5.333,
+     7.005,
+     4.015
+    ],
+    "tris": 192,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v9.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v9.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v9.webp",
+    "dims": [
+     7.409,
+     6.651,
+     5.186
+    ],
+    "tris": 220,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v10.glb",
+    "fbx": "models/geology/geology-pebbles-sandchunk/geology-pebbles-sandchunk_v10.fbx",
+    "thumb": "thumbs/geology-pebbles-sandchunk_v10.webp",
+    "dims": [
+     6.515,
+     7.732,
+     3.606
+    ],
+    "tris": 192,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-sandstonepebble",
+  "name": "SandstonePebble",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "SandstonePebble"
+  ],
+  "blend": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v1.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v1.webp",
+    "dims": [
+     9.58,
+     13.21,
+     7.103
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v2.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v2.webp",
+    "dims": [
+     10.91,
+     10.49,
+     5.922
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v3.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v3.webp",
+    "dims": [
+     12.34,
+     13.05,
+     6.756
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v4.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v4.webp",
+    "dims": [
+     9.023,
+     10.58,
+     7.731
+    ],
+    "tris": 448,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v5.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v5.webp",
+    "dims": [
+     11.45,
+     13.48,
+     6.655
+    ],
+    "tris": 164,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v6.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v6.webp",
+    "dims": [
+     11.58,
+     10.67,
+     9.354
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v7.glb",
+    "fbx": "models/geology/geology-pebbles-sandstonepebble/geology-pebbles-sandstonepebble_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-sandstonepebble_v7.webp",
+    "dims": [
+     10.09,
+     11.22,
+     7.768
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-sharppebble",
+  "name": "SharpPebble",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "SharpPebble"
+  ],
+  "blend": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v1.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v1.webp",
+    "dims": [
+     13.24,
+     12.12,
+     4.853
+    ],
+    "tris": 188,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v2.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v2.webp",
+    "dims": [
+     14.47,
+     10.27,
+     6.19
+    ],
+    "tris": 240,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v3.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v3.webp",
+    "dims": [
+     10.7,
+     8.623,
+     3.963
+    ],
+    "tris": 240,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v4.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v4.webp",
+    "dims": [
+     9.36,
+     9.095,
+     4.563
+    ],
+    "tris": 200,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v5.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v5.webp",
+    "dims": [
+     9.725,
+     6.816,
+     5.541
+    ],
+    "tris": 124,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v6.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v6.webp",
+    "dims": [
+     9.366,
+     14.7,
+     6.494
+    ],
+    "tris": 182,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v7.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v7.webp",
+    "dims": [
+     8.694,
+     11.76,
+     4.708
+    ],
+    "tris": 306,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v8.glb",
+    "fbx": "models/geology/geology-pebbles-sharppebble/geology-pebbles-sharppebble_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-sharppebble_v8.webp",
+    "dims": [
+     13.14,
+     11.59,
+     5.936
+    ],
+    "tris": 192,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-smalldirtchunk",
+  "name": "SmallDirtChunk",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "SmallDirtChunk"
+  ],
+  "blend": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v1.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v1.webp",
+    "dims": [
+     2.448,
+     2.571,
+     2.183
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v2.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v2.webp",
+    "dims": [
+     3.196,
+     2.55,
+     2.554
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v3.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v3.webp",
+    "dims": [
+     2.769,
+     2.851,
+     2.102
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v4.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v4.webp",
+    "dims": [
+     2.755,
+     2.782,
+     2.42
+    ],
+    "tris": 70,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v5.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v5.webp",
+    "dims": [
+     2.74,
+     3.619,
+     1.911
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v6.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v6.webp",
+    "dims": [
+     2.647,
+     2.64,
+     2.785
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v7.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v7.webp",
+    "dims": [
+     3.674,
+     3.16,
+     2.4
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v8.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v8.webp",
+    "dims": [
+     2.304,
+     3.302,
+     1.921
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v9.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v9.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v9.webp",
+    "dims": [
+     3.011,
+     2.782,
+     2.366
+    ],
+    "tris": 120,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v10.glb",
+    "fbx": "models/geology/geology-pebbles-smalldirtchunk/geology-pebbles-smalldirtchunk_v10.fbx",
+    "thumb": "thumbs/geology-pebbles-smalldirtchunk_v10.webp",
+    "dims": [
+     3.161,
+     3.488,
+     1.625
+    ],
+    "tris": 106,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-pebbles-smallsandchunk",
+  "name": "SmallSandChunk",
+  "category": "Geology",
+  "subcategory": "Pebbles",
+  "tags": [
+   "SmallSandChunk"
+  ],
+  "blend": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v1.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v1.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v1.webp",
+    "dims": [
+     2.375,
+     2.576,
+     2.207
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v2.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v2.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v2.webp",
+    "dims": [
+     3.197,
+     2.547,
+     2.552
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v3.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v3.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v3.webp",
+    "dims": [
+     2.909,
+     2.635,
+     2.102
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v4.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v4.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v4.webp",
+    "dims": [
+     2.794,
+     2.821,
+     2.424
+    ],
+    "tris": 70,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v5.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v5.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v5.webp",
+    "dims": [
+     2.736,
+     3.612,
+     1.942
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v6.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v6.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v6.webp",
+    "dims": [
+     2.647,
+     2.64,
+     2.785
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v7.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v7.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v7.webp",
+    "dims": [
+     3.114,
+     3.386,
+     2.752
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v8.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v8.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v8.webp",
+    "dims": [
+     2.304,
+     3.302,
+     1.921
+    ],
+    "tris": 104,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v9.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v9.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v9.webp",
+    "dims": [
+     3.004,
+     2.948,
+     2.375
+    ],
+    "tris": 120,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v10.glb",
+    "fbx": "models/geology/geology-pebbles-smallsandchunk/geology-pebbles-smallsandchunk_v10.fbx",
+    "thumb": "thumbs/geology-pebbles-smallsandchunk_v10.webp",
+    "dims": [
+     3.808,
+     3.188,
+     1.604
+    ],
+    "tris": 106,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-asteroidhuge",
+  "name": "AsteroidHuge",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Asteroids"
+  ],
+  "blend": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v1.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v1.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v1.webp",
+    "dims": [
+     2.27,
+     2.036,
+     1.927
+    ],
+    "tris": 800,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v2.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v2.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v2.webp",
+    "dims": [
+     1.792,
+     1.574,
+     1.73
+    ],
+    "tris": 804,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v3.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v3.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v3.webp",
+    "dims": [
+     2.187,
+     1.984,
+     2.158
+    ],
+    "tris": 808,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v4.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v4.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v4.webp",
+    "dims": [
+     1.87,
+     1.829,
+     1.82
+    ],
+    "tris": 796,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v5.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v5.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v5.webp",
+    "dims": [
+     2.214,
+     1.778,
+     1.89
+    ],
+    "tris": 816,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v6.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v6.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v6.webp",
+    "dims": [
+     1.718,
+     1.873,
+     1.907
+    ],
+    "tris": 796,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v7.glb",
+    "fbx": "models/geology/geology-rocks-asteroidhuge/geology-rocks-asteroidhuge_v7.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidhuge_v7.webp",
+    "dims": [
+     1.916,
+     1.94,
+     1.776
+    ],
+    "tris": 800,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-asteroidlarge",
+  "name": "AsteroidLarge",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Asteroids"
+  ],
+  "blend": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v1.glb",
+    "fbx": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v1.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidlarge_v1.webp",
+    "dims": [
+     0.7032,
+     0.9331,
+     1.221
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v2.glb",
+    "fbx": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v2.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidlarge_v2.webp",
+    "dims": [
+     1.091,
+     0.7582,
+     1.212
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v3.glb",
+    "fbx": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v3.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidlarge_v3.webp",
+    "dims": [
+     0.9114,
+     1.508,
+     0.8563
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v4.glb",
+    "fbx": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v4.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidlarge_v4.webp",
+    "dims": [
+     1.082,
+     1.04,
+     0.6593
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v5.glb",
+    "fbx": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v5.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidlarge_v5.webp",
+    "dims": [
+     0.9379,
+     1.354,
+     0.7959
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v6.glb",
+    "fbx": "models/geology/geology-rocks-asteroidlarge/geology-rocks-asteroidlarge_v6.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidlarge_v6.webp",
+    "dims": [
+     0.7438,
+     0.8935,
+     1.224
+    ],
+    "tris": 180,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-asteroidsmall",
+  "name": "AsteroidSmall",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Asteroids"
+  ],
+  "blend": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v1.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v1.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v1.webp",
+    "dims": [
+     0.4447,
+     0.4807,
+     0.4797
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v2.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v2.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v2.webp",
+    "dims": [
+     0.4768,
+     0.562,
+     0.339
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v3.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v3.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v3.webp",
+    "dims": [
+     0.487,
+     0.4738,
+     0.4461
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v4.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v4.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v4.webp",
+    "dims": [
+     0.481,
+     0.4744,
+     0.4855
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v5.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v5.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v5.webp",
+    "dims": [
+     0.482,
+     0.4913,
+     0.3953
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v6.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v6.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v6.webp",
+    "dims": [
+     0.346,
+     0.3491,
+     0.3471
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v7.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v7.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v7.webp",
+    "dims": [
+     0.4303,
+     0.3272,
+     0.4454
+    ],
+    "tris": 180,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v8.glb",
+    "fbx": "models/geology/geology-rocks-asteroidsmall/geology-rocks-asteroidsmall_v8.fbx",
+    "thumb": "thumbs/geology-rocks-asteroidsmall_v8.webp",
+    "dims": [
+     0.374,
+     0.4016,
+     0.3571
+    ],
+    "tris": 180,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-layeredrock",
+  "name": "LayeredRock",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "LayeredRock"
+  ],
+  "blend": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v1.glb",
+    "fbx": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v1.fbx",
+    "thumb": "thumbs/geology-rocks-layeredrock_v1.webp",
+    "dims": [
+     7.821,
+     11.36,
+     6.669
+    ],
+    "tris": 690,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v2.glb",
+    "fbx": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v2.fbx",
+    "thumb": "thumbs/geology-rocks-layeredrock_v2.webp",
+    "dims": [
+     8.482,
+     10.06,
+     6.268
+    ],
+    "tris": 336,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v3.glb",
+    "fbx": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v3.fbx",
+    "thumb": "thumbs/geology-rocks-layeredrock_v3.webp",
+    "dims": [
+     8.016,
+     10.47,
+     6.612
+    ],
+    "tris": 338,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v4.glb",
+    "fbx": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v4.fbx",
+    "thumb": "thumbs/geology-rocks-layeredrock_v4.webp",
+    "dims": [
+     8.92,
+     11.29,
+     7.392
+    ],
+    "tris": 366,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v5.glb",
+    "fbx": "models/geology/geology-rocks-layeredrock/geology-rocks-layeredrock_v5.fbx",
+    "thumb": "thumbs/geology-rocks-layeredrock_v5.webp",
+    "dims": [
+     7.864,
+     11.07,
+     8.517
+    ],
+    "tris": 584,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-meteoritelarge",
+  "name": "MeteoriteLarge",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Meteorites"
+  ],
+  "blend": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge_v1.glb",
+    "fbx": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge_v1.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritelarge_v1.webp",
+    "dims": [
+     4.343,
+     4.425,
+     4.941
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge_v2.glb",
+    "fbx": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge_v2.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritelarge_v2.webp",
+    "dims": [
+     4.72,
+     5.383,
+     5.122
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge_v3.glb",
+    "fbx": "models/geology/geology-rocks-meteoritelarge/geology-rocks-meteoritelarge_v3.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritelarge_v3.webp",
+    "dims": [
+     5.859,
+     5.625,
+     4.829
+    ],
+    "tris": 980,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-meteoritemedium",
+  "name": "MeteoriteMedium",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Meteorites"
+  ],
+  "blend": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v1.glb",
+    "fbx": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v1.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritemedium_v1.webp",
+    "dims": [
+     3.269,
+     3.102,
+     2.572
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v2.glb",
+    "fbx": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v2.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritemedium_v2.webp",
+    "dims": [
+     2.957,
+     2.744,
+     2.069
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v3.glb",
+    "fbx": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v3.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritemedium_v3.webp",
+    "dims": [
+     2.595,
+     2.765,
+     1.986
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v4.glb",
+    "fbx": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v4.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritemedium_v4.webp",
+    "dims": [
+     3.199,
+     2.562,
+     2.961
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v5.glb",
+    "fbx": "models/geology/geology-rocks-meteoritemedium/geology-rocks-meteoritemedium_v5.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritemedium_v5.webp",
+    "dims": [
+     2.993,
+     3.585,
+     3.177
+    ],
+    "tris": 1224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-meteoritesmall",
+  "name": "MeteoriteSmall",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Meteorites"
+  ],
+  "blend": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v1.glb",
+    "fbx": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v1.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritesmall_v1.webp",
+    "dims": [
+     1.392,
+     1.18,
+     1.554
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v2.glb",
+    "fbx": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v2.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritesmall_v2.webp",
+    "dims": [
+     1.538,
+     1.246,
+     1.16
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v3.glb",
+    "fbx": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v3.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritesmall_v3.webp",
+    "dims": [
+     0.9796,
+     1.281,
+     1.183
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v4.glb",
+    "fbx": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v4.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritesmall_v4.webp",
+    "dims": [
+     1.178,
+     1.706,
+     1.11
+    ],
+    "tris": 980,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v5.glb",
+    "fbx": "models/geology/geology-rocks-meteoritesmall/geology-rocks-meteoritesmall_v5.fbx",
+    "thumb": "thumbs/geology-rocks-meteoritesmall_v5.webp",
+    "dims": [
+     1.623,
+     1.635,
+     1.316
+    ],
+    "tris": 980,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-rockflatlayered",
+  "name": "RockFlatLayered",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Standard Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v1.glb",
+    "fbx": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v1.fbx",
+    "thumb": "thumbs/geology-rocks-rockflatlayered_v1.webp",
+    "dims": [
+     8.265,
+     7.957,
+     2.287
+    ],
+    "tris": 480,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v2.glb",
+    "fbx": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v2.fbx",
+    "thumb": "thumbs/geology-rocks-rockflatlayered_v2.webp",
+    "dims": [
+     7.783,
+     7.539,
+     2.149
+    ],
+    "tris": 686,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v3.glb",
+    "fbx": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v3.fbx",
+    "thumb": "thumbs/geology-rocks-rockflatlayered_v3.webp",
+    "dims": [
+     7.056,
+     7.817,
+     2.371
+    ],
+    "tris": 428,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v4.glb",
+    "fbx": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v4.fbx",
+    "thumb": "thumbs/geology-rocks-rockflatlayered_v4.webp",
+    "dims": [
+     7.458,
+     7.207,
+     2.517
+    ],
+    "tris": 500,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v5.glb",
+    "fbx": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v5.fbx",
+    "thumb": "thumbs/geology-rocks-rockflatlayered_v5.webp",
+    "dims": [
+     6.758,
+     7.137,
+     2.166
+    ],
+    "tris": 548,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v6.glb",
+    "fbx": "models/geology/geology-rocks-rockflatlayered/geology-rocks-rockflatlayered_v6.fbx",
+    "thumb": "thumbs/geology-rocks-rockflatlayered_v6.webp",
+    "dims": [
+     8.454,
+     8.941,
+     2.424
+    ],
+    "tris": 596,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-rockhuge",
+  "name": "RockHuge",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Standard Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v1.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v1.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v1.webp",
+    "dims": [
+     24.71,
+     34.95,
+     20.23
+    ],
+    "tris": 1836,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v2.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v2.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v2.webp",
+    "dims": [
+     18.84,
+     29.77,
+     19.46
+    ],
+    "tris": 1950,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v3.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v3.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v3.webp",
+    "dims": [
+     26.05,
+     26.98,
+     23.54
+    ],
+    "tris": 2156,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v4.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v4.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v4.webp",
+    "dims": [
+     20.58,
+     21.7,
+     28.67
+    ],
+    "tris": 1284,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v5.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v5.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v5.webp",
+    "dims": [
+     23.23,
+     40.99,
+     21.64
+    ],
+    "tris": 2150,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v6.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v6.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v6.webp",
+    "dims": [
+     24.72,
+     39.45,
+     19.41
+    ],
+    "tris": 1296,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v7.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v7.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v7.webp",
+    "dims": [
+     25.98,
+     32.77,
+     19.36
+    ],
+    "tris": 2228,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v8.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v8.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v8.webp",
+    "dims": [
+     22.55,
+     36.43,
+     19.82
+    ],
+    "tris": 2186,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v9.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v9.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v9.webp",
+    "dims": [
+     26.86,
+     25.53,
+     22.32
+    ],
+    "tris": 1912,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v10.glb",
+    "fbx": "models/geology/geology-rocks-rockhuge/geology-rocks-rockhuge_v10.fbx",
+    "thumb": "thumbs/geology-rocks-rockhuge_v10.webp",
+    "dims": [
+     28.18,
+     29.18,
+     19.85
+    ],
+    "tris": 1850,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-rocklarge",
+  "name": "RockLarge",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Standard Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v1.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v1.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v1.webp",
+    "dims": [
+     10.27,
+     12.14,
+     7.388
+    ],
+    "tris": 1078,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v2.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v2.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v2.webp",
+    "dims": [
+     8.893,
+     12.28,
+     6.595
+    ],
+    "tris": 892,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v3.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v3.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v3.webp",
+    "dims": [
+     7.562,
+     10.21,
+     7.504
+    ],
+    "tris": 1248,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v4.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v4.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v4.webp",
+    "dims": [
+     8.539,
+     9.961,
+     6.737
+    ],
+    "tris": 828,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v5.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v5.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v5.webp",
+    "dims": [
+     8.233,
+     10.48,
+     8.181
+    ],
+    "tris": 1556,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v6.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v6.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v6.webp",
+    "dims": [
+     12.34,
+     10.16,
+     7.15
+    ],
+    "tris": 988,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v7.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v7.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v7.webp",
+    "dims": [
+     8.383,
+     12.14,
+     8.822
+    ],
+    "tris": 1652,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v8.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v8.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v8.webp",
+    "dims": [
+     8.518,
+     7.151,
+     8.675
+    ],
+    "tris": 1004,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v9.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v9.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v9.webp",
+    "dims": [
+     9.709,
+     9.851,
+     8.284
+    ],
+    "tris": 1144,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v10.glb",
+    "fbx": "models/geology/geology-rocks-rocklarge/geology-rocks-rocklarge_v10.fbx",
+    "thumb": "thumbs/geology-rocks-rocklarge_v10.webp",
+    "dims": [
+     9.696,
+     7.429,
+     7.212
+    ],
+    "tris": 944,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-rockmedium",
+  "name": "RockMedium",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Standard Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v1.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v1.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v1.webp",
+    "dims": [
+     2.82,
+     4.023,
+     2.71
+    ],
+    "tris": 1082,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v2.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v2.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v2.webp",
+    "dims": [
+     3.452,
+     3.778,
+     2.272
+    ],
+    "tris": 990,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v3.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v3.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v3.webp",
+    "dims": [
+     3.162,
+     4.02,
+     2.062
+    ],
+    "tris": 564,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v4.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v4.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v4.webp",
+    "dims": [
+     3.544,
+     4.708,
+     2.305
+    ],
+    "tris": 960,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v5.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v5.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v5.webp",
+    "dims": [
+     4.544,
+     3.135,
+     2.708
+    ],
+    "tris": 1226,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v6.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v6.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v6.webp",
+    "dims": [
+     3.908,
+     3.448,
+     2.131
+    ],
+    "tris": 1160,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v7.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v7.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v7.webp",
+    "dims": [
+     3.617,
+     3.193,
+     2.341
+    ],
+    "tris": 1032,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v8.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v8.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v8.webp",
+    "dims": [
+     4.317,
+     2.729,
+     2.33
+    ],
+    "tris": 1094,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v9.glb",
+    "fbx": "models/geology/geology-rocks-rockmedium/geology-rocks-rockmedium_v9.fbx",
+    "thumb": "thumbs/geology-rocks-rockmedium_v9.webp",
+    "dims": [
+     3.114,
+     4.128,
+     2.379
+    ],
+    "tris": 644,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-rocksmall",
+  "name": "RockSmall",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Standard Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v1.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v1.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v1.webp",
+    "dims": [
+     1.534,
+     1.391,
+     0.631
+    ],
+    "tris": 234,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v2.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v2.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v2.webp",
+    "dims": [
+     1.887,
+     1.823,
+     0.735
+    ],
+    "tris": 290,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v3.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v3.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v3.webp",
+    "dims": [
+     1.54,
+     1.781,
+     0.631
+    ],
+    "tris": 218,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v4.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v4.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v4.webp",
+    "dims": [
+     1.391,
+     2.253,
+     0.7317
+    ],
+    "tris": 212,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v5.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v5.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v5.webp",
+    "dims": [
+     1.548,
+     1.872,
+     0.7977
+    ],
+    "tris": 210,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v6.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v6.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v6.webp",
+    "dims": [
+     1.419,
+     1.021,
+     0.7487
+    ],
+    "tris": 322,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v7.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v7.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v7.webp",
+    "dims": [
+     1.317,
+     1.79,
+     0.8599
+    ],
+    "tris": 246,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v8.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v8.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v8.webp",
+    "dims": [
+     1.31,
+     1.272,
+     0.7029
+    ],
+    "tris": 136,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v9.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v9.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v9.webp",
+    "dims": [
+     1.649,
+     1.843,
+     0.675
+    ],
+    "tris": 218,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v10.glb",
+    "fbx": "models/geology/geology-rocks-rocksmall/geology-rocks-rocksmall_v10.fbx",
+    "thumb": "thumbs/geology-rocks-rocksmall_v10.webp",
+    "dims": [
+     2.151,
+     1.585,
+     0.6314
+    ],
+    "tris": 274,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-sharprock",
+  "name": "SharpRock",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Extra Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v1.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v1.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v1.webp",
+    "dims": [
+     5.304,
+     6.042,
+     2.019
+    ],
+    "tris": 1010,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v2.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v2.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v2.webp",
+    "dims": [
+     4.031,
+     5.259,
+     1.988
+    ],
+    "tris": 648,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v3.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v3.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v3.webp",
+    "dims": [
+     3.845,
+     5.842,
+     2.338
+    ],
+    "tris": 1224,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v4.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v4.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v4.webp",
+    "dims": [
+     2.664,
+     4.328,
+     2.732
+    ],
+    "tris": 1400,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v5.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v5.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v5.webp",
+    "dims": [
+     3.828,
+     3.781,
+     2.755
+    ],
+    "tris": 1676,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v6.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v6.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v6.webp",
+    "dims": [
+     4.017,
+     3.516,
+     2.038
+    ],
+    "tris": 1284,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v7.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v7.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v7.webp",
+    "dims": [
+     3.385,
+     3.405,
+     2.91
+    ],
+    "tris": 1140,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v8.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v8.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v8.webp",
+    "dims": [
+     4.704,
+     3.225,
+     1.925
+    ],
+    "tris": 1520,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v9.glb",
+    "fbx": "models/geology/geology-rocks-sharprock/geology-rocks-sharprock_v9.fbx",
+    "thumb": "thumbs/geology-rocks-sharprock_v9.webp",
+    "dims": [
+     3.825,
+     4.991,
+     2.37
+    ],
+    "tris": 644,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-slantedrock",
+  "name": "SlantedRock",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Extra Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v1.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v1.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v1.webp",
+    "dims": [
+     11.95,
+     13.39,
+     14.42
+    ],
+    "tris": 622,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v2.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v2.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v2.webp",
+    "dims": [
+     11.36,
+     11.24,
+     12.8
+    ],
+    "tris": 690,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v3.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v3.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v3.webp",
+    "dims": [
+     10.16,
+     14.05,
+     12.79
+    ],
+    "tris": 606,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v4.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v4.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v4.webp",
+    "dims": [
+     12.91,
+     14.38,
+     14.79
+    ],
+    "tris": 690,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v5.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v5.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v5.webp",
+    "dims": [
+     14.02,
+     10.97,
+     13.67
+    ],
+    "tris": 644,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v6.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v6.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v6.webp",
+    "dims": [
+     12.55,
+     14.47,
+     14.39
+    ],
+    "tris": 598,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v7.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v7.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v7.webp",
+    "dims": [
+     10.8,
+     12.15,
+     12.24
+    ],
+    "tris": 410,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v8.glb",
+    "fbx": "models/geology/geology-rocks-slantedrock/geology-rocks-slantedrock_v8.fbx",
+    "thumb": "thumbs/geology-rocks-slantedrock_v8.webp",
+    "dims": [
+     13.46,
+     11.4,
+     13.24
+    ],
+    "tris": 358,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "geology-rocks-whiterock",
+  "name": "WhiteRock",
+  "category": "Geology",
+  "subcategory": "Rocks",
+  "tags": [
+   "Extra Rocks"
+  ],
+  "blend": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock.blend",
+  "variants": [
+   {
+    "glb": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v1.glb",
+    "fbx": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v1.fbx",
+    "thumb": "thumbs/geology-rocks-whiterock_v1.webp",
+    "dims": [
+     7.358,
+     12.37,
+     4.899
+    ],
+    "tris": 584,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v2.glb",
+    "fbx": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v2.fbx",
+    "thumb": "thumbs/geology-rocks-whiterock_v2.webp",
+    "dims": [
+     6.337,
+     10.53,
+     4.906
+    ],
+    "tris": 790,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v3.glb",
+    "fbx": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v3.fbx",
+    "thumb": "thumbs/geology-rocks-whiterock_v3.webp",
+    "dims": [
+     5.913,
+     8.328,
+     4.925
+    ],
+    "tris": 974,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v4.glb",
+    "fbx": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v4.fbx",
+    "thumb": "thumbs/geology-rocks-whiterock_v4.webp",
+    "dims": [
+     5.692,
+     12.11,
+     4.868
+    ],
+    "tris": 564,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v5.glb",
+    "fbx": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v5.fbx",
+    "thumb": "thumbs/geology-rocks-whiterock_v5.webp",
+    "dims": [
+     4.78,
+     9.478,
+     4.753
+    ],
+    "tris": 308,
+    "parts": 1
+   },
+   {
+    "glb": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v6.glb",
+    "fbx": "models/geology/geology-rocks-whiterock/geology-rocks-whiterock_v6.fbx",
+    "thumb": "thumbs/geology-rocks-whiterock_v6.webp",
+    "dims": [
+     7.157,
+     8.701,
+     6.588
+    ],
+    "tris": 480,
+    "parts": 1
+   }
+  ]
+ }
+]

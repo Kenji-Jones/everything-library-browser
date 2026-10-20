@@ -1,0 +1,1487 @@
+{
+  "0": {
+    "name": "Broken Sphere",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "1": {
+    "name": "Triangular Prism",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "2": {
+    "name": "Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "3": {
+    "name": "Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "4": {
+    "name": "Line Cluster",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "5": {
+    "name": "Line Cluster",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "6": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "7": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "8": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "9": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "10": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "11": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "12": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "13": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "14": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "15": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "16": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "17": {
+    "name": "Shard Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "18": {
+    "name": "Holey Ball",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "19": {
+    "name": "Star Polyhedron",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "20": {
+    "name": "Star Cluster",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "21": {
+    "name": "Cube",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "22": {
+    "name": "Wire Spiky Ball",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "23": {
+    "name": "Spiky Ball",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "24": {
+    "name": "Spiky Ball",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "25": {
+    "name": "Exploding House",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "26": {
+    "name": "Building Ruins",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "27": {
+    "name": "Ruined Gateway",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "28": {
+    "name": "Building Ruins",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "29": {
+    "name": "Scaffold Frame",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "30": {
+    "name": "Ruined Gateway",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "31": {
+    "name": "Shattered Deer",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "32": {
+    "name": "Shattered Fragment",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "33": {
+    "name": "Shattered Fragment",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "34": {
+    "name": "Shattered Figure",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "35": {
+    "name": "Crumpled Wreck",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "36": {
+    "name": "Crumpled Wreck",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "37": {
+    "name": "Gaping Mouth",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "38": {
+    "name": "Antler Head",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "39": {
+    "name": "Vein Cage",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "40": {
+    "name": "Branching Vein",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "41": {
+    "name": "Branching Vein",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "42": {
+    "name": "Branching Vein",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "43": {
+    "name": "Ear",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "44": {
+    "name": "Charred Lump",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "45": {
+    "name": "Bone Fragment",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "46": {
+    "name": "Twisted Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "47": {
+    "name": "Coiled Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "48": {
+    "name": "Skull Mask",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "49": {
+    "name": "Arm",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "50": {
+    "name": "Zigzag Column",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "51": {
+    "name": "Stacked Cubes",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "52": {
+    "name": "Wire Truncated Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "53": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "54": {
+    "name": "Wire Rhombicosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "55": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "56": {
+    "name": "Wire Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "57": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "58": {
+    "name": "Wire Truncated Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "59": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "60": {
+    "name": "Wire Truncated Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "61": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "62": {
+    "name": "Wire Snub Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "63": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "64": {
+    "name": "Wire Snub Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "65": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "66": {
+    "name": "Wire Truncated Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "67": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "68": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "69": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "70": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "71": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "72": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "73": {
+    "name": "Wire Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "74": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "75": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "76": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "77": {
+    "name": "Wire Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "78": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "79": {
+    "name": "Wire Icosahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "80": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "81": {
+    "name": "Wire Deltoidal Icositetrahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "82": {
+    "name": "Wire Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "83": {
+    "name": "Wire Rhombicosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "84": {
+    "name": "Wire Rhombicuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "85": {
+    "name": "Wire Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "86": {
+    "name": "Wire Tetrahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "87": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "88": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "89": {
+    "name": "Wire Icosahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "90": {
+    "name": "Wire Geodesic Sphere",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "91": {
+    "name": "Wire Snub Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "92": {
+    "name": "Wire Snub Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "93": {
+    "name": "Wire Truncated Tetrahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "94": {
+    "name": "Wire Truncated Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "95": {
+    "name": "Wire Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "96": {
+    "name": "Wire Truncated Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "97": {
+    "name": "Wire Truncated Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "98": {
+    "name": "Wire Truncated Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "99": {
+    "name": "Wire Truncated Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "100": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "101": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "102": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "103": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "104": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "105": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "106": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "107": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "108": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "109": {
+    "name": "Wire Icosahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "110": {
+    "name": "Wire Snub Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "111": {
+    "name": "Wire Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "112": {
+    "name": "Wire Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "113": {
+    "name": "Wire Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "114": {
+    "name": "Wire Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "115": {
+    "name": "Wire Snub Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "116": {
+    "name": "Wire Snub Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "117": {
+    "name": "Wire Cuboctahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "118": {
+    "name": "Wire Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "119": {
+    "name": "Wire Geodesic Sphere",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "120": {
+    "name": "Wire Icosahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "121": {
+    "name": "Wire Geodesic Sphere",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "122": {
+    "name": "Wire Truncated Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "123": {
+    "name": "Wire Truncated Dodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "124": {
+    "name": "Wire Icosidodecahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "125": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "126": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "127": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "128": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "129": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "130": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "131": {
+    "name": "Wire Octahedron",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "132": {
+    "name": "Wire Cube",
+    "subcategory": "Wireframes",
+    "size_m": null
+  },
+  "133": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "134": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "135": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "136": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "137": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "138": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "139": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "140": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "141": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "142": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "143": {
+    "name": "Lumpy Sphere",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "144": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "145": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "146": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "147": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "148": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "149": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "150": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "151": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "152": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "153": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "154": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "155": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "156": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "157": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "158": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "159": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "160": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "161": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "162": {
+    "name": "Blob",
+    "subcategory": "Organic Forms",
+    "size_m": null
+  },
+  "163": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "164": {
+    "name": "Icosahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "165": {
+    "name": "Geodesic Sphere",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "166": {
+    "name": "Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "167": {
+    "name": "Octahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "168": {
+    "name": "Cube",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "169": {
+    "name": "Tetrahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "170": {
+    "name": "Truncated Cube",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "171": {
+    "name": "Truncated Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "172": {
+    "name": "Icosidodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "173": {
+    "name": "Truncated Octahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "174": {
+    "name": "Truncated Tetrahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "175": {
+    "name": "Snub Cube",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "176": {
+    "name": "Snub Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "177": {
+    "name": "Cuboctahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "178": {
+    "name": "Icosidodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "179": {
+    "name": "Rhombicosidodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "180": {
+    "name": "Rhombicuboctahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "181": {
+    "name": "Truncated Cuboctahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "182": {
+    "name": "Truncated Icosidodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "183": {
+    "name": "Carved Ball",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "184": {
+    "name": "Carved Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "185": {
+    "name": "Carved Cube",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "186": {
+    "name": "Carved Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "187": {
+    "name": "Stellated Dodecahedron",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "188": {
+    "name": "Stellated Dodecahedron",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "189": {
+    "name": "Six-Point Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "190": {
+    "name": "Six-Point Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "191": {
+    "name": "Spiky Ball",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "192": {
+    "name": "Spiky Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "193": {
+    "name": "Spiky Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "194": {
+    "name": "Spiky Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "195": {
+    "name": "Spiky Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "196": {
+    "name": "Spiky Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "197": {
+    "name": "Spiky Star",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "198": {
+    "name": "Spiky Ball",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "199": {
+    "name": "Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "200": {
+    "name": "Icosahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "201": {
+    "name": "Spiral Ribbon",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "202": {
+    "name": "Torus",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "203": {
+    "name": "Cylinder",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "204": {
+    "name": "Cone",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "205": {
+    "name": "Cube",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "206": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "207": {
+    "name": "Icosahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "208": {
+    "name": "Geodesic Sphere",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "209": {
+    "name": "Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "210": {
+    "name": "Octahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "211": {
+    "name": "Cube",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "212": {
+    "name": "Tetrahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "213": {
+    "name": "Icosahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "214": {
+    "name": "Geodesic Sphere",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "215": {
+    "name": "Dodecahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "216": {
+    "name": "Octahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "217": {
+    "name": "Cube",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "218": {
+    "name": "Tetrahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "219": {
+    "name": "Star Polyhedron",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "220": {
+    "name": "Star Polyhedron",
+    "subcategory": "Stars & Spikes",
+    "size_m": null
+  },
+  "221": {
+    "name": "Octahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "222": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "223": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "224": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "225": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "226": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "227": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "228": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "229": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "230": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "231": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "232": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "233": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "234": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "235": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "236": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "237": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "238": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "239": {
+    "name": "Arc",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "240": {
+    "name": "Pillar Cluster",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "241": {
+    "name": "Line",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "242": {
+    "name": "Line",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "243": {
+    "name": "Line",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "244": {
+    "name": "Line",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "245": {
+    "name": "Line",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "246": {
+    "name": "Line",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "247": {
+    "name": "Flat Quad",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "248": {
+    "name": "Flat Polygon",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "249": {
+    "name": "Flat Triangle",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "250": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "251": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "252": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "253": {
+    "name": "Flat Polygon",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "254": {
+    "name": "Flat Polygon",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "255": {
+    "name": "Flat Polygon",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "256": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "257": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "258": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "259": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "260": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "261": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "262": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "263": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "264": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "265": {
+    "name": "Flat Oval",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "266": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "267": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "268": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "269": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "270": {
+    "name": "Flat Boomerang",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "271": {
+    "name": "Flat Arrowhead",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "272": {
+    "name": "Flat Shard",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "273": {
+    "name": "Flat Polygon",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "274": {
+    "name": "Flat Shard",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "275": {
+    "name": "Flat Chevron",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "276": {
+    "name": "Flat Shard",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "277": {
+    "name": "Flat Shard",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "278": {
+    "name": "Flat Shard",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "279": {
+    "name": "Flat Shard",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "280": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "281": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "282": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "283": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "284": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "285": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "286": {
+    "name": "Flat Star",
+    "subcategory": "Flat Shapes",
+    "size_m": null
+  },
+  "287": {
+    "name": "Plane Cluster",
+    "subcategory": "Fragments & Ruins",
+    "size_m": null
+  },
+  "288": {
+    "name": "Sphere",
+    "subcategory": "Basic Shapes",
+    "size_m": null
+  },
+  "289": {
+    "name": "Hollow Cube",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "290": {
+    "name": "Hollow Cube",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "291": {
+    "name": "Triangle Cage",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "292": {
+    "name": "Star Tetrahedron",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "293": {
+    "name": "Tetrahedron",
+    "subcategory": "Polyhedra",
+    "size_m": null
+  },
+  "294": {
+    "name": "Folded Cube",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "295": {
+    "name": "Hourglass",
+    "subcategory": "Sculptural",
+    "size_m": null
+  },
+  "296": {
+    "name": "Pyramid Hourglass",
+    "subcategory": "Sculptural",
+    "size_m": null
+  }
+}

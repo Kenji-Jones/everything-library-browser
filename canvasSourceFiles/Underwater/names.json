@@ -1,0 +1,558 @@
+{
+ "0": {
+  "name": "Sea Turtle",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 1.0
+ },
+ "1": {
+  "name": "Sea Turtle",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 1.0
+ },
+ "2": {
+  "name": "Starfish",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.25
+ },
+ "3": {
+  "name": "Blue Jellyfish",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.3
+ },
+ "4": {
+  "name": "Seahorse",
+  "subcategory": "Fish",
+  "size_m": 0.15
+ },
+ "5": {
+  "name": "Sea Urchin",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.1
+ },
+ "6": {
+  "name": "Sea Urchin",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.1
+ },
+ "7": {
+  "name": "Sea Urchin",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.1
+ },
+ "8": {
+  "name": "Sea Urchin",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.1
+ },
+ "9": {
+  "name": "Seagrass",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.5
+ },
+ "10": {
+  "name": "Seagrass",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.5
+ },
+ "11": {
+  "name": "Seagrass",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.5
+ },
+ "12": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "13": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "14": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "15": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "16": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "17": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "18": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "19": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "20": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "21": {
+  "name": "Waterweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6
+ },
+ "22": {
+  "name": "Pondweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6,
+  "aka": "Curly Pondweed"
+ },
+ "23": {
+  "name": "Pondweed",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.6,
+  "aka": "Curly Pondweed"
+ },
+ "24": {
+  "name": "Lily Pad",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.3
+ },
+ "25": {
+  "name": "Lily Pad",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.3
+ },
+ "26": {
+  "name": "Lily Pad",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.3
+ },
+ "27": {
+  "name": "Water Lily",
+  "subcategory": "Aquatic Plants",
+  "size_m": 0.15
+ },
+ "28": {
+  "name": "Round Snail Shell",
+  "subcategory": "Shells",
+  "size_m": 0.06,
+  "aka": "Moon Shell"
+ },
+ "29": {
+  "name": "Flat Snail Shell",
+  "subcategory": "Shells",
+  "size_m": 0.05
+ },
+ "30": {
+  "name": "White Clam Shell",
+  "subcategory": "Shells",
+  "size_m": 0.1
+ },
+ "31": {
+  "name": "Spiky Shell",
+  "subcategory": "Shells",
+  "size_m": 0.1,
+  "aka": "Murex Shell"
+ },
+ "32": {
+  "name": "Conch Shell",
+  "subcategory": "Shells",
+  "size_m": 0.15
+ },
+ "33": {
+  "name": "Conch Shell",
+  "subcategory": "Shells",
+  "size_m": 0.15
+ },
+ "34": {
+  "name": "Whelk Shell",
+  "subcategory": "Shells",
+  "size_m": 0.08
+ },
+ "35": {
+  "name": "Whelk Shell",
+  "subcategory": "Shells",
+  "size_m": 0.08
+ },
+ "36": {
+  "name": "Whelk Shell",
+  "subcategory": "Shells",
+  "size_m": 0.08
+ },
+ "37": {
+  "name": "Cockle Shell",
+  "subcategory": "Shells",
+  "size_m": 0.06
+ },
+ "38": {
+  "name": "Cockle Shell",
+  "subcategory": "Shells",
+  "size_m": 0.06
+ },
+ "39": {
+  "name": "Cockle Shell",
+  "subcategory": "Shells",
+  "size_m": 0.06
+ },
+ "40": {
+  "name": "Scallop Shell",
+  "subcategory": "Shells",
+  "size_m": 0.08
+ },
+ "41": {
+  "name": "Scallop Shell",
+  "subcategory": "Shells",
+  "size_m": 0.08
+ },
+ "42": {
+  "name": "Scallop Shell",
+  "subcategory": "Shells",
+  "size_m": 0.08
+ },
+ "43": {
+  "name": "Urchin Shell",
+  "subcategory": "Shells",
+  "size_m": 0.07
+ },
+ "44": {
+  "name": "Clam",
+  "subcategory": "Shells",
+  "size_m": 0.1
+ },
+ "45": {
+  "name": "Oyster",
+  "subcategory": "Shells",
+  "size_m": 0.1
+ },
+ "46": {
+  "name": "Oyster",
+  "subcategory": "Shells",
+  "size_m": 0.1
+ },
+ "47": {
+  "name": "Oyster",
+  "subcategory": "Shells",
+  "size_m": 0.1
+ },
+ "48": {
+  "name": "Mussel",
+  "subcategory": "Shells",
+  "size_m": 0.07
+ },
+ "49": {
+  "name": "Mussel",
+  "subcategory": "Shells",
+  "size_m": 0.07
+ },
+ "50": {
+  "name": "Mussel",
+  "subcategory": "Shells",
+  "size_m": 0.07
+ },
+ "51": {
+  "name": "Shrimp",
+  "subcategory": "Crustaceans",
+  "size_m": 0.1
+ },
+ "52": {
+  "name": "Spider Crab",
+  "subcategory": "Crustaceans",
+  "size_m": 0.5
+ },
+ "53": {
+  "name": "Crab",
+  "subcategory": "Crustaceans",
+  "size_m": 0.2
+ },
+ "54": {
+  "name": "Lobster",
+  "subcategory": "Crustaceans",
+  "size_m": 0.5
+ },
+ "55": {
+  "name": "Horseshoe Crab",
+  "subcategory": "Crustaceans",
+  "size_m": 0.5
+ },
+ "56": {
+  "name": "Nautilus",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.2
+ },
+ "57": {
+  "name": "Clownfish",
+  "subcategory": "Fish",
+  "size_m": 0.1
+ },
+ "58": {
+  "name": "Triggerfish",
+  "subcategory": "Fish",
+  "size_m": 0.25
+ },
+ "59": {
+  "name": "Tang Fish",
+  "subcategory": "Fish",
+  "size_m": 0.2,
+  "aka": "Powder Blue Tang"
+ },
+ "60": {
+  "name": "Tang Fish",
+  "subcategory": "Fish",
+  "size_m": 0.2,
+  "aka": "Yellowtail Tang"
+ },
+ "61": {
+  "name": "Butterflyfish",
+  "subcategory": "Fish",
+  "size_m": 0.15
+ },
+ "62": {
+  "name": "Lionfish",
+  "subcategory": "Fish",
+  "size_m": 0.35
+ },
+ "63": {
+  "name": "Blue Tang",
+  "subcategory": "Fish",
+  "size_m": 0.25
+ },
+ "64": {
+  "name": "Beluga Whale",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 4.5
+ },
+ "65": {
+  "name": "Tiny Shrimp",
+  "subcategory": "Crustaceans",
+  "size_m": 0.01,
+  "aka": "Brine Shrimp"
+ },
+ "66": {
+  "name": "Butterflyfish",
+  "subcategory": "Fish",
+  "size_m": 0.2,
+  "aka": "Longnose Butterflyfish"
+ },
+ "67": {
+  "name": "Butterflyfish",
+  "subcategory": "Fish",
+  "size_m": 0.2,
+  "aka": "Copperband Butterflyfish"
+ },
+ "68": {
+  "name": "Betta Fish",
+  "subcategory": "Fish",
+  "size_m": 0.07
+ },
+ "69": {
+  "name": "Betta Fish",
+  "subcategory": "Fish",
+  "size_m": 0.07
+ },
+ "70": {
+  "name": "Tetra",
+  "subcategory": "Fish",
+  "size_m": 0.04
+ },
+ "71": {
+  "name": "Tetra",
+  "subcategory": "Fish",
+  "size_m": 0.04
+ },
+ "72": {
+  "name": "Tetra",
+  "subcategory": "Fish",
+  "size_m": 0.04
+ },
+ "73": {
+  "name": "Tetra",
+  "subcategory": "Fish",
+  "size_m": 0.04
+ },
+ "74": {
+  "name": "Tang Fish",
+  "subcategory": "Fish",
+  "size_m": 0.25,
+  "aka": "Achilles Tang"
+ },
+ "75": {
+  "name": "Yellow Tang",
+  "subcategory": "Fish",
+  "size_m": 0.2
+ },
+ "76": {
+  "name": "Reef Fish",
+  "subcategory": "Fish",
+  "size_m": 0.1,
+  "aka": "Blue Chromis"
+ },
+ "77": {
+  "name": "Triggerfish",
+  "subcategory": "Fish",
+  "size_m": 0.4,
+  "aka": "Clown Triggerfish"
+ },
+ "78": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.15
+ },
+ "79": {
+  "name": "Reef Fish",
+  "subcategory": "Fish",
+  "size_m": 0.25,
+  "aka": "Rock Beauty"
+ },
+ "80": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.35,
+  "aka": "French Angelfish"
+ },
+ "81": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.1,
+  "aka": "Flame Angelfish"
+ },
+ "82": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.35,
+  "aka": "Emperor Angelfish"
+ },
+ "83": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.15,
+  "aka": "Black Angelfish"
+ },
+ "84": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.2,
+  "aka": "Striped Angelfish"
+ },
+ "85": {
+  "name": "Angelfish",
+  "subcategory": "Fish",
+  "size_m": 0.4,
+  "aka": "Queen Angelfish"
+ },
+ "86": {
+  "name": "Minnow",
+  "subcategory": "Fish",
+  "size_m": 0.1
+ },
+ "87": {
+  "name": "Salmon",
+  "subcategory": "Fish",
+  "size_m": 0.8
+ },
+ "88": {
+  "name": "Rainbow Trout",
+  "subcategory": "Fish",
+  "size_m": 0.5
+ },
+ "89": {
+  "name": "Goldfish",
+  "subcategory": "Fish",
+  "size_m": 0.15
+ },
+ "90": {
+  "name": "Goldfish",
+  "subcategory": "Fish",
+  "size_m": 0.15
+ },
+ "91": {
+  "name": "Goldfish",
+  "subcategory": "Fish",
+  "size_m": 0.15,
+  "aka": "Black Moor"
+ },
+ "92": {
+  "name": "Koi",
+  "subcategory": "Fish",
+  "size_m": 0.6
+ },
+ "93": {
+  "name": "Koi",
+  "subcategory": "Fish",
+  "size_m": 0.6
+ },
+ "94": {
+  "name": "Eel",
+  "subcategory": "Fish",
+  "size_m": 0.8
+ },
+ "95": {
+  "name": "Moray Eel",
+  "subcategory": "Fish",
+  "size_m": 1.5
+ },
+ "96": {
+  "name": "Tadpole",
+  "subcategory": "Fish",
+  "size_m": 0.05
+ },
+ "97": {
+  "name": "Jellyfish",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.5
+ },
+ "98": {
+  "name": "White Jellyfish",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.3
+ },
+ "99": {
+  "name": "Squid",
+  "subcategory": "Sea Invertebrates",
+  "size_m": 0.6
+ },
+ "100": {
+  "name": "Great White Shark",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 5.0
+ },
+ "101": {
+  "name": "Stingray",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 1.5
+ },
+ "102": {
+  "name": "Blue Whale",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 25.0
+ },
+ "103": {
+  "name": "Sperm Whale",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 16.0
+ },
+ "104": {
+  "name": "Dolphin",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 2.5
+ },
+ "105": {
+  "name": "Orca",
+  "subcategory": "Whales, Sharks & Turtles",
+  "size_m": 7.0
+ },
+ "106": {
+  "name": "Dark Fish",
+  "subcategory": "Fish",
+  "size_m": 0.5,
+  "aka": "Blackfish"
+ }
+}

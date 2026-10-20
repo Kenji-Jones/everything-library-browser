@@ -1,0 +1,2488 @@
+[
+ {
+  "id": "consumables-bakedgoods-applepie",
+  "name": "ApplePie",
+  "category": "Consumables",
+  "subcategory": "BakedGoods",
+  "tags": [],
+  "blend": "models/consumables/consumables-bakedgoods-applepie/consumables-bakedgoods-applepie.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-bakedgoods-applepie/consumables-bakedgoods-applepie_v1.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-applepie/consumables-bakedgoods-applepie_v1.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-applepie_v1.webp",
+    "dims": [
+     0.5044,
+     0.5044,
+     0.1617
+    ],
+    "tris": 336,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-bakedgoods-baguette",
+  "name": "Baguette",
+  "category": "Consumables",
+  "subcategory": "BakedGoods",
+  "tags": [],
+  "blend": "models/consumables/consumables-bakedgoods-baguette/consumables-bakedgoods-baguette.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-bakedgoods-baguette/consumables-bakedgoods-baguette_v1.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-baguette/consumables-bakedgoods-baguette_v1.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-baguette_v1.webp",
+    "dims": [
+     0.07439,
+     0.5487,
+     0.0635
+    ],
+    "tris": 936,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-bakedgoods-breadcrumb",
+  "name": "BreadCrumb",
+  "category": "Consumables",
+  "subcategory": "BakedGoods",
+  "tags": [],
+  "blend": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v1.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v1.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v1.webp",
+    "dims": [
+     0.006241,
+     0.005053,
+     0.002759
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v2.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v2.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v2.webp",
+    "dims": [
+     0.005281,
+     0.00666,
+     0.003577
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v3.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v3.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v3.webp",
+    "dims": [
+     0.005867,
+     0.004729,
+     0.003304
+    ],
+    "tris": 74,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v4.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v4.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v4.webp",
+    "dims": [
+     0.004783,
+     0.006527,
+     0.003495
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v5.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v5.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v5.webp",
+    "dims": [
+     0.006056,
+     0.006181,
+     0.00365
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v6.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v6.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v6.webp",
+    "dims": [
+     0.006099,
+     0.006183,
+     0.00383
+    ],
+    "tris": 80,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v7.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v7.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v7.webp",
+    "dims": [
+     0.004789,
+     0.005562,
+     0.004685
+    ],
+    "tris": 48,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v8.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-breadcrumb/consumables-bakedgoods-breadcrumb_v8.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-breadcrumb_v8.webp",
+    "dims": [
+     0.003045,
+     0.004915,
+     0.001816
+    ],
+    "tris": 48,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-bakedgoods-loafofbread",
+  "name": "LoafOfBread",
+  "category": "Consumables",
+  "subcategory": "BakedGoods",
+  "tags": [],
+  "blend": "models/consumables/consumables-bakedgoods-loafofbread/consumables-bakedgoods-loafofbread.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-bakedgoods-loafofbread/consumables-bakedgoods-loafofbread_v1.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-loafofbread/consumables-bakedgoods-loafofbread_v1.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-loafofbread_v1.webp",
+    "dims": [
+     0.1468,
+     0.1802,
+     0.158
+    ],
+    "tris": 170,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-bakedgoods-sliceoftoast",
+  "name": "SliceOfToast",
+  "category": "Consumables",
+  "subcategory": "BakedGoods",
+  "tags": [],
+  "blend": "models/consumables/consumables-bakedgoods-sliceoftoast/consumables-bakedgoods-sliceoftoast.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-bakedgoods-sliceoftoast/consumables-bakedgoods-sliceoftoast_v1.glb",
+    "fbx": "models/consumables/consumables-bakedgoods-sliceoftoast/consumables-bakedgoods-sliceoftoast_v1.fbx",
+    "thumb": "thumbs/consumables-bakedgoods-sliceoftoast_v1.webp",
+    "dims": [
+     0.1316,
+     0.1418,
+     0.01186
+    ],
+    "tris": 124,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-cannedfood-canofpeas",
+  "name": "CanOfPeas",
+  "category": "Consumables",
+  "subcategory": "CannedFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-cannedfood-canofpeas/consumables-cannedfood-canofpeas.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-cannedfood-canofpeas/consumables-cannedfood-canofpeas_v1.glb",
+    "fbx": "models/consumables/consumables-cannedfood-canofpeas/consumables-cannedfood-canofpeas_v1.fbx",
+    "thumb": "thumbs/consumables-cannedfood-canofpeas_v1.webp",
+    "dims": [
+     0.1793,
+     0.1793,
+     0.1816
+    ],
+    "tris": 664,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-cannedfood-canofsardines",
+  "name": "CanOfSardines",
+  "category": "Consumables",
+  "subcategory": "CannedFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-cannedfood-canofsardines/consumables-cannedfood-canofsardines.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-cannedfood-canofsardines/consumables-cannedfood-canofsardines_v1.glb",
+    "fbx": "models/consumables/consumables-cannedfood-canofsardines/consumables-cannedfood-canofsardines_v1.fbx",
+    "thumb": "thumbs/consumables-cannedfood-canofsardines_v1.webp",
+    "dims": [
+     0.1305,
+     0.2117,
+     0.05167
+    ],
+    "tris": 196,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-cannedfood-canofsoup",
+  "name": "CanOfSoup",
+  "category": "Consumables",
+  "subcategory": "CannedFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-cannedfood-canofsoup/consumables-cannedfood-canofsoup.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-cannedfood-canofsoup/consumables-cannedfood-canofsoup_v1.glb",
+    "fbx": "models/consumables/consumables-cannedfood-canofsoup/consumables-cannedfood-canofsoup_v1.fbx",
+    "thumb": "thumbs/consumables-cannedfood-canofsoup_v1.webp",
+    "dims": [
+     0.1231,
+     0.1231,
+     0.1816
+    ],
+    "tris": 632,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-cannedfood-canoftuna",
+  "name": "CanOfTuna",
+  "category": "Consumables",
+  "subcategory": "CannedFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-cannedfood-canoftuna/consumables-cannedfood-canoftuna.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-cannedfood-canoftuna/consumables-cannedfood-canoftuna_v1.glb",
+    "fbx": "models/consumables/consumables-cannedfood-canoftuna/consumables-cannedfood-canoftuna_v1.fbx",
+    "thumb": "thumbs/consumables-cannedfood-canoftuna_v1.webp",
+    "dims": [
+     0.1231,
+     0.1231,
+     0.05921
+    ],
+    "tris": 600,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-cannedfood-cannedmeat",
+  "name": "CannedMeat",
+  "category": "Consumables",
+  "subcategory": "CannedFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-cannedfood-cannedmeat/consumables-cannedfood-cannedmeat.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-cannedfood-cannedmeat/consumables-cannedfood-cannedmeat_v1.glb",
+    "fbx": "models/consumables/consumables-cannedfood-cannedmeat/consumables-cannedfood-cannedmeat_v1.fbx",
+    "thumb": "thumbs/consumables-cannedfood-cannedmeat_v1.webp",
+    "dims": [
+     0.1397,
+     0.2209,
+     0.1251
+    ],
+    "tris": 292,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-cannedfood-mysterycan",
+  "name": "MysteryCan",
+  "category": "Consumables",
+  "subcategory": "CannedFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-cannedfood-mysterycan/consumables-cannedfood-mysterycan.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-cannedfood-mysterycan/consumables-cannedfood-mysterycan_v1.glb",
+    "fbx": "models/consumables/consumables-cannedfood-mysterycan/consumables-cannedfood-mysterycan_v1.fbx",
+    "thumb": "thumbs/consumables-cannedfood-mysterycan_v1.webp",
+    "dims": [
+     0.125,
+     0.125,
+     0.1816
+    ],
+    "tris": 1304,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-babybottle",
+  "name": "BabyBottle",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-babybottle/consumables-drinks-babybottle.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-babybottle/consumables-drinks-babybottle_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-babybottle/consumables-drinks-babybottle_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-babybottle_v1.webp",
+    "dims": [
+     0.108,
+     0.108,
+     0.2567
+    ],
+    "tris": 284,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-beer",
+  "name": "Beer",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-beer/consumables-drinks-beer.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-beer/consumables-drinks-beer_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-beer/consumables-drinks-beer_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-beer_v1.webp",
+    "dims": [
+     0.287,
+     0.2229,
+     0.3365
+    ],
+    "tris": 628,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-canofsoda",
+  "name": "CanOfSoda",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-canofsoda/consumables-drinks-canofsoda.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-canofsoda/consumables-drinks-canofsoda_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-canofsoda/consumables-drinks-canofsoda_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-canofsoda_v1.webp",
+    "dims": [
+     0.09181,
+     0.09179,
+     0.1579
+    ],
+    "tris": 611,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-cocktail",
+  "name": "Cocktail",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-cocktail/consumables-drinks-cocktail.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-cocktail/consumables-drinks-cocktail_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-cocktail/consumables-drinks-cocktail_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-cocktail_v1.webp",
+    "dims": [
+     0.1791,
+     0.1348,
+     0.2456
+    ],
+    "tris": 304,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-cupofcoffee",
+  "name": "CupOfCoffee",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-cupofcoffee/consumables-drinks-cupofcoffee.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-cupofcoffee/consumables-drinks-cupofcoffee_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-cupofcoffee/consumables-drinks-cupofcoffee_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-cupofcoffee_v1.webp",
+    "dims": [
+     0.1074,
+     0.1486,
+     0.1396
+    ],
+    "tris": 392,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-glassofwater",
+  "name": "GlassOfWater",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-glassofwater_v1.webp",
+    "dims": [
+     0.01582,
+     0.01582,
+     0.03487
+    ],
+    "tris": 304,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater_v2.glb",
+    "fbx": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater_v2.fbx",
+    "thumb": "thumbs/consumables-drinks-glassofwater_v2.webp",
+    "dims": [
+     0.01582,
+     0.01582,
+     0.03487
+    ],
+    "tris": 304,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater_v3.glb",
+    "fbx": "models/consumables/consumables-drinks-glassofwater/consumables-drinks-glassofwater_v3.fbx",
+    "thumb": "thumbs/consumables-drinks-glassofwater_v3.webp",
+    "dims": [
+     0.01582,
+     0.01582,
+     0.03487
+    ],
+    "tris": 304,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-glassofwine",
+  "name": "GlassOfWine",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-glassofwine/consumables-drinks-glassofwine.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-glassofwine/consumables-drinks-glassofwine_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-glassofwine/consumables-drinks-glassofwine_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-glassofwine_v1.webp",
+    "dims": [
+     0.1107,
+     0.1107,
+     0.2795
+    ],
+    "tris": 304,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-grapejuice",
+  "name": "GrapeJuice",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-grapejuice/consumables-drinks-grapejuice.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-grapejuice/consumables-drinks-grapejuice_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-grapejuice/consumables-drinks-grapejuice_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-grapejuice_v1.webp",
+    "dims": [
+     0.1183,
+     0.08837,
+     0.2845
+    ],
+    "tris": 334,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-kettle",
+  "name": "Kettle",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-kettle/consumables-drinks-kettle.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-kettle/consumables-drinks-kettle_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-kettle/consumables-drinks-kettle_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-kettle_v1.webp",
+    "dims": [
+     0.2135,
+     0.2905,
+     0.2812
+    ],
+    "tris": 704,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-martini",
+  "name": "Martini",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-martini/consumables-drinks-martini.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-martini/consumables-drinks-martini_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-martini/consumables-drinks-martini_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-martini_v1.webp",
+    "dims": [
+     0.1505,
+     0.1505,
+     0.2379
+    ],
+    "tris": 222,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-milk",
+  "name": "Milk",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-milk/consumables-drinks-milk.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-milk/consumables-drinks-milk_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-milk/consumables-drinks-milk_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-milk_v1.webp",
+    "dims": [
+     0.131,
+     0.131,
+     0.3757
+    ],
+    "tris": 92,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-orangejuice",
+  "name": "OrangeJuice",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-orangejuice/consumables-drinks-orangejuice.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-orangejuice/consumables-drinks-orangejuice_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-orangejuice/consumables-drinks-orangejuice_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-orangejuice_v1.webp",
+    "dims": [
+     0.1419,
+     0.1213,
+     0.3057
+    ],
+    "tris": 416,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-sake",
+  "name": "Sake",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-sake/consumables-drinks-sake.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-sake/consumables-drinks-sake_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-sake/consumables-drinks-sake_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-sake_v1.webp",
+    "dims": [
+     0.1314,
+     0.1314,
+     0.3228
+    ],
+    "tris": 160,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-drinks-sake/consumables-drinks-sake_v2.glb",
+    "fbx": "models/consumables/consumables-drinks-sake/consumables-drinks-sake_v2.fbx",
+    "thumb": "thumbs/consumables-drinks-sake_v2.webp",
+    "dims": [
+     0.1065,
+     0.1065,
+     0.1097
+    ],
+    "tris": 80,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-sodabottle",
+  "name": "SodaBottle",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-sodabottle/consumables-drinks-sodabottle.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-sodabottle/consumables-drinks-sodabottle_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-sodabottle/consumables-drinks-sodabottle_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-sodabottle_v1.webp",
+    "dims": [
+     0.1188,
+     0.1188,
+     0.3967
+    ],
+    "tris": 590,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-teapot",
+  "name": "Teapot",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-teapot/consumables-drinks-teapot.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-teapot/consumables-drinks-teapot_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-teapot/consumables-drinks-teapot_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-teapot_v1.webp",
+    "dims": [
+     0.1845,
+     0.2756,
+     0.1853
+    ],
+    "tris": 668,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-waterbottle",
+  "name": "WaterBottle",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-waterbottle/consumables-drinks-waterbottle.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-waterbottle/consumables-drinks-waterbottle_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-waterbottle/consumables-drinks-waterbottle_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-waterbottle_v1.webp",
+    "dims": [
+     0.004636,
+     0.004636,
+     0.01548
+    ],
+    "tris": 660,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-winebottle",
+  "name": "WineBottle",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-winebottle/consumables-drinks-winebottle.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-winebottle/consumables-drinks-winebottle_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-winebottle/consumables-drinks-winebottle_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-winebottle_v1.webp",
+    "dims": [
+     0.1238,
+     0.1228,
+     0.4107
+    ],
+    "tris": 229,
+    "parts": 2
+   },
+   {
+    "glb": "models/consumables/consumables-drinks-winebottle/consumables-drinks-winebottle_v2.glb",
+    "fbx": "models/consumables/consumables-drinks-winebottle/consumables-drinks-winebottle_v2.fbx",
+    "thumb": "thumbs/consumables-drinks-winebottle_v2.webp",
+    "dims": [
+     0.1173,
+     0.1189,
+     0.4809
+    ],
+    "tris": 567,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-drinks-xxxbottle",
+  "name": "XXXBottle",
+  "category": "Consumables",
+  "subcategory": "Drinks",
+  "tags": [],
+  "blend": "models/consumables/consumables-drinks-xxxbottle/consumables-drinks-xxxbottle.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-drinks-xxxbottle/consumables-drinks-xxxbottle_v1.glb",
+    "fbx": "models/consumables/consumables-drinks-xxxbottle/consumables-drinks-xxxbottle_v1.fbx",
+    "thumb": "thumbs/consumables-drinks-xxxbottle_v1.webp",
+    "dims": [
+     0.1748,
+     0.1778,
+     0.3512
+    ],
+    "tris": 374,
+    "parts": 3
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-apple",
+  "name": "Apple",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-apple/consumables-fruits-apple.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-apple/consumables-fruits-apple_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-apple/consumables-fruits-apple_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-apple_v1.webp",
+    "dims": [
+     0.09381,
+     0.09238,
+     0.1141
+    ],
+    "tris": 236,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-fruits-apple/consumables-fruits-apple_v2.glb",
+    "fbx": "models/consumables/consumables-fruits-apple/consumables-fruits-apple_v2.fbx",
+    "thumb": "thumbs/consumables-fruits-apple_v2.webp",
+    "dims": [
+     0.09381,
+     0.09238,
+     0.1141
+    ],
+    "tris": 236,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-banana",
+  "name": "Banana",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-banana/consumables-fruits-banana.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-banana/consumables-fruits-banana_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-banana/consumables-fruits-banana_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-banana_v1.webp",
+    "dims": [
+     0.05217,
+     0.1806,
+     0.1466
+    ],
+    "tris": 106,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-bananabunch",
+  "name": "BananaBunch",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-bananabunch/consumables-fruits-bananabunch.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-bananabunch/consumables-fruits-bananabunch_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-bananabunch/consumables-fruits-bananabunch_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-bananabunch_v1.webp",
+    "dims": [
+     0.1512,
+     0.2654,
+     0.2321
+    ],
+    "tris": 440,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-blackberry",
+  "name": "Blackberry",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-blackberry/consumables-fruits-blackberry.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-blackberry/consumables-fruits-blackberry_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-blackberry/consumables-fruits-blackberry_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-blackberry_v1.webp",
+    "dims": [
+     0.035,
+     0.03164,
+     0.035
+    ],
+    "tris": 80,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-cherry",
+  "name": "Cherry",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-cherry/consumables-fruits-cherry.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-cherry/consumables-fruits-cherry_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-cherry/consumables-fruits-cherry_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-cherry_v1.webp",
+    "dims": [
+     0.04138,
+     0.04653,
+     0.06908
+    ],
+    "tris": 238,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-grape",
+  "name": "Grape",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-grape/consumables-fruits-grape.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-grape/consumables-fruits-grape_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-grape/consumables-fruits-grape_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-grape_v1.webp",
+    "dims": [
+     0.02502,
+     0.03247,
+     0.02493
+    ],
+    "tris": 288,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-lemon",
+  "name": "Lemon",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-lemon/consumables-fruits-lemon.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-lemon/consumables-fruits-lemon_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-lemon/consumables-fruits-lemon_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-lemon_v1.webp",
+    "dims": [
+     0.08922,
+     0.1176,
+     0.08922
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-orange",
+  "name": "Orange",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-orange/consumables-fruits-orange.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-orange/consumables-fruits-orange_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-orange/consumables-fruits-orange_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-orange_v1.webp",
+    "dims": [
+     0.09338,
+     0.09356,
+     0.09319
+    ],
+    "tris": 256,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-peach",
+  "name": "Peach",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-peach/consumables-fruits-peach.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-peach/consumables-fruits-peach_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-peach/consumables-fruits-peach_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-peach_v1.webp",
+    "dims": [
+     0.08741,
+     0.08741,
+     0.07678
+    ],
+    "tris": 224,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-fruits-peach/consumables-fruits-peach_v2.glb",
+    "fbx": "models/consumables/consumables-fruits-peach/consumables-fruits-peach_v2.fbx",
+    "thumb": "thumbs/consumables-fruits-peach_v2.webp",
+    "dims": [
+     0.08621,
+     0.08488,
+     0.0727
+    ],
+    "tris": 316,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-pear",
+  "name": "Pear",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-pear/consumables-fruits-pear.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-pear/consumables-fruits-pear_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-pear/consumables-fruits-pear_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-pear_v1.webp",
+    "dims": [
+     0.07192,
+     0.1072,
+     0.07192
+    ],
+    "tris": 176,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-pineapple",
+  "name": "Pineapple",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-pineapple/consumables-fruits-pineapple.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-pineapple/consumables-fruits-pineapple_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-pineapple/consumables-fruits-pineapple_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-pineapple_v1.webp",
+    "dims": [
+     0.2345,
+     0.2401,
+     0.4448
+    ],
+    "tris": 959,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-raspberry",
+  "name": "Raspberry",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-raspberry/consumables-fruits-raspberry.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-raspberry/consumables-fruits-raspberry_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-raspberry/consumables-fruits-raspberry_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-raspberry_v1.webp",
+    "dims": [
+     0.04804,
+     0.04927,
+     0.0525
+    ],
+    "tris": 992,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-sliceoflemon",
+  "name": "SliceOfLemon",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-sliceoflemon/consumables-fruits-sliceoflemon.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-sliceoflemon/consumables-fruits-sliceoflemon_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-sliceoflemon/consumables-fruits-sliceoflemon_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-sliceoflemon_v1.webp",
+    "dims": [
+     0.06581,
+     0.02976,
+     0.03305
+    ],
+    "tris": 350,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-strawberry",
+  "name": "Strawberry",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-strawberry/consumables-fruits-strawberry.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-strawberry/consumables-fruits-strawberry_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-strawberry/consumables-fruits-strawberry_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-strawberry_v1.webp",
+    "dims": [
+     0.0503,
+     0.06768,
+     0.0503
+    ],
+    "tris": 504,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-fruits-watermelonslice",
+  "name": "WatermelonSlice",
+  "category": "Consumables",
+  "subcategory": "Fruits",
+  "tags": [],
+  "blend": "models/consumables/consumables-fruits-watermelonslice/consumables-fruits-watermelonslice.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-fruits-watermelonslice/consumables-fruits-watermelonslice_v1.glb",
+    "fbx": "models/consumables/consumables-fruits-watermelonslice/consumables-fruits-watermelonslice_v1.fbx",
+    "thumb": "thumbs/consumables-fruits-watermelonslice_v1.webp",
+    "dims": [
+     0.1996,
+     0.5591,
+     0.2957
+    ],
+    "tris": 476,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-boxoffries",
+  "name": "BoxOfFries",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-boxoffries/consumables-junkfood-boxoffries.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-boxoffries/consumables-junkfood-boxoffries_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-boxoffries/consumables-junkfood-boxoffries_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-boxoffries_v1.webp",
+    "dims": [
+     0.1189,
+     0.06653,
+     0.1619
+    ],
+    "tris": 284,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-chickendrumstick",
+  "name": "ChickenDrumstick",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-chickendrumstick/consumables-junkfood-chickendrumstick.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-chickendrumstick/consumables-junkfood-chickendrumstick_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-chickendrumstick/consumables-junkfood-chickendrumstick_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-chickendrumstick_v1.webp",
+    "dims": [
+     0.0616,
+     0.1397,
+     0.06151
+    ],
+    "tris": 152,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-frenchfry",
+  "name": "FrenchFry",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v1.webp",
+    "dims": [
+     0.01009,
+     0.1079,
+     0.01968
+    ],
+    "tris": 214,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v2.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v2.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v2.webp",
+    "dims": [
+     0.01245,
+     0.1085,
+     0.01011
+    ],
+    "tris": 216,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v3.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v3.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v3.webp",
+    "dims": [
+     0.01115,
+     0.1067,
+     0.01019
+    ],
+    "tris": 200,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v4.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v4.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v4.webp",
+    "dims": [
+     0.0189,
+     0.09518,
+     0.01739
+    ],
+    "tris": 198,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v5.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v5.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v5.webp",
+    "dims": [
+     0.01513,
+     0.1337,
+     0.0119
+    ],
+    "tris": 212,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v6.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v6.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v6.webp",
+    "dims": [
+     0.00978,
+     0.07847,
+     0.00809
+    ],
+    "tris": 152,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v7.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v7.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v7.webp",
+    "dims": [
+     0.01134,
+     0.1112,
+     0.01418
+    ],
+    "tris": 208,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v8.glb",
+    "fbx": "models/consumables/consumables-junkfood-frenchfry/consumables-junkfood-frenchfry_v8.fbx",
+    "thumb": "thumbs/consumables-junkfood-frenchfry_v8.webp",
+    "dims": [
+     0.01084,
+     0.09832,
+     0.0105
+    ],
+    "tris": 220,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-hamburger",
+  "name": "Hamburger",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-hamburger/consumables-junkfood-hamburger.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-hamburger/consumables-junkfood-hamburger_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-hamburger/consumables-junkfood-hamburger_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-hamburger_v1.webp",
+    "dims": [
+     0.1936,
+     0.1838,
+     0.09229
+    ],
+    "tris": 622,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-pancake",
+  "name": "Pancake",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-pancake_v1.webp",
+    "dims": [
+     0.1004,
+     0.1004,
+     0.01846
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v2.glb",
+    "fbx": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v2.fbx",
+    "thumb": "thumbs/consumables-junkfood-pancake_v2.webp",
+    "dims": [
+     0.09956,
+     0.1003,
+     0.01835
+    ],
+    "tris": 216,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v3.glb",
+    "fbx": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v3.fbx",
+    "thumb": "thumbs/consumables-junkfood-pancake_v3.webp",
+    "dims": [
+     0.1004,
+     0.1004,
+     0.01774
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v4.glb",
+    "fbx": "models/consumables/consumables-junkfood-pancake/consumables-junkfood-pancake_v4.fbx",
+    "thumb": "thumbs/consumables-junkfood-pancake_v4.webp",
+    "dims": [
+     0.1019,
+     0.1006,
+     0.01392
+    ],
+    "tris": 144,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-pizzaslice",
+  "name": "PizzaSlice",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-pizzaslice/consumables-junkfood-pizzaslice.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-pizzaslice/consumables-junkfood-pizzaslice_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-pizzaslice/consumables-junkfood-pizzaslice_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-pizzaslice_v1.webp",
+    "dims": [
+     0.232,
+     0.3031,
+     0.0332
+    ],
+    "tris": 224,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-junkfood-popcorn",
+  "name": "Popcorn",
+  "category": "Consumables",
+  "subcategory": "JunkFood",
+  "tags": [],
+  "blend": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v1.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v1.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v1.webp",
+    "dims": [
+     0.03808,
+     0.03808,
+     0.02168
+    ],
+    "tris": 144,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v2.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v2.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v2.webp",
+    "dims": [
+     0.01168,
+     0.006919,
+     0.01632
+    ],
+    "tris": 64,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v3.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v3.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v3.webp",
+    "dims": [
+     0.04476,
+     0.04476,
+     0.02941
+    ],
+    "tris": 184,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v4.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v4.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v4.webp",
+    "dims": [
+     0.01586,
+     0.01586,
+     0.01966
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v5.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v5.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v5.webp",
+    "dims": [
+     0.02016,
+     0.02016,
+     0.02224
+    ],
+    "tris": 145,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v6.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v6.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v6.webp",
+    "dims": [
+     0.02319,
+     0.02319,
+     0.02253
+    ],
+    "tris": 160,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v7.glb",
+    "fbx": "models/consumables/consumables-junkfood-popcorn/consumables-junkfood-popcorn_v7.fbx",
+    "thumb": "thumbs/consumables-junkfood-popcorn_v7.webp",
+    "dims": [
+     0.01765,
+     0.01174,
+     0.01611
+    ],
+    "tris": 112,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-cheese",
+  "name": "Cheese",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-cheese_v1.webp",
+    "dims": [
+     0.07651,
+     0.07651,
+     0.05891
+    ],
+    "tris": 438,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v2.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v2.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-cheese_v2.webp",
+    "dims": [
+     0.1054,
+     0.1014,
+     0.04534
+    ],
+    "tris": 168,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v3.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v3.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-cheese_v3.webp",
+    "dims": [
+     0.05744,
+     0.05271,
+     0.04534
+    ],
+    "tris": 48,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v4.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-cheese/consumables-meatsdairy-cheese_v4.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-cheese_v4.webp",
+    "dims": [
+     0.06307,
+     0.08677,
+     0.05258
+    ],
+    "tris": 72,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-egg",
+  "name": "Egg",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-egg/consumables-meatsdairy-egg.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-egg/consumables-meatsdairy-egg_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-egg/consumables-meatsdairy-egg_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-egg_v1.webp",
+    "dims": [
+     0.0738,
+     0.102,
+     0.0738
+    ],
+    "tris": 320,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-eggplant",
+  "name": "Eggplant",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-eggplant/consumables-meatsdairy-eggplant.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-eggplant/consumables-meatsdairy-eggplant_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-eggplant/consumables-meatsdairy-eggplant_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-eggplant_v1.webp",
+    "dims": [
+     0.1755,
+     0.06979,
+     0.07564
+    ],
+    "tris": 168,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-friedegg",
+  "name": "FriedEgg",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-friedegg_v1.webp",
+    "dims": [
+     0.1313,
+     0.1431,
+     0.01597
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v2.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v2.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-friedegg_v2.webp",
+    "dims": [
+     0.1287,
+     0.1078,
+     0.01597
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v3.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v3.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-friedegg_v3.webp",
+    "dims": [
+     0.1142,
+     0.1287,
+     0.01597
+    ],
+    "tris": 256,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v4.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-friedegg/consumables-meatsdairy-friedegg_v4.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-friedegg_v4.webp",
+    "dims": [
+     0.1245,
+     0.1322,
+     0.01597
+    ],
+    "tris": 256,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-mincedmeat",
+  "name": "MincedMeat",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-mincedmeat/consumables-meatsdairy-mincedmeat.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-mincedmeat/consumables-meatsdairy-mincedmeat_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-mincedmeat/consumables-meatsdairy-mincedmeat_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-mincedmeat_v1.webp",
+    "dims": [
+     0.1769,
+     0.1301,
+     0.03333
+    ],
+    "tris": 300,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-rackofribs",
+  "name": "RackOfRibs",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-rackofribs/consumables-meatsdairy-rackofribs.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-rackofribs/consumables-meatsdairy-rackofribs_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-rackofribs/consumables-meatsdairy-rackofribs_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-rackofribs_v1.webp",
+    "dims": [
+     0.2066,
+     0.1833,
+     0.02805
+    ],
+    "tris": 848,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-salmonsushi",
+  "name": "SalmonSushi",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-salmonsushi/consumables-meatsdairy-salmonsushi.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-salmonsushi/consumables-meatsdairy-salmonsushi_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-salmonsushi/consumables-meatsdairy-salmonsushi_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-salmonsushi_v1.webp",
+    "dims": [
+     0.04449,
+     0.08436,
+     0.04185
+    ],
+    "tris": 294,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-sliceofbacon",
+  "name": "SliceOfBacon",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-sliceofbacon/consumables-meatsdairy-sliceofbacon.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-sliceofbacon/consumables-meatsdairy-sliceofbacon_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-sliceofbacon/consumables-meatsdairy-sliceofbacon_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-sliceofbacon_v1.webp",
+    "dims": [
+     0.06438,
+     0.2334,
+     0.01684
+    ],
+    "tris": 92,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-meatsdairy-steak",
+  "name": "Steak",
+  "category": "Consumables",
+  "subcategory": "MeatsDairy",
+  "tags": [],
+  "blend": "models/consumables/consumables-meatsdairy-steak/consumables-meatsdairy-steak.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-meatsdairy-steak/consumables-meatsdairy-steak_v1.glb",
+    "fbx": "models/consumables/consumables-meatsdairy-steak/consumables-meatsdairy-steak_v1.fbx",
+    "thumb": "thumbs/consumables-meatsdairy-steak_v1.webp",
+    "dims": [
+     0.134,
+     0.1673,
+     0.01712
+    ],
+    "tris": 244,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-cake",
+  "name": "Cake",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-cake/consumables-sugar-cake.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-cake/consumables-sugar-cake_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-cake/consumables-sugar-cake_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-cake_v1.webp",
+    "dims": [
+     0.4972,
+     0.4972,
+     0.2062
+    ],
+    "tris": 568,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-cookie",
+  "name": "Cookie",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-cookie/consumables-sugar-cookie.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-cookie/consumables-sugar-cookie_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-cookie/consumables-sugar-cookie_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-cookie_v1.webp",
+    "dims": [
+     0.1434,
+     0.145,
+     0.01567
+    ],
+    "tris": 194,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-donut",
+  "name": "Donut",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-donut/consumables-sugar-donut.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-donut/consumables-sugar-donut_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-donut/consumables-sugar-donut_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-donut_v1.webp",
+    "dims": [
+     0.125,
+     0.1232,
+     0.04906
+    ],
+    "tris": 198,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-donut/consumables-sugar-donut_v2.glb",
+    "fbx": "models/consumables/consumables-sugar-donut/consumables-sugar-donut_v2.fbx",
+    "thumb": "thumbs/consumables-sugar-donut_v2.webp",
+    "dims": [
+     0.1108,
+     0.1092,
+     0.04268
+    ],
+    "tris": 126,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-donut/consumables-sugar-donut_v3.glb",
+    "fbx": "models/consumables/consumables-sugar-donut/consumables-sugar-donut_v3.fbx",
+    "thumb": "thumbs/consumables-sugar-donut_v3.webp",
+    "dims": [
+     0.125,
+     0.1251,
+     0.04803
+    ],
+    "tris": 652,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-gummybear",
+  "name": "GummyBear",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-gummybear_v1.webp",
+    "dims": [
+     0.01709,
+     0.03278,
+     0.01326
+    ],
+    "tris": 408,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v2.glb",
+    "fbx": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v2.fbx",
+    "thumb": "thumbs/consumables-sugar-gummybear_v2.webp",
+    "dims": [
+     0.01709,
+     0.03278,
+     0.01326
+    ],
+    "tris": 408,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v3.glb",
+    "fbx": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v3.fbx",
+    "thumb": "thumbs/consumables-sugar-gummybear_v3.webp",
+    "dims": [
+     0.01709,
+     0.03278,
+     0.01326
+    ],
+    "tris": 408,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v4.glb",
+    "fbx": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v4.fbx",
+    "thumb": "thumbs/consumables-sugar-gummybear_v4.webp",
+    "dims": [
+     0.01709,
+     0.03278,
+     0.01326
+    ],
+    "tris": 408,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v5.glb",
+    "fbx": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v5.fbx",
+    "thumb": "thumbs/consumables-sugar-gummybear_v5.webp",
+    "dims": [
+     0.01709,
+     0.03278,
+     0.01326
+    ],
+    "tris": 408,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v6.glb",
+    "fbx": "models/consumables/consumables-sugar-gummybear/consumables-sugar-gummybear_v6.fbx",
+    "thumb": "thumbs/consumables-sugar-gummybear_v6.webp",
+    "dims": [
+     0.01709,
+     0.03278,
+     0.01326
+    ],
+    "tris": 408,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-icecreamcone",
+  "name": "IceCreamCone",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-icecreamcone/consumables-sugar-icecreamcone.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-icecreamcone/consumables-sugar-icecreamcone_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-icecreamcone/consumables-sugar-icecreamcone_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-icecreamcone_v1.webp",
+    "dims": [
+     0.09852,
+     0.09861,
+     0.2456
+    ],
+    "tris": 420,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-icecreamcone/consumables-sugar-icecreamcone_v2.glb",
+    "fbx": "models/consumables/consumables-sugar-icecreamcone/consumables-sugar-icecreamcone_v2.fbx",
+    "thumb": "thumbs/consumables-sugar-icecreamcone_v2.webp",
+    "dims": [
+     0.09852,
+     0.1084,
+     0.2456
+    ],
+    "tris": 448,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-jarofhoney",
+  "name": "JarOfHoney",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-jarofhoney/consumables-sugar-jarofhoney.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-jarofhoney/consumables-sugar-jarofhoney_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-jarofhoney/consumables-sugar-jarofhoney_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-jarofhoney_v1.webp",
+    "dims": [
+     0.1771,
+     0.1801,
+     0.1918
+    ],
+    "tris": 548,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-jellybean",
+  "name": "JellyBean",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-jellybean/consumables-sugar-jellybean.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-jellybean/consumables-sugar-jellybean_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-jellybean/consumables-sugar-jellybean_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-jellybean_v1.webp",
+    "dims": [
+     0.01736,
+     0.03638,
+     0.01824
+    ],
+    "tris": 112,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-lollipop",
+  "name": "Lollipop",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-lollipop_v1.webp",
+    "dims": [
+     0.04475,
+     0.124,
+     0.04603
+    ],
+    "tris": 240,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v2.glb",
+    "fbx": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v2.fbx",
+    "thumb": "thumbs/consumables-sugar-lollipop_v2.webp",
+    "dims": [
+     0.04475,
+     0.1263,
+     0.04905
+    ],
+    "tris": 304,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v3.glb",
+    "fbx": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v3.fbx",
+    "thumb": "thumbs/consumables-sugar-lollipop_v3.webp",
+    "dims": [
+     0.06201,
+     0.1433,
+     0.017
+    ],
+    "tris": 176,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v4.glb",
+    "fbx": "models/consumables/consumables-sugar-lollipop/consumables-sugar-lollipop_v4.fbx",
+    "thumb": "thumbs/consumables-sugar-lollipop_v4.webp",
+    "dims": [
+     0.09525,
+     0.1808,
+     0.009347
+    ],
+    "tris": 501,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-sugar-sliceofcake",
+  "name": "SliceOfCake",
+  "category": "Consumables",
+  "subcategory": "Sugar",
+  "tags": [],
+  "blend": "models/consumables/consumables-sugar-sliceofcake/consumables-sugar-sliceofcake.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-sugar-sliceofcake/consumables-sugar-sliceofcake_v1.glb",
+    "fbx": "models/consumables/consumables-sugar-sliceofcake/consumables-sugar-sliceofcake_v1.fbx",
+    "thumb": "thumbs/consumables-sugar-sliceofcake_v1.webp",
+    "dims": [
+     0.1116,
+     0.1678,
+     0.1485
+    ],
+    "tris": 144,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-brownonion",
+  "name": "BrownOnion",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-brownonion/consumables-vegetables-brownonion.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-brownonion/consumables-vegetables-brownonion_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-brownonion/consumables-vegetables-brownonion_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-brownonion_v1.webp",
+    "dims": [
+     0.08543,
+     0.08413,
+     0.1061
+    ],
+    "tris": 384,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-cabbage",
+  "name": "Cabbage",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-cabbage_v1.webp",
+    "dims": [
+     0.2455,
+     0.2505,
+     0.2124
+    ],
+    "tris": 456,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage_v2.glb",
+    "fbx": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage_v2.fbx",
+    "thumb": "thumbs/consumables-vegetables-cabbage_v2.webp",
+    "dims": [
+     0.2597,
+     0.2633,
+     0.2285
+    ],
+    "tris": 456,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage_v3.glb",
+    "fbx": "models/consumables/consumables-vegetables-cabbage/consumables-vegetables-cabbage_v3.fbx",
+    "thumb": "thumbs/consumables-vegetables-cabbage_v3.webp",
+    "dims": [
+     0.2388,
+     0.2663,
+     0.2015
+    ],
+    "tris": 456,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-corn",
+  "name": "Corn",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-corn/consumables-vegetables-corn.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-corn/consumables-vegetables-corn_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-corn/consumables-vegetables-corn_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-corn_v1.webp",
+    "dims": [
+     0.1917,
+     0.06279,
+     0.06437
+    ],
+    "tris": 984,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-cornonthecob",
+  "name": "CornOnTheCob",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-cornonthecob/consumables-vegetables-cornonthecob.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-cornonthecob/consumables-vegetables-cornonthecob_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-cornonthecob/consumables-vegetables-cornonthecob_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-cornonthecob_v1.webp",
+    "dims": [
+     0.04561,
+     0.1652,
+     0.04561
+    ],
+    "tris": 576,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-cucumber",
+  "name": "Cucumber",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-cucumber/consumables-vegetables-cucumber.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-cucumber/consumables-vegetables-cucumber_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-cucumber/consumables-vegetables-cucumber_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-cucumber_v1.webp",
+    "dims": [
+     0.2218,
+     0.05884,
+     0.05919
+    ],
+    "tris": 512,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-leek",
+  "name": "Leek",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-leek/consumables-vegetables-leek.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-leek/consumables-vegetables-leek_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-leek/consumables-vegetables-leek_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-leek_v1.webp",
+    "dims": [
+     1.003,
+     0.9029,
+     0.2123
+    ],
+    "tris": 82,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-leek/consumables-vegetables-leek_v2.glb",
+    "fbx": "models/consumables/consumables-vegetables-leek/consumables-vegetables-leek_v2.fbx",
+    "thumb": "thumbs/consumables-vegetables-leek_v2.webp",
+    "dims": [
+     0.3357,
+     0.03498,
+     0.0334
+    ],
+    "tris": 72,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-marketstand",
+  "name": "MarketStand",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-marketstand_v1.webp",
+    "dims": [
+     0.5684,
+     0.6749,
+     0.9223
+    ],
+    "tris": 7792,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand_v2.glb",
+    "fbx": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand_v2.fbx",
+    "thumb": "thumbs/consumables-vegetables-marketstand_v2.webp",
+    "dims": [
+     0.5684,
+     0.6749,
+     0.9571
+    ],
+    "tris": 6202,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand_v3.glb",
+    "fbx": "models/consumables/consumables-vegetables-marketstand/consumables-vegetables-marketstand_v3.fbx",
+    "thumb": "thumbs/consumables-vegetables-marketstand_v3.webp",
+    "dims": [
+     0.5684,
+     0.6749,
+     0.9122
+    ],
+    "tris": 3664,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-peanut",
+  "name": "Peanut",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-peanut/consumables-vegetables-peanut.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-peanut/consumables-vegetables-peanut_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-peanut/consumables-vegetables-peanut_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-peanut_v1.webp",
+    "dims": [
+     0.01263,
+     0.02754,
+     0.0108
+    ],
+    "tris": 112,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-peanut/consumables-vegetables-peanut_v2.glb",
+    "fbx": "models/consumables/consumables-vegetables-peanut/consumables-vegetables-peanut_v2.fbx",
+    "thumb": "thumbs/consumables-vegetables-peanut_v2.webp",
+    "dims": [
+     0.01263,
+     0.02754,
+     0.005399
+    ],
+    "tris": 88,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-peanutshell",
+  "name": "PeanutShell",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-peanutshell/consumables-vegetables-peanutshell.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-peanutshell/consumables-vegetables-peanutshell_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-peanutshell/consumables-vegetables-peanutshell_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-peanutshell_v1.webp",
+    "dims": [
+     0.02308,
+     0.05284,
+     0.02268
+    ],
+    "tris": 450,
+    "parts": 1
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-peanutshell/consumables-vegetables-peanutshell_v2.glb",
+    "fbx": "models/consumables/consumables-vegetables-peanutshell/consumables-vegetables-peanutshell_v2.fbx",
+    "thumb": "thumbs/consumables-vegetables-peanutshell_v2.webp",
+    "dims": [
+     0.02308,
+     0.05284,
+     0.01192
+    ],
+    "tris": 454,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-producecrate",
+  "name": "ProduceCrate",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-producecrate_v1.webp",
+    "dims": [
+     0.491,
+     0.4908,
+     0.4913
+    ],
+    "tris": 2764,
+    "parts": 2
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate_v2.glb",
+    "fbx": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate_v2.fbx",
+    "thumb": "thumbs/consumables-vegetables-producecrate_v2.webp",
+    "dims": [
+     0.491,
+     0.4908,
+     0.5284
+    ],
+    "tris": 2764,
+    "parts": 2
+   },
+   {
+    "glb": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate_v3.glb",
+    "fbx": "models/consumables/consumables-vegetables-producecrate/consumables-vegetables-producecrate_v3.fbx",
+    "thumb": "thumbs/consumables-vegetables-producecrate_v3.webp",
+    "dims": [
+     0.491,
+     0.4908,
+     0.4913
+    ],
+    "tris": 2764,
+    "parts": 2
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-pumpkin",
+  "name": "Pumpkin",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-pumpkin/consumables-vegetables-pumpkin.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-pumpkin/consumables-vegetables-pumpkin_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-pumpkin/consumables-vegetables-pumpkin_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-pumpkin_v1.webp",
+    "dims": [
+     0.4818,
+     0.4818,
+     0.467
+    ],
+    "tris": 328,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-spanishonion",
+  "name": "SpanishOnion",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-spanishonion/consumables-vegetables-spanishonion.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-spanishonion/consumables-vegetables-spanishonion_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-spanishonion/consumables-vegetables-spanishonion_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-spanishonion_v1.webp",
+    "dims": [
+     0.08835,
+     0.09116,
+     0.1022
+    ],
+    "tris": 384,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-tomato",
+  "name": "Tomato",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-tomato/consumables-vegetables-tomato.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-tomato/consumables-vegetables-tomato_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-tomato/consumables-vegetables-tomato_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-tomato_v1.webp",
+    "dims": [
+     0.07435,
+     0.07435,
+     0.07238
+    ],
+    "tris": 358,
+    "parts": 1
+   }
+  ]
+ },
+ {
+  "id": "consumables-vegetables-whiteonion",
+  "name": "WhiteOnion",
+  "category": "Consumables",
+  "subcategory": "Vegetables",
+  "tags": [],
+  "blend": "models/consumables/consumables-vegetables-whiteonion/consumables-vegetables-whiteonion.blend",
+  "variants": [
+   {
+    "glb": "models/consumables/consumables-vegetables-whiteonion/consumables-vegetables-whiteonion_v1.glb",
+    "fbx": "models/consumables/consumables-vegetables-whiteonion/consumables-vegetables-whiteonion_v1.fbx",
+    "thumb": "thumbs/consumables-vegetables-whiteonion_v1.webp",
+    "dims": [
+     0.0829,
+     0.08571,
+     0.1061
+    ],
+    "tris": 384,
+    "parts": 1
+   }
+  ]
+ }
+]

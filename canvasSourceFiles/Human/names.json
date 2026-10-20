@@ -1,0 +1,1658 @@
+{
+ "0": {
+  "name": "Coin",
+  "subcategory": "Household Items",
+  "size_m": 0.025
+ },
+ "1": {
+  "name": "Coin",
+  "subcategory": "Household Items",
+  "size_m": 0.025
+ },
+ "2": {
+  "name": "Coin",
+  "subcategory": "Household Items",
+  "size_m": 0.025
+ },
+ "3": {
+  "name": "Coin",
+  "subcategory": "Household Items",
+  "size_m": 0.025
+ },
+ "4": {
+  "name": "Coin",
+  "subcategory": "Household Items",
+  "size_m": 0.025
+ },
+ "5": {
+  "name": "Coin",
+  "subcategory": "Household Items",
+  "size_m": 0.025
+ },
+ "6": {
+  "name": "Stack of Cash",
+  "subcategory": "Household Items",
+  "size_m": 0.16,
+  "aka": "Cash Stack"
+ },
+ "7": {
+  "name": "Money Bag",
+  "subcategory": "Household Items",
+  "size_m": 0.4
+ },
+ "8": {
+  "name": "Retro Laptop",
+  "subcategory": "Electronics",
+  "size_m": 0.35
+ },
+ "9": {
+  "name": "Candlestick Phone",
+  "subcategory": "Electronics",
+  "size_m": 0.3
+ },
+ "10": {
+  "name": "Arcade Machine",
+  "subcategory": "Electronics",
+  "size_m": 1.8
+ },
+ "11": {
+  "name": "Arcade Machine",
+  "subcategory": "Electronics",
+  "size_m": 1.8
+ },
+ "12": {
+  "name": "Arcade Machine",
+  "subcategory": "Electronics",
+  "size_m": 1.8
+ },
+ "13": {
+  "name": "Fax Machine",
+  "subcategory": "Electronics",
+  "size_m": 0.4
+ },
+ "14": {
+  "name": "Old Television",
+  "subcategory": "Electronics",
+  "size_m": 0.6
+ },
+ "15": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "16": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "17": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "18": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "19": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "20": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "21": {
+  "name": "Telephone Handset",
+  "subcategory": "Electronics",
+  "size_m": 0.22
+ },
+ "22": {
+  "name": "Floppy Disk",
+  "subcategory": "Electronics",
+  "size_m": 0.09
+ },
+ "23": {
+  "name": "VHS Tape",
+  "subcategory": "Electronics",
+  "size_m": 0.19
+ },
+ "24": {
+  "name": "Camera",
+  "subcategory": "Electronics",
+  "size_m": 0.14
+ },
+ "25": {
+  "name": "Compact Disc",
+  "subcategory": "Electronics",
+  "size_m": 0.12
+ },
+ "26": {
+  "name": "Smartphone",
+  "subcategory": "Electronics",
+  "size_m": 0.15
+ },
+ "27": {
+  "name": "Smartphone",
+  "subcategory": "Electronics",
+  "size_m": 0.15
+ },
+ "28": {
+  "name": "Battery",
+  "subcategory": "Electronics",
+  "size_m": 0.06
+ },
+ "29": {
+  "name": "Battery",
+  "subcategory": "Electronics",
+  "size_m": 0.06
+ },
+ "30": {
+  "name": "Battery",
+  "subcategory": "Electronics",
+  "size_m": 0.06
+ },
+ "31": {
+  "name": "USB Flash Drive",
+  "subcategory": "Electronics",
+  "size_m": 0.06
+ },
+ "32": {
+  "name": "Hard Drive",
+  "subcategory": "Electronics",
+  "size_m": 0.12
+ },
+ "33": {
+  "name": "Computer Tower",
+  "subcategory": "Electronics",
+  "size_m": 0.45
+ },
+ "34": {
+  "name": "Computer Tower",
+  "subcategory": "Electronics",
+  "size_m": 0.45
+ },
+ "35": {
+  "name": "Computer Tower",
+  "subcategory": "Electronics",
+  "size_m": 0.45
+ },
+ "36": {
+  "name": "Desktop Computer",
+  "subcategory": "Electronics",
+  "size_m": 0.45
+ },
+ "37": {
+  "name": "Desktop Computer",
+  "subcategory": "Electronics",
+  "size_m": 0.45
+ },
+ "38": {
+  "name": "CRT Monitor",
+  "subcategory": "Electronics",
+  "size_m": 0.4
+ },
+ "39": {
+  "name": "Film Camera",
+  "subcategory": "Electronics",
+  "size_m": 1.6
+ },
+ "40": {
+  "name": "Radio",
+  "subcategory": "Electronics",
+  "size_m": 0.3
+ },
+ "41": {
+  "name": "Speaker",
+  "subcategory": "Electronics",
+  "size_m": 0.6
+ },
+ "42": {
+  "name": "Speaker",
+  "subcategory": "Electronics",
+  "size_m": 0.6
+ },
+ "43": {
+  "name": "Speaker",
+  "subcategory": "Electronics",
+  "size_m": 0.6
+ },
+ "44": {
+  "name": "Flat Screen TV",
+  "subcategory": "Electronics",
+  "size_m": 1.0
+ },
+ "45": {
+  "name": "Computer Speaker",
+  "subcategory": "Electronics",
+  "size_m": 0.25
+ },
+ "46": {
+  "name": "Vintage Computer",
+  "subcategory": "Electronics",
+  "size_m": 0.35
+ },
+ "47": {
+  "name": "Drone",
+  "subcategory": "Electronics",
+  "size_m": 0.35
+ },
+ "48": {
+  "name": "Drone Propeller",
+  "subcategory": "Electronics",
+  "size_m": 0.12
+ },
+ "49": {
+  "name": "Drone Propeller",
+  "subcategory": "Electronics",
+  "size_m": 0.12
+ },
+ "50": {
+  "name": "Drone Propeller",
+  "subcategory": "Electronics",
+  "size_m": 0.12
+ },
+ "51": {
+  "name": "Keyboard",
+  "subcategory": "Electronics",
+  "size_m": 0.45
+ },
+ "52": {
+  "name": "Computer Monitor",
+  "subcategory": "Electronics",
+  "size_m": 0.55
+ },
+ "53": {
+  "name": "Laptop",
+  "subcategory": "Electronics",
+  "size_m": 0.35
+ },
+ "54": {
+  "name": "Power Button",
+  "subcategory": "Electronics",
+  "size_m": 0.05
+ },
+ "55": {
+  "name": "Toy Sword",
+  "subcategory": "Toys",
+  "size_m": 1.0,
+  "aka": "Toy Light Sword"
+ },
+ "56": {
+  "name": "Dumbbell",
+  "subcategory": "Sports",
+  "size_m": 0.3
+ },
+ "57": {
+  "name": "Bowling Pin",
+  "subcategory": "Sports",
+  "size_m": 0.38
+ },
+ "58": {
+  "name": "Bowling Ball",
+  "subcategory": "Sports",
+  "size_m": 0.22
+ },
+ "59": {
+  "name": "Barbell",
+  "subcategory": "Sports",
+  "size_m": 2.0
+ },
+ "60": {
+  "name": "Dumbbell",
+  "subcategory": "Sports",
+  "size_m": 0.4
+ },
+ "61": {
+  "name": "Golf Club",
+  "subcategory": "Sports",
+  "size_m": 1.0
+ },
+ "62": {
+  "name": "Golf Club",
+  "subcategory": "Sports",
+  "size_m": 1.0
+ },
+ "63": {
+  "name": "Basketball",
+  "subcategory": "Sports",
+  "size_m": 0.24
+ },
+ "64": {
+  "name": "Fishing Rod",
+  "subcategory": "Sports",
+  "size_m": 2.0
+ },
+ "65": {
+  "name": "Baseball Bat",
+  "subcategory": "Sports",
+  "size_m": 0.85
+ },
+ "66": {
+  "name": "Soccer Ball",
+  "subcategory": "Sports",
+  "size_m": 0.22
+ },
+ "67": {
+  "name": "American Football",
+  "subcategory": "Sports",
+  "size_m": 0.28
+ },
+ "68": {
+  "name": "American Football",
+  "subcategory": "Sports",
+  "size_m": 0.28
+ },
+ "69": {
+  "name": "Frisbee",
+  "subcategory": "Sports",
+  "size_m": 0.27
+ },
+ "70": {
+  "name": "Skateboard",
+  "subcategory": "Sports",
+  "size_m": 0.8
+ },
+ "71": {
+  "name": "Tennis Racket",
+  "subcategory": "Sports",
+  "size_m": 0.68
+ },
+ "72": {
+  "name": "Ski Goggles",
+  "subcategory": "Sports",
+  "size_m": 0.2
+ },
+ "73": {
+  "name": "Ski Pole",
+  "subcategory": "Sports",
+  "size_m": 1.2
+ },
+ "74": {
+  "name": "Ski",
+  "subcategory": "Sports",
+  "size_m": 1.7
+ },
+ "75": {
+  "name": "Foosball Table",
+  "subcategory": "Sports",
+  "size_m": 1.4
+ },
+ "76": {
+  "name": "Pool Table",
+  "subcategory": "Sports",
+  "size_m": 2.7
+ },
+ "77": {
+  "name": "Tennis Ball",
+  "subcategory": "Sports",
+  "size_m": 0.067
+ },
+ "78": {
+  "name": "Baseball",
+  "subcategory": "Sports",
+  "size_m": 0.074
+ },
+ "79": {
+  "name": "Billiard Ball",
+  "subcategory": "Sports",
+  "size_m": 0.057
+ },
+ "80": {
+  "name": "Teddy Bear",
+  "subcategory": "Toys",
+  "size_m": 0.35
+ },
+ "81": {
+  "name": "Ribbon Bow",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "82": {
+  "name": "Paper Airplane",
+  "subcategory": "Toys",
+  "size_m": 0.25
+ },
+ "83": {
+  "name": "Rubber Duck",
+  "subcategory": "Toys",
+  "size_m": 0.1
+ },
+ "84": {
+  "name": "Toy Sailboat",
+  "subcategory": "Toys",
+  "size_m": 0.4
+ },
+ "85": {
+  "name": "Toy Race Car",
+  "subcategory": "Toys",
+  "size_m": 0.3
+ },
+ "86": {
+  "name": "Balloon",
+  "subcategory": "Toys",
+  "size_m": 1.0
+ },
+ "87": {
+  "name": "Toy Brick",
+  "subcategory": "Toys",
+  "size_m": 0.25
+ },
+ "88": {
+  "name": "Toy Brick",
+  "subcategory": "Toys",
+  "size_m": 0.03
+ },
+ "89": {
+  "name": "Toy Brick",
+  "subcategory": "Toys",
+  "size_m": 0.03
+ },
+ "90": {
+  "name": "Toy Brick",
+  "subcategory": "Toys",
+  "size_m": 0.03
+ },
+ "91": {
+  "name": "Toy Brick",
+  "subcategory": "Toys",
+  "size_m": 0.03
+ },
+ "92": {
+  "name": "Toy Brick",
+  "subcategory": "Toys",
+  "size_m": 0.03
+ },
+ "93": {
+  "name": "Puzzle Cube",
+  "subcategory": "Toys",
+  "size_m": 0.057
+ },
+ "94": {
+  "name": "Toy Airplane",
+  "subcategory": "Toys",
+  "size_m": 0.3
+ },
+ "95": {
+  "name": "Dice",
+  "subcategory": "Toys",
+  "size_m": 0.016
+ },
+ "96": {
+  "name": "Foam Block",
+  "subcategory": "Toys",
+  "size_m": 0.3
+ },
+ "97": {
+  "name": "Foam Block",
+  "subcategory": "Toys",
+  "size_m": 0.3
+ },
+ "98": {
+  "name": "Foam Block",
+  "subcategory": "Toys",
+  "size_m": 0.3
+ },
+ "99": {
+  "name": "Pinwheel",
+  "subcategory": "Toys",
+  "size_m": 0.4
+ },
+ "100": {
+  "name": "Pinwheel",
+  "subcategory": "Toys",
+  "size_m": 0.4
+ },
+ "101": {
+  "name": "Pinwheel",
+  "subcategory": "Toys",
+  "size_m": 0.4
+ },
+ "102": {
+  "name": "Playing Card",
+  "subcategory": "Toys",
+  "size_m": 0.089
+ },
+ "103": {
+  "name": "Playing Card",
+  "subcategory": "Toys",
+  "size_m": 0.089
+ },
+ "104": {
+  "name": "Playing Card",
+  "subcategory": "Toys",
+  "size_m": 0.089
+ },
+ "105": {
+  "name": "Playing Card",
+  "subcategory": "Toys",
+  "size_m": 0.089
+ },
+ "106": {
+  "name": "Playing Card",
+  "subcategory": "Toys",
+  "size_m": 0.089
+ },
+ "107": {
+  "name": "Toy Ring",
+  "subcategory": "Toys",
+  "size_m": 0.03
+ },
+ "108": {
+  "name": "Alphabet Block",
+  "subcategory": "Toys",
+  "size_m": 0.05
+ },
+ "109": {
+  "name": "Alphabet Block",
+  "subcategory": "Toys",
+  "size_m": 0.05
+ },
+ "110": {
+  "name": "Alphabet Block",
+  "subcategory": "Toys",
+  "size_m": 0.05
+ },
+ "111": {
+  "name": "Stacking Toy",
+  "subcategory": "Toys",
+  "size_m": 0.2
+ },
+ "112": {
+  "name": "Stacking Toy",
+  "subcategory": "Toys",
+  "size_m": 0.2
+ },
+ "113": {
+  "name": "Stacking Toy",
+  "subcategory": "Toys",
+  "size_m": 0.2
+ },
+ "114": {
+  "name": "Stacking Toy",
+  "subcategory": "Toys",
+  "size_m": 0.2
+ },
+ "115": {
+  "name": "Dice",
+  "subcategory": "Toys",
+  "size_m": 0.016
+ },
+ "116": {
+  "name": "Beach Ball",
+  "subcategory": "Toys",
+  "size_m": 0.4
+ },
+ "117": {
+  "name": "Pill",
+  "subcategory": "Household Items",
+  "size_m": 0.02
+ },
+ "118": {
+  "name": "Pill",
+  "subcategory": "Household Items",
+  "size_m": 0.02
+ },
+ "119": {
+  "name": "Pill Bottle",
+  "subcategory": "Household Items",
+  "size_m": 0.1
+ },
+ "120": {
+  "name": "Microscope",
+  "subcategory": "Tools",
+  "size_m": 0.35
+ },
+ "121": {
+  "name": "Hand Sanitizer",
+  "subcategory": "Household Items",
+  "size_m": 0.2
+ },
+ "122": {
+  "name": "Hands",
+  "subcategory": "Household Items",
+  "size_m": 0.2,
+  "aka": "Washing Hands"
+ },
+ "123": {
+  "name": "Hands",
+  "subcategory": "Household Items",
+  "size_m": 0.2,
+  "aka": "Washing Hands"
+ },
+ "124": {
+  "name": "Hands",
+  "subcategory": "Household Items",
+  "size_m": 0.2,
+  "aka": "Washing Hands"
+ },
+ "125": {
+  "name": "Respirator Mask",
+  "subcategory": "Household Items",
+  "size_m": 0.15
+ },
+ "126": {
+  "name": "Scalpel",
+  "subcategory": "Tools",
+  "size_m": 0.15
+ },
+ "127": {
+  "name": "Scalpel",
+  "subcategory": "Tools",
+  "size_m": 0.15
+ },
+ "128": {
+  "name": "Scalpel",
+  "subcategory": "Tools",
+  "size_m": 0.15
+ },
+ "129": {
+  "name": "Medical Glove",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "130": {
+  "name": "Medical Glove",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "131": {
+  "name": "Syringe",
+  "subcategory": "Tools",
+  "size_m": 0.12
+ },
+ "132": {
+  "name": "Wheelbarrow",
+  "subcategory": "Tools",
+  "size_m": 1.5
+ },
+ "133": {
+  "name": "Anvil",
+  "subcategory": "Tools",
+  "size_m": 0.6
+ },
+ "134": {
+  "name": "Pitchfork",
+  "subcategory": "Tools",
+  "size_m": 1.3
+ },
+ "135": {
+  "name": "Shovel",
+  "subcategory": "Tools",
+  "size_m": 1.0
+ },
+ "136": {
+  "name": "Scythe",
+  "subcategory": "Tools",
+  "size_m": 1.5
+ },
+ "137": {
+  "name": "Pickaxe",
+  "subcategory": "Tools",
+  "size_m": 0.9
+ },
+ "138": {
+  "name": "Axe",
+  "subcategory": "Tools",
+  "size_m": 0.7
+ },
+ "139": {
+  "name": "Crowbar",
+  "subcategory": "Tools",
+  "size_m": 0.75
+ },
+ "140": {
+  "name": "Steel Beam",
+  "subcategory": "Tools",
+  "size_m": 3.0
+ },
+ "141": {
+  "name": "Umbrella",
+  "subcategory": "Household Items",
+  "size_m": 1.0
+ },
+ "142": {
+  "name": "Umbrella",
+  "subcategory": "Household Items",
+  "size_m": 1.0
+ },
+ "143": {
+  "name": "Parasol",
+  "subcategory": "Household Items",
+  "size_m": 0.9
+ },
+ "144": {
+  "name": "Wooden Bucket",
+  "subcategory": "Containers",
+  "size_m": 0.35
+ },
+ "145": {
+  "name": "Dynamite",
+  "subcategory": "Tools",
+  "size_m": 0.2
+ },
+ "146": {
+  "name": "Nail Clipper",
+  "subcategory": "Household Items",
+  "size_m": 0.08
+ },
+ "147": {
+  "name": "Pocket Knife",
+  "subcategory": "Tools",
+  "size_m": 0.1
+ },
+ "148": {
+  "name": "Car Key",
+  "subcategory": "Household Items",
+  "size_m": 0.08
+ },
+ "149": {
+  "name": "Key",
+  "subcategory": "Household Items",
+  "size_m": 0.06
+ },
+ "150": {
+  "name": "Skeleton Key",
+  "subcategory": "Household Items",
+  "size_m": 0.1
+ },
+ "151": {
+  "name": "Skeleton Key",
+  "subcategory": "Household Items",
+  "size_m": 0.1
+ },
+ "152": {
+  "name": "Skeleton Key",
+  "subcategory": "Household Items",
+  "size_m": 0.1
+ },
+ "153": {
+  "name": "Bobby Pin",
+  "subcategory": "Clothing",
+  "size_m": 0.05
+ },
+ "154": {
+  "name": "Padlock",
+  "subcategory": "Household Items",
+  "size_m": 0.08
+ },
+ "155": {
+  "name": "Sewing Pin",
+  "subcategory": "Household Items",
+  "size_m": 0.04
+ },
+ "156": {
+  "name": "Thumbtack",
+  "subcategory": "Household Items",
+  "size_m": 0.02
+ },
+ "157": {
+  "name": "Paper Clip",
+  "subcategory": "Household Items",
+  "size_m": 0.03
+ },
+ "158": {
+  "name": "Magnifying Glass",
+  "subcategory": "Tools",
+  "size_m": 0.2
+ },
+ "159": {
+  "name": "Pencil",
+  "subcategory": "Household Items",
+  "size_m": 0.19
+ },
+ "160": {
+  "name": "Ice Axe",
+  "subcategory": "Tools",
+  "size_m": 0.6
+ },
+ "161": {
+  "name": "Wrench",
+  "subcategory": "Tools",
+  "size_m": 0.2
+ },
+ "162": {
+  "name": "Wrench",
+  "subcategory": "Tools",
+  "size_m": 0.2
+ },
+ "163": {
+  "name": "Wrench",
+  "subcategory": "Tools",
+  "size_m": 0.2
+ },
+ "164": {
+  "name": "Toothbrush",
+  "subcategory": "Household Items",
+  "size_m": 0.19
+ },
+ "165": {
+  "name": "Table Knife",
+  "subcategory": "Household Items",
+  "size_m": 0.22
+ },
+ "166": {
+  "name": "Fork",
+  "subcategory": "Household Items",
+  "size_m": 0.2
+ },
+ "167": {
+  "name": "Wooden Spoon",
+  "subcategory": "Household Items",
+  "size_m": 0.3
+ },
+ "168": {
+  "name": "Scrub Brush",
+  "subcategory": "Household Items",
+  "size_m": 0.2
+ },
+ "169": {
+  "name": "Dustpan",
+  "subcategory": "Household Items",
+  "size_m": 0.3
+ },
+ "170": {
+  "name": "Coffin",
+  "subcategory": "Containers",
+  "size_m": 2.0
+ },
+ "171": {
+  "name": "Bucket",
+  "subcategory": "Household Items",
+  "size_m": 0.3
+ },
+ "172": {
+  "name": "Lipstick",
+  "subcategory": "Household Items",
+  "size_m": 0.08
+ },
+ "173": {
+  "name": "Soap Bar",
+  "subcategory": "Household Items",
+  "size_m": 0.09
+ },
+ "174": {
+  "name": "Binoculars",
+  "subcategory": "Tools",
+  "size_m": 0.15
+ },
+ "175": {
+  "name": "Broom",
+  "subcategory": "Household Items",
+  "size_m": 1.4
+ },
+ "176": {
+  "name": "Hammer",
+  "subcategory": "Tools",
+  "size_m": 0.33
+ },
+ "177": {
+  "name": "Push Broom",
+  "subcategory": "Household Items",
+  "size_m": 1.5
+ },
+ "178": {
+  "name": "Telescope",
+  "subcategory": "Tools",
+  "size_m": 1.5
+ },
+ "179": {
+  "name": "Fire Extinguisher",
+  "subcategory": "Household Items",
+  "size_m": 0.6
+ },
+ "180": {
+  "name": "Kitchen Knife",
+  "subcategory": "Household Items",
+  "size_m": 0.3
+ },
+ "181": {
+  "name": "Match",
+  "subcategory": "Household Items",
+  "size_m": 0.05
+ },
+ "182": {
+  "name": "Match",
+  "subcategory": "Household Items",
+  "size_m": 0.05
+ },
+ "183": {
+  "name": "Match",
+  "subcategory": "Household Items",
+  "size_m": 0.05
+ },
+ "184": {
+  "name": "Match",
+  "subcategory": "Household Items",
+  "size_m": 0.05
+ },
+ "185": {
+  "name": "Lighter",
+  "subcategory": "Household Items",
+  "size_m": 0.08
+ },
+ "186": {
+  "name": "Toilet Paper",
+  "subcategory": "Household Items",
+  "size_m": 0.12
+ },
+ "187": {
+  "name": "Arrow",
+  "subcategory": "Tools",
+  "size_m": 0.75
+ },
+ "188": {
+  "name": "Spear",
+  "subcategory": "Tools",
+  "size_m": 2.0
+ },
+ "189": {
+  "name": "Sword",
+  "subcategory": "Tools",
+  "size_m": 1.0
+ },
+ "190": {
+  "name": "Bear Trap",
+  "subcategory": "Tools",
+  "size_m": 0.4
+ },
+ "191": {
+  "name": "Rifle",
+  "subcategory": "Tools",
+  "size_m": 1.1
+ },
+ "192": {
+  "name": "Arrowhead",
+  "subcategory": "Tools",
+  "size_m": 0.06
+ },
+ "193": {
+  "name": "Arrowhead",
+  "subcategory": "Tools",
+  "size_m": 0.06
+ },
+ "194": {
+  "name": "Pistol",
+  "subcategory": "Tools",
+  "size_m": 0.2
+ },
+ "195": {
+  "name": "Lever",
+  "subcategory": "Tools",
+  "size_m": 0.3
+ },
+ "196": {
+  "name": "Cannonball",
+  "subcategory": "Tools",
+  "size_m": 0.15
+ },
+ "197": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "198": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "199": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "200": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "201": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "202": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "203": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "204": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "205": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "206": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "207": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "208": {
+  "name": "Book",
+  "subcategory": "Household Items",
+  "size_m": 0.25
+ },
+ "209": {
+  "name": "Banjo",
+  "subcategory": "Music",
+  "size_m": 0.95
+ },
+ "210": {
+  "name": "Taiko Drum",
+  "subcategory": "Music",
+  "size_m": 0.7
+ },
+ "211": {
+  "name": "Conga Drum",
+  "subcategory": "Music",
+  "size_m": 0.75
+ },
+ "212": {
+  "name": "Djembe",
+  "subcategory": "Music",
+  "size_m": 0.6
+ },
+ "213": {
+  "name": "Bongo Drums",
+  "subcategory": "Music",
+  "size_m": 0.4
+ },
+ "214": {
+  "name": "Gramophone",
+  "subcategory": "Music",
+  "size_m": 0.4
+ },
+ "215": {
+  "name": "Gramophone Horn",
+  "subcategory": "Music",
+  "size_m": 0.5
+ },
+ "216": {
+  "name": "Violin",
+  "subcategory": "Music",
+  "size_m": 0.6
+ },
+ "217": {
+  "name": "French Horn",
+  "subcategory": "Music",
+  "size_m": 0.5
+ },
+ "218": {
+  "name": "Harp",
+  "subcategory": "Music",
+  "size_m": 1.7
+ },
+ "219": {
+  "name": "Upright Piano",
+  "subcategory": "Music",
+  "size_m": 1.5
+ },
+ "220": {
+  "name": "Trombone",
+  "subcategory": "Music",
+  "size_m": 1.2
+ },
+ "221": {
+  "name": "Trumpet",
+  "subcategory": "Music",
+  "size_m": 0.5
+ },
+ "222": {
+  "name": "Saxophone",
+  "subcategory": "Music",
+  "size_m": 0.8
+ },
+ "223": {
+  "name": "Violin",
+  "subcategory": "Music",
+  "size_m": 0.6
+ },
+ "224": {
+  "name": "Violin",
+  "subcategory": "Music",
+  "size_m": 0.6
+ },
+ "225": {
+  "name": "Grand Piano",
+  "subcategory": "Music",
+  "size_m": 2.0
+ },
+ "226": {
+  "name": "Electric Guitar",
+  "subcategory": "Music",
+  "size_m": 1.0
+ },
+ "227": {
+  "name": "Electric Guitar",
+  "subcategory": "Music",
+  "size_m": 1.0
+ },
+ "228": {
+  "name": "Turntable",
+  "subcategory": "Music",
+  "size_m": 0.45
+ },
+ "229": {
+  "name": "Snare Drum",
+  "subcategory": "Music",
+  "size_m": 0.9
+ },
+ "230": {
+  "name": "Drum Kit",
+  "subcategory": "Music",
+  "size_m": 1.2
+ },
+ "231": {
+  "name": "Snare Drum",
+  "subcategory": "Music",
+  "size_m": 0.9
+ },
+ "232": {
+  "name": "Floor Tom",
+  "subcategory": "Music",
+  "size_m": 0.6
+ },
+ "233": {
+  "name": "Cymbal",
+  "subcategory": "Music",
+  "size_m": 1.2
+ },
+ "234": {
+  "name": "Cymbal",
+  "subcategory": "Music",
+  "size_m": 1.2
+ },
+ "235": {
+  "name": "Hand Bell",
+  "subcategory": "Music",
+  "size_m": 0.2
+ },
+ "236": {
+  "name": "Guitar Pick",
+  "subcategory": "Music",
+  "size_m": 0.03
+ },
+ "237": {
+  "name": "Music Box Cylinder",
+  "subcategory": "Music",
+  "size_m": 0.1
+ },
+ "238": {
+  "name": "Music Box Crank",
+  "subcategory": "Music",
+  "size_m": 0.08
+ },
+ "239": {
+  "name": "Music Box",
+  "subcategory": "Music",
+  "size_m": 0.12
+ },
+ "240": {
+  "name": "Air Horn",
+  "subcategory": "Music",
+  "size_m": 0.25
+ },
+ "241": {
+  "name": "Underwear",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "242": {
+  "name": "Bra",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "243": {
+  "name": "Pants",
+  "subcategory": "Clothing",
+  "size_m": 1.0
+ },
+ "244": {
+  "name": "Dress",
+  "subcategory": "Clothing",
+  "size_m": 1.2
+ },
+ "245": {
+  "name": "Necktie",
+  "subcategory": "Clothing",
+  "size_m": 0.5
+ },
+ "246": {
+  "name": "Shirt",
+  "subcategory": "Clothing",
+  "size_m": 0.7
+ },
+ "247": {
+  "name": "Shirt",
+  "subcategory": "Clothing",
+  "size_m": 0.7
+ },
+ "248": {
+  "name": "Bowler Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "249": {
+  "name": "Beret",
+  "subcategory": "Clothing",
+  "size_m": 0.25
+ },
+ "250": {
+  "name": "Hard Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "251": {
+  "name": "Panama Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.35
+ },
+ "252": {
+  "name": "Boater Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.33
+ },
+ "253": {
+  "name": "Graduation Cap",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "254": {
+  "name": "Headband",
+  "subcategory": "Clothing",
+  "size_m": 0.2
+ },
+ "255": {
+  "name": "Sun Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.4
+ },
+ "256": {
+  "name": "Top Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "257": {
+  "name": "Crown",
+  "subcategory": "Clothing",
+  "size_m": 0.2
+ },
+ "258": {
+  "name": "Fez",
+  "subcategory": "Clothing",
+  "size_m": 0.2
+ },
+ "259": {
+  "name": "Skullcap",
+  "subcategory": "Clothing",
+  "size_m": 0.2,
+  "aka": "Kufi Cap"
+ },
+ "260": {
+  "name": "Trapper Hat",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "261": {
+  "name": "Mining Helmet",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "262": {
+  "name": "Flip Flop",
+  "subcategory": "Clothing",
+  "size_m": 0.27
+ },
+ "263": {
+  "name": "Loafer",
+  "subcategory": "Clothing",
+  "size_m": 0.28
+ },
+ "264": {
+  "name": "High Heel",
+  "subcategory": "Clothing",
+  "size_m": 0.25
+ },
+ "265": {
+  "name": "Two-Tone Shoe",
+  "subcategory": "Clothing",
+  "size_m": 0.28
+ },
+ "266": {
+  "name": "Dress Shoe",
+  "subcategory": "Clothing",
+  "size_m": 0.29
+ },
+ "267": {
+  "name": "Dress Shoe",
+  "subcategory": "Clothing",
+  "size_m": 0.29
+ },
+ "268": {
+  "name": "Winter Boot",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "269": {
+  "name": "Knee-High Boot",
+  "subcategory": "Clothing",
+  "size_m": 0.5
+ },
+ "270": {
+  "name": "Heeled Sandal",
+  "subcategory": "Clothing",
+  "size_m": 0.25
+ },
+ "271": {
+  "name": "Ankle Boot",
+  "subcategory": "Clothing",
+  "size_m": 0.25
+ },
+ "272": {
+  "name": "Cowboy Boot",
+  "subcategory": "Clothing",
+  "size_m": 0.4
+ },
+ "273": {
+  "name": "Cowboy Boot",
+  "subcategory": "Clothing",
+  "size_m": 0.4
+ },
+ "274": {
+  "name": "Pearl Earring",
+  "subcategory": "Clothing",
+  "size_m": 0.03
+ },
+ "275": {
+  "name": "Ring",
+  "subcategory": "Clothing",
+  "size_m": 0.02
+ },
+ "276": {
+  "name": "Ring",
+  "subcategory": "Clothing",
+  "size_m": 0.02
+ },
+ "277": {
+  "name": "Bracelet",
+  "subcategory": "Clothing",
+  "size_m": 0.07
+ },
+ "278": {
+  "name": "Bracelet",
+  "subcategory": "Clothing",
+  "size_m": 0.07
+ },
+ "279": {
+  "name": "Clutch Purse",
+  "subcategory": "Clothing",
+  "size_m": 0.3
+ },
+ "280": {
+  "name": "Cardboard Box",
+  "subcategory": "Containers",
+  "size_m": 0.5
+ },
+ "281": {
+  "name": "Cardboard Box",
+  "subcategory": "Containers",
+  "size_m": 0.5
+ },
+ "282": {
+  "name": "Oil Drum",
+  "subcategory": "Containers",
+  "size_m": 0.9
+ },
+ "283": {
+  "name": "Plastic Barrel",
+  "subcategory": "Containers",
+  "size_m": 0.9
+ },
+ "284": {
+  "name": "Storage Box",
+  "subcategory": "Containers",
+  "size_m": 0.5
+ },
+ "285": {
+  "name": "Storage Box",
+  "subcategory": "Containers",
+  "size_m": 0.5
+ },
+ "286": {
+  "name": "Shoe Box",
+  "subcategory": "Containers",
+  "size_m": 0.35
+ },
+ "287": {
+  "name": "Binder",
+  "subcategory": "Household Items",
+  "size_m": 0.3
+ },
+ "288": {
+  "name": "Treasure Chest",
+  "subcategory": "Containers",
+  "size_m": 0.6
+ },
+ "289": {
+  "name": "Wooden Crate",
+  "subcategory": "Containers",
+  "size_m": 0.6
+ },
+ "290": {
+  "name": "Wooden Crate",
+  "subcategory": "Containers",
+  "size_m": 0.6
+ },
+ "291": {
+  "name": "Wooden Crate",
+  "subcategory": "Containers",
+  "size_m": 0.6
+ },
+ "292": {
+  "name": "Wooden Barrel",
+  "subcategory": "Containers",
+  "size_m": 0.9
+ },
+ "293": {
+  "name": "Sack",
+  "subcategory": "Containers",
+  "size_m": 0.6
+ },
+ "294": {
+  "name": "Cooler",
+  "subcategory": "Containers",
+  "size_m": 0.5
+ },
+ "295": {
+  "name": "Message Bottle",
+  "subcategory": "Containers",
+  "size_m": 0.3
+ },
+ "296": {
+  "name": "Glass Bottle",
+  "subcategory": "Containers",
+  "size_m": 0.15
+ },
+ "297": {
+  "name": "Glass Bottle",
+  "subcategory": "Containers",
+  "size_m": 0.15
+ },
+ "298": {
+  "name": "Glass Bottle",
+  "subcategory": "Containers",
+  "size_m": 0.15
+ },
+ "299": {
+  "name": "Glass Bottle",
+  "subcategory": "Containers",
+  "size_m": 0.15
+ },
+ "300": {
+  "name": "Shopping Basket",
+  "subcategory": "Containers",
+  "size_m": 0.45
+ },
+ "301": {
+  "name": "Shopping Basket",
+  "subcategory": "Containers",
+  "size_m": 0.45
+ },
+ "302": {
+  "name": "Shopping Basket",
+  "subcategory": "Containers",
+  "size_m": 0.45
+ },
+ "303": {
+  "name": "Coffin",
+  "subcategory": "Containers",
+  "size_m": 2.0
+ },
+ "304": {
+  "name": "Coffin",
+  "subcategory": "Containers",
+  "size_m": 2.0
+ },
+ "305": {
+  "name": "Coffin",
+  "subcategory": "Containers",
+  "size_m": 2.0
+ },
+ "306": {
+  "name": "Coffin",
+  "subcategory": "Containers",
+  "size_m": 2.0
+ },
+ "307": {
+  "name": "Cell Antenna",
+  "subcategory": "Electronics",
+  "size_m": 3.0
+ },
+ "308": {
+  "name": "TV Antenna",
+  "subcategory": "Electronics",
+  "size_m": 2.0
+ },
+ "309": {
+  "name": "TV Antenna",
+  "subcategory": "Electronics",
+  "size_m": 2.0
+ },
+ "310": {
+  "name": "Cell Tower",
+  "subcategory": "Electronics",
+  "size_m": 30.0
+ },
+ "311": {
+  "name": "Cell Tower",
+  "subcategory": "Electronics",
+  "size_m": 30.0
+ },
+ "312": {
+  "name": "Antenna Mast",
+  "subcategory": "Electronics",
+  "size_m": 10.0
+ },
+ "313": {
+  "name": "Antenna Mast",
+  "subcategory": "Electronics",
+  "size_m": 10.0
+ },
+ "314": {
+  "name": "Antenna Mast",
+  "subcategory": "Electronics",
+  "size_m": 10.0
+ },
+ "315": {
+  "name": "Satellite Dish",
+  "subcategory": "Electronics",
+  "size_m": 0.8
+ },
+ "316": {
+  "name": "Cell Antenna",
+  "subcategory": "Electronics",
+  "size_m": 3.0
+ },
+ "317": {
+  "name": "Tricycle",
+  "subcategory": "Toys",
+  "size_m": 0.7
+ },
+ "318": {
+  "name": "Gift Box",
+  "subcategory": "Containers",
+  "size_m": 0.3
+ },
+ "319": {
+  "name": "Ankle Boot",
+  "subcategory": "Clothing",
+  "size_m": 0.25
+ },
+ "320": {
+  "name": "Glasses",
+  "subcategory": "Clothing",
+  "size_m": 0.14
+ },
+ "321": {
+  "name": "Bracelet",
+  "subcategory": "Clothing",
+  "size_m": 0.07
+ },
+ "322": {
+  "name": "Baseball Cap",
+  "subcategory": "Clothing",
+  "size_m": 0.25
+ },
+ "323": {
+  "name": "Coin Purse",
+  "subcategory": "Clothing",
+  "size_m": 0.15
+ },
+ "324": {
+  "name": "Briefcase",
+  "subcategory": "Clothing",
+  "size_m": 0.45
+ },
+ "325": {
+  "name": "Backpack",
+  "subcategory": "Clothing",
+  "size_m": 0.45
+ },
+ "326": {
+  "name": "Handbag",
+  "subcategory": "Clothing",
+  "size_m": 0.35
+ },
+ "327": {
+  "name": "Wooden Bucket",
+  "subcategory": "Containers",
+  "size_m": 0.4
+ },
+ "328": {
+  "name": "Glass Bottle",
+  "subcategory": "Containers",
+  "size_m": 0.2
+ },
+ "329": {
+  "name": "Transmission Tower",
+  "subcategory": "Electronics",
+  "size_m": 100.0
+ }
+}

@@ -1,0 +1,7581 @@
+[
+ {
+  "id": "human-household-items-coin",
+  "name": "Coin",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-coin/human-household-items-coin.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-coin/human-household-items-coin_v1.glb",
+    "fbx": "models/human/human-household-items-coin/human-household-items-coin_v1.fbx",
+    "thumb": "thumbs/human-household-items-coin_v1.webp",
+    "dims": [
+     0.025,
+     0.025,
+     0.002052
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-coin/human-household-items-coin_v2.glb",
+    "fbx": "models/human/human-household-items-coin/human-household-items-coin_v2.fbx",
+    "thumb": "thumbs/human-household-items-coin_v2.webp",
+    "dims": [
+     0.025,
+     0.025,
+     0.001528
+    ],
+    "tris": 743,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-coin/human-household-items-coin_v3.glb",
+    "fbx": "models/human/human-household-items-coin/human-household-items-coin_v3.fbx",
+    "thumb": "thumbs/human-household-items-coin_v3.webp",
+    "dims": [
+     0.025,
+     0.025,
+     0.001527
+    ],
+    "tris": 704,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-coin/human-household-items-coin_v4.glb",
+    "fbx": "models/human/human-household-items-coin/human-household-items-coin_v4.fbx",
+    "thumb": "thumbs/human-household-items-coin_v4.webp",
+    "dims": [
+     0.025,
+     0.025,
+     0.001528
+    ],
+    "tris": 692,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-coin/human-household-items-coin_v5.glb",
+    "fbx": "models/human/human-household-items-coin/human-household-items-coin_v5.fbx",
+    "thumb": "thumbs/human-household-items-coin_v5.webp",
+    "dims": [
+     0.025,
+     0.025,
+     0.001528
+    ],
+    "tris": 680,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-coin/human-household-items-coin_v6.glb",
+    "fbx": "models/human/human-household-items-coin/human-household-items-coin_v6.fbx",
+    "thumb": "thumbs/human-household-items-coin_v6.webp",
+    "dims": [
+     0.025,
+     0.025,
+     0.001528
+    ],
+    "tris": 652,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "0.glb",
+   "1.glb",
+   "2.glb",
+   "3.glb",
+   "4.glb",
+   "5.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-stack-of-cash",
+  "name": "Stack of Cash",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [
+   "Cash Stack"
+  ],
+  "blend": "models/human/human-household-items-stack-of-cash/human-household-items-stack-of-cash.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-stack-of-cash/human-household-items-stack-of-cash_v1.glb",
+    "fbx": "models/human/human-household-items-stack-of-cash/human-household-items-stack-of-cash_v1.fbx",
+    "thumb": "thumbs/human-household-items-stack-of-cash_v1.webp",
+    "dims": [
+     0.08332,
+     0.16,
+     0.05431
+    ],
+    "tris": 28,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "6.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-money-bag",
+  "name": "Money Bag",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-money-bag/human-household-items-money-bag.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-money-bag/human-household-items-money-bag_v1.glb",
+    "fbx": "models/human/human-household-items-money-bag/human-household-items-money-bag_v1.fbx",
+    "thumb": "thumbs/human-household-items-money-bag_v1.webp",
+    "dims": [
+     0.358,
+     0.3364,
+     0.4
+    ],
+    "tris": 478,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "7.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-retro-laptop",
+  "name": "Retro Laptop",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-retro-laptop/human-electronics-retro-laptop.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-retro-laptop/human-electronics-retro-laptop_v1.glb",
+    "fbx": "models/human/human-electronics-retro-laptop/human-electronics-retro-laptop_v1.fbx",
+    "thumb": "thumbs/human-electronics-retro-laptop_v1.webp",
+    "dims": [
+     0.35,
+     0.349,
+     0.2942
+    ],
+    "tris": 1062,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "8.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-candlestick-phone",
+  "name": "Candlestick Phone",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-candlestick-phone/human-electronics-candlestick-phone.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-candlestick-phone/human-electronics-candlestick-phone_v1.glb",
+    "fbx": "models/human/human-electronics-candlestick-phone/human-electronics-candlestick-phone_v1.fbx",
+    "thumb": "thumbs/human-electronics-candlestick-phone_v1.webp",
+    "dims": [
+     0.1575,
+     0.1761,
+     0.3
+    ],
+    "tris": 1670,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "9.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-arcade-machine",
+  "name": "Arcade Machine",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine_v1.glb",
+    "fbx": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine_v1.fbx",
+    "thumb": "thumbs/human-electronics-arcade-machine_v1.webp",
+    "dims": [
+     0.6092,
+     0.8587,
+     1.8
+    ],
+    "tris": 980,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine_v2.glb",
+    "fbx": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine_v2.fbx",
+    "thumb": "thumbs/human-electronics-arcade-machine_v2.webp",
+    "dims": [
+     0.7665,
+     1.126,
+     1.8
+    ],
+    "tris": 1028,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine_v3.glb",
+    "fbx": "models/human/human-electronics-arcade-machine/human-electronics-arcade-machine_v3.fbx",
+    "thumb": "thumbs/human-electronics-arcade-machine_v3.webp",
+    "dims": [
+     0.7324,
+     0.9007,
+     1.8
+    ],
+    "tris": 1224,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "10.glb",
+   "11.glb",
+   "12.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-fax-machine",
+  "name": "Fax Machine",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-fax-machine/human-electronics-fax-machine.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-fax-machine/human-electronics-fax-machine_v1.glb",
+    "fbx": "models/human/human-electronics-fax-machine/human-electronics-fax-machine_v1.fbx",
+    "thumb": "thumbs/human-electronics-fax-machine_v1.webp",
+    "dims": [
+     0.3934,
+     0.4,
+     0.2648
+    ],
+    "tris": 1163,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "13.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-old-television",
+  "name": "Old Television",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-old-television/human-electronics-old-television.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-old-television/human-electronics-old-television_v1.glb",
+    "fbx": "models/human/human-electronics-old-television/human-electronics-old-television_v1.fbx",
+    "thumb": "thumbs/human-electronics-old-television_v1.webp",
+    "dims": [
+     0.6,
+     0.3428,
+     0.5426
+    ],
+    "tris": 476,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "14.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-telephone-handset",
+  "name": "Telephone Handset",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v1.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v1.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v1.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v2.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v2.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v2.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v3.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v3.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v3.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v4.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v4.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v4.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v5.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v5.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v5.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v6.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v6.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v6.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v7.glb",
+    "fbx": "models/human/human-electronics-telephone-handset/human-electronics-telephone-handset_v7.fbx",
+    "thumb": "thumbs/human-electronics-telephone-handset_v7.webp",
+    "dims": [
+     0.0603,
+     0.22,
+     0.06701
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "15.glb",
+   "16.glb",
+   "17.glb",
+   "18.glb",
+   "19.glb",
+   "20.glb",
+   "21.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-floppy-disk",
+  "name": "Floppy Disk",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-floppy-disk/human-electronics-floppy-disk.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-floppy-disk/human-electronics-floppy-disk_v1.glb",
+    "fbx": "models/human/human-electronics-floppy-disk/human-electronics-floppy-disk_v1.fbx",
+    "thumb": "thumbs/human-electronics-floppy-disk_v1.webp",
+    "dims": [
+     0.08668,
+     0.09,
+     0.003707
+    ],
+    "tris": 416,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "22.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-vhs-tape",
+  "name": "VHS Tape",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-vhs-tape/human-electronics-vhs-tape.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-vhs-tape/human-electronics-vhs-tape_v1.glb",
+    "fbx": "models/human/human-electronics-vhs-tape/human-electronics-vhs-tape_v1.fbx",
+    "thumb": "thumbs/human-electronics-vhs-tape_v1.webp",
+    "dims": [
+     0.19,
+     0.09938,
+     0.01997
+    ],
+    "tris": 804,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "23.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-camera",
+  "name": "Camera",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-camera/human-electronics-camera.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-camera/human-electronics-camera_v1.glb",
+    "fbx": "models/human/human-electronics-camera/human-electronics-camera_v1.fbx",
+    "thumb": "thumbs/human-electronics-camera_v1.webp",
+    "dims": [
+     0.14,
+     0.09367,
+     0.1012
+    ],
+    "tris": 400,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "24.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-compact-disc",
+  "name": "Compact Disc",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-compact-disc/human-electronics-compact-disc.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-compact-disc/human-electronics-compact-disc_v1.glb",
+    "fbx": "models/human/human-electronics-compact-disc/human-electronics-compact-disc_v1.fbx",
+    "thumb": "thumbs/human-electronics-compact-disc_v1.webp",
+    "dims": [
+     0.12,
+     0.12,
+     0.002458
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "25.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-smartphone",
+  "name": "Smartphone",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-smartphone/human-electronics-smartphone.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-smartphone/human-electronics-smartphone_v1.glb",
+    "fbx": "models/human/human-electronics-smartphone/human-electronics-smartphone_v1.fbx",
+    "thumb": "thumbs/human-electronics-smartphone_v1.webp",
+    "dims": [
+     0.0734,
+     0.15,
+     0.005215
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-smartphone/human-electronics-smartphone_v2.glb",
+    "fbx": "models/human/human-electronics-smartphone/human-electronics-smartphone_v2.fbx",
+    "thumb": "thumbs/human-electronics-smartphone_v2.webp",
+    "dims": [
+     0.0734,
+     0.15,
+     0.005215
+    ],
+    "tris": 764,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "26.glb",
+   "27.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-battery",
+  "name": "Battery",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-battery/human-electronics-battery.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-battery/human-electronics-battery_v1.glb",
+    "fbx": "models/human/human-electronics-battery/human-electronics-battery_v1.fbx",
+    "thumb": "thumbs/human-electronics-battery_v1.webp",
+    "dims": [
+     0.03135,
+     0.03135,
+     0.06
+    ],
+    "tris": 352,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-battery/human-electronics-battery_v2.glb",
+    "fbx": "models/human/human-electronics-battery/human-electronics-battery_v2.fbx",
+    "thumb": "thumbs/human-electronics-battery_v2.webp",
+    "dims": [
+     0.05127,
+     0.05127,
+     0.06
+    ],
+    "tris": 352,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-battery/human-electronics-battery_v3.glb",
+    "fbx": "models/human/human-electronics-battery/human-electronics-battery_v3.fbx",
+    "thumb": "thumbs/human-electronics-battery_v3.webp",
+    "dims": [
+     0.01678,
+     0.01678,
+     0.06
+    ],
+    "tris": 352,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "28.glb",
+   "29.glb",
+   "30.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-usb-flash-drive",
+  "name": "USB Flash Drive",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-usb-flash-drive/human-electronics-usb-flash-drive.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-usb-flash-drive/human-electronics-usb-flash-drive_v1.glb",
+    "fbx": "models/human/human-electronics-usb-flash-drive/human-electronics-usb-flash-drive_v1.fbx",
+    "thumb": "thumbs/human-electronics-usb-flash-drive_v1.webp",
+    "dims": [
+     0.01678,
+     0.06,
+     0.005976
+    ],
+    "tris": 531,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "31.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-hard-drive",
+  "name": "Hard Drive",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-hard-drive/human-electronics-hard-drive.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-hard-drive/human-electronics-hard-drive_v1.glb",
+    "fbx": "models/human/human-electronics-hard-drive/human-electronics-hard-drive_v1.fbx",
+    "thumb": "thumbs/human-electronics-hard-drive_v1.webp",
+    "dims": [
+     0.12,
+     0.06787,
+     0.01802
+    ],
+    "tris": 92,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "32.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-computer-tower",
+  "name": "Computer Tower",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-computer-tower/human-electronics-computer-tower.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-computer-tower/human-electronics-computer-tower_v1.glb",
+    "fbx": "models/human/human-electronics-computer-tower/human-electronics-computer-tower_v1.fbx",
+    "thumb": "thumbs/human-electronics-computer-tower_v1.webp",
+    "dims": [
+     0.1743,
+     0.3672,
+     0.45
+    ],
+    "tris": 124,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-computer-tower/human-electronics-computer-tower_v2.glb",
+    "fbx": "models/human/human-electronics-computer-tower/human-electronics-computer-tower_v2.fbx",
+    "thumb": "thumbs/human-electronics-computer-tower_v2.webp",
+    "dims": [
+     0.1743,
+     0.3663,
+     0.45
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-computer-tower/human-electronics-computer-tower_v3.glb",
+    "fbx": "models/human/human-electronics-computer-tower/human-electronics-computer-tower_v3.fbx",
+    "thumb": "thumbs/human-electronics-computer-tower_v3.webp",
+    "dims": [
+     0.1471,
+     0.3601,
+     0.45
+    ],
+    "tris": 124,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "33.glb",
+   "34.glb",
+   "35.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-desktop-computer",
+  "name": "Desktop Computer",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-desktop-computer/human-electronics-desktop-computer.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-desktop-computer/human-electronics-desktop-computer_v1.glb",
+    "fbx": "models/human/human-electronics-desktop-computer/human-electronics-desktop-computer_v1.fbx",
+    "thumb": "thumbs/human-electronics-desktop-computer_v1.webp",
+    "dims": [
+     0.45,
+     0.3678,
+     0.1743
+    ],
+    "tris": 128,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-desktop-computer/human-electronics-desktop-computer_v2.glb",
+    "fbx": "models/human/human-electronics-desktop-computer/human-electronics-desktop-computer_v2.fbx",
+    "thumb": "thumbs/human-electronics-desktop-computer_v2.webp",
+    "dims": [
+     0.45,
+     0.3714,
+     0.1743
+    ],
+    "tris": 118,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "36.glb",
+   "37.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-crt-monitor",
+  "name": "CRT Monitor",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-crt-monitor/human-electronics-crt-monitor.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-crt-monitor/human-electronics-crt-monitor_v1.glb",
+    "fbx": "models/human/human-electronics-crt-monitor/human-electronics-crt-monitor_v1.fbx",
+    "thumb": "thumbs/human-electronics-crt-monitor_v1.webp",
+    "dims": [
+     0.3911,
+     0.3641,
+     0.4
+    ],
+    "tris": 272,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "38.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-film-camera",
+  "name": "Film Camera",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-film-camera/human-electronics-film-camera.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-film-camera/human-electronics-film-camera_v1.glb",
+    "fbx": "models/human/human-electronics-film-camera/human-electronics-film-camera_v1.fbx",
+    "thumb": "thumbs/human-electronics-film-camera_v1.webp",
+    "dims": [
+     0.6726,
+     0.857,
+     1.6
+    ],
+    "tris": 1468,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "39.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-radio",
+  "name": "Radio",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-radio/human-electronics-radio.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-radio/human-electronics-radio_v1.glb",
+    "fbx": "models/human/human-electronics-radio/human-electronics-radio_v1.fbx",
+    "thumb": "thumbs/human-electronics-radio_v1.webp",
+    "dims": [
+     0.3,
+     0.08571,
+     0.251
+    ],
+    "tris": 616,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "40.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-speaker",
+  "name": "Speaker",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-speaker/human-electronics-speaker.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-speaker/human-electronics-speaker_v1.glb",
+    "fbx": "models/human/human-electronics-speaker/human-electronics-speaker_v1.fbx",
+    "thumb": "thumbs/human-electronics-speaker_v1.webp",
+    "dims": [
+     0.1002,
+     0.1429,
+     0.6
+    ],
+    "tris": 526,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-speaker/human-electronics-speaker_v2.glb",
+    "fbx": "models/human/human-electronics-speaker/human-electronics-speaker_v2.fbx",
+    "thumb": "thumbs/human-electronics-speaker_v2.webp",
+    "dims": [
+     0.286,
+     0.451,
+     0.6
+    ],
+    "tris": 248,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-speaker/human-electronics-speaker_v3.glb",
+    "fbx": "models/human/human-electronics-speaker/human-electronics-speaker_v3.fbx",
+    "thumb": "thumbs/human-electronics-speaker_v3.webp",
+    "dims": [
+     0.6,
+     0.2629,
+     0.1667
+    ],
+    "tris": 420,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "41.glb",
+   "42.glb",
+   "43.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-flat-screen-tv",
+  "name": "Flat Screen TV",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-flat-screen-tv/human-electronics-flat-screen-tv.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-flat-screen-tv/human-electronics-flat-screen-tv_v1.glb",
+    "fbx": "models/human/human-electronics-flat-screen-tv/human-electronics-flat-screen-tv_v1.fbx",
+    "thumb": "thumbs/human-electronics-flat-screen-tv_v1.webp",
+    "dims": [
+     1.0,
+     0.03898,
+     0.5893
+    ],
+    "tris": 36,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "44.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-computer-speaker",
+  "name": "Computer Speaker",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-computer-speaker/human-electronics-computer-speaker.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-computer-speaker/human-electronics-computer-speaker_v1.glb",
+    "fbx": "models/human/human-electronics-computer-speaker/human-electronics-computer-speaker_v1.fbx",
+    "thumb": "thumbs/human-electronics-computer-speaker_v1.webp",
+    "dims": [
+     0.08542,
+     0.1393,
+     0.25
+    ],
+    "tris": 118,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "45.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-vintage-computer",
+  "name": "Vintage Computer",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-vintage-computer/human-electronics-vintage-computer.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-vintage-computer/human-electronics-vintage-computer_v1.glb",
+    "fbx": "models/human/human-electronics-vintage-computer/human-electronics-vintage-computer_v1.fbx",
+    "thumb": "thumbs/human-electronics-vintage-computer_v1.webp",
+    "dims": [
+     0.2258,
+     0.1961,
+     0.35
+    ],
+    "tris": 570,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "46.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-drone",
+  "name": "Drone",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-drone/human-electronics-drone.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-drone/human-electronics-drone_v1.glb",
+    "fbx": "models/human/human-electronics-drone/human-electronics-drone_v1.fbx",
+    "thumb": "thumbs/human-electronics-drone_v1.webp",
+    "dims": [
+     0.3499,
+     0.35,
+     0.1241
+    ],
+    "tris": 1828,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "47.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-drone-propeller",
+  "name": "Drone Propeller",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller_v1.glb",
+    "fbx": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller_v1.fbx",
+    "thumb": "thumbs/human-electronics-drone-propeller_v1.webp",
+    "dims": [
+     0.1168,
+     0.12,
+     0.002675
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller_v2.glb",
+    "fbx": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller_v2.fbx",
+    "thumb": "thumbs/human-electronics-drone-propeller_v2.webp",
+    "dims": [
+     0.1181,
+     0.12,
+     0.002687
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller_v3.glb",
+    "fbx": "models/human/human-electronics-drone-propeller/human-electronics-drone-propeller_v3.fbx",
+    "thumb": "thumbs/human-electronics-drone-propeller_v3.webp",
+    "dims": [
+     0.12,
+     0.1172,
+     0.002678
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "48.glb",
+   "49.glb",
+   "50.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-keyboard",
+  "name": "Keyboard",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-keyboard/human-electronics-keyboard.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-keyboard/human-electronics-keyboard_v1.glb",
+    "fbx": "models/human/human-electronics-keyboard/human-electronics-keyboard_v1.fbx",
+    "thumb": "thumbs/human-electronics-keyboard_v1.webp",
+    "dims": [
+     0.45,
+     0.1719,
+     0.06447
+    ],
+    "tris": 1350,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "51.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-computer-monitor",
+  "name": "Computer Monitor",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-computer-monitor/human-electronics-computer-monitor.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-computer-monitor/human-electronics-computer-monitor_v1.glb",
+    "fbx": "models/human/human-electronics-computer-monitor/human-electronics-computer-monitor_v1.fbx",
+    "thumb": "thumbs/human-electronics-computer-monitor_v1.webp",
+    "dims": [
+     0.55,
+     0.176,
+     0.3874
+    ],
+    "tris": 150,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "52.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-laptop",
+  "name": "Laptop",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-laptop/human-electronics-laptop.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-laptop/human-electronics-laptop_v1.glb",
+    "fbx": "models/human/human-electronics-laptop/human-electronics-laptop_v1.fbx",
+    "thumb": "thumbs/human-electronics-laptop_v1.webp",
+    "dims": [
+     0.35,
+     0.2915,
+     0.2656
+    ],
+    "tris": 950,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "53.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-power-button",
+  "name": "Power Button",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-power-button/human-electronics-power-button.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-power-button/human-electronics-power-button_v1.glb",
+    "fbx": "models/human/human-electronics-power-button/human-electronics-power-button_v1.fbx",
+    "thumb": "thumbs/human-electronics-power-button_v1.webp",
+    "dims": [
+     0.05,
+     0.006125,
+     0.05
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "54.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-toy-sword",
+  "name": "Toy Sword",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [
+   "Toy Light Sword"
+  ],
+  "blend": "models/human/human-toys-toy-sword/human-toys-toy-sword.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-toy-sword/human-toys-toy-sword_v1.glb",
+    "fbx": "models/human/human-toys-toy-sword/human-toys-toy-sword_v1.fbx",
+    "thumb": "thumbs/human-toys-toy-sword_v1.webp",
+    "dims": [
+     0.04607,
+     0.101,
+     1.0
+    ],
+    "tris": 24,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "55.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-dumbbell",
+  "name": "Dumbbell",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-dumbbell/human-sports-dumbbell.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-dumbbell/human-sports-dumbbell_v1.glb",
+    "fbx": "models/human/human-sports-dumbbell/human-sports-dumbbell_v1.fbx",
+    "thumb": "thumbs/human-sports-dumbbell_v1.webp",
+    "dims": [
+     0.3,
+     0.1209,
+     0.1047
+    ],
+    "tris": 204,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-sports-dumbbell/human-sports-dumbbell_v2.glb",
+    "fbx": "models/human/human-sports-dumbbell/human-sports-dumbbell_v2.fbx",
+    "thumb": "thumbs/human-sports-dumbbell_v2.webp",
+    "dims": [
+     0.4,
+     0.2118,
+     0.2072
+    ],
+    "tris": 1056,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "56.glb",
+   "60.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-bowling-pin",
+  "name": "Bowling Pin",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-bowling-pin/human-sports-bowling-pin.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-bowling-pin/human-sports-bowling-pin_v1.glb",
+    "fbx": "models/human/human-sports-bowling-pin/human-sports-bowling-pin_v1.fbx",
+    "thumb": "thumbs/human-sports-bowling-pin_v1.webp",
+    "dims": [
+     0.1238,
+     0.1238,
+     0.38
+    ],
+    "tris": 408,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "57.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-bowling-ball",
+  "name": "Bowling Ball",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-bowling-ball/human-sports-bowling-ball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-bowling-ball/human-sports-bowling-ball_v1.glb",
+    "fbx": "models/human/human-sports-bowling-ball/human-sports-bowling-ball_v1.fbx",
+    "thumb": "thumbs/human-sports-bowling-ball_v1.webp",
+    "dims": [
+     0.22,
+     0.22,
+     0.22
+    ],
+    "tris": 570,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "58.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-barbell",
+  "name": "Barbell",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-barbell/human-sports-barbell.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-barbell/human-sports-barbell_v1.glb",
+    "fbx": "models/human/human-sports-barbell/human-sports-barbell_v1.fbx",
+    "thumb": "thumbs/human-sports-barbell_v1.webp",
+    "dims": [
+     2.0,
+     0.6926,
+     0.6926
+    ],
+    "tris": 1460,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "59.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-golf-club",
+  "name": "Golf Club",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-golf-club/human-sports-golf-club.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-golf-club/human-sports-golf-club_v1.glb",
+    "fbx": "models/human/human-sports-golf-club/human-sports-golf-club_v1.fbx",
+    "thumb": "thumbs/human-sports-golf-club_v1.webp",
+    "dims": [
+     0.1242,
+     1.0,
+     0.05292
+    ],
+    "tris": 72,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-sports-golf-club/human-sports-golf-club_v2.glb",
+    "fbx": "models/human/human-sports-golf-club/human-sports-golf-club_v2.fbx",
+    "thumb": "thumbs/human-sports-golf-club_v2.webp",
+    "dims": [
+     0.1071,
+     1.0,
+     0.06852
+    ],
+    "tris": 162,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "61.glb",
+   "62.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-basketball",
+  "name": "Basketball",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-basketball/human-sports-basketball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-basketball/human-sports-basketball_v1.glb",
+    "fbx": "models/human/human-sports-basketball/human-sports-basketball_v1.fbx",
+    "thumb": "thumbs/human-sports-basketball_v1.webp",
+    "dims": [
+     0.2385,
+     0.2356,
+     0.24
+    ],
+    "tris": 832,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "63.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-fishing-rod",
+  "name": "Fishing Rod",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-fishing-rod/human-sports-fishing-rod.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-fishing-rod/human-sports-fishing-rod_v1.glb",
+    "fbx": "models/human/human-sports-fishing-rod/human-sports-fishing-rod_v1.fbx",
+    "thumb": "thumbs/human-sports-fishing-rod_v1.webp",
+    "dims": [
+     0.1243,
+     2.0,
+     0.1676
+    ],
+    "tris": 236,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "64.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-baseball-bat",
+  "name": "Baseball Bat",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-baseball-bat/human-sports-baseball-bat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-baseball-bat/human-sports-baseball-bat_v1.glb",
+    "fbx": "models/human/human-sports-baseball-bat/human-sports-baseball-bat_v1.fbx",
+    "thumb": "thumbs/human-sports-baseball-bat_v1.webp",
+    "dims": [
+     0.04173,
+     0.85,
+     0.05127
+    ],
+    "tris": 966,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "65.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-soccer-ball",
+  "name": "Soccer Ball",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-soccer-ball/human-sports-soccer-ball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-soccer-ball/human-sports-soccer-ball_v1.glb",
+    "fbx": "models/human/human-sports-soccer-ball/human-sports-soccer-ball_v1.fbx",
+    "thumb": "thumbs/human-sports-soccer-ball_v1.webp",
+    "dims": [
+     0.2178,
+     0.2156,
+     0.22
+    ],
+    "tris": 356,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "66.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-american-football",
+  "name": "American Football",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-american-football/human-sports-american-football.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-american-football/human-sports-american-football_v1.glb",
+    "fbx": "models/human/human-sports-american-football/human-sports-american-football_v1.fbx",
+    "thumb": "thumbs/human-sports-american-football_v1.webp",
+    "dims": [
+     0.28,
+     0.1688,
+     0.172
+    ],
+    "tris": 586,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-sports-american-football/human-sports-american-football_v2.glb",
+    "fbx": "models/human/human-sports-american-football/human-sports-american-football_v2.fbx",
+    "thumb": "thumbs/human-sports-american-football_v2.webp",
+    "dims": [
+     0.28,
+     0.1474,
+     0.1446
+    ],
+    "tris": 762,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "67.glb",
+   "68.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-frisbee",
+  "name": "Frisbee",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-frisbee/human-sports-frisbee.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-frisbee/human-sports-frisbee_v1.glb",
+    "fbx": "models/human/human-sports-frisbee/human-sports-frisbee_v1.fbx",
+    "thumb": "thumbs/human-sports-frisbee_v1.webp",
+    "dims": [
+     0.27,
+     0.27,
+     0.02659
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "69.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-skateboard",
+  "name": "Skateboard",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-skateboard/human-sports-skateboard.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-skateboard/human-sports-skateboard_v1.glb",
+    "fbx": "models/human/human-sports-skateboard/human-sports-skateboard_v1.fbx",
+    "thumb": "thumbs/human-sports-skateboard_v1.webp",
+    "dims": [
+     0.2043,
+     0.8,
+     0.1075
+    ],
+    "tris": 812,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "70.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-tennis-racket",
+  "name": "Tennis Racket",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-tennis-racket/human-sports-tennis-racket.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-tennis-racket/human-sports-tennis-racket_v1.glb",
+    "fbx": "models/human/human-sports-tennis-racket/human-sports-tennis-racket_v1.fbx",
+    "thumb": "thumbs/human-sports-tennis-racket_v1.webp",
+    "dims": [
+     0.2591,
+     0.68,
+     0.02494
+    ],
+    "tris": 338,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "71.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-ski-goggles",
+  "name": "Ski Goggles",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-ski-goggles/human-sports-ski-goggles.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-ski-goggles/human-sports-ski-goggles_v1.glb",
+    "fbx": "models/human/human-sports-ski-goggles/human-sports-ski-goggles_v1.fbx",
+    "thumb": "thumbs/human-sports-ski-goggles_v1.webp",
+    "dims": [
+     0.2,
+     0.1693,
+     0.08724
+    ],
+    "tris": 810,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "72.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-ski-pole",
+  "name": "Ski Pole",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-ski-pole/human-sports-ski-pole.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-ski-pole/human-sports-ski-pole_v1.glb",
+    "fbx": "models/human/human-sports-ski-pole/human-sports-ski-pole_v1.fbx",
+    "thumb": "thumbs/human-sports-ski-pole_v1.webp",
+    "dims": [
+     0.05524,
+     0.1296,
+     1.2
+    ],
+    "tris": 994,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "73.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-ski",
+  "name": "Ski",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-ski/human-sports-ski.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-ski/human-sports-ski_v1.glb",
+    "fbx": "models/human/human-sports-ski/human-sports-ski_v1.fbx",
+    "thumb": "thumbs/human-sports-ski_v1.webp",
+    "dims": [
+     0.1189,
+     1.7,
+     0.3141
+    ],
+    "tris": 566,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "74.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-foosball-table",
+  "name": "Foosball Table",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-foosball-table/human-sports-foosball-table.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-foosball-table/human-sports-foosball-table_v1.glb",
+    "fbx": "models/human/human-sports-foosball-table/human-sports-foosball-table_v1.fbx",
+    "thumb": "thumbs/human-sports-foosball-table_v1.webp",
+    "dims": [
+     1.034,
+     1.4,
+     0.7281
+    ],
+    "tris": 1398,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "75.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-pool-table",
+  "name": "Pool Table",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-pool-table/human-sports-pool-table.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-pool-table/human-sports-pool-table_v1.glb",
+    "fbx": "models/human/human-sports-pool-table/human-sports-pool-table_v1.fbx",
+    "thumb": "thumbs/human-sports-pool-table_v1.webp",
+    "dims": [
+     1.398,
+     2.7,
+     0.6212
+    ],
+    "tris": 998,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "76.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-tennis-ball",
+  "name": "Tennis Ball",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-tennis-ball/human-sports-tennis-ball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-tennis-ball/human-sports-tennis-ball_v1.glb",
+    "fbx": "models/human/human-sports-tennis-ball/human-sports-tennis-ball_v1.fbx",
+    "thumb": "thumbs/human-sports-tennis-ball_v1.webp",
+    "dims": [
+     0.06696,
+     0.06684,
+     0.067
+    ],
+    "tris": 496,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "77.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-baseball",
+  "name": "Baseball",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-baseball/human-sports-baseball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-baseball/human-sports-baseball_v1.glb",
+    "fbx": "models/human/human-sports-baseball/human-sports-baseball_v1.fbx",
+    "thumb": "thumbs/human-sports-baseball_v1.webp",
+    "dims": [
+     0.074,
+     0.074,
+     0.07278
+    ],
+    "tris": 1920,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "78.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-sports-billiard-ball",
+  "name": "Billiard Ball",
+  "category": "Human",
+  "subcategory": "Sports",
+  "tags": [],
+  "blend": "models/human/human-sports-billiard-ball/human-sports-billiard-ball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-sports-billiard-ball/human-sports-billiard-ball_v1.glb",
+    "fbx": "models/human/human-sports-billiard-ball/human-sports-billiard-ball_v1.fbx",
+    "thumb": "thumbs/human-sports-billiard-ball_v1.webp",
+    "dims": [
+     0.057,
+     0.057,
+     0.057
+    ],
+    "tris": 534,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "79.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-teddy-bear",
+  "name": "Teddy Bear",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-teddy-bear/human-toys-teddy-bear.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-teddy-bear/human-toys-teddy-bear_v1.glb",
+    "fbx": "models/human/human-toys-teddy-bear/human-toys-teddy-bear_v1.fbx",
+    "thumb": "thumbs/human-toys-teddy-bear_v1.webp",
+    "dims": [
+     0.2912,
+     0.2253,
+     0.35
+    ],
+    "tris": 736,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "80.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-ribbon-bow",
+  "name": "Ribbon Bow",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-ribbon-bow/human-clothing-ribbon-bow.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-ribbon-bow/human-clothing-ribbon-bow_v1.glb",
+    "fbx": "models/human/human-clothing-ribbon-bow/human-clothing-ribbon-bow_v1.fbx",
+    "thumb": "thumbs/human-clothing-ribbon-bow_v1.webp",
+    "dims": [
+     0.3,
+     0.2737,
+     0.1686
+    ],
+    "tris": 64,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "81.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-paper-airplane",
+  "name": "Paper Airplane",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-paper-airplane/human-toys-paper-airplane.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-paper-airplane/human-toys-paper-airplane_v1.glb",
+    "fbx": "models/human/human-toys-paper-airplane/human-toys-paper-airplane_v1.fbx",
+    "thumb": "thumbs/human-toys-paper-airplane_v1.webp",
+    "dims": [
+     0.1525,
+     0.25,
+     0.05209
+    ],
+    "tris": 63,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "82.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-rubber-duck",
+  "name": "Rubber Duck",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-rubber-duck/human-toys-rubber-duck.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-rubber-duck/human-toys-rubber-duck_v1.glb",
+    "fbx": "models/human/human-toys-rubber-duck/human-toys-rubber-duck_v1.fbx",
+    "thumb": "thumbs/human-toys-rubber-duck_v1.webp",
+    "dims": [
+     0.07489,
+     0.09868,
+     0.1
+    ],
+    "tris": 664,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "83.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-toy-sailboat",
+  "name": "Toy Sailboat",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-toy-sailboat/human-toys-toy-sailboat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-toy-sailboat/human-toys-toy-sailboat_v1.glb",
+    "fbx": "models/human/human-toys-toy-sailboat/human-toys-toy-sailboat_v1.fbx",
+    "thumb": "thumbs/human-toys-toy-sailboat_v1.webp",
+    "dims": [
+     0.1062,
+     0.3049,
+     0.4
+    ],
+    "tris": 356,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "84.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-toy-race-car",
+  "name": "Toy Race Car",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-toy-race-car/human-toys-toy-race-car.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-toy-race-car/human-toys-toy-race-car_v1.glb",
+    "fbx": "models/human/human-toys-toy-race-car/human-toys-toy-race-car_v1.fbx",
+    "thumb": "thumbs/human-toys-toy-race-car_v1.webp",
+    "dims": [
+     0.14,
+     0.3,
+     0.1323
+    ],
+    "tris": 1158,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "85.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-balloon",
+  "name": "Balloon",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-balloon/human-toys-balloon.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-balloon/human-toys-balloon_v1.glb",
+    "fbx": "models/human/human-toys-balloon/human-toys-balloon_v1.fbx",
+    "thumb": "thumbs/human-toys-balloon_v1.webp",
+    "dims": [
+     0.2462,
+     0.2462,
+     1.0
+    ],
+    "tris": 444,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "86.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-toy-brick",
+  "name": "Toy Brick",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-toy-brick/human-toys-toy-brick.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-toy-brick/human-toys-toy-brick_v1.glb",
+    "fbx": "models/human/human-toys-toy-brick/human-toys-toy-brick_v1.fbx",
+    "thumb": "thumbs/human-toys-toy-brick_v1.webp",
+    "dims": [
+     0.25,
+     0.1607,
+     0.008055
+    ],
+    "tris": 972,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-toy-brick/human-toys-toy-brick_v2.glb",
+    "fbx": "models/human/human-toys-toy-brick/human-toys-toy-brick_v2.fbx",
+    "thumb": "thumbs/human-toys-toy-brick_v2.webp",
+    "dims": [
+     0.02913,
+     0.03,
+     0.02466
+    ],
+    "tris": 52,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-toy-brick/human-toys-toy-brick_v3.glb",
+    "fbx": "models/human/human-toys-toy-brick/human-toys-toy-brick_v3.fbx",
+    "thumb": "thumbs/human-toys-toy-brick_v3.webp",
+    "dims": [
+     0.0149,
+     0.03,
+     0.006521
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-toy-brick/human-toys-toy-brick_v4.glb",
+    "fbx": "models/human/human-toys-toy-brick/human-toys-toy-brick_v4.fbx",
+    "thumb": "thumbs/human-toys-toy-brick_v4.webp",
+    "dims": [
+     0.02765,
+     0.03,
+     0.0121
+    ],
+    "tris": 172,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-toy-brick/human-toys-toy-brick_v5.glb",
+    "fbx": "models/human/human-toys-toy-brick/human-toys-toy-brick_v5.fbx",
+    "thumb": "thumbs/human-toys-toy-brick_v5.webp",
+    "dims": [
+     0.01427,
+     0.03,
+     0.01232
+    ],
+    "tris": 100,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-toy-brick/human-toys-toy-brick_v6.glb",
+    "fbx": "models/human/human-toys-toy-brick/human-toys-toy-brick_v6.fbx",
+    "thumb": "thumbs/human-toys-toy-brick_v6.webp",
+    "dims": [
+     0.009943,
+     0.03,
+     0.008583
+    ],
+    "tris": 124,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "87.glb",
+   "88.glb",
+   "89.glb",
+   "90.glb",
+   "91.glb",
+   "92.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-puzzle-cube",
+  "name": "Puzzle Cube",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-puzzle-cube/human-toys-puzzle-cube.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-puzzle-cube/human-toys-puzzle-cube_v1.glb",
+    "fbx": "models/human/human-toys-puzzle-cube/human-toys-puzzle-cube_v1.fbx",
+    "thumb": "thumbs/human-toys-puzzle-cube_v1.webp",
+    "dims": [
+     0.057,
+     0.057,
+     0.057
+    ],
+    "tris": 428,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "93.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-toy-airplane",
+  "name": "Toy Airplane",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-toy-airplane/human-toys-toy-airplane.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-toy-airplane/human-toys-toy-airplane_v1.glb",
+    "fbx": "models/human/human-toys-toy-airplane/human-toys-toy-airplane_v1.fbx",
+    "thumb": "thumbs/human-toys-toy-airplane_v1.webp",
+    "dims": [
+     0.2539,
+     0.3,
+     0.06672
+    ],
+    "tris": 746,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "94.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-dice",
+  "name": "Dice",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-dice/human-toys-dice.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-dice/human-toys-dice_v1.glb",
+    "fbx": "models/human/human-toys-dice/human-toys-dice_v1.fbx",
+    "thumb": "thumbs/human-toys-dice_v1.webp",
+    "dims": [
+     0.01595,
+     0.016,
+     0.01598
+    ],
+    "tris": 1494,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-dice/human-toys-dice_v2.glb",
+    "fbx": "models/human/human-toys-dice/human-toys-dice_v2.fbx",
+    "thumb": "thumbs/human-toys-dice_v2.webp",
+    "dims": [
+     0.01325,
+     0.01508,
+     0.016
+    ],
+    "tris": 1494,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "95.glb",
+   "115.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-foam-block",
+  "name": "Foam Block",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-foam-block/human-toys-foam-block.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-foam-block/human-toys-foam-block_v1.glb",
+    "fbx": "models/human/human-toys-foam-block/human-toys-foam-block_v1.fbx",
+    "thumb": "thumbs/human-toys-foam-block_v1.webp",
+    "dims": [
+     0.3,
+     0.3,
+     0.07181
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-foam-block/human-toys-foam-block_v2.glb",
+    "fbx": "models/human/human-toys-foam-block/human-toys-foam-block_v2.fbx",
+    "thumb": "thumbs/human-toys-foam-block_v2.webp",
+    "dims": [
+     0.3,
+     0.3,
+     0.07987
+    ],
+    "tris": 48,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-foam-block/human-toys-foam-block_v3.glb",
+    "fbx": "models/human/human-toys-foam-block/human-toys-foam-block_v3.fbx",
+    "thumb": "thumbs/human-toys-foam-block_v3.webp",
+    "dims": [
+     0.2804,
+     0.3,
+     0.1601
+    ],
+    "tris": 52,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "96.glb",
+   "97.glb",
+   "98.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-pinwheel",
+  "name": "Pinwheel",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-pinwheel/human-toys-pinwheel.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-pinwheel/human-toys-pinwheel_v1.glb",
+    "fbx": "models/human/human-toys-pinwheel/human-toys-pinwheel_v1.fbx",
+    "thumb": "thumbs/human-toys-pinwheel_v1.webp",
+    "dims": [
+     0.1709,
+     0.01852,
+     0.4
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-pinwheel/human-toys-pinwheel_v2.glb",
+    "fbx": "models/human/human-toys-pinwheel/human-toys-pinwheel_v2.fbx",
+    "thumb": "thumbs/human-toys-pinwheel_v2.webp",
+    "dims": [
+     0.1583,
+     0.01865,
+     0.4
+    ],
+    "tris": 444,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-pinwheel/human-toys-pinwheel_v3.glb",
+    "fbx": "models/human/human-toys-pinwheel/human-toys-pinwheel_v3.fbx",
+    "thumb": "thumbs/human-toys-pinwheel_v3.webp",
+    "dims": [
+     0.1742,
+     0.01843,
+     0.4
+    ],
+    "tris": 316,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "99.glb",
+   "100.glb",
+   "101.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-playing-card",
+  "name": "Playing Card",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-playing-card/human-toys-playing-card.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-playing-card/human-toys-playing-card_v1.glb",
+    "fbx": "models/human/human-toys-playing-card/human-toys-playing-card_v1.fbx",
+    "thumb": "thumbs/human-toys-playing-card_v1.webp",
+    "dims": [
+     0.06062,
+     0.089,
+     0.0007333
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-playing-card/human-toys-playing-card_v2.glb",
+    "fbx": "models/human/human-toys-playing-card/human-toys-playing-card_v2.fbx",
+    "thumb": "thumbs/human-toys-playing-card_v2.webp",
+    "dims": [
+     0.06061,
+     0.089,
+     0.0007263
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-playing-card/human-toys-playing-card_v3.glb",
+    "fbx": "models/human/human-toys-playing-card/human-toys-playing-card_v3.fbx",
+    "thumb": "thumbs/human-toys-playing-card_v3.webp",
+    "dims": [
+     0.06061,
+     0.089,
+     0.0007338
+    ],
+    "tris": 232,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-playing-card/human-toys-playing-card_v4.glb",
+    "fbx": "models/human/human-toys-playing-card/human-toys-playing-card_v4.fbx",
+    "thumb": "thumbs/human-toys-playing-card_v4.webp",
+    "dims": [
+     0.06062,
+     0.089,
+     0.0007263
+    ],
+    "tris": 210,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-playing-card/human-toys-playing-card_v5.glb",
+    "fbx": "models/human/human-toys-playing-card/human-toys-playing-card_v5.fbx",
+    "thumb": "thumbs/human-toys-playing-card_v5.webp",
+    "dims": [
+     0.06062,
+     0.089,
+     0.0007338
+    ],
+    "tris": 212,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "102.glb",
+   "103.glb",
+   "104.glb",
+   "105.glb",
+   "106.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-toy-ring",
+  "name": "Toy Ring",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-toy-ring/human-toys-toy-ring.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-toy-ring/human-toys-toy-ring_v1.glb",
+    "fbx": "models/human/human-toys-toy-ring/human-toys-toy-ring_v1.fbx",
+    "thumb": "thumbs/human-toys-toy-ring_v1.webp",
+    "dims": [
+     0.02195,
+     0.03,
+     0.005215
+    ],
+    "tris": 112,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "107.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-alphabet-block",
+  "name": "Alphabet Block",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-alphabet-block/human-toys-alphabet-block.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-alphabet-block/human-toys-alphabet-block_v1.glb",
+    "fbx": "models/human/human-toys-alphabet-block/human-toys-alphabet-block_v1.fbx",
+    "thumb": "thumbs/human-toys-alphabet-block_v1.webp",
+    "dims": [
+     0.05,
+     0.05,
+     0.05
+    ],
+    "tris": 543,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-alphabet-block/human-toys-alphabet-block_v2.glb",
+    "fbx": "models/human/human-toys-alphabet-block/human-toys-alphabet-block_v2.fbx",
+    "thumb": "thumbs/human-toys-alphabet-block_v2.webp",
+    "dims": [
+     0.05,
+     0.05,
+     0.05
+    ],
+    "tris": 652,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-alphabet-block/human-toys-alphabet-block_v3.glb",
+    "fbx": "models/human/human-toys-alphabet-block/human-toys-alphabet-block_v3.fbx",
+    "thumb": "thumbs/human-toys-alphabet-block_v3.webp",
+    "dims": [
+     0.05,
+     0.04969,
+     0.04969
+    ],
+    "tris": 747,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "108.glb",
+   "109.glb",
+   "110.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-stacking-toy",
+  "name": "Stacking Toy",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-stacking-toy/human-toys-stacking-toy.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v1.glb",
+    "fbx": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v1.fbx",
+    "thumb": "thumbs/human-toys-stacking-toy_v1.webp",
+    "dims": [
+     0.2,
+     0.2,
+     0.1821
+    ],
+    "tris": 928,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v2.glb",
+    "fbx": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v2.fbx",
+    "thumb": "thumbs/human-toys-stacking-toy_v2.webp",
+    "dims": [
+     0.2,
+     0.2,
+     0.1821
+    ],
+    "tris": 160,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v3.glb",
+    "fbx": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v3.fbx",
+    "thumb": "thumbs/human-toys-stacking-toy_v3.webp",
+    "dims": [
+     0.2,
+     0.2,
+     0.1359
+    ],
+    "tris": 512,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v4.glb",
+    "fbx": "models/human/human-toys-stacking-toy/human-toys-stacking-toy_v4.fbx",
+    "thumb": "thumbs/human-toys-stacking-toy_v4.webp",
+    "dims": [
+     0.2,
+     0.2,
+     0.1821
+    ],
+    "tris": 544,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "111.glb",
+   "112.glb",
+   "113.glb",
+   "114.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-beach-ball",
+  "name": "Beach Ball",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-beach-ball/human-toys-beach-ball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-beach-ball/human-toys-beach-ball_v1.glb",
+    "fbx": "models/human/human-toys-beach-ball/human-toys-beach-ball_v1.fbx",
+    "thumb": "thumbs/human-toys-beach-ball_v1.webp",
+    "dims": [
+     0.3834,
+     0.3834,
+     0.4
+    ],
+    "tris": 544,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "116.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-pill",
+  "name": "Pill",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-pill/human-household-items-pill.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-pill/human-household-items-pill_v1.glb",
+    "fbx": "models/human/human-household-items-pill/human-household-items-pill_v1.fbx",
+    "thumb": "thumbs/human-household-items-pill_v1.webp",
+    "dims": [
+     0.007215,
+     0.02,
+     0.007215
+    ],
+    "tris": 120,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-pill/human-household-items-pill_v2.glb",
+    "fbx": "models/human/human-household-items-pill/human-household-items-pill_v2.fbx",
+    "thumb": "thumbs/human-household-items-pill_v2.webp",
+    "dims": [
+     0.01066,
+     0.02,
+     0.006363
+    ],
+    "tris": 96,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "117.glb",
+   "118.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-pill-bottle",
+  "name": "Pill Bottle",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-pill-bottle/human-household-items-pill-bottle.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-pill-bottle/human-household-items-pill-bottle_v1.glb",
+    "fbx": "models/human/human-household-items-pill-bottle/human-household-items-pill-bottle_v1.fbx",
+    "thumb": "thumbs/human-household-items-pill-bottle_v1.webp",
+    "dims": [
+     0.0524,
+     0.0524,
+     0.1
+    ],
+    "tris": 2325,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "119.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-microscope",
+  "name": "Microscope",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-microscope/human-tools-microscope.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-microscope/human-tools-microscope_v1.glb",
+    "fbx": "models/human/human-tools-microscope/human-tools-microscope_v1.fbx",
+    "thumb": "thumbs/human-tools-microscope_v1.webp",
+    "dims": [
+     0.2419,
+     0.2757,
+     0.35
+    ],
+    "tris": 832,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "120.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-hand-sanitizer",
+  "name": "Hand Sanitizer",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-hand-sanitizer/human-household-items-hand-sanitizer.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-hand-sanitizer/human-household-items-hand-sanitizer_v1.glb",
+    "fbx": "models/human/human-household-items-hand-sanitizer/human-household-items-hand-sanitizer_v1.fbx",
+    "thumb": "thumbs/human-household-items-hand-sanitizer_v1.webp",
+    "dims": [
+     0.1096,
+     0.06746,
+     0.2
+    ],
+    "tris": 772,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "121.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-hands",
+  "name": "Hands",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [
+   "Washing Hands"
+  ],
+  "blend": "models/human/human-household-items-hands/human-household-items-hands.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-hands/human-household-items-hands_v1.glb",
+    "fbx": "models/human/human-household-items-hands/human-household-items-hands_v1.fbx",
+    "thumb": "thumbs/human-household-items-hands_v1.webp",
+    "dims": [
+     0.2,
+     0.1553,
+     0.1647
+    ],
+    "tris": 628,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-hands/human-household-items-hands_v2.glb",
+    "fbx": "models/human/human-household-items-hands/human-household-items-hands_v2.fbx",
+    "thumb": "thumbs/human-household-items-hands_v2.webp",
+    "dims": [
+     0.2,
+     0.1553,
+     0.1647
+    ],
+    "tris": 628,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-hands/human-household-items-hands_v3.glb",
+    "fbx": "models/human/human-household-items-hands/human-household-items-hands_v3.fbx",
+    "thumb": "thumbs/human-household-items-hands_v3.webp",
+    "dims": [
+     0.2,
+     0.1553,
+     0.1647
+    ],
+    "tris": 628,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "122.glb",
+   "123.glb",
+   "124.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-respirator-mask",
+  "name": "Respirator Mask",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-respirator-mask/human-household-items-respirator-mask.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-respirator-mask/human-household-items-respirator-mask_v1.glb",
+    "fbx": "models/human/human-household-items-respirator-mask/human-household-items-respirator-mask_v1.fbx",
+    "thumb": "thumbs/human-household-items-respirator-mask_v1.webp",
+    "dims": [
+     0.15,
+     0.1061,
+     0.1203
+    ],
+    "tris": 1549,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "125.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-scalpel",
+  "name": "Scalpel",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-scalpel/human-tools-scalpel.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-scalpel/human-tools-scalpel_v1.glb",
+    "fbx": "models/human/human-tools-scalpel/human-tools-scalpel_v1.fbx",
+    "thumb": "thumbs/human-tools-scalpel_v1.webp",
+    "dims": [
+     0.000796,
+     0.15,
+     0.008366
+    ],
+    "tris": 152,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-tools-scalpel/human-tools-scalpel_v2.glb",
+    "fbx": "models/human/human-tools-scalpel/human-tools-scalpel_v2.fbx",
+    "thumb": "thumbs/human-tools-scalpel_v2.webp",
+    "dims": [
+     0.001315,
+     0.15,
+     0.006225
+    ],
+    "tris": 142,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-tools-scalpel/human-tools-scalpel_v3.glb",
+    "fbx": "models/human/human-tools-scalpel/human-tools-scalpel_v3.fbx",
+    "thumb": "thumbs/human-tools-scalpel_v3.webp",
+    "dims": [
+     0.002421,
+     0.15,
+     0.01147
+    ],
+    "tris": 250,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "126.glb",
+   "127.glb",
+   "128.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-medical-glove",
+  "name": "Medical Glove",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-medical-glove/human-household-items-medical-glove.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-medical-glove/human-household-items-medical-glove_v1.glb",
+    "fbx": "models/human/human-household-items-medical-glove/human-household-items-medical-glove_v1.fbx",
+    "thumb": "thumbs/human-household-items-medical-glove_v1.webp",
+    "dims": [
+     0.1156,
+     0.25,
+     0.06916
+    ],
+    "tris": 332,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-medical-glove/human-household-items-medical-glove_v2.glb",
+    "fbx": "models/human/human-household-items-medical-glove/human-household-items-medical-glove_v2.fbx",
+    "thumb": "thumbs/human-household-items-medical-glove_v2.webp",
+    "dims": [
+     0.1165,
+     0.25,
+     0.07706
+    ],
+    "tris": 332,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "129.glb",
+   "130.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-syringe",
+  "name": "Syringe",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-syringe/human-tools-syringe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-syringe/human-tools-syringe_v1.glb",
+    "fbx": "models/human/human-tools-syringe/human-tools-syringe_v1.fbx",
+    "thumb": "thumbs/human-tools-syringe_v1.webp",
+    "dims": [
+     0.01933,
+     0.12,
+     0.01716
+    ],
+    "tris": 208,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "131.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-wheelbarrow",
+  "name": "Wheelbarrow",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-wheelbarrow/human-tools-wheelbarrow.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-wheelbarrow/human-tools-wheelbarrow_v1.glb",
+    "fbx": "models/human/human-tools-wheelbarrow/human-tools-wheelbarrow_v1.fbx",
+    "thumb": "thumbs/human-tools-wheelbarrow_v1.webp",
+    "dims": [
+     0.6518,
+     1.5,
+     0.9852
+    ],
+    "tris": 432,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "132.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-anvil",
+  "name": "Anvil",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-anvil/human-tools-anvil.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-anvil/human-tools-anvil_v1.glb",
+    "fbx": "models/human/human-tools-anvil/human-tools-anvil_v1.fbx",
+    "thumb": "thumbs/human-tools-anvil_v1.webp",
+    "dims": [
+     0.2285,
+     0.6,
+     0.3303
+    ],
+    "tris": 84,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "133.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-pitchfork",
+  "name": "Pitchfork",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-pitchfork/human-tools-pitchfork.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-pitchfork/human-tools-pitchfork_v1.glb",
+    "fbx": "models/human/human-tools-pitchfork/human-tools-pitchfork_v1.fbx",
+    "thumb": "thumbs/human-tools-pitchfork_v1.webp",
+    "dims": [
+     0.2501,
+     0.07359,
+     1.3
+    ],
+    "tris": 556,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "134.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-shovel",
+  "name": "Shovel",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-shovel/human-tools-shovel.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-shovel/human-tools-shovel_v1.glb",
+    "fbx": "models/human/human-tools-shovel/human-tools-shovel_v1.fbx",
+    "thumb": "thumbs/human-tools-shovel_v1.webp",
+    "dims": [
+     0.2294,
+     0.04954,
+     1.0
+    ],
+    "tris": 500,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "135.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-scythe",
+  "name": "Scythe",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-scythe/human-tools-scythe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-scythe/human-tools-scythe_v1.glb",
+    "fbx": "models/human/human-tools-scythe/human-tools-scythe_v1.fbx",
+    "thumb": "thumbs/human-tools-scythe_v1.webp",
+    "dims": [
+     0.7591,
+     1.5,
+     0.1691
+    ],
+    "tris": 814,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "136.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-pickaxe",
+  "name": "Pickaxe",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-pickaxe/human-tools-pickaxe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-pickaxe/human-tools-pickaxe_v1.glb",
+    "fbx": "models/human/human-tools-pickaxe/human-tools-pickaxe_v1.fbx",
+    "thumb": "thumbs/human-tools-pickaxe_v1.webp",
+    "dims": [
+     0.8598,
+     0.9,
+     0.1969
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "137.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-axe",
+  "name": "Axe",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-axe/human-tools-axe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-axe/human-tools-axe_v1.glb",
+    "fbx": "models/human/human-tools-axe/human-tools-axe_v1.fbx",
+    "thumb": "thumbs/human-tools-axe_v1.webp",
+    "dims": [
+     0.38,
+     0.7,
+     0.07633
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "138.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-crowbar",
+  "name": "Crowbar",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-crowbar/human-tools-crowbar.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-crowbar/human-tools-crowbar_v1.glb",
+    "fbx": "models/human/human-tools-crowbar/human-tools-crowbar_v1.fbx",
+    "thumb": "thumbs/human-tools-crowbar_v1.webp",
+    "dims": [
+     0.04501,
+     0.75,
+     0.1404
+    ],
+    "tris": 212,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "139.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-steel-beam",
+  "name": "Steel Beam",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-steel-beam/human-tools-steel-beam.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-steel-beam/human-tools-steel-beam_v1.glb",
+    "fbx": "models/human/human-tools-steel-beam/human-tools-steel-beam_v1.fbx",
+    "thumb": "thumbs/human-tools-steel-beam_v1.webp",
+    "dims": [
+     0.1746,
+     3.0,
+     0.1739
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "140.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-umbrella",
+  "name": "Umbrella",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-umbrella/human-household-items-umbrella.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-umbrella/human-household-items-umbrella_v1.glb",
+    "fbx": "models/human/human-household-items-umbrella/human-household-items-umbrella_v1.fbx",
+    "thumb": "thumbs/human-household-items-umbrella_v1.webp",
+    "dims": [
+     1.0,
+     0.2862,
+     0.2845
+    ],
+    "tris": 344,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-umbrella/human-household-items-umbrella_v2.glb",
+    "fbx": "models/human/human-household-items-umbrella/human-household-items-umbrella_v2.fbx",
+    "thumb": "thumbs/human-household-items-umbrella_v2.webp",
+    "dims": [
+     1.0,
+     1.0,
+     0.9564
+    ],
+    "tris": 556,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "141.glb",
+   "142.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-parasol",
+  "name": "Parasol",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-parasol/human-household-items-parasol.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-parasol/human-household-items-parasol_v1.glb",
+    "fbx": "models/human/human-household-items-parasol/human-household-items-parasol_v1.fbx",
+    "thumb": "thumbs/human-household-items-parasol_v1.webp",
+    "dims": [
+     0.9,
+     0.8999,
+     0.6153
+    ],
+    "tris": 1658,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "143.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-wooden-bucket",
+  "name": "Wooden Bucket",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-wooden-bucket/human-containers-wooden-bucket.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-wooden-bucket/human-containers-wooden-bucket_v1.glb",
+    "fbx": "models/human/human-containers-wooden-bucket/human-containers-wooden-bucket_v1.fbx",
+    "thumb": "thumbs/human-containers-wooden-bucket_v1.webp",
+    "dims": [
+     0.2356,
+     0.2327,
+     0.35
+    ],
+    "tris": 276,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-wooden-bucket/human-containers-wooden-bucket_v2.glb",
+    "fbx": "models/human/human-containers-wooden-bucket/human-containers-wooden-bucket_v2.fbx",
+    "thumb": "thumbs/human-containers-wooden-bucket_v2.webp",
+    "dims": [
+     0.3978,
+     0.4,
+     0.3748
+    ],
+    "tris": 812,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "144.glb",
+   "327.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-dynamite",
+  "name": "Dynamite",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-dynamite/human-tools-dynamite.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-dynamite/human-tools-dynamite_v1.glb",
+    "fbx": "models/human/human-tools-dynamite/human-tools-dynamite_v1.fbx",
+    "thumb": "thumbs/human-tools-dynamite_v1.webp",
+    "dims": [
+     0.03608,
+     0.2,
+     0.02569
+    ],
+    "tris": 214,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "145.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-nail-clipper",
+  "name": "Nail Clipper",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-nail-clipper/human-household-items-nail-clipper.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-nail-clipper/human-household-items-nail-clipper_v1.glb",
+    "fbx": "models/human/human-household-items-nail-clipper/human-household-items-nail-clipper_v1.fbx",
+    "thumb": "thumbs/human-household-items-nail-clipper_v1.webp",
+    "dims": [
+     0.0183,
+     0.08,
+     0.02806
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "146.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-pocket-knife",
+  "name": "Pocket Knife",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-pocket-knife/human-tools-pocket-knife.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-pocket-knife/human-tools-pocket-knife_v1.glb",
+    "fbx": "models/human/human-tools-pocket-knife/human-tools-pocket-knife_v1.fbx",
+    "thumb": "thumbs/human-tools-pocket-knife_v1.webp",
+    "dims": [
+     0.07593,
+     0.1,
+     0.01072
+    ],
+    "tris": 338,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "147.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-car-key",
+  "name": "Car Key",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-car-key/human-household-items-car-key.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-car-key/human-household-items-car-key_v1.glb",
+    "fbx": "models/human/human-household-items-car-key/human-household-items-car-key_v1.fbx",
+    "thumb": "thumbs/human-household-items-car-key_v1.webp",
+    "dims": [
+     0.03496,
+     0.08,
+     0.006437
+    ],
+    "tris": 302,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "148.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-key",
+  "name": "Key",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-key/human-household-items-key.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-key/human-household-items-key_v1.glb",
+    "fbx": "models/human/human-household-items-key/human-household-items-key_v1.fbx",
+    "thumb": "thumbs/human-household-items-key_v1.webp",
+    "dims": [
+     0.02766,
+     0.06,
+     0.001884
+    ],
+    "tris": 428,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "149.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-skeleton-key",
+  "name": "Skeleton Key",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key_v1.glb",
+    "fbx": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key_v1.fbx",
+    "thumb": "thumbs/human-household-items-skeleton-key_v1.webp",
+    "dims": [
+     0.03892,
+     0.1,
+     0.008487
+    ],
+    "tris": 360,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key_v2.glb",
+    "fbx": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key_v2.fbx",
+    "thumb": "thumbs/human-household-items-skeleton-key_v2.webp",
+    "dims": [
+     0.03553,
+     0.1,
+     0.007855
+    ],
+    "tris": 304,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key_v3.glb",
+    "fbx": "models/human/human-household-items-skeleton-key/human-household-items-skeleton-key_v3.fbx",
+    "thumb": "thumbs/human-household-items-skeleton-key_v3.webp",
+    "dims": [
+     0.02587,
+     0.1,
+     0.006018
+    ],
+    "tris": 316,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "150.glb",
+   "151.glb",
+   "152.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-bobby-pin",
+  "name": "Bobby Pin",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-bobby-pin/human-clothing-bobby-pin.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-bobby-pin/human-clothing-bobby-pin_v1.glb",
+    "fbx": "models/human/human-clothing-bobby-pin/human-clothing-bobby-pin_v1.fbx",
+    "thumb": "thumbs/human-clothing-bobby-pin_v1.webp",
+    "dims": [
+     0.005589,
+     0.05,
+     0.00173
+    ],
+    "tris": 448,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "153.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-padlock",
+  "name": "Padlock",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-padlock/human-household-items-padlock.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-padlock/human-household-items-padlock_v1.glb",
+    "fbx": "models/human/human-household-items-padlock/human-household-items-padlock_v1.fbx",
+    "thumb": "thumbs/human-household-items-padlock_v1.webp",
+    "dims": [
+     0.05488,
+     0.08,
+     0.02077
+    ],
+    "tris": 292,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "154.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-sewing-pin",
+  "name": "Sewing Pin",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-sewing-pin/human-household-items-sewing-pin.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-sewing-pin/human-household-items-sewing-pin_v1.glb",
+    "fbx": "models/human/human-household-items-sewing-pin/human-household-items-sewing-pin_v1.fbx",
+    "thumb": "thumbs/human-household-items-sewing-pin_v1.webp",
+    "dims": [
+     0.01005,
+     0.04,
+     0.01005
+    ],
+    "tris": 304,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "155.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-thumbtack",
+  "name": "Thumbtack",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-thumbtack/human-household-items-thumbtack.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-thumbtack/human-household-items-thumbtack_v1.glb",
+    "fbx": "models/human/human-household-items-thumbtack/human-household-items-thumbtack_v1.fbx",
+    "thumb": "thumbs/human-household-items-thumbtack_v1.webp",
+    "dims": [
+     0.007027,
+     0.02,
+     0.006859
+    ],
+    "tris": 280,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "156.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-paper-clip",
+  "name": "Paper Clip",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-paper-clip/human-household-items-paper-clip.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-paper-clip/human-household-items-paper-clip_v1.glb",
+    "fbx": "models/human/human-household-items-paper-clip/human-household-items-paper-clip_v1.fbx",
+    "thumb": "thumbs/human-household-items-paper-clip_v1.webp",
+    "dims": [
+     0.00828,
+     0.03,
+     0.0006338
+    ],
+    "tris": 324,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "157.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-magnifying-glass",
+  "name": "Magnifying Glass",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-magnifying-glass/human-tools-magnifying-glass.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-magnifying-glass/human-tools-magnifying-glass_v1.glb",
+    "fbx": "models/human/human-tools-magnifying-glass/human-tools-magnifying-glass_v1.fbx",
+    "thumb": "thumbs/human-tools-magnifying-glass_v1.webp",
+    "dims": [
+     0.09391,
+     0.2,
+     0.01753
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "158.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-pencil",
+  "name": "Pencil",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-pencil/human-household-items-pencil.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-pencil/human-household-items-pencil_v1.glb",
+    "fbx": "models/human/human-household-items-pencil/human-household-items-pencil_v1.fbx",
+    "thumb": "thumbs/human-household-items-pencil_v1.webp",
+    "dims": [
+     0.008126,
+     0.19,
+     0.008126
+    ],
+    "tris": 152,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "159.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-ice-axe",
+  "name": "Ice Axe",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-ice-axe/human-tools-ice-axe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-ice-axe/human-tools-ice-axe_v1.glb",
+    "fbx": "models/human/human-tools-ice-axe/human-tools-ice-axe_v1.fbx",
+    "thumb": "thumbs/human-tools-ice-axe_v1.webp",
+    "dims": [
+     0.6,
+     0.5744,
+     0.06037
+    ],
+    "tris": 200,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "160.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-wrench",
+  "name": "Wrench",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-wrench/human-tools-wrench.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-wrench/human-tools-wrench_v1.glb",
+    "fbx": "models/human/human-tools-wrench/human-tools-wrench_v1.fbx",
+    "thumb": "thumbs/human-tools-wrench_v1.webp",
+    "dims": [
+     0.03853,
+     0.2,
+     0.04182
+    ],
+    "tris": 322,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-tools-wrench/human-tools-wrench_v2.glb",
+    "fbx": "models/human/human-tools-wrench/human-tools-wrench_v2.fbx",
+    "thumb": "thumbs/human-tools-wrench_v2.webp",
+    "dims": [
+     0.03779,
+     0.2,
+     0.01303
+    ],
+    "tris": 284,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-tools-wrench/human-tools-wrench_v3.glb",
+    "fbx": "models/human/human-tools-wrench/human-tools-wrench_v3.fbx",
+    "thumb": "thumbs/human-tools-wrench_v3.webp",
+    "dims": [
+     0.03676,
+     0.2,
+     0.007922
+    ],
+    "tris": 244,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "161.glb",
+   "162.glb",
+   "163.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-toothbrush",
+  "name": "Toothbrush",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-toothbrush/human-household-items-toothbrush.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-toothbrush/human-household-items-toothbrush_v1.glb",
+    "fbx": "models/human/human-household-items-toothbrush/human-household-items-toothbrush_v1.fbx",
+    "thumb": "thumbs/human-household-items-toothbrush_v1.webp",
+    "dims": [
+     0.01776,
+     0.19,
+     0.01909
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "164.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-table-knife",
+  "name": "Table Knife",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-table-knife/human-household-items-table-knife.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-table-knife/human-household-items-table-knife_v1.glb",
+    "fbx": "models/human/human-household-items-table-knife/human-household-items-table-knife_v1.fbx",
+    "thumb": "thumbs/human-household-items-table-knife_v1.webp",
+    "dims": [
+     0.02598,
+     0.22,
+     0.003553
+    ],
+    "tris": 88,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "165.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-fork",
+  "name": "Fork",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-fork/human-household-items-fork.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-fork/human-household-items-fork_v1.glb",
+    "fbx": "models/human/human-household-items-fork/human-household-items-fork_v1.fbx",
+    "thumb": "thumbs/human-household-items-fork_v1.webp",
+    "dims": [
+     0.02739,
+     0.2,
+     0.0142
+    ],
+    "tris": 232,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "166.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-wooden-spoon",
+  "name": "Wooden Spoon",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-wooden-spoon/human-household-items-wooden-spoon.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-wooden-spoon/human-household-items-wooden-spoon_v1.glb",
+    "fbx": "models/human/human-household-items-wooden-spoon/human-household-items-wooden-spoon_v1.fbx",
+    "thumb": "thumbs/human-household-items-wooden-spoon_v1.webp",
+    "dims": [
+     0.06103,
+     0.3,
+     0.01682
+    ],
+    "tris": 116,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "167.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-scrub-brush",
+  "name": "Scrub Brush",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-scrub-brush/human-household-items-scrub-brush.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-scrub-brush/human-household-items-scrub-brush_v1.glb",
+    "fbx": "models/human/human-household-items-scrub-brush/human-household-items-scrub-brush_v1.fbx",
+    "thumb": "thumbs/human-household-items-scrub-brush_v1.webp",
+    "dims": [
+     0.04274,
+     0.2,
+     0.04121
+    ],
+    "tris": 156,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "168.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-dustpan",
+  "name": "Dustpan",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-dustpan/human-household-items-dustpan.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-dustpan/human-household-items-dustpan_v1.glb",
+    "fbx": "models/human/human-household-items-dustpan/human-household-items-dustpan_v1.fbx",
+    "thumb": "thumbs/human-household-items-dustpan_v1.webp",
+    "dims": [
+     0.182,
+     0.3,
+     0.06827
+    ],
+    "tris": 206,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "169.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-coffin",
+  "name": "Coffin",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-coffin/human-containers-coffin.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-coffin/human-containers-coffin_v1.glb",
+    "fbx": "models/human/human-containers-coffin/human-containers-coffin_v1.fbx",
+    "thumb": "thumbs/human-containers-coffin_v1.webp",
+    "dims": [
+     0.4984,
+     2.0,
+     0.4792
+    ],
+    "tris": 26,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-coffin/human-containers-coffin_v2.glb",
+    "fbx": "models/human/human-containers-coffin/human-containers-coffin_v2.fbx",
+    "thumb": "thumbs/human-containers-coffin_v2.webp",
+    "dims": [
+     0.7584,
+     2.0,
+     0.5739
+    ],
+    "tris": 672,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-coffin/human-containers-coffin_v3.glb",
+    "fbx": "models/human/human-containers-coffin/human-containers-coffin_v3.fbx",
+    "thumb": "thumbs/human-containers-coffin_v3.webp",
+    "dims": [
+     0.7584,
+     2.0,
+     0.5739
+    ],
+    "tris": 672,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-coffin/human-containers-coffin_v4.glb",
+    "fbx": "models/human/human-containers-coffin/human-containers-coffin_v4.fbx",
+    "thumb": "thumbs/human-containers-coffin_v4.webp",
+    "dims": [
+     0.7584,
+     2.0,
+     0.5739
+    ],
+    "tris": 320,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-coffin/human-containers-coffin_v5.glb",
+    "fbx": "models/human/human-containers-coffin/human-containers-coffin_v5.fbx",
+    "thumb": "thumbs/human-containers-coffin_v5.webp",
+    "dims": [
+     0.7584,
+     2.0,
+     0.5893
+    ],
+    "tris": 244,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "170.glb",
+   "303.glb",
+   "304.glb",
+   "305.glb",
+   "306.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-bucket",
+  "name": "Bucket",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-bucket/human-household-items-bucket.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-bucket/human-household-items-bucket_v1.glb",
+    "fbx": "models/human/human-household-items-bucket/human-household-items-bucket_v1.fbx",
+    "thumb": "thumbs/human-household-items-bucket_v1.webp",
+    "dims": [
+     0.2647,
+     0.3,
+     0.1631
+    ],
+    "tris": 134,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "171.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-lipstick",
+  "name": "Lipstick",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-lipstick/human-household-items-lipstick.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-lipstick/human-household-items-lipstick_v1.glb",
+    "fbx": "models/human/human-household-items-lipstick/human-household-items-lipstick_v1.fbx",
+    "thumb": "thumbs/human-household-items-lipstick_v1.webp",
+    "dims": [
+     0.01629,
+     0.08,
+     0.01629
+    ],
+    "tris": 166,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "172.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-soap-bar",
+  "name": "Soap Bar",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-soap-bar/human-household-items-soap-bar.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-soap-bar/human-household-items-soap-bar_v1.glb",
+    "fbx": "models/human/human-household-items-soap-bar/human-household-items-soap-bar_v1.fbx",
+    "thumb": "thumbs/human-household-items-soap-bar_v1.webp",
+    "dims": [
+     0.05671,
+     0.09,
+     0.02619
+    ],
+    "tris": 164,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "173.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-binoculars",
+  "name": "Binoculars",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-binoculars/human-tools-binoculars.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-binoculars/human-tools-binoculars_v1.glb",
+    "fbx": "models/human/human-tools-binoculars/human-tools-binoculars_v1.fbx",
+    "thumb": "thumbs/human-tools-binoculars_v1.webp",
+    "dims": [
+     0.09682,
+     0.15,
+     0.04727
+    ],
+    "tris": 785,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "174.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-broom",
+  "name": "Broom",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-broom/human-household-items-broom.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-broom/human-household-items-broom_v1.glb",
+    "fbx": "models/human/human-household-items-broom/human-household-items-broom_v1.fbx",
+    "thumb": "thumbs/human-household-items-broom_v1.webp",
+    "dims": [
+     0.3371,
+     0.1914,
+     1.4
+    ],
+    "tris": 456,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "175.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-hammer",
+  "name": "Hammer",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-hammer/human-tools-hammer.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-hammer/human-tools-hammer_v1.glb",
+    "fbx": "models/human/human-tools-hammer/human-tools-hammer_v1.fbx",
+    "thumb": "thumbs/human-tools-hammer_v1.webp",
+    "dims": [
+     0.1581,
+     0.33,
+     0.04289
+    ],
+    "tris": 416,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "176.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-push-broom",
+  "name": "Push Broom",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-push-broom/human-household-items-push-broom.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-push-broom/human-household-items-push-broom_v1.glb",
+    "fbx": "models/human/human-household-items-push-broom/human-household-items-push-broom_v1.fbx",
+    "thumb": "thumbs/human-household-items-push-broom_v1.webp",
+    "dims": [
+     0.5492,
+     0.1681,
+     1.5
+    ],
+    "tris": 228,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "177.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-telescope",
+  "name": "Telescope",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-telescope/human-tools-telescope.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-telescope/human-tools-telescope_v1.glb",
+    "fbx": "models/human/human-tools-telescope/human-tools-telescope_v1.fbx",
+    "thumb": "thumbs/human-tools-telescope_v1.webp",
+    "dims": [
+     0.6715,
+     0.8767,
+     1.5
+    ],
+    "tris": 1781,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "178.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-fire-extinguisher",
+  "name": "Fire Extinguisher",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-fire-extinguisher/human-household-items-fire-extinguisher.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-fire-extinguisher/human-household-items-fire-extinguisher_v1.glb",
+    "fbx": "models/human/human-household-items-fire-extinguisher/human-household-items-fire-extinguisher_v1.fbx",
+    "thumb": "thumbs/human-household-items-fire-extinguisher_v1.webp",
+    "dims": [
+     0.3625,
+     0.1879,
+     0.6
+    ],
+    "tris": 380,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "179.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-kitchen-knife",
+  "name": "Kitchen Knife",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-kitchen-knife/human-household-items-kitchen-knife.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-kitchen-knife/human-household-items-kitchen-knife_v1.glb",
+    "fbx": "models/human/human-household-items-kitchen-knife/human-household-items-kitchen-knife_v1.fbx",
+    "thumb": "thumbs/human-household-items-kitchen-knife_v1.webp",
+    "dims": [
+     0.03982,
+     0.3,
+     0.01693
+    ],
+    "tris": 236,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "180.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-match",
+  "name": "Match",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-match/human-household-items-match.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-match/human-household-items-match_v1.glb",
+    "fbx": "models/human/human-household-items-match/human-household-items-match_v1.fbx",
+    "thumb": "thumbs/human-household-items-match_v1.webp",
+    "dims": [
+     0.003843,
+     0.05,
+     0.003843
+    ],
+    "tris": 124,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-match/human-household-items-match_v2.glb",
+    "fbx": "models/human/human-household-items-match/human-household-items-match_v2.fbx",
+    "thumb": "thumbs/human-household-items-match_v2.webp",
+    "dims": [
+     0.004265,
+     0.05,
+     0.003971
+    ],
+    "tris": 138,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-match/human-household-items-match_v3.glb",
+    "fbx": "models/human/human-household-items-match/human-household-items-match_v3.fbx",
+    "thumb": "thumbs/human-household-items-match_v3.webp",
+    "dims": [
+     0.004153,
+     0.05,
+     0.004061
+    ],
+    "tris": 122,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-match/human-household-items-match_v4.glb",
+    "fbx": "models/human/human-household-items-match/human-household-items-match_v4.fbx",
+    "thumb": "thumbs/human-household-items-match_v4.webp",
+    "dims": [
+     0.002991,
+     0.05,
+     0.003058
+    ],
+    "tris": 100,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "181.glb",
+   "182.glb",
+   "183.glb",
+   "184.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-lighter",
+  "name": "Lighter",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-lighter/human-household-items-lighter.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-lighter/human-household-items-lighter_v1.glb",
+    "fbx": "models/human/human-household-items-lighter/human-household-items-lighter_v1.fbx",
+    "thumb": "thumbs/human-household-items-lighter_v1.webp",
+    "dims": [
+     0.02489,
+     0.08,
+     0.009652
+    ],
+    "tris": 186,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "185.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-toilet-paper",
+  "name": "Toilet Paper",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-toilet-paper/human-household-items-toilet-paper.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-toilet-paper/human-household-items-toilet-paper_v1.glb",
+    "fbx": "models/human/human-household-items-toilet-paper/human-household-items-toilet-paper_v1.fbx",
+    "thumb": "thumbs/human-household-items-toilet-paper_v1.webp",
+    "dims": [
+     0.1197,
+     0.12,
+     0.1197
+    ],
+    "tris": 288,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "186.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-arrow",
+  "name": "Arrow",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-arrow/human-tools-arrow.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-arrow/human-tools-arrow_v1.glb",
+    "fbx": "models/human/human-tools-arrow/human-tools-arrow_v1.fbx",
+    "thumb": "thumbs/human-tools-arrow_v1.webp",
+    "dims": [
+     0.08106,
+     0.75,
+     0.01914
+    ],
+    "tris": 400,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "187.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-spear",
+  "name": "Spear",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-spear/human-tools-spear.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-spear/human-tools-spear_v1.glb",
+    "fbx": "models/human/human-tools-spear/human-tools-spear_v1.fbx",
+    "thumb": "thumbs/human-tools-spear_v1.webp",
+    "dims": [
+     0.1412,
+     2.0,
+     0.06253
+    ],
+    "tris": 1182,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "188.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-sword",
+  "name": "Sword",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-sword/human-tools-sword.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-sword/human-tools-sword_v1.glb",
+    "fbx": "models/human/human-tools-sword/human-tools-sword_v1.fbx",
+    "thumb": "thumbs/human-tools-sword_v1.webp",
+    "dims": [
+     0.208,
+     1.0,
+     0.0612
+    ],
+    "tris": 152,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "189.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-bear-trap",
+  "name": "Bear Trap",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-bear-trap/human-tools-bear-trap.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-bear-trap/human-tools-bear-trap_v1.glb",
+    "fbx": "models/human/human-tools-bear-trap/human-tools-bear-trap_v1.fbx",
+    "thumb": "thumbs/human-tools-bear-trap_v1.webp",
+    "dims": [
+     0.4,
+     0.3016,
+     0.1986
+    ],
+    "tris": 804,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "190.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-rifle",
+  "name": "Rifle",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-rifle/human-tools-rifle.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-rifle/human-tools-rifle_v1.glb",
+    "fbx": "models/human/human-tools-rifle/human-tools-rifle_v1.fbx",
+    "thumb": "thumbs/human-tools-rifle_v1.webp",
+    "dims": [
+     0.1896,
+     1.1,
+     0.0716
+    ],
+    "tris": 402,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "191.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-arrowhead",
+  "name": "Arrowhead",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-arrowhead/human-tools-arrowhead.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-arrowhead/human-tools-arrowhead_v1.glb",
+    "fbx": "models/human/human-tools-arrowhead/human-tools-arrowhead_v1.fbx",
+    "thumb": "thumbs/human-tools-arrowhead_v1.webp",
+    "dims": [
+     0.02806,
+     0.06,
+     0.01383
+    ],
+    "tris": 122,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-tools-arrowhead/human-tools-arrowhead_v2.glb",
+    "fbx": "models/human/human-tools-arrowhead/human-tools-arrowhead_v2.fbx",
+    "thumb": "thumbs/human-tools-arrowhead_v2.webp",
+    "dims": [
+     0.03518,
+     0.06,
+     0.0142
+    ],
+    "tris": 114,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "192.glb",
+   "193.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-pistol",
+  "name": "Pistol",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-pistol/human-tools-pistol.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-pistol/human-tools-pistol_v1.glb",
+    "fbx": "models/human/human-tools-pistol/human-tools-pistol_v1.fbx",
+    "thumb": "thumbs/human-tools-pistol_v1.webp",
+    "dims": [
+     0.02496,
+     0.2,
+     0.1321
+    ],
+    "tris": 892,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "194.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-lever",
+  "name": "Lever",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-lever/human-tools-lever.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-lever/human-tools-lever_v1.glb",
+    "fbx": "models/human/human-tools-lever/human-tools-lever_v1.fbx",
+    "thumb": "thumbs/human-tools-lever_v1.webp",
+    "dims": [
+     0.1865,
+     0.1854,
+     0.3
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "195.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-tools-cannonball",
+  "name": "Cannonball",
+  "category": "Human",
+  "subcategory": "Tools",
+  "tags": [],
+  "blend": "models/human/human-tools-cannonball/human-tools-cannonball.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-tools-cannonball/human-tools-cannonball_v1.glb",
+    "fbx": "models/human/human-tools-cannonball/human-tools-cannonball_v1.fbx",
+    "thumb": "thumbs/human-tools-cannonball_v1.webp",
+    "dims": [
+     0.15,
+     0.15,
+     0.15
+    ],
+    "tris": 264,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "196.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-book",
+  "name": "Book",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-book/human-household-items-book.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v1.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v1.fbx",
+    "thumb": "thumbs/human-household-items-book_v1.webp",
+    "dims": [
+     0.1925,
+     0.25,
+     0.04363
+    ],
+    "tris": 92,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v2.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v2.fbx",
+    "thumb": "thumbs/human-household-items-book_v2.webp",
+    "dims": [
+     0.1925,
+     0.25,
+     0.02401
+    ],
+    "tris": 268,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v3.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v3.fbx",
+    "thumb": "thumbs/human-household-items-book_v3.webp",
+    "dims": [
+     0.1977,
+     0.25,
+     0.04673
+    ],
+    "tris": 236,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v4.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v4.fbx",
+    "thumb": "thumbs/human-household-items-book_v4.webp",
+    "dims": [
+     0.25,
+     0.1904,
+     0.02363
+    ],
+    "tris": 92,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v5.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v5.fbx",
+    "thumb": "thumbs/human-household-items-book_v5.webp",
+    "dims": [
+     0.25,
+     0.2312,
+     0.07628
+    ],
+    "tris": 204,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v6.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v6.fbx",
+    "thumb": "thumbs/human-household-items-book_v6.webp",
+    "dims": [
+     0.25,
+     0.1793,
+     0.02293
+    ],
+    "tris": 382,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v7.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v7.fbx",
+    "thumb": "thumbs/human-household-items-book_v7.webp",
+    "dims": [
+     0.1837,
+     0.25,
+     0.02906
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v8.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v8.fbx",
+    "thumb": "thumbs/human-household-items-book_v8.webp",
+    "dims": [
+     0.1837,
+     0.25,
+     0.02825
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v9.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v9.fbx",
+    "thumb": "thumbs/human-household-items-book_v9.webp",
+    "dims": [
+     0.25,
+     0.1711,
+     0.02735
+    ],
+    "tris": 174,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v10.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v10.fbx",
+    "thumb": "thumbs/human-household-items-book_v10.webp",
+    "dims": [
+     0.1939,
+     0.25,
+     0.06737
+    ],
+    "tris": 272,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v11.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v11.fbx",
+    "thumb": "thumbs/human-household-items-book_v11.webp",
+    "dims": [
+     0.25,
+     0.155,
+     0.01982
+    ],
+    "tris": 284,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-household-items-book/human-household-items-book_v12.glb",
+    "fbx": "models/human/human-household-items-book/human-household-items-book_v12.fbx",
+    "thumb": "thumbs/human-household-items-book_v12.webp",
+    "dims": [
+     0.1786,
+     0.25,
+     0.03868
+    ],
+    "tris": 508,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "197.glb",
+   "198.glb",
+   "199.glb",
+   "200.glb",
+   "201.glb",
+   "202.glb",
+   "203.glb",
+   "204.glb",
+   "205.glb",
+   "206.glb",
+   "207.glb",
+   "208.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-banjo",
+  "name": "Banjo",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-banjo/human-music-banjo.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-banjo/human-music-banjo_v1.glb",
+    "fbx": "models/human/human-music-banjo/human-music-banjo_v1.fbx",
+    "thumb": "thumbs/human-music-banjo_v1.webp",
+    "dims": [
+     0.3305,
+     0.95,
+     0.07396
+    ],
+    "tris": 1050,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "209.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-taiko-drum",
+  "name": "Taiko Drum",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-taiko-drum/human-music-taiko-drum.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-taiko-drum/human-music-taiko-drum_v1.glb",
+    "fbx": "models/human/human-music-taiko-drum/human-music-taiko-drum_v1.fbx",
+    "thumb": "thumbs/human-music-taiko-drum_v1.webp",
+    "dims": [
+     0.4161,
+     0.4885,
+     0.7
+    ],
+    "tris": 543,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "210.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-conga-drum",
+  "name": "Conga Drum",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-conga-drum/human-music-conga-drum.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-conga-drum/human-music-conga-drum_v1.glb",
+    "fbx": "models/human/human-music-conga-drum/human-music-conga-drum_v1.fbx",
+    "thumb": "thumbs/human-music-conga-drum_v1.webp",
+    "dims": [
+     0.3677,
+     0.3677,
+     0.75
+    ],
+    "tris": 416,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "211.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-djembe",
+  "name": "Djembe",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-djembe/human-music-djembe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-djembe/human-music-djembe_v1.glb",
+    "fbx": "models/human/human-music-djembe/human-music-djembe_v1.fbx",
+    "thumb": "thumbs/human-music-djembe_v1.webp",
+    "dims": [
+     0.3129,
+     0.3129,
+     0.6
+    ],
+    "tris": 960,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "212.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-bongo-drums",
+  "name": "Bongo Drums",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-bongo-drums/human-music-bongo-drums.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-bongo-drums/human-music-bongo-drums_v1.glb",
+    "fbx": "models/human/human-music-bongo-drums/human-music-bongo-drums_v1.fbx",
+    "thumb": "thumbs/human-music-bongo-drums_v1.webp",
+    "dims": [
+     0.4,
+     0.1923,
+     0.1295
+    ],
+    "tris": 968,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "213.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-gramophone",
+  "name": "Gramophone",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-gramophone/human-music-gramophone.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-gramophone/human-music-gramophone_v1.glb",
+    "fbx": "models/human/human-music-gramophone/human-music-gramophone_v1.fbx",
+    "thumb": "thumbs/human-music-gramophone_v1.webp",
+    "dims": [
+     0.3657,
+     0.4,
+     0.1705
+    ],
+    "tris": 212,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "214.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-gramophone-horn",
+  "name": "Gramophone Horn",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-gramophone-horn/human-music-gramophone-horn.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-gramophone-horn/human-music-gramophone-horn_v1.glb",
+    "fbx": "models/human/human-music-gramophone-horn/human-music-gramophone-horn_v1.fbx",
+    "thumb": "thumbs/human-music-gramophone-horn_v1.webp",
+    "dims": [
+     0.3969,
+     0.4241,
+     0.5
+    ],
+    "tris": 486,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "215.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-violin",
+  "name": "Violin",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-violin/human-music-violin.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-violin/human-music-violin_v1.glb",
+    "fbx": "models/human/human-music-violin/human-music-violin_v1.fbx",
+    "thumb": "thumbs/human-music-violin_v1.webp",
+    "dims": [
+     0.1846,
+     0.6,
+     0.1021
+    ],
+    "tris": 1298,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-music-violin/human-music-violin_v2.glb",
+    "fbx": "models/human/human-music-violin/human-music-violin_v2.fbx",
+    "thumb": "thumbs/human-music-violin_v2.webp",
+    "dims": [
+     0.2087,
+     0.6,
+     0.1065
+    ],
+    "tris": 1376,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-music-violin/human-music-violin_v3.glb",
+    "fbx": "models/human/human-music-violin/human-music-violin_v3.fbx",
+    "thumb": "thumbs/human-music-violin_v3.webp",
+    "dims": [
+     0.2299,
+     0.6,
+     0.142
+    ],
+    "tris": 1299,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "216.glb",
+   "223.glb",
+   "224.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-french-horn",
+  "name": "French Horn",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-french-horn/human-music-french-horn.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-french-horn/human-music-french-horn_v1.glb",
+    "fbx": "models/human/human-music-french-horn/human-music-french-horn_v1.fbx",
+    "thumb": "thumbs/human-music-french-horn_v1.webp",
+    "dims": [
+     0.3799,
+     0.5,
+     0.2723
+    ],
+    "tris": 1698,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "217.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-harp",
+  "name": "Harp",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-harp/human-music-harp.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-harp/human-music-harp_v1.glb",
+    "fbx": "models/human/human-music-harp/human-music-harp_v1.fbx",
+    "thumb": "thumbs/human-music-harp_v1.webp",
+    "dims": [
+     0.4763,
+     1.078,
+     1.7
+    ],
+    "tris": 880,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "218.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-upright-piano",
+  "name": "Upright Piano",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-upright-piano/human-music-upright-piano.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-upright-piano/human-music-upright-piano_v1.glb",
+    "fbx": "models/human/human-music-upright-piano/human-music-upright-piano_v1.fbx",
+    "thumb": "thumbs/human-music-upright-piano_v1.webp",
+    "dims": [
+     1.5,
+     0.5711,
+     1.382
+    ],
+    "tris": 1230,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "219.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-trombone",
+  "name": "Trombone",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-trombone/human-music-trombone.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-trombone/human-music-trombone_v1.glb",
+    "fbx": "models/human/human-music-trombone/human-music-trombone_v1.fbx",
+    "thumb": "thumbs/human-music-trombone_v1.webp",
+    "dims": [
+     0.3473,
+     1.2,
+     0.2905
+    ],
+    "tris": 1080,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "220.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-trumpet",
+  "name": "Trumpet",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-trumpet/human-music-trumpet.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-trumpet/human-music-trumpet_v1.glb",
+    "fbx": "models/human/human-music-trumpet/human-music-trumpet_v1.fbx",
+    "thumb": "thumbs/human-music-trumpet_v1.webp",
+    "dims": [
+     0.152,
+     0.5,
+     0.1164
+    ],
+    "tris": 845,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "221.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-saxophone",
+  "name": "Saxophone",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-saxophone/human-music-saxophone.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-saxophone/human-music-saxophone_v1.glb",
+    "fbx": "models/human/human-music-saxophone/human-music-saxophone_v1.fbx",
+    "thumb": "thumbs/human-music-saxophone_v1.webp",
+    "dims": [
+     0.1447,
+     0.4255,
+     0.8
+    ],
+    "tris": 891,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "222.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-grand-piano",
+  "name": "Grand Piano",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-grand-piano/human-music-grand-piano.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-grand-piano/human-music-grand-piano_v1.glb",
+    "fbx": "models/human/human-music-grand-piano/human-music-grand-piano_v1.fbx",
+    "thumb": "thumbs/human-music-grand-piano_v1.webp",
+    "dims": [
+     1.309,
+     2.0,
+     1.307
+    ],
+    "tris": 3248,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "225.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-electric-guitar",
+  "name": "Electric Guitar",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-electric-guitar/human-music-electric-guitar.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-electric-guitar/human-music-electric-guitar_v1.glb",
+    "fbx": "models/human/human-music-electric-guitar/human-music-electric-guitar_v1.fbx",
+    "thumb": "thumbs/human-music-electric-guitar_v1.webp",
+    "dims": [
+     0.2977,
+     1.0,
+     0.05221
+    ],
+    "tris": 1171,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-music-electric-guitar/human-music-electric-guitar_v2.glb",
+    "fbx": "models/human/human-music-electric-guitar/human-music-electric-guitar_v2.fbx",
+    "thumb": "thumbs/human-music-electric-guitar_v2.webp",
+    "dims": [
+     0.3262,
+     1.0,
+     0.0493
+    ],
+    "tris": 1206,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "226.glb",
+   "227.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-turntable",
+  "name": "Turntable",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-turntable/human-music-turntable.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-turntable/human-music-turntable_v1.glb",
+    "fbx": "models/human/human-music-turntable/human-music-turntable_v1.fbx",
+    "thumb": "thumbs/human-music-turntable_v1.webp",
+    "dims": [
+     0.45,
+     0.354,
+     0.1185
+    ],
+    "tris": 642,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "228.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-snare-drum",
+  "name": "Snare Drum",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-snare-drum/human-music-snare-drum.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-snare-drum/human-music-snare-drum_v1.glb",
+    "fbx": "models/human/human-music-snare-drum/human-music-snare-drum_v1.fbx",
+    "thumb": "thumbs/human-music-snare-drum_v1.webp",
+    "dims": [
+     0.5013,
+     0.4962,
+     0.9
+    ],
+    "tris": 1543,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-music-snare-drum/human-music-snare-drum_v2.glb",
+    "fbx": "models/human/human-music-snare-drum/human-music-snare-drum_v2.fbx",
+    "thumb": "thumbs/human-music-snare-drum_v2.webp",
+    "dims": [
+     0.7179,
+     0.7399,
+     0.9
+    ],
+    "tris": 1028,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "229.glb",
+   "231.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-drum-kit",
+  "name": "Drum Kit",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-drum-kit/human-music-drum-kit.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-drum-kit/human-music-drum-kit_v1.glb",
+    "fbx": "models/human/human-music-drum-kit/human-music-drum-kit_v1.fbx",
+    "thumb": "thumbs/human-music-drum-kit_v1.webp",
+    "dims": [
+     1.001,
+     0.7525,
+     1.2
+    ],
+    "tris": 1039,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "230.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-floor-tom",
+  "name": "Floor Tom",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-floor-tom/human-music-floor-tom.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-floor-tom/human-music-floor-tom_v1.glb",
+    "fbx": "models/human/human-music-floor-tom/human-music-floor-tom_v1.fbx",
+    "thumb": "thumbs/human-music-floor-tom_v1.webp",
+    "dims": [
+     0.4526,
+     0.4533,
+     0.6
+    ],
+    "tris": 882,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "232.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-cymbal",
+  "name": "Cymbal",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-cymbal/human-music-cymbal.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-cymbal/human-music-cymbal_v1.glb",
+    "fbx": "models/human/human-music-cymbal/human-music-cymbal_v1.fbx",
+    "thumb": "thumbs/human-music-cymbal_v1.webp",
+    "dims": [
+     0.5539,
+     0.5073,
+     1.2
+    ],
+    "tris": 1215,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-music-cymbal/human-music-cymbal_v2.glb",
+    "fbx": "models/human/human-music-cymbal/human-music-cymbal_v2.fbx",
+    "thumb": "thumbs/human-music-cymbal_v2.webp",
+    "dims": [
+     0.6341,
+     0.615,
+     1.2
+    ],
+    "tris": 1359,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "233.glb",
+   "234.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-hand-bell",
+  "name": "Hand Bell",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-hand-bell/human-music-hand-bell.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-hand-bell/human-music-hand-bell_v1.glb",
+    "fbx": "models/human/human-music-hand-bell/human-music-hand-bell_v1.fbx",
+    "thumb": "thumbs/human-music-hand-bell_v1.webp",
+    "dims": [
+     0.1037,
+     0.1037,
+     0.2
+    ],
+    "tris": 630,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "235.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-guitar-pick",
+  "name": "Guitar Pick",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-guitar-pick/human-music-guitar-pick.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-guitar-pick/human-music-guitar-pick_v1.glb",
+    "fbx": "models/human/human-music-guitar-pick/human-music-guitar-pick_v1.fbx",
+    "thumb": "thumbs/human-music-guitar-pick_v1.webp",
+    "dims": [
+     0.02594,
+     0.03,
+     0.002865
+    ],
+    "tris": 144,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "236.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-music-box-cylinder",
+  "name": "Music Box Cylinder",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-music-box-cylinder/human-music-music-box-cylinder.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-music-box-cylinder/human-music-music-box-cylinder_v1.glb",
+    "fbx": "models/human/human-music-music-box-cylinder/human-music-music-box-cylinder_v1.fbx",
+    "thumb": "thumbs/human-music-music-box-cylinder_v1.webp",
+    "dims": [
+     0.05408,
+     0.1,
+     0.05408
+    ],
+    "tris": 686,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "237.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-music-box-crank",
+  "name": "Music Box Crank",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-music-box-crank/human-music-music-box-crank.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-music-box-crank/human-music-music-box-crank_v1.glb",
+    "fbx": "models/human/human-music-music-box-crank/human-music-music-box-crank_v1.fbx",
+    "thumb": "thumbs/human-music-music-box-crank_v1.webp",
+    "dims": [
+     0.08,
+     0.01567,
+     0.006204
+    ],
+    "tris": 52,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "238.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-music-box",
+  "name": "Music Box",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-music-box/human-music-music-box.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-music-box/human-music-music-box_v1.glb",
+    "fbx": "models/human/human-music-music-box/human-music-music-box_v1.fbx",
+    "thumb": "thumbs/human-music-music-box_v1.webp",
+    "dims": [
+     0.08842,
+     0.1084,
+     0.12
+    ],
+    "tris": 222,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "239.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-music-air-horn",
+  "name": "Air Horn",
+  "category": "Human",
+  "subcategory": "Music",
+  "tags": [],
+  "blend": "models/human/human-music-air-horn/human-music-air-horn.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-music-air-horn/human-music-air-horn_v1.glb",
+    "fbx": "models/human/human-music-air-horn/human-music-air-horn_v1.fbx",
+    "thumb": "thumbs/human-music-air-horn_v1.webp",
+    "dims": [
+     0.07747,
+     0.1925,
+     0.25
+    ],
+    "tris": 332,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "240.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-underwear",
+  "name": "Underwear",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-underwear/human-clothing-underwear.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-underwear/human-clothing-underwear_v1.glb",
+    "fbx": "models/human/human-clothing-underwear/human-clothing-underwear_v1.fbx",
+    "thumb": "thumbs/human-clothing-underwear_v1.webp",
+    "dims": [
+     0.3,
+     0.1062,
+     0.1793
+    ],
+    "tris": 272,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "241.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-bra",
+  "name": "Bra",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-bra/human-clothing-bra.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-bra/human-clothing-bra_v1.glb",
+    "fbx": "models/human/human-clothing-bra/human-clothing-bra_v1.fbx",
+    "thumb": "thumbs/human-clothing-bra_v1.webp",
+    "dims": [
+     0.3,
+     0.1391,
+     0.2092
+    ],
+    "tris": 360,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "242.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-pants",
+  "name": "Pants",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-pants/human-clothing-pants.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-pants/human-clothing-pants_v1.glb",
+    "fbx": "models/human/human-clothing-pants/human-clothing-pants_v1.fbx",
+    "thumb": "thumbs/human-clothing-pants_v1.webp",
+    "dims": [
+     0.391,
+     0.2363,
+     1.0
+    ],
+    "tris": 440,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "243.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-dress",
+  "name": "Dress",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-dress/human-clothing-dress.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-dress/human-clothing-dress_v1.glb",
+    "fbx": "models/human/human-clothing-dress/human-clothing-dress_v1.fbx",
+    "thumb": "thumbs/human-clothing-dress_v1.webp",
+    "dims": [
+     0.5029,
+     0.2892,
+     1.2
+    ],
+    "tris": 308,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "244.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-necktie",
+  "name": "Necktie",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-necktie/human-clothing-necktie.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-necktie/human-clothing-necktie_v1.glb",
+    "fbx": "models/human/human-clothing-necktie/human-clothing-necktie_v1.fbx",
+    "thumb": "thumbs/human-clothing-necktie_v1.webp",
+    "dims": [
+     0.1464,
+     0.1042,
+     0.5
+    ],
+    "tris": 364,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "245.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-shirt",
+  "name": "Shirt",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-shirt/human-clothing-shirt.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-shirt/human-clothing-shirt_v1.glb",
+    "fbx": "models/human/human-clothing-shirt/human-clothing-shirt_v1.fbx",
+    "thumb": "thumbs/human-clothing-shirt_v1.webp",
+    "dims": [
+     0.6448,
+     0.1757,
+     0.7
+    ],
+    "tris": 228,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-shirt/human-clothing-shirt_v2.glb",
+    "fbx": "models/human/human-clothing-shirt/human-clothing-shirt_v2.fbx",
+    "thumb": "thumbs/human-clothing-shirt_v2.webp",
+    "dims": [
+     0.6555,
+     0.1839,
+     0.7
+    ],
+    "tris": 228,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "246.glb",
+   "247.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-bowler-hat",
+  "name": "Bowler Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-bowler-hat/human-clothing-bowler-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-bowler-hat/human-clothing-bowler-hat_v1.glb",
+    "fbx": "models/human/human-clothing-bowler-hat/human-clothing-bowler-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-bowler-hat_v1.webp",
+    "dims": [
+     0.3,
+     0.2717,
+     0.121
+    ],
+    "tris": 352,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "248.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-beret",
+  "name": "Beret",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-beret/human-clothing-beret.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-beret/human-clothing-beret_v1.glb",
+    "fbx": "models/human/human-clothing-beret/human-clothing-beret_v1.fbx",
+    "thumb": "thumbs/human-clothing-beret_v1.webp",
+    "dims": [
+     0.25,
+     0.25,
+     0.08892
+    ],
+    "tris": 384,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "249.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-hard-hat",
+  "name": "Hard Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-hard-hat/human-clothing-hard-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-hard-hat/human-clothing-hard-hat_v1.glb",
+    "fbx": "models/human/human-clothing-hard-hat/human-clothing-hard-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-hard-hat_v1.webp",
+    "dims": [
+     0.2052,
+     0.3,
+     0.1317
+    ],
+    "tris": 332,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "250.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-panama-hat",
+  "name": "Panama Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-panama-hat/human-clothing-panama-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-panama-hat/human-clothing-panama-hat_v1.glb",
+    "fbx": "models/human/human-clothing-panama-hat/human-clothing-panama-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-panama-hat_v1.webp",
+    "dims": [
+     0.35,
+     0.35,
+     0.1034
+    ],
+    "tris": 290,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "251.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-boater-hat",
+  "name": "Boater Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-boater-hat/human-clothing-boater-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-boater-hat/human-clothing-boater-hat_v1.glb",
+    "fbx": "models/human/human-clothing-boater-hat/human-clothing-boater-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-boater-hat_v1.webp",
+    "dims": [
+     0.33,
+     0.33,
+     0.1012
+    ],
+    "tris": 342,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "252.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-graduation-cap",
+  "name": "Graduation Cap",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-graduation-cap/human-clothing-graduation-cap.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-graduation-cap/human-clothing-graduation-cap_v1.glb",
+    "fbx": "models/human/human-clothing-graduation-cap/human-clothing-graduation-cap_v1.fbx",
+    "thumb": "thumbs/human-clothing-graduation-cap_v1.webp",
+    "dims": [
+     0.2943,
+     0.3,
+     0.1012
+    ],
+    "tris": 284,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "253.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-headband",
+  "name": "Headband",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-headband/human-clothing-headband.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-headband/human-clothing-headband_v1.glb",
+    "fbx": "models/human/human-clothing-headband/human-clothing-headband_v1.fbx",
+    "thumb": "thumbs/human-clothing-headband_v1.webp",
+    "dims": [
+     0.1256,
+     0.2,
+     0.02815
+    ],
+    "tris": 176,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "254.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-sun-hat",
+  "name": "Sun Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-sun-hat/human-clothing-sun-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-sun-hat/human-clothing-sun-hat_v1.glb",
+    "fbx": "models/human/human-clothing-sun-hat/human-clothing-sun-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-sun-hat_v1.webp",
+    "dims": [
+     0.4,
+     0.4,
+     0.1123
+    ],
+    "tris": 256,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "255.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-top-hat",
+  "name": "Top Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-top-hat/human-clothing-top-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-top-hat/human-clothing-top-hat_v1.glb",
+    "fbx": "models/human/human-clothing-top-hat/human-clothing-top-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-top-hat_v1.webp",
+    "dims": [
+     0.285,
+     0.3,
+     0.2246
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "256.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-crown",
+  "name": "Crown",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-crown/human-clothing-crown.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-crown/human-clothing-crown_v1.glb",
+    "fbx": "models/human/human-clothing-crown/human-clothing-crown_v1.fbx",
+    "thumb": "thumbs/human-clothing-crown_v1.webp",
+    "dims": [
+     0.2,
+     0.1929,
+     0.1223
+    ],
+    "tris": 900,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "257.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-fez",
+  "name": "Fez",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-fez/human-clothing-fez.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-fez/human-clothing-fez_v1.glb",
+    "fbx": "models/human/human-clothing-fez/human-clothing-fez_v1.fbx",
+    "thumb": "thumbs/human-clothing-fez_v1.webp",
+    "dims": [
+     0.2,
+     0.1811,
+     0.1186
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "258.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-skullcap",
+  "name": "Skullcap",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [
+   "Kufi Cap"
+  ],
+  "blend": "models/human/human-clothing-skullcap/human-clothing-skullcap.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-skullcap/human-clothing-skullcap_v1.glb",
+    "fbx": "models/human/human-clothing-skullcap/human-clothing-skullcap_v1.fbx",
+    "thumb": "thumbs/human-clothing-skullcap_v1.webp",
+    "dims": [
+     0.2,
+     0.2,
+     0.09817
+    ],
+    "tris": 576,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "259.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-trapper-hat",
+  "name": "Trapper Hat",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-trapper-hat/human-clothing-trapper-hat.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-trapper-hat/human-clothing-trapper-hat_v1.glb",
+    "fbx": "models/human/human-clothing-trapper-hat/human-clothing-trapper-hat_v1.fbx",
+    "thumb": "thumbs/human-clothing-trapper-hat_v1.webp",
+    "dims": [
+     0.3,
+     0.26,
+     0.2104
+    ],
+    "tris": 412,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "260.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-mining-helmet",
+  "name": "Mining Helmet",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-mining-helmet/human-clothing-mining-helmet.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-mining-helmet/human-clothing-mining-helmet_v1.glb",
+    "fbx": "models/human/human-clothing-mining-helmet/human-clothing-mining-helmet_v1.fbx",
+    "thumb": "thumbs/human-clothing-mining-helmet_v1.webp",
+    "dims": [
+     0.279,
+     0.3,
+     0.1188
+    ],
+    "tris": 442,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "261.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-flip-flop",
+  "name": "Flip Flop",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-flip-flop/human-clothing-flip-flop.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-flip-flop/human-clothing-flip-flop_v1.glb",
+    "fbx": "models/human/human-clothing-flip-flop/human-clothing-flip-flop_v1.fbx",
+    "thumb": "thumbs/human-clothing-flip-flop_v1.webp",
+    "dims": [
+     0.1162,
+     0.27,
+     0.05023
+    ],
+    "tris": 220,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "262.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-loafer",
+  "name": "Loafer",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-loafer/human-clothing-loafer.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-loafer/human-clothing-loafer_v1.glb",
+    "fbx": "models/human/human-clothing-loafer/human-clothing-loafer_v1.fbx",
+    "thumb": "thumbs/human-clothing-loafer_v1.webp",
+    "dims": [
+     0.1001,
+     0.28,
+     0.09551
+    ],
+    "tris": 264,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "263.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-high-heel",
+  "name": "High Heel",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-high-heel/human-clothing-high-heel.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-high-heel/human-clothing-high-heel_v1.glb",
+    "fbx": "models/human/human-clothing-high-heel/human-clothing-high-heel_v1.fbx",
+    "thumb": "thumbs/human-clothing-high-heel_v1.webp",
+    "dims": [
+     0.07588,
+     0.25,
+     0.1702
+    ],
+    "tris": 430,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "264.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-two-tone-shoe",
+  "name": "Two-Tone Shoe",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-two-tone-shoe/human-clothing-two-tone-shoe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-two-tone-shoe/human-clothing-two-tone-shoe_v1.glb",
+    "fbx": "models/human/human-clothing-two-tone-shoe/human-clothing-two-tone-shoe_v1.fbx",
+    "thumb": "thumbs/human-clothing-two-tone-shoe_v1.webp",
+    "dims": [
+     0.09235,
+     0.28,
+     0.107
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "265.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-dress-shoe",
+  "name": "Dress Shoe",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-dress-shoe/human-clothing-dress-shoe.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-dress-shoe/human-clothing-dress-shoe_v1.glb",
+    "fbx": "models/human/human-clothing-dress-shoe/human-clothing-dress-shoe_v1.fbx",
+    "thumb": "thumbs/human-clothing-dress-shoe_v1.webp",
+    "dims": [
+     0.103,
+     0.29,
+     0.1109
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-dress-shoe/human-clothing-dress-shoe_v2.glb",
+    "fbx": "models/human/human-clothing-dress-shoe/human-clothing-dress-shoe_v2.fbx",
+    "thumb": "thumbs/human-clothing-dress-shoe_v2.webp",
+    "dims": [
+     0.103,
+     0.29,
+     0.1109
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "266.glb",
+   "267.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-winter-boot",
+  "name": "Winter Boot",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-winter-boot/human-clothing-winter-boot.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-winter-boot/human-clothing-winter-boot_v1.glb",
+    "fbx": "models/human/human-clothing-winter-boot/human-clothing-winter-boot_v1.fbx",
+    "thumb": "thumbs/human-clothing-winter-boot_v1.webp",
+    "dims": [
+     0.1436,
+     0.3,
+     0.2625
+    ],
+    "tris": 368,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "268.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-knee-high-boot",
+  "name": "Knee-High Boot",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-knee-high-boot/human-clothing-knee-high-boot.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-knee-high-boot/human-clothing-knee-high-boot_v1.glb",
+    "fbx": "models/human/human-clothing-knee-high-boot/human-clothing-knee-high-boot_v1.fbx",
+    "thumb": "thumbs/human-clothing-knee-high-boot_v1.webp",
+    "dims": [
+     0.1252,
+     0.3162,
+     0.5
+    ],
+    "tris": 210,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "269.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-heeled-sandal",
+  "name": "Heeled Sandal",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-heeled-sandal/human-clothing-heeled-sandal.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-heeled-sandal/human-clothing-heeled-sandal_v1.glb",
+    "fbx": "models/human/human-clothing-heeled-sandal/human-clothing-heeled-sandal_v1.fbx",
+    "thumb": "thumbs/human-clothing-heeled-sandal_v1.webp",
+    "dims": [
+     0.1076,
+     0.25,
+     0.09149
+    ],
+    "tris": 152,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "270.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-ankle-boot",
+  "name": "Ankle Boot",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-ankle-boot/human-clothing-ankle-boot.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-ankle-boot/human-clothing-ankle-boot_v1.glb",
+    "fbx": "models/human/human-clothing-ankle-boot/human-clothing-ankle-boot_v1.fbx",
+    "thumb": "thumbs/human-clothing-ankle-boot_v1.webp",
+    "dims": [
+     0.1033,
+     0.25,
+     0.1949
+    ],
+    "tris": 362,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-ankle-boot/human-clothing-ankle-boot_v2.glb",
+    "fbx": "models/human/human-clothing-ankle-boot/human-clothing-ankle-boot_v2.fbx",
+    "thumb": "thumbs/human-clothing-ankle-boot_v2.webp",
+    "dims": [
+     0.1033,
+     0.25,
+     0.1949
+    ],
+    "tris": 362,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "271.glb",
+   "319.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-cowboy-boot",
+  "name": "Cowboy Boot",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-cowboy-boot/human-clothing-cowboy-boot.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-cowboy-boot/human-clothing-cowboy-boot_v1.glb",
+    "fbx": "models/human/human-clothing-cowboy-boot/human-clothing-cowboy-boot_v1.fbx",
+    "thumb": "thumbs/human-clothing-cowboy-boot_v1.webp",
+    "dims": [
+     0.1193,
+     0.3288,
+     0.4
+    ],
+    "tris": 382,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-cowboy-boot/human-clothing-cowboy-boot_v2.glb",
+    "fbx": "models/human/human-clothing-cowboy-boot/human-clothing-cowboy-boot_v2.fbx",
+    "thumb": "thumbs/human-clothing-cowboy-boot_v2.webp",
+    "dims": [
+     0.1193,
+     0.3288,
+     0.4
+    ],
+    "tris": 334,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "272.glb",
+   "273.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-pearl-earring",
+  "name": "Pearl Earring",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-pearl-earring/human-clothing-pearl-earring.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-pearl-earring/human-clothing-pearl-earring_v1.glb",
+    "fbx": "models/human/human-clothing-pearl-earring/human-clothing-pearl-earring_v1.fbx",
+    "thumb": "thumbs/human-clothing-pearl-earring_v1.webp",
+    "dims": [
+     0.009951,
+     0.03,
+     0.009951
+    ],
+    "tris": 316,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "274.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-ring",
+  "name": "Ring",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-ring/human-clothing-ring.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-ring/human-clothing-ring_v1.glb",
+    "fbx": "models/human/human-clothing-ring/human-clothing-ring_v1.fbx",
+    "thumb": "thumbs/human-clothing-ring_v1.webp",
+    "dims": [
+     0.02,
+     0.01547,
+     0.006711
+    ],
+    "tris": 254,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-ring/human-clothing-ring_v2.glb",
+    "fbx": "models/human/human-clothing-ring/human-clothing-ring_v2.fbx",
+    "thumb": "thumbs/human-clothing-ring_v2.webp",
+    "dims": [
+     0.02,
+     0.01816,
+     0.01015
+    ],
+    "tris": 216,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "275.glb",
+   "276.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-bracelet",
+  "name": "Bracelet",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-bracelet/human-clothing-bracelet.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-bracelet/human-clothing-bracelet_v1.glb",
+    "fbx": "models/human/human-clothing-bracelet/human-clothing-bracelet_v1.fbx",
+    "thumb": "thumbs/human-clothing-bracelet_v1.webp",
+    "dims": [
+     0.07,
+     0.06862,
+     0.02139
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-bracelet/human-clothing-bracelet_v2.glb",
+    "fbx": "models/human/human-clothing-bracelet/human-clothing-bracelet_v2.fbx",
+    "thumb": "thumbs/human-clothing-bracelet_v2.webp",
+    "dims": [
+     0.07,
+     0.06862,
+     0.02139
+    ],
+    "tris": 240,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-clothing-bracelet/human-clothing-bracelet_v3.glb",
+    "fbx": "models/human/human-clothing-bracelet/human-clothing-bracelet_v3.fbx",
+    "thumb": "thumbs/human-clothing-bracelet_v3.webp",
+    "dims": [
+     0.06922,
+     0.07,
+     0.01147
+    ],
+    "tris": 192,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "277.glb",
+   "278.glb",
+   "321.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-clutch-purse",
+  "name": "Clutch Purse",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-clutch-purse/human-clothing-clutch-purse.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-clutch-purse/human-clothing-clutch-purse_v1.glb",
+    "fbx": "models/human/human-clothing-clutch-purse/human-clothing-clutch-purse_v1.fbx",
+    "thumb": "thumbs/human-clothing-clutch-purse_v1.webp",
+    "dims": [
+     0.3,
+     0.04925,
+     0.1549
+    ],
+    "tris": 168,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "279.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-cardboard-box",
+  "name": "Cardboard Box",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-cardboard-box/human-containers-cardboard-box.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-cardboard-box/human-containers-cardboard-box_v1.glb",
+    "fbx": "models/human/human-containers-cardboard-box/human-containers-cardboard-box_v1.fbx",
+    "thumb": "thumbs/human-containers-cardboard-box_v1.webp",
+    "dims": [
+     0.5,
+     0.45,
+     0.459
+    ],
+    "tris": 258,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-cardboard-box/human-containers-cardboard-box_v2.glb",
+    "fbx": "models/human/human-containers-cardboard-box/human-containers-cardboard-box_v2.fbx",
+    "thumb": "thumbs/human-containers-cardboard-box_v2.webp",
+    "dims": [
+     0.3204,
+     0.5,
+     0.3303
+    ],
+    "tris": 152,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "280.glb",
+   "281.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-oil-drum",
+  "name": "Oil Drum",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-oil-drum/human-containers-oil-drum.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-oil-drum/human-containers-oil-drum_v1.glb",
+    "fbx": "models/human/human-containers-oil-drum/human-containers-oil-drum_v1.fbx",
+    "thumb": "thumbs/human-containers-oil-drum_v1.webp",
+    "dims": [
+     0.5657,
+     0.5657,
+     0.9
+    ],
+    "tris": 360,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "282.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-plastic-barrel",
+  "name": "Plastic Barrel",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-plastic-barrel/human-containers-plastic-barrel.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-plastic-barrel/human-containers-plastic-barrel_v1.glb",
+    "fbx": "models/human/human-containers-plastic-barrel/human-containers-plastic-barrel_v1.fbx",
+    "thumb": "thumbs/human-containers-plastic-barrel_v1.webp",
+    "dims": [
+     0.6564,
+     0.6888,
+     0.9
+    ],
+    "tris": 260,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "283.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-storage-box",
+  "name": "Storage Box",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-storage-box/human-containers-storage-box.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-storage-box/human-containers-storage-box_v1.glb",
+    "fbx": "models/human/human-containers-storage-box/human-containers-storage-box_v1.fbx",
+    "thumb": "thumbs/human-containers-storage-box_v1.webp",
+    "dims": [
+     0.5,
+     0.3336,
+     0.2867
+    ],
+    "tris": 456,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-storage-box/human-containers-storage-box_v2.glb",
+    "fbx": "models/human/human-containers-storage-box/human-containers-storage-box_v2.fbx",
+    "thumb": "thumbs/human-containers-storage-box_v2.webp",
+    "dims": [
+     0.5,
+     0.3012,
+     0.2743
+    ],
+    "tris": 518,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "284.glb",
+   "285.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-shoe-box",
+  "name": "Shoe Box",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-shoe-box/human-containers-shoe-box.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-shoe-box/human-containers-shoe-box_v1.glb",
+    "fbx": "models/human/human-containers-shoe-box/human-containers-shoe-box_v1.fbx",
+    "thumb": "thumbs/human-containers-shoe-box_v1.webp",
+    "dims": [
+     0.2055,
+     0.35,
+     0.1179
+    ],
+    "tris": 20,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "286.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-household-items-binder",
+  "name": "Binder",
+  "category": "Human",
+  "subcategory": "Household Items",
+  "tags": [],
+  "blend": "models/human/human-household-items-binder/human-household-items-binder.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-household-items-binder/human-household-items-binder_v1.glb",
+    "fbx": "models/human/human-household-items-binder/human-household-items-binder_v1.fbx",
+    "thumb": "thumbs/human-household-items-binder_v1.webp",
+    "dims": [
+     0.2263,
+     0.07936,
+     0.3
+    ],
+    "tris": 278,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "287.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-treasure-chest",
+  "name": "Treasure Chest",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-treasure-chest/human-containers-treasure-chest.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-treasure-chest/human-containers-treasure-chest_v1.glb",
+    "fbx": "models/human/human-containers-treasure-chest/human-containers-treasure-chest_v1.fbx",
+    "thumb": "thumbs/human-containers-treasure-chest_v1.webp",
+    "dims": [
+     0.6,
+     0.4291,
+     0.5868
+    ],
+    "tris": 892,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "288.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-wooden-crate",
+  "name": "Wooden Crate",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-wooden-crate/human-containers-wooden-crate.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-wooden-crate/human-containers-wooden-crate_v1.glb",
+    "fbx": "models/human/human-containers-wooden-crate/human-containers-wooden-crate_v1.fbx",
+    "thumb": "thumbs/human-containers-wooden-crate_v1.webp",
+    "dims": [
+     0.5998,
+     0.6,
+     0.5828
+    ],
+    "tris": 840,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-wooden-crate/human-containers-wooden-crate_v2.glb",
+    "fbx": "models/human/human-containers-wooden-crate/human-containers-wooden-crate_v2.fbx",
+    "thumb": "thumbs/human-containers-wooden-crate_v2.webp",
+    "dims": [
+     0.58,
+     0.5802,
+     0.6
+    ],
+    "tris": 828,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-wooden-crate/human-containers-wooden-crate_v3.glb",
+    "fbx": "models/human/human-containers-wooden-crate/human-containers-wooden-crate_v3.fbx",
+    "thumb": "thumbs/human-containers-wooden-crate_v3.webp",
+    "dims": [
+     0.6,
+     0.4363,
+     0.3013
+    ],
+    "tris": 348,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "289.glb",
+   "290.glb",
+   "291.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-wooden-barrel",
+  "name": "Wooden Barrel",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-wooden-barrel/human-containers-wooden-barrel.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-wooden-barrel/human-containers-wooden-barrel_v1.glb",
+    "fbx": "models/human/human-containers-wooden-barrel/human-containers-wooden-barrel_v1.fbx",
+    "thumb": "thumbs/human-containers-wooden-barrel_v1.webp",
+    "dims": [
+     0.6941,
+     0.6941,
+     0.9
+    ],
+    "tris": 524,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "292.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-sack",
+  "name": "Sack",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-sack/human-containers-sack.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-sack/human-containers-sack_v1.glb",
+    "fbx": "models/human/human-containers-sack/human-containers-sack_v1.fbx",
+    "thumb": "thumbs/human-containers-sack_v1.webp",
+    "dims": [
+     0.6,
+     0.3525,
+     0.1346
+    ],
+    "tris": 336,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "293.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-cooler",
+  "name": "Cooler",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-cooler/human-containers-cooler.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-cooler/human-containers-cooler_v1.glb",
+    "fbx": "models/human/human-containers-cooler/human-containers-cooler_v1.fbx",
+    "thumb": "thumbs/human-containers-cooler_v1.webp",
+    "dims": [
+     0.3809,
+     0.5,
+     0.4272
+    ],
+    "tris": 312,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "294.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-message-bottle",
+  "name": "Message Bottle",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-message-bottle/human-containers-message-bottle.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-message-bottle/human-containers-message-bottle_v1.glb",
+    "fbx": "models/human/human-containers-message-bottle/human-containers-message-bottle_v1.fbx",
+    "thumb": "thumbs/human-containers-message-bottle_v1.webp",
+    "dims": [
+     0.1149,
+     0.1149,
+     0.3
+    ],
+    "tris": 532,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "295.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-glass-bottle",
+  "name": "Glass Bottle",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-glass-bottle/human-containers-glass-bottle.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v1.glb",
+    "fbx": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v1.fbx",
+    "thumb": "thumbs/human-containers-glass-bottle_v1.webp",
+    "dims": [
+     0.07191,
+     0.07191,
+     0.15
+    ],
+    "tris": 312,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v2.glb",
+    "fbx": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v2.fbx",
+    "thumb": "thumbs/human-containers-glass-bottle_v2.webp",
+    "dims": [
+     0.09776,
+     0.15,
+     0.06592
+    ],
+    "tris": 272,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v3.glb",
+    "fbx": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v3.fbx",
+    "thumb": "thumbs/human-containers-glass-bottle_v3.webp",
+    "dims": [
+     0.05515,
+     0.15,
+     0.05515
+    ],
+    "tris": 360,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v4.glb",
+    "fbx": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v4.fbx",
+    "thumb": "thumbs/human-containers-glass-bottle_v4.webp",
+    "dims": [
+     0.1243,
+     0.1243,
+     0.15
+    ],
+    "tris": 312,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v5.glb",
+    "fbx": "models/human/human-containers-glass-bottle/human-containers-glass-bottle_v5.fbx",
+    "thumb": "thumbs/human-containers-glass-bottle_v5.webp",
+    "dims": [
+     0.1044,
+     0.1038,
+     0.2
+    ],
+    "tris": 274,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "296.glb",
+   "297.glb",
+   "298.glb",
+   "299.glb",
+   "328.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-shopping-basket",
+  "name": "Shopping Basket",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-shopping-basket/human-containers-shopping-basket.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-shopping-basket/human-containers-shopping-basket_v1.glb",
+    "fbx": "models/human/human-containers-shopping-basket/human-containers-shopping-basket_v1.fbx",
+    "thumb": "thumbs/human-containers-shopping-basket_v1.webp",
+    "dims": [
+     0.2988,
+     0.45,
+     0.3706
+    ],
+    "tris": 1868,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-shopping-basket/human-containers-shopping-basket_v2.glb",
+    "fbx": "models/human/human-containers-shopping-basket/human-containers-shopping-basket_v2.fbx",
+    "thumb": "thumbs/human-containers-shopping-basket_v2.webp",
+    "dims": [
+     0.2993,
+     0.45,
+     0.4007
+    ],
+    "tris": 1868,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-containers-shopping-basket/human-containers-shopping-basket_v3.glb",
+    "fbx": "models/human/human-containers-shopping-basket/human-containers-shopping-basket_v3.fbx",
+    "thumb": "thumbs/human-containers-shopping-basket_v3.webp",
+    "dims": [
+     0.2993,
+     0.45,
+     0.3867
+    ],
+    "tris": 1868,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "300.glb",
+   "301.glb",
+   "302.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-cell-antenna",
+  "name": "Cell Antenna",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-cell-antenna/human-electronics-cell-antenna.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-cell-antenna/human-electronics-cell-antenna_v1.glb",
+    "fbx": "models/human/human-electronics-cell-antenna/human-electronics-cell-antenna_v1.fbx",
+    "thumb": "thumbs/human-electronics-cell-antenna_v1.webp",
+    "dims": [
+     0.457,
+     0.457,
+     3.0
+    ],
+    "tris": 2980,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-cell-antenna/human-electronics-cell-antenna_v2.glb",
+    "fbx": "models/human/human-electronics-cell-antenna/human-electronics-cell-antenna_v2.fbx",
+    "thumb": "thumbs/human-electronics-cell-antenna_v2.webp",
+    "dims": [
+     1.099,
+     0.9642,
+     3.0
+    ],
+    "tris": 628,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "307.glb",
+   "316.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-tv-antenna",
+  "name": "TV Antenna",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-tv-antenna/human-electronics-tv-antenna.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-tv-antenna/human-electronics-tv-antenna_v1.glb",
+    "fbx": "models/human/human-electronics-tv-antenna/human-electronics-tv-antenna_v1.fbx",
+    "thumb": "thumbs/human-electronics-tv-antenna_v1.webp",
+    "dims": [
+     0.5959,
+     0.7259,
+     2.0
+    ],
+    "tris": 732,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-tv-antenna/human-electronics-tv-antenna_v2.glb",
+    "fbx": "models/human/human-electronics-tv-antenna/human-electronics-tv-antenna_v2.fbx",
+    "thumb": "thumbs/human-electronics-tv-antenna_v2.webp",
+    "dims": [
+     0.5991,
+     0.6076,
+     2.0
+    ],
+    "tris": 778,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "308.glb",
+   "309.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-cell-tower",
+  "name": "Cell Tower",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-cell-tower/human-electronics-cell-tower.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-cell-tower/human-electronics-cell-tower_v1.glb",
+    "fbx": "models/human/human-electronics-cell-tower/human-electronics-cell-tower_v1.fbx",
+    "thumb": "thumbs/human-electronics-cell-tower_v1.webp",
+    "dims": [
+     17.43,
+     11.65,
+     30.0
+    ],
+    "tris": 866,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-cell-tower/human-electronics-cell-tower_v2.glb",
+    "fbx": "models/human/human-electronics-cell-tower/human-electronics-cell-tower_v2.fbx",
+    "thumb": "thumbs/human-electronics-cell-tower_v2.webp",
+    "dims": [
+     9.468,
+     8.775,
+     30.0
+    ],
+    "tris": 978,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "310.glb",
+   "311.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-antenna-mast",
+  "name": "Antenna Mast",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast_v1.glb",
+    "fbx": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast_v1.fbx",
+    "thumb": "thumbs/human-electronics-antenna-mast_v1.webp",
+    "dims": [
+     0.8854,
+     1.043,
+     10.0
+    ],
+    "tris": 2766,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast_v2.glb",
+    "fbx": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast_v2.fbx",
+    "thumb": "thumbs/human-electronics-antenna-mast_v2.webp",
+    "dims": [
+     0.8933,
+     0.949,
+     10.0
+    ],
+    "tris": 2978,
+    "parts": 1,
+    "size": "estimated"
+   },
+   {
+    "glb": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast_v3.glb",
+    "fbx": "models/human/human-electronics-antenna-mast/human-electronics-antenna-mast_v3.fbx",
+    "thumb": "thumbs/human-electronics-antenna-mast_v3.webp",
+    "dims": [
+     0.6321,
+     0.5037,
+     10.0
+    ],
+    "tris": 760,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "312.glb",
+   "313.glb",
+   "314.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-satellite-dish",
+  "name": "Satellite Dish",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-satellite-dish/human-electronics-satellite-dish.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-satellite-dish/human-electronics-satellite-dish_v1.glb",
+    "fbx": "models/human/human-electronics-satellite-dish/human-electronics-satellite-dish_v1.fbx",
+    "thumb": "thumbs/human-electronics-satellite-dish_v1.webp",
+    "dims": [
+     0.6872,
+     0.8,
+     0.772
+    ],
+    "tris": 1242,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "315.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-toys-tricycle",
+  "name": "Tricycle",
+  "category": "Human",
+  "subcategory": "Toys",
+  "tags": [],
+  "blend": "models/human/human-toys-tricycle/human-toys-tricycle.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-toys-tricycle/human-toys-tricycle_v1.glb",
+    "fbx": "models/human/human-toys-tricycle/human-toys-tricycle_v1.fbx",
+    "thumb": "thumbs/human-toys-tricycle_v1.webp",
+    "dims": [
+     0.4621,
+     0.7,
+     0.5747
+    ],
+    "tris": 984,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "317.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-containers-gift-box",
+  "name": "Gift Box",
+  "category": "Human",
+  "subcategory": "Containers",
+  "tags": [],
+  "blend": "models/human/human-containers-gift-box/human-containers-gift-box.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-containers-gift-box/human-containers-gift-box_v1.glb",
+    "fbx": "models/human/human-containers-gift-box/human-containers-gift-box_v1.fbx",
+    "thumb": "thumbs/human-containers-gift-box_v1.webp",
+    "dims": [
+     0.2547,
+     0.2547,
+     0.3
+    ],
+    "tris": 422,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "318.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-glasses",
+  "name": "Glasses",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-glasses/human-clothing-glasses.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-glasses/human-clothing-glasses_v1.glb",
+    "fbx": "models/human/human-clothing-glasses/human-clothing-glasses_v1.fbx",
+    "thumb": "thumbs/human-clothing-glasses_v1.webp",
+    "dims": [
+     0.1139,
+     0.14,
+     0.03866
+    ],
+    "tris": 480,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "320.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-baseball-cap",
+  "name": "Baseball Cap",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-baseball-cap/human-clothing-baseball-cap.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-baseball-cap/human-clothing-baseball-cap_v1.glb",
+    "fbx": "models/human/human-clothing-baseball-cap/human-clothing-baseball-cap_v1.fbx",
+    "thumb": "thumbs/human-clothing-baseball-cap_v1.webp",
+    "dims": [
+     0.1423,
+     0.25,
+     0.1209
+    ],
+    "tris": 620,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "322.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-coin-purse",
+  "name": "Coin Purse",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-coin-purse/human-clothing-coin-purse.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-coin-purse/human-clothing-coin-purse_v1.glb",
+    "fbx": "models/human/human-clothing-coin-purse/human-clothing-coin-purse_v1.fbx",
+    "thumb": "thumbs/human-clothing-coin-purse_v1.webp",
+    "dims": [
+     0.15,
+     0.1013,
+     0.1101
+    ],
+    "tris": 560,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "323.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-briefcase",
+  "name": "Briefcase",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-briefcase/human-clothing-briefcase.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-briefcase/human-clothing-briefcase_v1.glb",
+    "fbx": "models/human/human-clothing-briefcase/human-clothing-briefcase_v1.fbx",
+    "thumb": "thumbs/human-clothing-briefcase_v1.webp",
+    "dims": [
+     0.45,
+     0.1508,
+     0.4017
+    ],
+    "tris": 282,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "324.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-backpack",
+  "name": "Backpack",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-backpack/human-clothing-backpack.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-backpack/human-clothing-backpack_v1.glb",
+    "fbx": "models/human/human-clothing-backpack/human-clothing-backpack_v1.fbx",
+    "thumb": "thumbs/human-clothing-backpack_v1.webp",
+    "dims": [
+     0.3843,
+     0.3375,
+     0.45
+    ],
+    "tris": 692,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "325.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-clothing-handbag",
+  "name": "Handbag",
+  "category": "Human",
+  "subcategory": "Clothing",
+  "tags": [],
+  "blend": "models/human/human-clothing-handbag/human-clothing-handbag.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-clothing-handbag/human-clothing-handbag_v1.glb",
+    "fbx": "models/human/human-clothing-handbag/human-clothing-handbag_v1.fbx",
+    "thumb": "thumbs/human-clothing-handbag_v1.webp",
+    "dims": [
+     0.35,
+     0.1976,
+     0.3458
+    ],
+    "tris": 498,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "326.glb"
+  ],
+  "source": "Everything Canvas"
+ },
+ {
+  "id": "human-electronics-transmission-tower",
+  "name": "Transmission Tower",
+  "category": "Human",
+  "subcategory": "Electronics",
+  "tags": [],
+  "blend": "models/human/human-electronics-transmission-tower/human-electronics-transmission-tower.blend",
+  "variants": [
+   {
+    "glb": "models/human/human-electronics-transmission-tower/human-electronics-transmission-tower_v1.glb",
+    "fbx": "models/human/human-electronics-transmission-tower/human-electronics-transmission-tower_v1.fbx",
+    "thumb": "thumbs/human-electronics-transmission-tower_v1.webp",
+    "dims": [
+     32.02,
+     32.02,
+     100.0
+    ],
+    "tris": 1328,
+    "parts": 1,
+    "size": "estimated"
+   }
+  ],
+  "sourceFiles": [
+   "329.glb"
+  ],
+  "source": "Everything Canvas"
+ }
+]
