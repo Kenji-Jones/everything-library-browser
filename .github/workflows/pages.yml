@@ -1,0 +1,38 @@
+# Publishes the Everything Library browser to GitHub Pages.
+#
+# Pages' "deploy from a branch" option can only serve the repository root or
+# /docs, and the site lives in EverythingLibraryBrowser/. Deploying through
+# Actions lets us publish that folder as-is, without restructuring the repo.
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish rather than cancelling it: the artifact is
+# ~500 MB, so a half-finished upload wastes several minutes.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: EverythingLibraryBrowser
+      - id: deployment
+        uses: actions/deploy-pages@v4
