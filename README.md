@@ -35,6 +35,10 @@ Netlify fallback.
   `LICENSE.txt` and `CREDITS.txt`.
 - **Large selections:** in Chrome and Edge, selections over 150 MB stream straight to a file you choose, so
   even the whole library works. Other browsers build the zip in memory.
+- **The whole library:** selecting everything hands over a prebuilt zip from the
+  [latest release](https://github.com/Kenji-Jones/everything-library-browser/releases/latest) rather than
+  rebuilding it in the browser — one fast download, and it costs the site no bandwidth. Same contents and
+  layout as a select-all zip: 60 MB of GLB, 109 MB of FBX or 194 MB of .blend.
 
 ## What's in it
 
@@ -90,6 +94,8 @@ This takes about 3.5 minutes and needs Blender at `/Applications/Blender.app`, o
 - `tools/build_catalog.py` builds the readable names, search keywords and the catalog.
 - `tools/download_canvas.py` re-downloads the canvas categories. It's resumable and skips existing files.
 - `tools/naming_sheets.py` makes numbered contact sheets for naming canvas models.
+- `tools/build_release_zips.py` builds the per-format library zips published as release assets. Upload them
+  with `gh release upload`, and update `RELEASE_ZIP` in `assets/app.js` if the sizes change.
 
 ## Known source quirks
 

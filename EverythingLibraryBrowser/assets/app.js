@@ -259,10 +259,18 @@
   // collect models across several searches, then download them as one zip built in the browser.
   const SEL_KEY = "everything-library-selection";
   const FFLATE = "https://cdn.jsdelivr.net/npm/fflate@0.8.2/esm/browser.js";
+  // Selecting everything hands over a prebuilt zip from the GitHub release instead of pulling
+  // all ~500 MB back through the host to rezip it here. Same contents and folder layout;
+  // tools/build_release_zips.py builds them, and these are the release assets' own sizes.
+  const RELEASE = "https://github.com/Kenji-Jones/everything-library-browser/releases/latest/download";
+  const RELEASE_ZIP = { glb: 62561461, fbx: 114402478, blend: 203530015 };
   const keyOf = (id, vi) => `${id}#${vi}`;
   const itemKeys = (it) => it.variants.map((_, i) => keyOf(it.id, i + 1));
   const tileKeys = (it, vi) => (state.variants ? [keyOf(it.id, vi)] : itemKeys(it)); // a tile is one variant or a whole object
   const selection = new Set(loadSelection());
+  const variantCount = CAT.items.reduce((n, it) => n + it.variants.length, 0);
+  const wholeLibrary = () => selection.size === variantCount;
+  const downloadLabel = () => (wholeLibrary() ? "Download whole library" : "Download zip");
   let zipping = null;
   let lastChecked = -1;
 
@@ -321,7 +329,9 @@
     const files = selectedFiles(format());
     const objects = new Set([...selection].map((k) => k.split("#")[0])).size;
     $("selCount").textContent = `${fmtInt(objects)} object${objects === 1 ? "" : "s"} selected`;
-    $("selSize").textContent = `${fmtInt(files.length)} file${files.length === 1 ? "" : "s"} · about ${fmtBytes(files.reduce((a, f) => a + f.bytes, 0))}`;
+    const bytes = wholeLibrary() ? RELEASE_ZIP[format()] : files.reduce((a, f) => a + f.bytes, 0);
+    $("selSize").textContent = `${fmtInt(files.length)} file${files.length === 1 ? "" : "s"} · about ${fmtBytes(bytes)}`;
+    if (!zipping) $("selDownload").textContent = downloadLabel();
     paintDetailSelect();
   }
 
@@ -357,7 +367,7 @@
 
   function setBusy(on) {
     $("selDownload").disabled = on;
-    $("selDownload").textContent = on ? "Zipping…" : "Download zip";
+    $("selDownload").textContent = on ? "Zipping…" : downloadLabel();
     $("selProgress").hidden = !on;
     $("selClear").hidden = on;
     if (!on) paintSelection();
@@ -371,6 +381,17 @@
     const fmt = format();
     const files = selectedFiles(fmt);
     if (!files.length || zipping) return;
+    // Everything selected: hand over the prebuilt zip. Works from file:// too, since it's
+    // an ordinary link rather than something we have to fetch and rebuild.
+    if (wholeLibrary()) {
+      const a = document.createElement("a");
+      a.href = `${RELEASE}/EverythingLibrary-${fmt}.zip`;
+      a.rel = "noopener";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      return;
+    }
     if (location.protocol === "file:") {
       alert("Zip downloads need the local server. Double-click “Open Library.command” in the library folder.");
       return;
