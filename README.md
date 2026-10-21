@@ -15,6 +15,9 @@ jsDelivr, so it needs an internet connection.
 To host it, publish the `EverythingLibraryBrowser` folder on any static host (GitHub Pages, Netlify,
 Cloudflare Pages). It's about 525 MB.
 
+`netlify.toml` already sets this up for Netlify: connect the repository and deploy, with no build
+command. Only the publish directory is deployed, so the source packs and `tools/` are never served.
+
 ## Downloading models
 
 - **One file:** open any object to download it as GLB, FBX or .blend.

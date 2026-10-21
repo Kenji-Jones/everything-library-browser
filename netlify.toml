@@ -1,0 +1,36 @@
+# Netlify configuration for the Everything Library browser.
+#
+# The site is static, so there is no build step: Netlify just publishes the
+# browser folder. Only files in the publish directory are deployed, so the
+# source packs and tools/ at the repo root are never served.
+
+[build]
+  publish = "EverythingLibraryBrowser"
+
+# Correct types for the model formats. The three.js viewer parses an
+# ArrayBuffer and doesn't depend on these, but they make direct links and
+# downloads behave properly.
+[[headers]]
+  for = "/models/*.glb"
+  [headers.values]
+    Content-Type = "model/gltf-binary"
+
+[[headers]]
+  for = "/models/*.blend"
+  [headers.values]
+    Content-Type = "application/x-blender"
+
+# Let browsers keep models and thumbnails for a week. The thumbnail grid
+# alone is 3,344 files, so this cuts a lot of repeat traffic on a 525 MB
+# site. These filenames are NOT content-hashed: a rebuild reuses them, so
+# a cached file can be up to a week stale. Lower this if you rebuild often;
+# don't add `immutable`, which would pin stale models for the full year.
+[[headers]]
+  for = "/models/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/thumbs/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
