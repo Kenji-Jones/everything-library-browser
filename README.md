@@ -12,11 +12,18 @@ Opening `index.html` directly also works for browsing, searching and downloading
 local server, because browsers block loading model files from `file://`. The viewer loads three.js from
 jsDelivr, so it needs an internet connection.
 
-To host it, publish the `EverythingLibraryBrowser` folder on any static host (GitHub Pages, Netlify,
-Cloudflare Pages). It's about 525 MB.
+## Hosting
 
-`netlify.toml` already sets this up for Netlify: connect the repository and deploy, with no build
-command. Only the publish directory is deployed, so the source packs and `tools/` are never served.
+The site is live at <https://kenji-jones.github.io/everything-library-browser/>.
+
+`.github/workflows/pages.yml` redeploys it on every push to `main`. Pages' branch deploy can only
+serve the repository root or `/docs`, so the workflow publishes the `EverythingLibraryBrowser`
+folder as the Pages artifact instead. Only that folder is served: `tools/` and the source packs
+aren't reachable from the site.
+
+It's about 525 MB, against GitHub Pages' 1 GB site limit and 100 GB/month soft bandwidth limit.
+To host it elsewhere, publish the same folder on any static host; `netlify.toml` is kept as a
+Netlify fallback.
 
 ## Downloading models
 
