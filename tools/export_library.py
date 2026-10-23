@@ -270,6 +270,31 @@ for mat in bpy.data.materials:
 MIN_GLASS_ALPHA = 0.3  # some glass is authored nearly invisible (alpha ~0.05); keep it readable
 
 
+def clean_color_attributes(mesh):
+    """Keep only the colour layer that was actually painted.
+
+    A few source meshes carry a half-filled duplicate layer: wherever nobody painted
+    it, it stays pure white with alpha 1. Blender renders the active one, but glTF
+    writes every layer in order, so the blank one can land in COLOR_0 — the only slot
+    most viewers read — and the model arrives white. Score by how little pure white a
+    layer holds, then by whether it carries real alpha.
+    """
+    if len(mesh.color_attributes) < 2:
+        return
+    best, best_score = None, None
+    for a in mesh.color_attributes:
+        white = sum(1 for d in a.data if min(d.color[:3]) > 0.97)
+        has_alpha = 1 if any(d.color[3] < 0.999 for d in a.data) else 0
+        score = (-white / max(len(a.data), 1), has_alpha)
+        if best_score is None or score > best_score:
+            best, best_score = a.name, score
+    for a in list(mesh.color_attributes):
+        if a.name != best:
+            mesh.color_attributes.remove(a)
+    mesh.color_attributes.active_color_name = best
+    mesh.color_attributes.default_color_name = best
+
+
 def floor_glass_alpha(mesh):
     attr = mesh.color_attributes.active_color
     if not attr or not TRANSP_MATS:
@@ -330,6 +355,7 @@ def make_copies(meshes, label, scale):
         mat = fix @ o.matrix_world
         c.data = o.data.copy()
         c.data.transform(mat)
+        clean_color_attributes(c.data)
         floor_glass_alpha(c.data)
         if mat.determinant() < 0:
             c.data.flip_normals()
@@ -362,6 +388,33 @@ def export_gltf(path):
         bpy.ops.export_scene.gltf(export_vertex_color="ACTIVE", **kw)
     except TypeError:
         bpy.ops.export_scene.gltf(**kw)
+
+
+def export_gltf_split(path, copies):
+    """Export glTF from per-material duplicates.
+
+    The exporter cannot hold per-material vertex colours on one mesh — it warns
+    "glTF specification does not allow this case" and silently writes white — so give
+    it one material per mesh. The duplicates are thrown away afterwards, leaving the
+    originals intact for the FBX export and the thumbnail render.
+    """
+    select_only(copies)
+    bpy.ops.object.duplicate()
+    parts = []
+    for d in list(bpy.context.selected_objects):
+        select_only([d])
+        if len(d.data.materials) > 1:
+            bpy.ops.object.mode_set(mode="EDIT")
+            bpy.ops.mesh.select_all(action="SELECT")
+            bpy.ops.mesh.separate(type="MATERIAL")
+            bpy.ops.object.mode_set(mode="OBJECT")
+            parts.extend(bpy.context.selected_objects)
+        else:
+            parts.append(d)
+    select_only(parts)
+    export_gltf(path)
+    select_only(parts)
+    bpy.ops.object.delete()
 
 
 def export_fbx(path):
@@ -404,8 +457,8 @@ for n, item in enumerate(items, 1):
 
         select_only(copies)
         set_light_emission(False)
-        export_gltf(os.path.join(OUT, rel_dir, base + ".glb"))
         export_fbx(os.path.join(OUT, rel_dir, base + ".fbx"))
+        export_gltf_split(os.path.join(OUT, rel_dir, base + ".glb"), copies)
 
         set_light_emission(True)
         # Render at a ~1 m working scale so microscopic or huge models frame and light like everything else.
