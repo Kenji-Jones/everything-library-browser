@@ -188,6 +188,34 @@ work.objects.link(sun)
 FADE_RE = re.compile(r"Light|Transp|WaterFountain", re.I)
 
 
+def fading_material_names():
+    """Material names where a mesh actually varies vertex-colour alpha.
+
+    Names promise transparency far more often than meshes use it: every Canvas model is
+    Mat_ParticleTransp while being fully opaque. Marking those BLENDED exports them as
+    glTF alphaMode BLEND, and viewers then draw their double-sided triangles unsorted,
+    which reads as inverted normals. This is the same trap the opaque branch below warns
+    about, so decide from the alpha actually stored, not from the name.
+    """
+    names = set()
+    for mesh in bpy.data.meshes:
+        attr = mesh.color_attributes.active_color
+        if not attr or not mesh.materials:
+            continue
+        for poly in mesh.polygons:
+            if poly.material_index >= len(mesh.materials):
+                continue
+            mat = mesh.materials[poly.material_index]
+            if not mat or mat.name in names:
+                continue
+            for li in poly.loop_indices:
+                idx = li if attr.domain == "CORNER" else mesh.loops[li].vertex_index
+                if attr.data[idx].color[3] < 0.999:
+                    names.add(mat.name)
+                    break
+    return names
+
+
 def fix_material(mat):
     if not mat.use_nodes or not mat.node_tree:
         return
@@ -201,7 +229,7 @@ def fix_material(mat):
         vc.location = (bsdf.location.x - 300, bsdf.location.y)
     if not bsdf.inputs["Base Color"].is_linked:
         nt.links.new(vc.outputs["Color"], bsdf.inputs["Base Color"])
-    if FADE_RE.search(mat.name):
+    if FADE_RE.search(mat.name) and ("light" in mat.name.lower() or mat.name in FADES):
         if not bsdf.inputs["Alpha"].is_linked:
             nt.links.new(vc.outputs["Alpha"], bsdf.inputs["Alpha"])
         mat.surface_render_method = "BLENDED"
@@ -233,6 +261,7 @@ def set_light_emission(on):
 
 LIGHT_SOCKETS = []
 TRANSP_MATS = set()
+FADES = fading_material_names()
 for mat in bpy.data.materials:
     fix_material(mat)
     if FADE_RE.search(mat.name) and "light" not in mat.name.lower():

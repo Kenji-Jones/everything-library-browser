@@ -263,7 +263,7 @@
   // all ~500 MB back through the host to rezip it here. Same contents and folder layout;
   // tools/build_release_zips.py builds them, and these are the release assets' own sizes.
   const RELEASE = "https://github.com/Kenji-Jones/everything-library-browser/releases/latest/download";
-  const RELEASE_ZIP = { glb: 62561461, fbx: 114402478, blend: 203530015 };
+  const RELEASE_ZIP = { glb: 62558294, fbx: 114402478, blend: 203530015 };
   const keyOf = (id, vi) => `${id}#${vi}`;
   const itemKeys = (it) => it.variants.map((_, i) => keyOf(it.id, i + 1));
   const tileKeys = (it, vi) => (state.variants ? [keyOf(it.id, vi)] : itemKeys(it)); // a tile is one variant or a whole object
