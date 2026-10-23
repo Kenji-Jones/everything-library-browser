@@ -674,14 +674,16 @@
           });
           o.castShadow = false;
           o.renderOrder = 2;
-        } else if (/transp|fountain/i.test(name)) {
-          o.material.transparent = true;
+        } else if (o.material.transparent) {
+          // Genuinely transparent, i.e. the glTF says alphaMode BLEND. Matching on the
+          // material NAME instead caught every Mat_ParticleTransp model — nearly all of
+          // them opaque — and switching off depthWrite stopped a model occluding itself,
+          // so legs drew over bodies and bodies over legs depending on draw order.
           o.material.depthWrite = false;
           o.material.side = THREE.DoubleSide;
           o.castShadow = false;
           o.renderOrder = 1;
         } else {
-          o.material.transparent = false;
           o.material.depthWrite = true;
           o.material.alphaTest = 0;
         }
